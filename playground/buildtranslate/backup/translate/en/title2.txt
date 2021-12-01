@@ -1,0 +1,327 @@
+Attribute Skills
+Moral Ethic
+Honesty
+Patience
+Gratitude
+Kindness
+Courage
+Temperance
+Humility
+Serenity
+Work Ethic
+Integrity
+Respect
+Co-operation
+Consistency
+Positivity
+Accountability
+Fairness
+Productivity
+Openness
+Self Management
+Self Esteem
+Self Confidence
+Self Efficacy
+Self Determination
+Self Discipline
+Self Motivation
+Self Control
+Resilence
+Time Management
+Stress Management
+Personal Change Management
+Cognition
+Attention
+Perception
+Memory
+Executive Functions
+Processing Speed
+Motor Skills
+Language Skills
+Metacognition
+Cognitive Aptitude
+Ability to Learn
+Ability to Organize
+Ability to Plan
+Problem Solving
+Decision Making
+Critical Thinking
+Strategic Thinking
+Intuition
+Creativity
+Emotion Management
+Anger Management
+Anxiety Management
+Fear Management
+Happiness Management
+Sadness Management
+Hatred Management
+Love Management
+Shame Management
+Regret Management
+Hope Management
+Guilt Management
+Despair Management
+Loneliness Management
+Envy Management
+Pride Management
+Social Interrelation
+Verbal Communication
+Non-Verbal Communication
+Written Communication
+Active Listening
+Visual Communication
+Teamwork
+Negotiation
+Social Awareness
+Conflict Management
+Administration
+Management
+Organization
+Leadership
+People Management
+Delegation
+Motivating
+Mentoring
+Monitoring
+Vocational Skills
+Farming
+Livestock Farming
+Alpaca Farming
+Buffalo Farming
+Camel Farming
+Cattle Farming
+Donkey Farming
+Goat Farming
+Horse Farming
+Llama Farming
+Ox Farming
+Pig Farming
+Rabbit Farming
+Reindeer Farming
+Sheep Farming
+Water Buffalo Farming
+Yak Farming
+Poultry Farming
+Chicken Farming
+Duck Farming
+Emu Farming
+Francolin Farming
+Goose Farming
+Guinea Fowl Farming
+Ostrich Farming
+Partridge Farming
+Peafowl Farming
+Pheasant Farming
+Pigeon Farming
+Quail Farming
+Swan Farming
+Swiftlet Farming
+Tinamou Farming
+Turkey Farming
+Fish Farming
+Carp Farming
+Catfish Farming
+Eel Farming
+Mullet Farming
+Perch Farming
+Salmon Farming
+Seabream Farming
+Sturgeon Farming
+Tilapia Farming
+Trout Farming
+Crustacean Farming
+Crab Farming
+Crayfish Farming
+Lobster Farming
+Prawn Farming
+Shrimp Farming
+Molluscs Farming
+Abalone Farming
+Ark Farming
+Clam Farming
+Mussel Farming
+Oyster Farming
+Scallop Farming
+Shell Farming
+Cereal Crop Farming
+Barley Farming
+Buckwheat Farming
+Canary Seed Farming
+Fonio Farming
+Maize Farming
+Millet Farming
+Oat Farming
+Quinoa Farming
+Rice Farming
+Rye Farming
+Sorghum Farming
+Triticale Farming
+Wheat Farming
+Citrus Fruit Farming
+Clementine Farming
+Grapefruit Farming
+Lemon Farming
+Lime Farming
+Mandarin Farming
+Orange Farming
+Satsumas Farming
+Tangerine Farming
+Fibre Crop Farming
+Agave Farming
+Bast Farming
+Flax Farming
+Hemp Farming
+Jute Farming
+Kapok Farming
+Manila Farming
+Ramie Farming
+Seed Cotton Farming
+Sisal Farming
+Fruit Crop Farming
+Apple Farming
+Apricot Farming
+Avocado Farming
+Banana Farming
+Blueberry Farming
+Carob Farming
+Cashewapple Farming
+Cherry Farming
+Clementine Farming
+Cranberry Farming
+Currant Farming
+Date Farming
+Fig Farming
+Gooseberry Farming
+Grape Farming
+Grapefruit Farming
+Guava Farming
+Kiwi Farming
+Lemon Farming
+Lime Farming
+Mandarin Farming
+Mango Farming
+Mangosteen Farming
+Nectarine Farming
+Orange Farming
+Papaya Farming
+Peach Farming
+Pear Farming
+Persimmon Farming
+Pineapple Farming
+Plantain Farming
+Plum and Sole Farming
+Quince Farming
+Raspberry Farming
+Satsumas Farming
+Strawberry Farming
+Tangerine Farming
+Watermelon Farming
+Oilcrop Farming
+Castor Farming
+Coconut Farming
+Flax Farming
+Groundnut Farming
+Hemp Farming
+Jojoba Farming
+Kapok Farming
+Karite Farming
+Melon Farming
+Mustard Farming
+Oil Palm Farming
+Olive Farming
+Poppy Farming
+Rape Farming
+Safflower Farming
+Seed Cotton Farming
+Sesame Farming
+Soybean Farming
+Sunflower Farming
+Tung Farming
+Pulse Crop Farming
+Bean Farming
+Lentil Farming
+Lupin Farming
+Pea Farming
+Vetch Farming
+Root and Tuber Crop Farming
+Cassava Farming
+Cocoyam Farming
+Potato Farming
+Yam Farming
+Sugar Crop Farming
+Sugar Beet Farming
+Sugar Cane Farming
+Tree Nut Crop Farming
+Almond Farming
+Brazil Farming
+Cashew Farming
+Chestnut Farming
+Hazelnut Farming
+Pistachio Farming
+Walnut Farming
+Vegetable Crop Farming
+Artichoke Farming
+Asparagus Farming
+Bean Farming
+Broccoli Farming
+Cabbage Farming
+Carrot Farming
+Cauliflower Farming
+Chicory Farming
+Chilly and Pepper Farming
+Cucumber Farming
+Eggplant Farming
+Garlic Farming
+Gherkin Farming
+Gourd Farming
+Leek Farming
+Lettuce Farming
+Maize Farming
+Mushroom Farming
+Okra Farming
+Onion Farming
+Pea Farming
+Pumpkin Farming
+Shallot Farming
+Spinach Farming
+Squash Farming
+Tomato Farming
+Truffle Farming
+Turnip Farming
+Spice Crop Farming
+Anise Farming
+Badian Farming
+Cardamon Farming
+Chilly and Pepper Farming
+Cinnamon Farming
+Clove Farming
+Fennel Farming
+Ginger Farming
+Mace Farming
+Nutmeg Farming
+Pimento Farming
+Vanilla Farming
+Stimulant Crop Farming
+Bean Farming
+Coffee Farming
+Mate Farming
+Tea Farming
+Other Crops Farming
+Citronella Farming
+Gum Farming
+Hop Farming
+Mint Farming
+Pyrethrum Farming
+Tobacco Farming
+Wax Farming
+Food Production
+Cereal Product Production
+Pulse Product Production
+Nut Product Production
+Beverage Production
+Condiment Production
+Confection Production
+Pasta and Noodle Production
+Food Additive Production
+Craft

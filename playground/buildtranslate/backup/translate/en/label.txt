@@ -1,0 +1,327 @@
+
+Courage, Gratitude, Honesty, Humility, Kindness, Patience, Serenity, Temperance
+Honesty
+Patience
+Gratitude
+Kindness
+Courage
+Temperance
+Humility
+Serenity
+Accountability, Co-operation, Consistency, Fairness, Integrity, Openness, Positivity, Productivity, Respect
+Integrity
+Respect
+Co-operation
+Consistency
+Positivity
+Accountability
+Fairness
+Productivity
+Openness
+Personal Change Management, Resilence, Self Confidence, Self Control, Self Determination, Self Discipline, Self Efficacy, Self Esteem, Self Motivation, Stress Management, Time Management
+Self Esteem
+Self Confidence
+Self Efficacy
+Self Determination
+Self Discipline
+Self Motivation
+Self Control
+Resilence
+Time Management
+Stress Management
+Personal Change Management
+Attention, Executive Functions, Language Skills, Memory, Metacognition, Motor Skills, Perception, Processing Speed
+Attention
+Perception
+Memory
+Executive Functions
+Processing Speed
+Motor Skills
+Language Skills
+Metacognition
+Ability to Learn, Ability to Organize, Ability to Plan, Creativity, Critical Thinking, Decision Making, Intuition, Problem Solving, Strategic Thinking, Wisdom
+Ability to Learn
+Ability to Organize
+Ability to Plan
+Problem Solving
+Decision Making
+Critical Thinking
+Strategic Thinking
+Intuition
+Creativity
+Anger, Anxiety, Despair, Envy, Fear, Guilt, Happiness, Hatred, Hope, Loneliness, love, Pride, Regret, Sadness, Shame
+Anger Management
+Anxiety Management
+Fear Management
+Happiness Management
+Sadness Management
+Hatred Management
+Love Management
+Shame Management
+Regret Management
+Hope Management
+Guilt Management
+Despair Management
+Loneliness Management
+Envy Management
+Pride Management
+Active Listening, Non Verbal Communication, Verbal Communication, Visual Communication, Written Communication, Negotiation, Conflict Management, Social Awareness, Teamwork
+Verbal Communication
+Non Verbal Communication
+Written Communication
+Active Listening
+Visual Communication
+Teamwork
+Negotiation
+Social Awareness
+Conflict Management
+Delegation, Leadership, Management, Mentoring, Monitoring, Motivating, Organization, People Management
+Management
+Organization
+Leadership
+People Management
+Delegation
+Motivating
+Mentoring
+Monitoring
+
+
+Livestock Farming
+Alpaca Livestock Farming
+Buffalo Livestock Farming
+Camel Livestock Farming
+Cattle Livestock Farming
+Donkey Livestock Farming
+Goat Livestock Farming
+Horse Livestock Farming
+Llama Livestock Farming
+Ox Livestock Farming
+Pig Livestock Farming
+Rabbit Livestock Farming
+Reindeer Livestock Farming
+Sheep Livestock Farming
+Water Buffalo Livestock Farming
+Yak Livestock Farming
+Poultry Farming
+Chicken Poultry Farming
+Duck Poultry Farming
+Emu Poultry Farming
+Francolin Poultry Farming
+Goose Poultry Farming
+Guinea Fowl Poultry Farming
+Ostrich Poultry Farming
+Partridge Poultry Farming
+Peafowl Poultry Farming
+Pheasant Poultry Farming
+Pigeon Poultry Farming
+Quail Poultry Farming
+Swan Poultry Farming
+Swiftlet Poultry Farming
+Tinamou Poultry Farming
+Turkey Poultry Farming
+Fish Farming
+Carp Fish Farming
+Catfish Fish Farming
+Eel Fish Farming
+Mullet Fish Farming
+Perch Fish Farming
+Salmon Fish Farming
+Seabream Fish Farming
+Sturgeon Fish Farming
+Tilapia Fish Farming
+Trout Fish Farming
+Crustacean Farming
+Crab Crustacean Farming
+Crayfish Crustacean Farming
+Lobster Crustacean Farming
+Prawn Crustacean Farming
+Shrimp Crustacean Farming
+Molluscs Farming
+Abalone Molluscs Farming
+Ark Molluscs Farming
+Clam Molluscs Farming
+Mussel Molluscs Farming
+Oyster Molluscs Farming
+Scallop Molluscs Farming
+Shell Molluscs Farming
+Cereal Crop Farming
+Barley Cereal Crop Farming
+Buckwheat Cereal Crop Farming
+Canary Seed Cereal Crop Farming
+Fonio Cereal Crop Farming
+Maize Cereal Crop Farming
+Millet Cereal Crop Farming
+Oat Cereal Crop Farming
+Quinoa Cereal Crop Farming
+Rice Cereal Crop Farming
+Rye Cereal Crop Farming
+Sorghum Cereal Crop Farming
+Triticale Cereal Crop Farming
+Wheat Cereal Crop Farming
+Citrus Fruit Farming
+Clementine Citrus Fruit Farming
+Grapefruit Citrus Fruit Farming
+Lemon Citrus Fruit Farming
+Lime Citrus Fruit Farming
+Mandarin Citrus Fruit Farming
+Orange Citrus Fruit Farming
+Satsumas Citrus Fruit Farming
+Tangerine Citrus Fruit Farming
+Fibre Crop Farming
+Agave Fibre Crop Farming
+Bast Fibre Crop Farming
+Flax Fibre Crop Farming
+Hemp Fibre Crop Farming
+Jute Fibre Crop Farming
+Kapok Fibre Crop Farming
+Manila Fibre Crop Farming
+Ramie Fibre Crop Farming
+Seed Cotton Fibre Crop Farming
+Sisal Fibre Crop Farming
+Fruit Crop Farming
+Apple Fruit Crop Farming
+Apricot Fruit Crop Farming
+Avocado Fruit Crop Farming
+Banana Fruit Crop Farming
+Blueberry Fruit Crop Farming
+Carob Fruit Crop Farming
+Cashewapple Fruit Crop Farming
+Cherry Fruit Crop Farming
+Clementine Fruit Crop Farming
+Cranberry Fruit Crop Farming
+Currant Fruit Crop Farming
+Date Fruit Crop Farming
+Fig Fruit Crop Farming
+Gooseberry Fruit Crop Farming
+Grape Fruit Crop Farming
+Grapefruit Fruit Crop Farming
+Guava Fruit Crop Farming
+Kiwi Fruit Crop Farming
+Lemon Fruit Crop Farming
+Lime Fruit Crop Farming
+Mandarin Fruit Crop Farming
+Mango Fruit Crop Farming
+Mangosteen Fruit Crop Farming
+Nectarine Fruit Crop Farming
+Orange Fruit Crop Farming
+Papaya Fruit Crop Farming
+Peach Fruit Crop Farming
+Pear Fruit Crop Farming
+Persimmon Fruit Crop Farming
+Pineapple Fruit Crop Farming
+Plantain Fruit Crop Farming
+Plum and Sole Fruit Crop Farming
+Quince Fruit Crop Farming
+Raspberry Fruit Crop Farming
+Satsumas Fruit Crop Farming
+Strawberry Fruit Crop Farming
+Tangerine Fruit Crop Farming
+Watermelon Fruit Crop Farming
+Oilcrop Farming
+Castor Oilcrop Farming
+Coconut Oilcrop Farming
+Flax Oilcrop Farming
+Groundnut Oilcrop Farming
+Hemp Oilcrop Farming
+Jojoba Oilcrop Farming
+Kapok Oilcrop Farming
+Karite Oilcrop Farming
+Melon Oilcrop Farming
+Mustard Oilcrop Farming
+Oil Palm Oilcrop Farming
+Olive Oilcrop Farming
+Poppy Oilcrop Farming
+Rape Oilcrop Farming
+Safflower Oilcrop Farming
+Seed Cotton Oilcrop Farming
+Sesame Oilcrop Farming
+Soybean Oilcrop Farming
+Sunflower Oilcrop Farming
+Tung Oilcrop Farming
+Pulse Crop Farming
+Bean Pulse Crop Farming
+Lentil Pulse Crop Farming
+Lupin Pulse Crop Farming
+Pea Pulse Crop Farming
+Vetch Pulse Crop Farming
+Root and Tuber Crop Farming
+Cassava Root and Tuber Crop Farming
+Cocoyam Root and Tuber Crop Farming
+Potato Root and Tuber Crop Farming
+Yam Root and Tuber Crop Farming
+Sugar Crop Farming
+Sugar Beet Sugar Crop Farming
+Sugar Cane Sugar Crop Farming
+Tree Nut Crop Farming
+Almond Tree Nut Crop Farming
+Brazil Tree Nut Crop Farming
+Cashew Tree Nut Crop Farming
+Chestnut Tree Nut Crop Farming
+Hazelnut Tree Nut Crop Farming
+Pistachio Tree Nut Crop Farming
+Walnut Tree Nut Crop Farming
+Vegetable Crop Farming
+Artichoke Vegetable Crop Farming
+Asparagus Vegetable Crop Farming
+Bean Vegetable Crop Farming
+Broccoli Vegetable Crop Farming
+Cabbage Vegetable Crop Farming
+Carrot Vegetable Crop Farming
+Cauliflower Vegetable Crop Farming
+Chicory Vegetable Crop Farming
+Chilly and Pepper Vegetable Crop Farming
+Cucumber Vegetable Crop Farming
+Eggplant Vegetable Crop Farming
+Garlic Vegetable Crop Farming
+Gherkin Vegetable Crop Farming
+Gourd Vegetable Crop Farming
+Leek Vegetable Crop Farming
+Lettuce Vegetable Crop Farming
+Maize Vegetable Crop Farming
+Mushroom Vegetable Crop Farming
+Okra Vegetable Crop Farming
+Onion Vegetable Crop Farming
+Pea Vegetable Crop Farming
+Pumpkin Vegetable Crop Farming
+Shallot Vegetable Crop Farming
+Spinach Vegetable Crop Farming
+Squash Vegetable Crop Farming
+Tomato Vegetable Crop Farming
+Truffle Vegetable Crop Farming
+Turnip Vegetable Crop Farming
+Spice Crop Farming
+Anise Spice Crop Farming
+Badian Spice Crop Farming
+Cardamon Spice Crop Farming
+Chilly and Pepper Spice Crop Farming
+Cinnamon Spice Crop Farming
+Clove Spice Crop Farming
+Fennel Spice Crop Farming
+Ginger Spice Crop Farming
+Mace Spice Crop Farming
+Nutmeg Spice Crop Farming
+Pimento Spice Crop Farming
+Vanilla Spice Crop Farming
+Stimulant Crop Farming
+Bean Stimulant Crop Farming
+Coffee Stimulant Crop Farming
+Mate Stimulant Crop Farming
+Tea Stimulant Crop Farming
+Other Crops Farming
+Citronella Other Crops Farming
+Gum Other Crops Farming
+Hop Other Crops Farming
+Mint Other Crops Farming
+Pyrethrum Other Crops Farming
+Tobacco Other Crops Farming
+Wax Other Crops Farming
+
+Cereal Product Production
+Pulse Product Production
+Nut Product Production
+Beverage Production
+Condiment Production
+Confection Production
+Pasta and Noodle Production
+Food Additive Production
+

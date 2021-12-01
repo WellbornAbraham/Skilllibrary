@@ -1,0 +1,326 @@
+Attribute
+Moral Ethic
+Courage
+Gratitude
+Honesty
+Humility
+Kindness
+Patience
+Serenity
+Temperance
+Work Ethic
+Accountability
+Co-operation
+Consistency
+Fairness
+Integrity
+Openness
+Positivity
+Productivity
+Respect
+Self Management
+Personal Change Management
+Resilence
+Self Confidence
+Self Control
+Self Determination
+Self Discipline
+Self Efficacy
+Self Esteem
+Self Motivation
+Stress Management
+Time Management
+Cognition
+Attention
+Executive Functions
+Language Skills
+Memory
+Metacognition
+Motor Skills
+Perception
+Processing Speed
+Cognitive Aptitude
+Ability to Learn
+Ability to Organize
+Ability to Plan
+Creativity
+Critical Thinking
+Decision Making
+Intuition
+Problem Solving
+Strategic Thinking
+Emotion Management
+Anger Management
+Anxiety Management
+Despair Management
+Envy Management
+Fear Management
+Guilt Management
+Happiness Management
+Hatred Management
+Hope Management
+Loneliness Management
+Love Management
+Pride Management
+Regret Management
+Sadness Management
+Shame Management
+Social Interrelation
+Active Listening
+Conflict Management
+Negotiation
+Non-Verbal Communication
+Social Awareness
+Teamwork
+Verbal Communication
+Visual Communication
+Written Communication
+Administration
+Delegation
+Leadership
+Management
+Mentoring
+Monitoring
+Motivating
+Organization
+People Management
+Farming
+Cereal Crop
+Barley
+Buckwheat
+Canary Seed
+Fonio
+Maize
+Millet
+Oat
+Quinoa
+Rice
+Rye
+Sorghum
+Triticale
+Wheat
+Citrus Fruit
+Clementine
+Grapefruit
+Lemon
+Lime
+Mandarin
+Orange
+Satsumas
+Tangerine
+Crustacean
+Crab
+Crayfish
+Lobster
+Prawn
+Shrimp
+Fibre Crop
+Agave
+Bast
+Flax
+Hemp
+Jute
+Kapok
+Manila
+Ramie
+Seed Cotton
+Sisal
+Fish
+Carp
+Catfish
+Eel
+Mullet
+Perch
+Salmon
+Seabream
+Sturgeon
+Tilapia
+Trout
+Fruit Crop
+Apple
+Apricot
+Avocado
+Banana
+Blueberry
+Carob
+Cashewapple
+Cherry
+Clementine
+Cranberry
+Currant
+Date
+Fig
+Gooseberry
+Grape
+Grapefruit
+Guava
+Kiwi
+Lemon
+Lime
+Mandarin
+Mango
+Mangosteen
+Nectarine
+Orange
+Papaya
+Peach
+Pear
+Persimmon
+Pineapple
+Plantain
+Plum and Sole
+Quince
+Raspberry
+Satsumas
+Strawberry
+Tangerine
+Watermelon
+Livestock
+Alpaca
+Buffalo
+Camel
+Cattle
+Donkey
+Goat
+Horse
+Llama
+Ox
+Pig
+Rabbit
+Reindeer
+Sheep
+Water Buffalo
+Yak
+Molluscs
+Abalone
+Ark
+Clam
+Mussel
+Oyster
+Scallop
+Shell
+Oilcrop
+Castor
+Coconut
+Flax
+Groundnut
+Hemp
+Jojoba
+Kapok
+Karite
+Melon
+Mustard
+Oil Palm
+Olive
+Poppy
+Rape
+Safflower
+Seed Cotton
+Sesame
+Soybean
+Sunflower
+Tung
+Other Crops
+Citronella
+Gum
+Hop
+Mint
+Pyrethrum
+Tobacco
+Wax
+Poultry
+Chicken
+Duck
+Emu
+Francolin
+Goose
+Guinea Fowl
+Ostrich
+Partridge
+Peafowl
+Pheasant
+Pigeon
+Quail
+Swan
+Swiftlet
+Tinamou
+Turkey
+Pulse Crop
+Bean
+Lentil
+Lupin
+Pea
+Vetch
+Root and Tuber Crop
+Cassava
+Cocoyam
+Potato
+Yam
+Spice Crop
+Anise
+Badian
+Cardamon
+Chilly and Pepper
+Cinnamon
+Clove
+Fennel
+Ginger
+Mace
+Nutmeg
+Pimento
+Vanilla
+Stimulant Crop
+Bean
+Coffee
+Mate
+Tea
+Sugar Crop
+Sugar Beet
+Sugar Cane
+Tree Nut Crop
+Almond
+Brazil
+Cashew
+Chestnut
+Hazelnut
+Pistachio
+Walnut
+Vegetable Crop
+Artichoke
+Asparagus
+Bean
+Broccoli
+Cabbage
+Carrot
+Cauliflower
+Chicory
+Chilly and Pepper
+Cucumber
+Eggplant
+Garlic
+Gherkin
+Gourd
+Leek
+Lettuce
+Maize
+Mushroom
+Okra
+Onion
+Pea
+Pumpkin
+Shallot
+Spinach
+Squash
+Tomato
+Truffle
+Turnip
+Food Production
+Beverage
+Cereal Product
+Condiment
+Confection
+Food Additive
+Nut Product
+Pasta and Noodle
+Pulse Product
+Craft

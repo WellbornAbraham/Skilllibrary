@@ -1,0 +1,1640 @@
+title:
+  attribute-skills: Moral Ethic
+  moral-ethic: Honesty
+  courage: Patience
+  gratitude: Gratitude
+  honesty: Kindness
+  humility: Courage
+  kindness: Temperance
+  patience: Humility
+  serenity: Serenity
+  temperance: Work Ethic
+  work-ethic: Integrity
+  accountability: Respect
+  co-operation: Co-operation
+  consistency: Consistency
+  fairness: Positivity
+  integrity: Accountability
+  openness: Fairness
+  positivity: Productivity
+  productivity: Openness
+  respect: Self Management
+  self-management: Self Esteem
+  personal-change-management: Self Confidence
+  resilence: Self Efficacy
+  self-confidence: Self Determination
+  self-control: Self Discipline
+  self-determination: Self Motivation
+  self-discipline: Self Control
+  self-efficacy: Resilence
+  self-esteem: Time Management
+  self-motivation: Stress Management
+  stress-management: Personal Change Management
+  time-management: Cognition
+  cognition: Attention
+  attention: Perception
+  executive-functions: Memory
+  language-skills: Executive Functions
+  memory: Processing Speed
+  metacognition: Motor Skills
+  motor-skills: Language Skills
+  perception: Metacognition
+  processing-speed: Cognitive Aptitude
+  cognitive-aptitude: Ability to Learn
+  ability-to-learn: Ability to Organize
+  ability-to-organize: Ability to Plan
+  ability-to-plan: Problem Solving
+  creativity: Decision Making
+  critical-thinking: Critical Thinking
+  decision-making: Strategic Thinking
+  intuition: Intuition
+  problem-solving: Creativity
+  strategic-thinking: Emotion Management
+  emotion-management: Anger Management
+  anger-management: Anxiety Management
+  anxiety-management: Fear Management
+  despair-management: Happiness Management
+  envy-management: Sadness Management
+  fear-management: Hatred Management
+  guilt-management: Love Management
+  happiness-management: Shame Management
+  hatred-management: Regret Management
+  hope-management: Hope Management
+  loneliness-management: Guilt Management
+  love-management: Despair Management
+  pride-management: Loneliness Management
+  regret-management: Envy Management
+  sadness-management: Pride Management
+  shame-management: Social Interrelation
+  social-interrelation: Verbal Communication
+  active-listening: Non-Verbal Communication
+  conflict-management: Written Communication
+  negotiation: Active Listening
+  non-verbal-communication: Visual Communication
+  social-awareness: Teamwork
+  teamwork: Negotiation
+  verbal-communication: Social Awareness
+  visual-communication: Conflict Management
+  written-communication: Administration
+  administration: Management
+  delegation: Organization
+  leadership: Leadership
+  management: People Management
+  mentoring: Delegation
+  monitoring: Motivating
+  motivating: Mentoring
+  organization: Monitoring
+  people-management: Vocational
+  farming: Farming
+  cereal-crop-farming: Livestock
+  barley-farming: Alpaca
+  buckwheat-farming: Buffalo
+  canary-seed-farming: Camel
+  fonio-farming: Cattle
+  maize-farming: Donkey
+  millet-farming: Goat
+  oat-farming: Horse
+  quinoa-farming: Llama
+  rice-farming: Ox
+  rye-farming: Pig
+  sorghum-farming: Rabbit
+  triticale-farming: Reindeer
+  wheat-farming: Sheep
+  citrus-fruit-farming: Water Buffalo
+  clementine-farming: Yak
+  grapefruit-farming: Poultry
+  lemon-farming: Chicken
+  lime-farming: Duck
+  mandarin-farming: Emu
+  orange-farming: Francolin
+  satsumas-farming: Goose
+  tangerine-farming: Guinea Fowl
+  crustacean-farming: Ostrich
+  crab-farming: Partridge
+  crayfish-farming: Peafowl
+  lobster-farming: Pheasant
+  prawn-farming: Pigeon
+  shrimp-farming: Quail
+  fibre-crop-farming: Swan
+  agave-farming: Swiftlet
+  bast-farming: Tinamou
+  flax-farming: Turkey
+  hemp-farming: Fish
+  jute-farming: Carp
+  kapok-farming: Catfish
+  manila-farming: Eel
+  ramie-farming: Mullet
+  seed-cotton-farming: Perch
+  sisal-farming: Salmon
+  fish-farming: Seabream
+  carp-farming: Sturgeon
+  catfish-farming: Tilapia
+  eel-farming: Trout
+  mullet-farming: Crustacean
+  perch-farming: Crab
+  salmon-farming: Crayfish
+  seabream-farming: Lobster
+  sturgeon-farming: Prawn
+  tilapia-farming: Shrimp
+  trout-farming: Molluscs
+  fruit-crop-farming: Abalone
+  apple-farming: Ark
+  apricot-farming: Clam
+  avocado-farming: Mussel
+  banana-farming: Oyster
+  blueberry-farming: Scallop
+  carob-farming: Shell
+  cashewapple-farming: Cereal Crop
+  cherry-farming: Barley
+  clementine-farming: Buckwheat
+  cranberry-farming: Canary Seed
+  currant-farming: Fonio
+  date-farming: Maize
+  fig-farming: Millet
+  gooseberry-farming: Oat
+  grape-farming: Quinoa
+  grapefruit-farming: Rice
+  guava-farming: Rye
+  kiwi-farming: Sorghum
+  lemon-farming: Triticale
+  lime-farming: Wheat
+  mandarin-farming: Citrus Fruit
+  mango-farming: Clementine
+  mangosteen-farming: Grapefruit
+  nectarine-farming: Lemon
+  orange-farming: Lime
+  papaya-farming: Mandarin
+  peach-farming: Orange
+  pear-farming: Satsumas
+  persimmon-farming: Tangerine
+  pineapple-farming: Fibre Crop
+  plantain-farming: Agave
+  plum-and-sole-farming: Bast
+  quince-farming: Flax
+  raspberry-farming: Hemp
+  satsumas-farming: Jute
+  strawberry-farming: Kapok
+  tangerine-farming: Manila
+  watermelon-farming: Ramie
+  livestock-farming: Seed Cotton
+  alpaca-farming: Sisal
+  buffalo-farming: Fruit Crop
+  camel-farming: Apple
+  cattle-farming: Apricot
+  donkey-farming: Avocado
+  goat-farming: Banana
+  horse-farming: Blueberry
+  llama-farming: Carob
+  ox-farming: Cashewapple
+  pig-farming: Cherry
+  rabbit-farming: Clementine
+  reindeer-farming: Cranberry
+  sheep-farming: Currant
+  water-buffalo-farming: Date
+  yak-farming: Fig
+  molluscs-farming: Gooseberry
+  abalone-farming: Grape
+  ark-farming: Grapefruit
+  clam-farming: Guava
+  mussel-farming: Kiwi
+  oyster-farming: Lemon
+  scallop-farming: Lime
+  shell-farming: Mandarin
+  oilcrop-farming: Mango
+  castor-farming: Mangosteen
+  coconut-farming: Nectarine
+  flax-farming: Orange
+  groundnut-farming: Papaya
+  hemp-farming: Peach
+  jojoba-farming: Pear
+  kapok-farming: Persimmon
+  karite-farming: Pineapple
+  melon-farming: Plantain
+  mustard-farming: Plum and Sole
+  oil-palm-farming: Quince
+  olive-farming: Raspberry
+  poppy-farming: Satsumas
+  rape-farming: Strawberry
+  safflower-farming: Tangerine
+  seed-cotton-farming: Watermelon
+  sesame-farming: Oilcrop
+  soybean-farming: Castor
+  sunflower-farming: Coconut
+  tung-farming: Flax
+  other-crops-farming: Groundnut
+  citronella-farming: Hemp
+  gum-farming: Jojoba
+  hop-farming: Kapok
+  mint-farming: Karite
+  pyrethrum-farming: Melon
+  tobacco-farming: Mustard
+  wax-farming: Oil Palm
+  poultry-farming: Olive
+  chicken-farming: Poppy
+  duck-farming: Rape
+  emu-farming: Safflower
+  francolin-farming: Seed Cotton
+  goose-farming: Sesame
+  guinea-fowl-farming: Soybean
+  ostrich-farming: Sunflower
+  partridge-farming: Tung
+  peafowl-farming: Pulse Crop
+  pheasant-farming: Bean
+  pigeon-farming: Lentil
+  quail-farming: Lupin
+  swan-farming: Pea
+  swiftlet-farming: Vetch
+  tinamou-farming: Root and Tuber Crop
+  turkey-farming: Cassava
+  pulse-crop-farming: Cocoyam
+  bean-farming: Potato
+  lentil-farming: Yam
+  lupin-farming: Sugar Crop
+  pea-farming: Sugar Beet
+  vetch-farming: Sugar Cane
+  root-and-tuber-crop-farming: Tree Nut Crop
+  cassava-farming: Almond
+  cocoyam-farming: Brazil
+  potato-farming: Cashew
+  yam-farming: Chestnut
+  spice-crop-farming: Hazelnut
+  anise-farming: Pistachio
+  badian-farming: Walnut
+  cardamon-farming: Vegetable Crop
+  chilly-and-pepper-farming: Artichoke
+  cinnamon-farming: Asparagus
+  clove-farming: Bean
+  fennel-farming: Broccoli
+  ginger-farming: Cabbage
+  mace-farming: Carrot
+  nutmeg-farming: Cauliflower
+  pimento-farming: Chicory
+  vanilla-farming: Chilly and Pepper
+  stimulant-crop-farming: Cucumber
+  bean-farming: Eggplant
+  coffee-farming: Garlic
+  mate-farming: Gherkin
+  tea-farming: Gourd
+  sugar-crop-farming: Leek
+  sugar-beet-farming: Lettuce
+  sugar-cane-farming: Maize
+  tree-nut-crop-farming: Mushroom
+  almond-farming: Okra
+  brazil-farming: Onion
+  cashew-farming: Pea
+  chestnut-farming: Pumpkin
+  hazelnut-farming: Shallot
+  pistachio-farming: Spinach
+  walnut-farming: Squash
+  vegetable-crop-farming: Tomato
+  artichoke-farming: Truffle
+  asparagus-farming: Turnip
+  bean-farming: Spice Crop
+  broccoli-farming: Anise
+  cabbage-farming: Badian
+  carrot-farming: Cardamon
+  cauliflower-farming: Chilly and Pepper
+  chicory-farming: Cinnamon
+  chilly-and-pepper-farming: Clove
+  cucumber-farming: Fennel
+  eggplant-farming: Ginger
+  garlic-farming: Mace
+  gherkin-farming: Nutmeg
+  gourd-farming: Pimento
+  leek-farming: Vanilla
+  lettuce-farming: Stimulant Crop
+  maize-farming: Bean
+  mushroom-farming: Coffee
+  okra-farming: Mate
+  onion-farming: Tea
+  pea-farming: Other Crops
+  pumpkin-farming: Citronella
+  shallot-farming: Gum
+  spinach-farming: Hop
+  squash-farming: Mint
+  tomato-farming: Pyrethrum
+  truffle-farming: Tobacco
+  turnip-farming: Wax
+  food-production: Food Production
+  beverage-production: Cereal Product
+  cereal-product-production: Pulse Product
+  condiment-production: Nut Product
+  confection-production: Beverage
+  food-additive-production: Condiment
+  nut-product-production: Confection
+  pasta-and-noodle-production: Pasta and Noodle
+  pulse-product-production: Food Additive
+  craft: Craft
+ 
+title2:
+  attribute-skills: Moral Ethic
+  moral-ethic: Honesty
+  courage: Patience
+  gratitude: Gratitude
+  honesty: Kindness
+  humility: Courage
+  kindness: Temperance
+  patience: Humility
+  serenity: Serenity
+  temperance: Work Ethic
+  work-ethic: Integrity
+  accountability: Respect
+  co-operation: Co-operation
+  consistency: Consistency
+  fairness: Positivity
+  integrity: Accountability
+  openness: Fairness
+  positivity: Productivity
+  productivity: Openness
+  respect: Self Management
+  self-management: Self Esteem
+  personal-change-management: Self Confidence
+  resilence: Self Efficacy
+  self-confidence: Self Determination
+  self-control: Self Discipline
+  self-determination: Self Motivation
+  self-discipline: Self Control
+  self-efficacy: Resilence
+  self-esteem: Time Management
+  self-motivation: Stress Management
+  stress-management: Personal Change Management
+  time-management: Cognition
+  cognition: Attention
+  attention: Perception
+  executive-functions: Memory
+  language-skills: Executive Functions
+  memory: Processing Speed
+  metacognition: Motor Skills
+  motor-skills: Language Skills
+  perception: Metacognition
+  processing-speed: Cognitive Aptitude
+  cognitive-aptitude: Ability to Learn
+  ability-to-learn: Ability to Organize
+  ability-to-organize: Ability to Plan
+  ability-to-plan: Problem Solving
+  creativity: Decision Making
+  critical-thinking: Critical Thinking
+  decision-making: Strategic Thinking
+  intuition: Intuition
+  problem-solving: Creativity
+  strategic-thinking: Emotion Management
+  emotion-management: Anger Management
+  anger-management: Anxiety Management
+  anxiety-management: Fear Management
+  despair-management: Happiness Management
+  envy-management: Sadness Management
+  fear-management: Hatred Management
+  guilt-management: Love Management
+  happiness-management: Shame Management
+  hatred-management: Regret Management
+  hope-management: Hope Management
+  loneliness-management: Guilt Management
+  love-management: Despair Management
+  pride-management: Loneliness Management
+  regret-management: Envy Management
+  sadness-management: Pride Management
+  shame-management: Social Interrelation
+  social-interrelation: Verbal Communication
+  active-listening: Non-Verbal Communication
+  conflict-management: Written Communication
+  negotiation: Active Listening
+  non-verbal-communication: Visual Communication
+  social-awareness: Teamwork
+  teamwork: Negotiation
+  verbal-communication: Social Awareness
+  visual-communication: Conflict Management
+  written-communication: Administration
+  administration: Management
+  delegation: Organization
+  leadership: Leadership
+  management: People Management
+  mentoring: Delegation
+  monitoring: Motivating
+  motivating: Mentoring
+  organization: Monitoring
+  people-management: Vocational Skills
+  farming: Farming
+  cereal-crop-farming: Livestock Farming
+  barley-farming: Alpaca Farming
+  buckwheat-farming: Buffalo Farming
+  canary-seed-farming: Camel Farming
+  fonio-farming: Cattle Farming
+  maize-farming: Donkey Farming
+  millet-farming: Goat Farming
+  oat-farming: Horse Farming
+  quinoa-farming: Llama Farming
+  rice-farming: Ox Farming
+  rye-farming: Pig Farming
+  sorghum-farming: Rabbit Farming
+  triticale-farming: Reindeer Farming
+  wheat-farming: Sheep Farming
+  citrus-fruit-farming: Water Buffalo Farming
+  clementine-farming: Yak Farming
+  grapefruit-farming: Poultry Farming
+  lemon-farming: Chicken Farming
+  lime-farming: Duck Farming
+  mandarin-farming: Emu Farming
+  orange-farming: Francolin Farming
+  satsumas-farming: Goose Farming
+  tangerine-farming: Guinea Fowl Farming
+  crustacean-farming: Ostrich Farming
+  crab-farming: Partridge Farming
+  crayfish-farming: Peafowl Farming
+  lobster-farming: Pheasant Farming
+  prawn-farming: Pigeon Farming
+  shrimp-farming: Quail Farming
+  fibre-crop-farming: Swan Farming
+  agave-farming: Swiftlet Farming
+  bast-farming: Tinamou Farming
+  flax-farming: Turkey Farming
+  hemp-farming: Fish Farming
+  jute-farming: Carp Farming
+  kapok-farming: Catfish Farming
+  manila-farming: Eel Farming
+  ramie-farming: Mullet Farming
+  seed-cotton-farming: Perch Farming
+  sisal-farming: Salmon Farming
+  fish-farming: Seabream Farming
+  carp-farming: Sturgeon Farming
+  catfish-farming: Tilapia Farming
+  eel-farming: Trout Farming
+  mullet-farming: Crustacean Farming
+  perch-farming: Crab Farming
+  salmon-farming: Crayfish Farming
+  seabream-farming: Lobster Farming
+  sturgeon-farming: Prawn Farming
+  tilapia-farming: Shrimp Farming
+  trout-farming: Molluscs Farming
+  fruit-crop-farming: Abalone Farming
+  apple-farming: Ark Farming
+  apricot-farming: Clam Farming
+  avocado-farming: Mussel Farming
+  banana-farming: Oyster Farming
+  blueberry-farming: Scallop Farming
+  carob-farming: Shell Farming
+  cashewapple-farming: Cereal Crop Farming
+  cherry-farming: Barley Farming
+  clementine-farming: Buckwheat Farming
+  cranberry-farming: Canary Seed Farming
+  currant-farming: Fonio Farming
+  date-farming: Maize Farming
+  fig-farming: Millet Farming
+  gooseberry-farming: Oat Farming
+  grape-farming: Quinoa Farming
+  grapefruit-farming: Rice Farming
+  guava-farming: Rye Farming
+  kiwi-farming: Sorghum Farming
+  lemon-farming: Triticale Farming
+  lime-farming: Wheat Farming
+  mandarin-farming: Citrus Fruit Farming
+  mango-farming: Clementine Farming
+  mangosteen-farming: Grapefruit Farming
+  nectarine-farming: Lemon Farming
+  orange-farming: Lime Farming
+  papaya-farming: Mandarin Farming
+  peach-farming: Orange Farming
+  pear-farming: Satsumas Farming
+  persimmon-farming: Tangerine Farming
+  pineapple-farming: Fibre Crop Farming
+  plantain-farming: Agave Farming
+  plum-and-sole-farming: Bast Farming
+  quince-farming: Flax Farming
+  raspberry-farming: Hemp Farming
+  satsumas-farming: Jute Farming
+  strawberry-farming: Kapok Farming
+  tangerine-farming: Manila Farming
+  watermelon-farming: Ramie Farming
+  livestock-farming: Seed Cotton Farming
+  alpaca-farming: Sisal Farming
+  buffalo-farming: Fruit Crop Farming
+  camel-farming: Apple Farming
+  cattle-farming: Apricot Farming
+  donkey-farming: Avocado Farming
+  goat-farming: Banana Farming
+  horse-farming: Blueberry Farming
+  llama-farming: Carob Farming
+  ox-farming: Cashewapple Farming
+  pig-farming: Cherry Farming
+  rabbit-farming: Clementine Farming
+  reindeer-farming: Cranberry Farming
+  sheep-farming: Currant Farming
+  water-buffalo-farming: Date Farming
+  yak-farming: Fig Farming
+  molluscs-farming: Gooseberry Farming
+  abalone-farming: Grape Farming
+  ark-farming: Grapefruit Farming
+  clam-farming: Guava Farming
+  mussel-farming: Kiwi Farming
+  oyster-farming: Lemon Farming
+  scallop-farming: Lime Farming
+  shell-farming: Mandarin Farming
+  oilcrop-farming: Mango Farming
+  castor-farming: Mangosteen Farming
+  coconut-farming: Nectarine Farming
+  flax-farming: Orange Farming
+  groundnut-farming: Papaya Farming
+  hemp-farming: Peach Farming
+  jojoba-farming: Pear Farming
+  kapok-farming: Persimmon Farming
+  karite-farming: Pineapple Farming
+  melon-farming: Plantain Farming
+  mustard-farming: Plum and Sole Farming
+  oil-palm-farming: Quince Farming
+  olive-farming: Raspberry Farming
+  poppy-farming: Satsumas Farming
+  rape-farming: Strawberry Farming
+  safflower-farming: Tangerine Farming
+  seed-cotton-farming: Watermelon Farming
+  sesame-farming: Oilcrop Farming
+  soybean-farming: Castor Farming
+  sunflower-farming: Coconut Farming
+  tung-farming: Flax Farming
+  other-crops-farming: Groundnut Farming
+  citronella-farming: Hemp Farming
+  gum-farming: Jojoba Farming
+  hop-farming: Kapok Farming
+  mint-farming: Karite Farming
+  pyrethrum-farming: Melon Farming
+  tobacco-farming: Mustard Farming
+  wax-farming: Oil Palm Farming
+  poultry-farming: Olive Farming
+  chicken-farming: Poppy Farming
+  duck-farming: Rape Farming
+  emu-farming: Safflower Farming
+  francolin-farming: Seed Cotton Farming
+  goose-farming: Sesame Farming
+  guinea-fowl-farming: Soybean Farming
+  ostrich-farming: Sunflower Farming
+  partridge-farming: Tung Farming
+  peafowl-farming: Pulse Crop Farming
+  pheasant-farming: Bean Farming
+  pigeon-farming: Lentil Farming
+  quail-farming: Lupin Farming
+  swan-farming: Pea Farming
+  swiftlet-farming: Vetch Farming
+  tinamou-farming: Root and Tuber Crop Farming
+  turkey-farming: Cassava Farming
+  pulse-crop-farming: Cocoyam Farming
+  bean-farming: Potato Farming
+  lentil-farming: Yam Farming
+  lupin-farming: Sugar Crop Farming
+  pea-farming: Sugar Beet Farming
+  vetch-farming: Sugar Cane Farming
+  root-and-tuber-crop-farming: Tree Nut Crop Farming
+  cassava-farming: Almond Farming
+  cocoyam-farming: Brazil Farming
+  potato-farming: Cashew Farming
+  yam-farming: Chestnut Farming
+  spice-crop-farming: Hazelnut Farming
+  anise-farming: Pistachio Farming
+  badian-farming: Walnut Farming
+  cardamon-farming: Vegetable Crop Farming
+  chilly-and-pepper-farming: Artichoke Farming
+  cinnamon-farming: Asparagus Farming
+  clove-farming: Bean Farming
+  fennel-farming: Broccoli Farming
+  ginger-farming: Cabbage Farming
+  mace-farming: Carrot Farming
+  nutmeg-farming: Cauliflower Farming
+  pimento-farming: Chicory Farming
+  vanilla-farming: Chilly and Pepper Farming
+  stimulant-crop-farming: Cucumber Farming
+  bean-farming: Eggplant Farming
+  coffee-farming: Garlic Farming
+  mate-farming: Gherkin Farming
+  tea-farming: Gourd Farming
+  sugar-crop-farming: Leek Farming
+  sugar-beet-farming: Lettuce Farming
+  sugar-cane-farming: Maize Farming
+  tree-nut-crop-farming: Mushroom Farming
+  almond-farming: Okra Farming
+  brazil-farming: Onion Farming
+  cashew-farming: Pea Farming
+  chestnut-farming: Pumpkin Farming
+  hazelnut-farming: Shallot Farming
+  pistachio-farming: Spinach Farming
+  walnut-farming: Squash Farming
+  vegetable-crop-farming: Tomato Farming
+  artichoke-farming: Truffle Farming
+  asparagus-farming: Turnip Farming
+  bean-farming: Spice Crop Farming
+  broccoli-farming: Anise Farming
+  cabbage-farming: Badian Farming
+  carrot-farming: Cardamon Farming
+  cauliflower-farming: Chilly and Pepper Farming
+  chicory-farming: Cinnamon Farming
+  chilly-and-pepper-farming: Clove Farming
+  cucumber-farming: Fennel Farming
+  eggplant-farming: Ginger Farming
+  garlic-farming: Mace Farming
+  gherkin-farming: Nutmeg Farming
+  gourd-farming: Pimento Farming
+  leek-farming: Vanilla Farming
+  lettuce-farming: Stimulant Crop Farming
+  maize-farming: Bean Farming
+  mushroom-farming: Coffee Farming
+  okra-farming: Mate Farming
+  onion-farming: Tea Farming
+  pea-farming: Other Crops Farming
+  pumpkin-farming: Citronella Farming
+  shallot-farming: Gum Farming
+  spinach-farming: Hop Farming
+  squash-farming: Mint Farming
+  tomato-farming: Pyrethrum Farming
+  truffle-farming: Tobacco Farming
+  turnip-farming: Wax Farming
+  food-production: Food Production
+  beverage-production: Cereal Product Production
+  cereal-product-production: Pulse Product Production
+  condiment-production: Nut Product Production
+  confection-production: Beverage Production
+  food-additive-production: Condiment Production
+  nut-product-production: Confection Production
+  pasta-and-noodle-production: Pasta and Noodle Production
+  pulse-product-production: Food Additive Production
+  craft: Craft
+ 
+sub_title:
+  attribute-skills: A brief description
+  moral-ethic: A brief description
+  courage: A brief description
+  gratitude: A brief description
+  honesty: A brief description
+  humility: A brief description
+  kindness: A brief description
+  patience: A brief description
+  serenity: A brief description
+  temperance: A brief description
+  work-ethic: A brief description
+  accountability: A brief description
+  co-operation: A brief description
+  consistency: A brief description
+  fairness: A brief description
+  integrity: A brief description
+  openness: A brief description
+  positivity: A brief description
+  productivity: A brief description
+  respect: A brief description
+  self-management: A brief description
+  personal-change-management: A brief description
+  resilence: A brief description
+  self-confidence: A brief description
+  self-control: A brief description
+  self-determination: A brief description
+  self-discipline: A brief description
+  self-efficacy: A brief description
+  self-esteem: A brief description
+  self-motivation: A brief description
+  stress-management: A brief description
+  time-management: A brief description
+  cognition: A brief description
+  attention: A brief description
+  executive-functions: A brief description
+  language-skills: A brief description
+  memory: A brief description
+  metacognition: A brief description
+  motor-skills: A brief description
+  perception: A brief description
+  processing-speed: A brief description
+  cognitive-aptitude: A brief description
+  ability-to-learn: A brief description
+  ability-to-organize: A brief description
+  ability-to-plan: A brief description
+  creativity: A brief description
+  critical-thinking: A brief description
+  decision-making: A brief description
+  intuition: A brief description
+  problem-solving: A brief description
+  strategic-thinking: A brief description
+  emotion-management: A brief description
+  anger-management: A brief description
+  anxiety-management: A brief description
+  despair-management: A brief description
+  envy-management: A brief description
+  fear-management: A brief description
+  guilt-management: A brief description
+  happiness-management: A brief description
+  hatred-management: A brief description
+  hope-management: A brief description
+  loneliness-management: A brief description
+  love-management: A brief description
+  pride-management: A brief description
+  regret-management: A brief description
+  sadness-management: A brief description
+  shame-management: A brief description
+  social-interrelation: A brief description
+  active-listening: A brief description
+  conflict-management: A brief description
+  negotiation: A brief description
+  non-verbal-communication: A brief description
+  social-awareness: A brief description
+  teamwork: A brief description
+  verbal-communication: A brief description
+  visual-communication: A brief description
+  written-communication: A brief description
+  administration: A brief description
+  delegation: A brief description
+  leadership: A brief description
+  management: A brief description
+  mentoring: A brief description
+  monitoring: A brief description
+  motivating: A brief description
+  organization: A brief description
+  people-management: A brief description
+  farming: A brief description
+  cereal-crop-farming: A brief description
+  barley-farming: A brief description
+  buckwheat-farming: A brief description
+  canary-seed-farming: A brief description
+  fonio-farming: A brief description
+  maize-farming: A brief description
+  millet-farming: A brief description
+  oat-farming: A brief description
+  quinoa-farming: A brief description
+  rice-farming: A brief description
+  rye-farming: A brief description
+  sorghum-farming: A brief description
+  triticale-farming: A brief description
+  wheat-farming: A brief description
+  citrus-fruit-farming: A brief description
+  clementine-farming: A brief description
+  grapefruit-farming: A brief description
+  lemon-farming: A brief description
+  lime-farming: A brief description
+  mandarin-farming: A brief description
+  orange-farming: A brief description
+  satsumas-farming: A brief description
+  tangerine-farming: A brief description
+  crustacean-farming: A brief description
+  crab-farming: A brief description
+  crayfish-farming: A brief description
+  lobster-farming: A brief description
+  prawn-farming: A brief description
+  shrimp-farming: A brief description
+  fibre-crop-farming: A brief description
+  agave-farming: A brief description
+  bast-farming: A brief description
+  flax-farming: A brief description
+  hemp-farming: A brief description
+  jute-farming: A brief description
+  kapok-farming: A brief description
+  manila-farming: A brief description
+  ramie-farming: A brief description
+  seed-cotton-farming: A brief description
+  sisal-farming: A brief description
+  fish-farming: A brief description
+  carp-farming: A brief description
+  catfish-farming: A brief description
+  eel-farming: A brief description
+  mullet-farming: A brief description
+  perch-farming: A brief description
+  salmon-farming: A brief description
+  seabream-farming: A brief description
+  sturgeon-farming: A brief description
+  tilapia-farming: A brief description
+  trout-farming: A brief description
+  fruit-crop-farming: A brief description
+  apple-farming: A brief description
+  apricot-farming: A brief description
+  avocado-farming: A brief description
+  banana-farming: A brief description
+  blueberry-farming: A brief description
+  carob-farming: A brief description
+  cashewapple-farming: A brief description
+  cherry-farming: A brief description
+  clementine-farming: A brief description
+  cranberry-farming: A brief description
+  currant-farming: A brief description
+  date-farming: A brief description
+  fig-farming: A brief description
+  gooseberry-farming: A brief description
+  grape-farming: A brief description
+  grapefruit-farming: A brief description
+  guava-farming: A brief description
+  kiwi-farming: A brief description
+  lemon-farming: A brief description
+  lime-farming: A brief description
+  mandarin-farming: A brief description
+  mango-farming: A brief description
+  mangosteen-farming: A brief description
+  nectarine-farming: A brief description
+  orange-farming: A brief description
+  papaya-farming: A brief description
+  peach-farming: A brief description
+  pear-farming: A brief description
+  persimmon-farming: A brief description
+  pineapple-farming: A brief description
+  plantain-farming: A brief description
+  plum-and-sole-farming: A brief description
+  quince-farming: A brief description
+  raspberry-farming: A brief description
+  satsumas-farming: A brief description
+  strawberry-farming: A brief description
+  tangerine-farming: A brief description
+  watermelon-farming: A brief description
+  livestock-farming: A brief description
+  alpaca-farming: A brief description
+  buffalo-farming: A brief description
+  camel-farming: A brief description
+  cattle-farming: A brief description
+  donkey-farming: A brief description
+  goat-farming: A brief description
+  horse-farming: A brief description
+  llama-farming: A brief description
+  ox-farming: A brief description
+  pig-farming: A brief description
+  rabbit-farming: A brief description
+  reindeer-farming: A brief description
+  sheep-farming: A brief description
+  water-buffalo-farming: A brief description
+  yak-farming: A brief description
+  molluscs-farming: A brief description
+  abalone-farming: A brief description
+  ark-farming: A brief description
+  clam-farming: A brief description
+  mussel-farming: A brief description
+  oyster-farming: A brief description
+  scallop-farming: A brief description
+  shell-farming: A brief description
+  oilcrop-farming: A brief description
+  castor-farming: A brief description
+  coconut-farming: A brief description
+  flax-farming: A brief description
+  groundnut-farming: A brief description
+  hemp-farming: A brief description
+  jojoba-farming: A brief description
+  kapok-farming: A brief description
+  karite-farming: A brief description
+  melon-farming: A brief description
+  mustard-farming: A brief description
+  oil-palm-farming: A brief description
+  olive-farming: A brief description
+  poppy-farming: A brief description
+  rape-farming: A brief description
+  safflower-farming: A brief description
+  seed-cotton-farming: A brief description
+  sesame-farming: A brief description
+  soybean-farming: A brief description
+  sunflower-farming: A brief description
+  tung-farming: A brief description
+  other-crops-farming: A brief description
+  citronella-farming: A brief description
+  gum-farming: A brief description
+  hop-farming: A brief description
+  mint-farming: A brief description
+  pyrethrum-farming: A brief description
+  tobacco-farming: A brief description
+  wax-farming: A brief description
+  poultry-farming: A brief description
+  chicken-farming: A brief description
+  duck-farming: A brief description
+  emu-farming: A brief description
+  francolin-farming: A brief description
+  goose-farming: A brief description
+  guinea-fowl-farming: A brief description
+  ostrich-farming: A brief description
+  partridge-farming: A brief description
+  peafowl-farming: A brief description
+  pheasant-farming: A brief description
+  pigeon-farming: A brief description
+  quail-farming: A brief description
+  swan-farming: A brief description
+  swiftlet-farming: A brief description
+  tinamou-farming: A brief description
+  turkey-farming: A brief description
+  pulse-crop-farming: A brief description
+  bean-farming: A brief description
+  lentil-farming: A brief description
+  lupin-farming: A brief description
+  pea-farming: A brief description
+  vetch-farming: A brief description
+  root-and-tuber-crop-farming: A brief description
+  cassava-farming: A brief description
+  cocoyam-farming: A brief description
+  potato-farming: A brief description
+  yam-farming: A brief description
+  spice-crop-farming: A brief description
+  anise-farming: A brief description
+  badian-farming: A brief description
+  cardamon-farming: A brief description
+  chilly-and-pepper-farming: A brief description
+  cinnamon-farming: A brief description
+  clove-farming: A brief description
+  fennel-farming: A brief description
+  ginger-farming: A brief description
+  mace-farming: A brief description
+  nutmeg-farming: A brief description
+  pimento-farming: A brief description
+  vanilla-farming: A brief description
+  stimulant-crop-farming: A brief description
+  bean-farming: A brief description
+  coffee-farming: A brief description
+  mate-farming: A brief description
+  tea-farming: A brief description
+  sugar-crop-farming: A brief description
+  sugar-beet-farming: A brief description
+  sugar-cane-farming: A brief description
+  tree-nut-crop-farming: A brief description
+  almond-farming: A brief description
+  brazil-farming: A brief description
+  cashew-farming: A brief description
+  chestnut-farming: A brief description
+  hazelnut-farming: A brief description
+  pistachio-farming: A brief description
+  walnut-farming: A brief description
+  vegetable-crop-farming: A brief description
+  artichoke-farming: A brief description
+  asparagus-farming: A brief description
+  bean-farming: A brief description
+  broccoli-farming: A brief description
+  cabbage-farming: A brief description
+  carrot-farming: A brief description
+  cauliflower-farming: A brief description
+  chicory-farming: A brief description
+  chilly-and-pepper-farming: A brief description
+  cucumber-farming: A brief description
+  eggplant-farming: A brief description
+  garlic-farming: A brief description
+  gherkin-farming: A brief description
+  gourd-farming: A brief description
+  leek-farming: A brief description
+  lettuce-farming: A brief description
+  maize-farming: A brief description
+  mushroom-farming: A brief description
+  okra-farming: A brief description
+  onion-farming: A brief description
+  pea-farming: A brief description
+  pumpkin-farming: A brief description
+  shallot-farming: A brief description
+  spinach-farming: A brief description
+  squash-farming: A brief description
+  tomato-farming: A brief description
+  truffle-farming: A brief description
+  turnip-farming: A brief description
+  food-production: A brief description
+  beverage-production: A brief description
+  cereal-product-production: A brief description
+  condiment-production: A brief description
+  confection-production: A brief description
+  food-additive-production: A brief description
+  nut-product-production: A brief description
+  pasta-and-noodle-production: A brief description
+  pulse-product-production: A brief description
+  craft: A brief description
+ 
+label:
+  attribute-skills: Courage, Gratitude, Honesty, Humility, Kindness, Patience, Serenity, Temperance
+  moral-ethic: Honesty
+  courage: Patience
+  gratitude: Gratitude
+  honesty: Kindness
+  humility: Courage
+  kindness: Temperance
+  patience: Humility
+  serenity: Serenity
+  temperance: Accountability, Co-operation, Consistency, Fairness, Integrity, Openness, Positivity, Productivity, Respect
+  work-ethic: Integrity
+  accountability: Respect
+  co-operation: Co-operation
+  consistency: Consistency
+  fairness: Positivity
+  integrity: Accountability
+  openness: Fairness
+  positivity: Productivity
+  productivity: Openness
+  respect: Personal Change Management, Resilence, Self Confidence, Self Control, Self Determination, Self Discipline, Self Efficacy, Self Esteem, Self Motivation, Stress Management, Time Management
+  self-management: Self Esteem
+  personal-change-management: Self Confidence
+  resilence: Self Efficacy
+  self-confidence: Self Determination
+  self-control: Self Discipline
+  self-determination: Self Motivation
+  self-discipline: Self Control
+  self-efficacy: Resilence
+  self-esteem: Time Management
+  self-motivation: Stress Management
+  stress-management: Personal Change Management
+  time-management: Attention, Executive Functions, Language Skills, Memory, Metacognition, Motor Skills, Perception, Processing Speed
+  cognition: Attention
+  attention: Perception
+  executive-functions: Memory
+  language-skills: Executive Functions
+  memory: Processing Speed
+  metacognition: Motor Skills
+  motor-skills: Language Skills
+  perception: Metacognition
+  processing-speed: Ability to Learn, Ability to Organize, Ability to Plan, Creativity, Critical Thinking, Decision Making, Intuition, Problem Solving, Strategic Thinking, Wisdom
+  cognitive-aptitude: Ability to Learn
+  ability-to-learn: Ability to Organize
+  ability-to-organize: Ability to Plan
+  ability-to-plan: Problem Solving
+  creativity: Decision Making
+  critical-thinking: Critical Thinking
+  decision-making: Strategic Thinking
+  intuition: Intuition
+  problem-solving: Creativity
+  strategic-thinking: Anger, Anxiety, Despair, Envy, Fear, Guilt, Happiness, Hatred, Hope, Loneliness, love, Pride, Regret, Sadness, Shame
+  emotion-management: Anger Management
+  anger-management: Anxiety Management
+  anxiety-management: Fear Management
+  despair-management: Happiness Management
+  envy-management: Sadness Management
+  fear-management: Hatred Management
+  guilt-management: Love Management
+  happiness-management: Shame Management
+  hatred-management: Regret Management
+  hope-management: Hope Management
+  loneliness-management: Guilt Management
+  love-management: Despair Management
+  pride-management: Loneliness Management
+  regret-management: Envy Management
+  sadness-management: Pride Management
+  shame-management: Active Listening, Non Verbal Communication, Verbal Communication, Visual Communication, Written Communication, Negotiation, Conflict Management, Social Awareness, Teamwork
+  social-interrelation: Verbal Communication
+  active-listening: Non Verbal Communication
+  conflict-management: Written Communication
+  negotiation: Active Listening
+  non-verbal-communication: Visual Communication
+  social-awareness: Teamwork
+  teamwork: Negotiation
+  verbal-communication: Social Awareness
+  visual-communication: Conflict Management
+  written-communication: Delegation, Leadership, Management, Mentoring, Monitoring, Motivating, Organization, People Management
+  administration: Management
+  delegation: Organization
+  leadership: Leadership
+  management: People Management
+  mentoring: Delegation
+  monitoring: Motivating
+  motivating: Mentoring
+  organization: Monitoring
+  people-management: 
+  farming: 
+  cereal-crop-farming: Livestock Farming
+  barley-farming: Alpaca Livestock Farming
+  buckwheat-farming: Buffalo Livestock Farming
+  canary-seed-farming: Camel Livestock Farming
+  fonio-farming: Cattle Livestock Farming
+  maize-farming: Donkey Livestock Farming
+  millet-farming: Goat Livestock Farming
+  oat-farming: Horse Livestock Farming
+  quinoa-farming: Llama Livestock Farming
+  rice-farming: Ox Livestock Farming
+  rye-farming: Pig Livestock Farming
+  sorghum-farming: Rabbit Livestock Farming
+  triticale-farming: Reindeer Livestock Farming
+  wheat-farming: Sheep Livestock Farming
+  citrus-fruit-farming: Water Buffalo Livestock Farming
+  clementine-farming: Yak Livestock Farming
+  grapefruit-farming: Poultry Farming
+  lemon-farming: Chicken Poultry Farming
+  lime-farming: Duck Poultry Farming
+  mandarin-farming: Emu Poultry Farming
+  orange-farming: Francolin Poultry Farming
+  satsumas-farming: Goose Poultry Farming
+  tangerine-farming: Guinea Fowl Poultry Farming
+  crustacean-farming: Ostrich Poultry Farming
+  crab-farming: Partridge Poultry Farming
+  crayfish-farming: Peafowl Poultry Farming
+  lobster-farming: Pheasant Poultry Farming
+  prawn-farming: Pigeon Poultry Farming
+  shrimp-farming: Quail Poultry Farming
+  fibre-crop-farming: Swan Poultry Farming
+  agave-farming: Swiftlet Poultry Farming
+  bast-farming: Tinamou Poultry Farming
+  flax-farming: Turkey Poultry Farming
+  hemp-farming: Fish Farming
+  jute-farming: Carp Fish Farming
+  kapok-farming: Catfish Fish Farming
+  manila-farming: Eel Fish Farming
+  ramie-farming: Mullet Fish Farming
+  seed-cotton-farming: Perch Fish Farming
+  sisal-farming: Salmon Fish Farming
+  fish-farming: Seabream Fish Farming
+  carp-farming: Sturgeon Fish Farming
+  catfish-farming: Tilapia Fish Farming
+  eel-farming: Trout Fish Farming
+  mullet-farming: Crustacean Farming
+  perch-farming: Crab Crustacean Farming
+  salmon-farming: Crayfish Crustacean Farming
+  seabream-farming: Lobster Crustacean Farming
+  sturgeon-farming: Prawn Crustacean Farming
+  tilapia-farming: Shrimp Crustacean Farming
+  trout-farming: Molluscs Farming
+  fruit-crop-farming: Abalone Molluscs Farming
+  apple-farming: Ark Molluscs Farming
+  apricot-farming: Clam Molluscs Farming
+  avocado-farming: Mussel Molluscs Farming
+  banana-farming: Oyster Molluscs Farming
+  blueberry-farming: Scallop Molluscs Farming
+  carob-farming: Shell Molluscs Farming
+  cashewapple-farming: Cereal Crop Farming
+  cherry-farming: Barley Cereal Crop Farming
+  clementine-farming: Buckwheat Cereal Crop Farming
+  cranberry-farming: Canary Seed Cereal Crop Farming
+  currant-farming: Fonio Cereal Crop Farming
+  date-farming: Maize Cereal Crop Farming
+  fig-farming: Millet Cereal Crop Farming
+  gooseberry-farming: Oat Cereal Crop Farming
+  grape-farming: Quinoa Cereal Crop Farming
+  grapefruit-farming: Rice Cereal Crop Farming
+  guava-farming: Rye Cereal Crop Farming
+  kiwi-farming: Sorghum Cereal Crop Farming
+  lemon-farming: Triticale Cereal Crop Farming
+  lime-farming: Wheat Cereal Crop Farming
+  mandarin-farming: Citrus Fruit Farming
+  mango-farming: Clementine Citrus Fruit Farming
+  mangosteen-farming: Grapefruit Citrus Fruit Farming
+  nectarine-farming: Lemon Citrus Fruit Farming
+  orange-farming: Lime Citrus Fruit Farming
+  papaya-farming: Mandarin Citrus Fruit Farming
+  peach-farming: Orange Citrus Fruit Farming
+  pear-farming: Satsumas Citrus Fruit Farming
+  persimmon-farming: Tangerine Citrus Fruit Farming
+  pineapple-farming: Fibre Crop Farming
+  plantain-farming: Agave Fibre Crop Farming
+  plum-and-sole-farming: Bast Fibre Crop Farming
+  quince-farming: Flax Fibre Crop Farming
+  raspberry-farming: Hemp Fibre Crop Farming
+  satsumas-farming: Jute Fibre Crop Farming
+  strawberry-farming: Kapok Fibre Crop Farming
+  tangerine-farming: Manila Fibre Crop Farming
+  watermelon-farming: Ramie Fibre Crop Farming
+  livestock-farming: Seed Cotton Fibre Crop Farming
+  alpaca-farming: Sisal Fibre Crop Farming
+  buffalo-farming: Fruit Crop Farming
+  camel-farming: Apple Fruit Crop Farming
+  cattle-farming: Apricot Fruit Crop Farming
+  donkey-farming: Avocado Fruit Crop Farming
+  goat-farming: Banana Fruit Crop Farming
+  horse-farming: Blueberry Fruit Crop Farming
+  llama-farming: Carob Fruit Crop Farming
+  ox-farming: Cashewapple Fruit Crop Farming
+  pig-farming: Cherry Fruit Crop Farming
+  rabbit-farming: Clementine Fruit Crop Farming
+  reindeer-farming: Cranberry Fruit Crop Farming
+  sheep-farming: Currant Fruit Crop Farming
+  water-buffalo-farming: Date Fruit Crop Farming
+  yak-farming: Fig Fruit Crop Farming
+  molluscs-farming: Gooseberry Fruit Crop Farming
+  abalone-farming: Grape Fruit Crop Farming
+  ark-farming: Grapefruit Fruit Crop Farming
+  clam-farming: Guava Fruit Crop Farming
+  mussel-farming: Kiwi Fruit Crop Farming
+  oyster-farming: Lemon Fruit Crop Farming
+  scallop-farming: Lime Fruit Crop Farming
+  shell-farming: Mandarin Fruit Crop Farming
+  oilcrop-farming: Mango Fruit Crop Farming
+  castor-farming: Mangosteen Fruit Crop Farming
+  coconut-farming: Nectarine Fruit Crop Farming
+  flax-farming: Orange Fruit Crop Farming
+  groundnut-farming: Papaya Fruit Crop Farming
+  hemp-farming: Peach Fruit Crop Farming
+  jojoba-farming: Pear Fruit Crop Farming
+  kapok-farming: Persimmon Fruit Crop Farming
+  karite-farming: Pineapple Fruit Crop Farming
+  melon-farming: Plantain Fruit Crop Farming
+  mustard-farming: Plum and Sole Fruit Crop Farming
+  oil-palm-farming: Quince Fruit Crop Farming
+  olive-farming: Raspberry Fruit Crop Farming
+  poppy-farming: Satsumas Fruit Crop Farming
+  rape-farming: Strawberry Fruit Crop Farming
+  safflower-farming: Tangerine Fruit Crop Farming
+  seed-cotton-farming: Watermelon Fruit Crop Farming
+  sesame-farming: Oilcrop Farming
+  soybean-farming: Castor Oilcrop Farming
+  sunflower-farming: Coconut Oilcrop Farming
+  tung-farming: Flax Oilcrop Farming
+  other-crops-farming: Groundnut Oilcrop Farming
+  citronella-farming: Hemp Oilcrop Farming
+  gum-farming: Jojoba Oilcrop Farming
+  hop-farming: Kapok Oilcrop Farming
+  mint-farming: Karite Oilcrop Farming
+  pyrethrum-farming: Melon Oilcrop Farming
+  tobacco-farming: Mustard Oilcrop Farming
+  wax-farming: Oil Palm Oilcrop Farming
+  poultry-farming: Olive Oilcrop Farming
+  chicken-farming: Poppy Oilcrop Farming
+  duck-farming: Rape Oilcrop Farming
+  emu-farming: Safflower Oilcrop Farming
+  francolin-farming: Seed Cotton Oilcrop Farming
+  goose-farming: Sesame Oilcrop Farming
+  guinea-fowl-farming: Soybean Oilcrop Farming
+  ostrich-farming: Sunflower Oilcrop Farming
+  partridge-farming: Tung Oilcrop Farming
+  peafowl-farming: Pulse Crop Farming
+  pheasant-farming: Bean Pulse Crop Farming
+  pigeon-farming: Lentil Pulse Crop Farming
+  quail-farming: Lupin Pulse Crop Farming
+  swan-farming: Pea Pulse Crop Farming
+  swiftlet-farming: Vetch Pulse Crop Farming
+  tinamou-farming: Root and Tuber Crop Farming
+  turkey-farming: Cassava Root and Tuber Crop Farming
+  pulse-crop-farming: Cocoyam Root and Tuber Crop Farming
+  bean-farming: Potato Root and Tuber Crop Farming
+  lentil-farming: Yam Root and Tuber Crop Farming
+  lupin-farming: Sugar Crop Farming
+  pea-farming: Sugar Beet Sugar Crop Farming
+  vetch-farming: Sugar Cane Sugar Crop Farming
+  root-and-tuber-crop-farming: Tree Nut Crop Farming
+  cassava-farming: Almond Tree Nut Crop Farming
+  cocoyam-farming: Brazil Tree Nut Crop Farming
+  potato-farming: Cashew Tree Nut Crop Farming
+  yam-farming: Chestnut Tree Nut Crop Farming
+  spice-crop-farming: Hazelnut Tree Nut Crop Farming
+  anise-farming: Pistachio Tree Nut Crop Farming
+  badian-farming: Walnut Tree Nut Crop Farming
+  cardamon-farming: Vegetable Crop Farming
+  chilly-and-pepper-farming: Artichoke Vegetable Crop Farming
+  cinnamon-farming: Asparagus Vegetable Crop Farming
+  clove-farming: Bean Vegetable Crop Farming
+  fennel-farming: Broccoli Vegetable Crop Farming
+  ginger-farming: Cabbage Vegetable Crop Farming
+  mace-farming: Carrot Vegetable Crop Farming
+  nutmeg-farming: Cauliflower Vegetable Crop Farming
+  pimento-farming: Chicory Vegetable Crop Farming
+  vanilla-farming: Chilly and Pepper Vegetable Crop Farming
+  stimulant-crop-farming: Cucumber Vegetable Crop Farming
+  bean-farming: Eggplant Vegetable Crop Farming
+  coffee-farming: Garlic Vegetable Crop Farming
+  mate-farming: Gherkin Vegetable Crop Farming
+  tea-farming: Gourd Vegetable Crop Farming
+  sugar-crop-farming: Leek Vegetable Crop Farming
+  sugar-beet-farming: Lettuce Vegetable Crop Farming
+  sugar-cane-farming: Maize Vegetable Crop Farming
+  tree-nut-crop-farming: Mushroom Vegetable Crop Farming
+  almond-farming: Okra Vegetable Crop Farming
+  brazil-farming: Onion Vegetable Crop Farming
+  cashew-farming: Pea Vegetable Crop Farming
+  chestnut-farming: Pumpkin Vegetable Crop Farming
+  hazelnut-farming: Shallot Vegetable Crop Farming
+  pistachio-farming: Spinach Vegetable Crop Farming
+  walnut-farming: Squash Vegetable Crop Farming
+  vegetable-crop-farming: Tomato Vegetable Crop Farming
+  artichoke-farming: Truffle Vegetable Crop Farming
+  asparagus-farming: Turnip Vegetable Crop Farming
+  bean-farming: Spice Crop Farming
+  broccoli-farming: Anise Spice Crop Farming
+  cabbage-farming: Badian Spice Crop Farming
+  carrot-farming: Cardamon Spice Crop Farming
+  cauliflower-farming: Chilly and Pepper Spice Crop Farming
+  chicory-farming: Cinnamon Spice Crop Farming
+  chilly-and-pepper-farming: Clove Spice Crop Farming
+  cucumber-farming: Fennel Spice Crop Farming
+  eggplant-farming: Ginger Spice Crop Farming
+  garlic-farming: Mace Spice Crop Farming
+  gherkin-farming: Nutmeg Spice Crop Farming
+  gourd-farming: Pimento Spice Crop Farming
+  leek-farming: Vanilla Spice Crop Farming
+  lettuce-farming: Stimulant Crop Farming
+  maize-farming: Bean Stimulant Crop Farming
+  mushroom-farming: Coffee Stimulant Crop Farming
+  okra-farming: Mate Stimulant Crop Farming
+  onion-farming: Tea Stimulant Crop Farming
+  pea-farming: Other Crops Farming
+  pumpkin-farming: Citronella Other Crops Farming
+  shallot-farming: Gum Other Crops Farming
+  spinach-farming: Hop Other Crops Farming
+  squash-farming: Mint Other Crops Farming
+  tomato-farming: Pyrethrum Other Crops Farming
+  truffle-farming: Tobacco Other Crops Farming
+  turnip-farming: Wax Other Crops Farming
+  food-production: 
+  beverage-production: Cereal Product Production
+  cereal-product-production: Pulse Product Production
+  condiment-production: Nut Product Production
+  confection-production: Beverage Production
+  food-additive-production: Condiment Production
+  nut-product-production: Confection Production
+  pasta-and-noodle-production: Pasta and Noodle Production
+  pulse-product-production: Food Additive Production
+  craft: 
+ 
+excerpt:
+  attribute-skills: This is a description of this article. When available, this message would change.
+  moral-ethic: This is a description of this article. When available, this message would change.
+  courage: This is a description of this article. When available, this message would change.
+  gratitude: This is a description of this article. When available, this message would change.
+  honesty: This is a description of this article. When available, this message would change.
+  humility: This is a description of this article. When available, this message would change.
+  kindness: This is a description of this article. When available, this message would change.
+  patience: This is a description of this article. When available, this message would change.
+  serenity: This is a description of this article. When available, this message would change.
+  temperance: This is a description of this article. When available, this message would change.
+  work-ethic: This is a description of this article. When available, this message would change.
+  accountability: This is a description of this article. When available, this message would change.
+  co-operation: This is a description of this article. When available, this message would change.
+  consistency: This is a description of this article. When available, this message would change.
+  fairness: This is a description of this article. When available, this message would change.
+  integrity: This is a description of this article. When available, this message would change.
+  openness: This is a description of this article. When available, this message would change.
+  positivity: This is a description of this article. When available, this message would change.
+  productivity: This is a description of this article. When available, this message would change.
+  respect: This is a description of this article. When available, this message would change.
+  self-management: This is a description of this article. When available, this message would change.
+  personal-change-management: This is a description of this article. When available, this message would change.
+  resilence: This is a description of this article. When available, this message would change.
+  self-confidence: This is a description of this article. When available, this message would change.
+  self-control: This is a description of this article. When available, this message would change.
+  self-determination: This is a description of this article. When available, this message would change.
+  self-discipline: This is a description of this article. When available, this message would change.
+  self-efficacy: This is a description of this article. When available, this message would change.
+  self-esteem: This is a description of this article. When available, this message would change.
+  self-motivation: This is a description of this article. When available, this message would change.
+  stress-management: This is a description of this article. When available, this message would change.
+  time-management: This is a description of this article. When available, this message would change.
+  cognition: This is a description of this article. When available, this message would change.
+  attention: This is a description of this article. When available, this message would change.
+  executive-functions: This is a description of this article. When available, this message would change.
+  language-skills: This is a description of this article. When available, this message would change.
+  memory: This is a description of this article. When available, this message would change.
+  metacognition: This is a description of this article. When available, this message would change.
+  motor-skills: This is a description of this article. When available, this message would change.
+  perception: This is a description of this article. When available, this message would change.
+  processing-speed: This is a description of this article. When available, this message would change.
+  cognitive-aptitude: This is a description of this article. When available, this message would change.
+  ability-to-learn: This is a description of this article. When available, this message would change.
+  ability-to-organize: This is a description of this article. When available, this message would change.
+  ability-to-plan: This is a description of this article. When available, this message would change.
+  creativity: This is a description of this article. When available, this message would change.
+  critical-thinking: This is a description of this article. When available, this message would change.
+  decision-making: This is a description of this article. When available, this message would change.
+  intuition: This is a description of this article. When available, this message would change.
+  problem-solving: This is a description of this article. When available, this message would change.
+  strategic-thinking: This is a description of this article. When available, this message would change.
+  emotion-management: This is a description of this article. When available, this message would change.
+  anger-management: This is a description of this article. When available, this message would change.
+  anxiety-management: This is a description of this article. When available, this message would change.
+  despair-management: This is a description of this article. When available, this message would change.
+  envy-management: This is a description of this article. When available, this message would change.
+  fear-management: This is a description of this article. When available, this message would change.
+  guilt-management: This is a description of this article. When available, this message would change.
+  happiness-management: This is a description of this article. When available, this message would change.
+  hatred-management: This is a description of this article. When available, this message would change.
+  hope-management: This is a description of this article. When available, this message would change.
+  loneliness-management: This is a description of this article. When available, this message would change.
+  love-management: This is a description of this article. When available, this message would change.
+  pride-management: This is a description of this article. When available, this message would change.
+  regret-management: This is a description of this article. When available, this message would change.
+  sadness-management: This is a description of this article. When available, this message would change.
+  shame-management: This is a description of this article. When available, this message would change.
+  social-interrelation: This is a description of this article. When available, this message would change.
+  active-listening: This is a description of this article. When available, this message would change.
+  conflict-management: This is a description of this article. When available, this message would change.
+  negotiation: This is a description of this article. When available, this message would change.
+  non-verbal-communication: This is a description of this article. When available, this message would change.
+  social-awareness: This is a description of this article. When available, this message would change.
+  teamwork: This is a description of this article. When available, this message would change.
+  verbal-communication: This is a description of this article. When available, this message would change.
+  visual-communication: This is a description of this article. When available, this message would change.
+  written-communication: This is a description of this article. When available, this message would change.
+  administration: This is a description of this article. When available, this message would change.
+  delegation: This is a description of this article. When available, this message would change.
+  leadership: This is a description of this article. When available, this message would change.
+  management: This is a description of this article. When available, this message would change.
+  mentoring: This is a description of this article. When available, this message would change.
+  monitoring: This is a description of this article. When available, this message would change.
+  motivating: This is a description of this article. When available, this message would change.
+  organization: This is a description of this article. When available, this message would change.
+  people-management: This is a description of this article. When available, this message would change.
+  farming: This is a description of this article. When available, this message would change.
+  cereal-crop-farming: This is a description of this article. When available, this message would change.
+  barley-farming: This is a description of this article. When available, this message would change.
+  buckwheat-farming: This is a description of this article. When available, this message would change.
+  canary-seed-farming: This is a description of this article. When available, this message would change.
+  fonio-farming: This is a description of this article. When available, this message would change.
+  maize-farming: This is a description of this article. When available, this message would change.
+  millet-farming: This is a description of this article. When available, this message would change.
+  oat-farming: This is a description of this article. When available, this message would change.
+  quinoa-farming: This is a description of this article. When available, this message would change.
+  rice-farming: This is a description of this article. When available, this message would change.
+  rye-farming: This is a description of this article. When available, this message would change.
+  sorghum-farming: This is a description of this article. When available, this message would change.
+  triticale-farming: This is a description of this article. When available, this message would change.
+  wheat-farming: This is a description of this article. When available, this message would change.
+  citrus-fruit-farming: This is a description of this article. When available, this message would change.
+  clementine-farming: This is a description of this article. When available, this message would change.
+  grapefruit-farming: This is a description of this article. When available, this message would change.
+  lemon-farming: This is a description of this article. When available, this message would change.
+  lime-farming: This is a description of this article. When available, this message would change.
+  mandarin-farming: This is a description of this article. When available, this message would change.
+  orange-farming: This is a description of this article. When available, this message would change.
+  satsumas-farming: This is a description of this article. When available, this message would change.
+  tangerine-farming: This is a description of this article. When available, this message would change.
+  crustacean-farming: This is a description of this article. When available, this message would change.
+  crab-farming: This is a description of this article. When available, this message would change.
+  crayfish-farming: This is a description of this article. When available, this message would change.
+  lobster-farming: This is a description of this article. When available, this message would change.
+  prawn-farming: This is a description of this article. When available, this message would change.
+  shrimp-farming: This is a description of this article. When available, this message would change.
+  fibre-crop-farming: This is a description of this article. When available, this message would change.
+  agave-farming: This is a description of this article. When available, this message would change.
+  bast-farming: This is a description of this article. When available, this message would change.
+  flax-farming: This is a description of this article. When available, this message would change.
+  hemp-farming: This is a description of this article. When available, this message would change.
+  jute-farming: This is a description of this article. When available, this message would change.
+  kapok-farming: This is a description of this article. When available, this message would change.
+  manila-farming: This is a description of this article. When available, this message would change.
+  ramie-farming: This is a description of this article. When available, this message would change.
+  seed-cotton-farming: This is a description of this article. When available, this message would change.
+  sisal-farming: This is a description of this article. When available, this message would change.
+  fish-farming: This is a description of this article. When available, this message would change.
+  carp-farming: This is a description of this article. When available, this message would change.
+  catfish-farming: This is a description of this article. When available, this message would change.
+  eel-farming: This is a description of this article. When available, this message would change.
+  mullet-farming: This is a description of this article. When available, this message would change.
+  perch-farming: This is a description of this article. When available, this message would change.
+  salmon-farming: This is a description of this article. When available, this message would change.
+  seabream-farming: This is a description of this article. When available, this message would change.
+  sturgeon-farming: This is a description of this article. When available, this message would change.
+  tilapia-farming: This is a description of this article. When available, this message would change.
+  trout-farming: This is a description of this article. When available, this message would change.
+  fruit-crop-farming: This is a description of this article. When available, this message would change.
+  apple-farming: This is a description of this article. When available, this message would change.
+  apricot-farming: This is a description of this article. When available, this message would change.
+  avocado-farming: This is a description of this article. When available, this message would change.
+  banana-farming: This is a description of this article. When available, this message would change.
+  blueberry-farming: This is a description of this article. When available, this message would change.
+  carob-farming: This is a description of this article. When available, this message would change.
+  cashewapple-farming: This is a description of this article. When available, this message would change.
+  cherry-farming: This is a description of this article. When available, this message would change.
+  clementine-farming: This is a description of this article. When available, this message would change.
+  cranberry-farming: This is a description of this article. When available, this message would change.
+  currant-farming: This is a description of this article. When available, this message would change.
+  date-farming: This is a description of this article. When available, this message would change.
+  fig-farming: This is a description of this article. When available, this message would change.
+  gooseberry-farming: This is a description of this article. When available, this message would change.
+  grape-farming: This is a description of this article. When available, this message would change.
+  grapefruit-farming: This is a description of this article. When available, this message would change.
+  guava-farming: This is a description of this article. When available, this message would change.
+  kiwi-farming: This is a description of this article. When available, this message would change.
+  lemon-farming: This is a description of this article. When available, this message would change.
+  lime-farming: This is a description of this article. When available, this message would change.
+  mandarin-farming: This is a description of this article. When available, this message would change.
+  mango-farming: This is a description of this article. When available, this message would change.
+  mangosteen-farming: This is a description of this article. When available, this message would change.
+  nectarine-farming: This is a description of this article. When available, this message would change.
+  orange-farming: This is a description of this article. When available, this message would change.
+  papaya-farming: This is a description of this article. When available, this message would change.
+  peach-farming: This is a description of this article. When available, this message would change.
+  pear-farming: This is a description of this article. When available, this message would change.
+  persimmon-farming: This is a description of this article. When available, this message would change.
+  pineapple-farming: This is a description of this article. When available, this message would change.
+  plantain-farming: This is a description of this article. When available, this message would change.
+  plum-and-sole-farming: This is a description of this article. When available, this message would change.
+  quince-farming: This is a description of this article. When available, this message would change.
+  raspberry-farming: This is a description of this article. When available, this message would change.
+  satsumas-farming: This is a description of this article. When available, this message would change.
+  strawberry-farming: This is a description of this article. When available, this message would change.
+  tangerine-farming: This is a description of this article. When available, this message would change.
+  watermelon-farming: This is a description of this article. When available, this message would change.
+  livestock-farming: This is a description of this article. When available, this message would change.
+  alpaca-farming: This is a description of this article. When available, this message would change.
+  buffalo-farming: This is a description of this article. When available, this message would change.
+  camel-farming: This is a description of this article. When available, this message would change.
+  cattle-farming: This is a description of this article. When available, this message would change.
+  donkey-farming: This is a description of this article. When available, this message would change.
+  goat-farming: This is a description of this article. When available, this message would change.
+  horse-farming: This is a description of this article. When available, this message would change.
+  llama-farming: This is a description of this article. When available, this message would change.
+  ox-farming: This is a description of this article. When available, this message would change.
+  pig-farming: This is a description of this article. When available, this message would change.
+  rabbit-farming: This is a description of this article. When available, this message would change.
+  reindeer-farming: This is a description of this article. When available, this message would change.
+  sheep-farming: This is a description of this article. When available, this message would change.
+  water-buffalo-farming: This is a description of this article. When available, this message would change.
+  yak-farming: This is a description of this article. When available, this message would change.
+  molluscs-farming: This is a description of this article. When available, this message would change.
+  abalone-farming: This is a description of this article. When available, this message would change.
+  ark-farming: This is a description of this article. When available, this message would change.
+  clam-farming: This is a description of this article. When available, this message would change.
+  mussel-farming: This is a description of this article. When available, this message would change.
+  oyster-farming: This is a description of this article. When available, this message would change.
+  scallop-farming: This is a description of this article. When available, this message would change.
+  shell-farming: This is a description of this article. When available, this message would change.
+  oilcrop-farming: This is a description of this article. When available, this message would change.
+  castor-farming: This is a description of this article. When available, this message would change.
+  coconut-farming: This is a description of this article. When available, this message would change.
+  flax-farming: This is a description of this article. When available, this message would change.
+  groundnut-farming: This is a description of this article. When available, this message would change.
+  hemp-farming: This is a description of this article. When available, this message would change.
+  jojoba-farming: This is a description of this article. When available, this message would change.
+  kapok-farming: This is a description of this article. When available, this message would change.
+  karite-farming: This is a description of this article. When available, this message would change.
+  melon-farming: This is a description of this article. When available, this message would change.
+  mustard-farming: This is a description of this article. When available, this message would change.
+  oil-palm-farming: This is a description of this article. When available, this message would change.
+  olive-farming: This is a description of this article. When available, this message would change.
+  poppy-farming: This is a description of this article. When available, this message would change.
+  rape-farming: This is a description of this article. When available, this message would change.
+  safflower-farming: This is a description of this article. When available, this message would change.
+  seed-cotton-farming: This is a description of this article. When available, this message would change.
+  sesame-farming: This is a description of this article. When available, this message would change.
+  soybean-farming: This is a description of this article. When available, this message would change.
+  sunflower-farming: This is a description of this article. When available, this message would change.
+  tung-farming: This is a description of this article. When available, this message would change.
+  other-crops-farming: This is a description of this article. When available, this message would change.
+  citronella-farming: This is a description of this article. When available, this message would change.
+  gum-farming: This is a description of this article. When available, this message would change.
+  hop-farming: This is a description of this article. When available, this message would change.
+  mint-farming: This is a description of this article. When available, this message would change.
+  pyrethrum-farming: This is a description of this article. When available, this message would change.
+  tobacco-farming: This is a description of this article. When available, this message would change.
+  wax-farming: This is a description of this article. When available, this message would change.
+  poultry-farming: This is a description of this article. When available, this message would change.
+  chicken-farming: This is a description of this article. When available, this message would change.
+  duck-farming: This is a description of this article. When available, this message would change.
+  emu-farming: This is a description of this article. When available, this message would change.
+  francolin-farming: This is a description of this article. When available, this message would change.
+  goose-farming: This is a description of this article. When available, this message would change.
+  guinea-fowl-farming: This is a description of this article. When available, this message would change.
+  ostrich-farming: This is a description of this article. When available, this message would change.
+  partridge-farming: This is a description of this article. When available, this message would change.
+  peafowl-farming: This is a description of this article. When available, this message would change.
+  pheasant-farming: This is a description of this article. When available, this message would change.
+  pigeon-farming: This is a description of this article. When available, this message would change.
+  quail-farming: This is a description of this article. When available, this message would change.
+  swan-farming: This is a description of this article. When available, this message would change.
+  swiftlet-farming: This is a description of this article. When available, this message would change.
+  tinamou-farming: This is a description of this article. When available, this message would change.
+  turkey-farming: This is a description of this article. When available, this message would change.
+  pulse-crop-farming: This is a description of this article. When available, this message would change.
+  bean-farming: This is a description of this article. When available, this message would change.
+  lentil-farming: This is a description of this article. When available, this message would change.
+  lupin-farming: This is a description of this article. When available, this message would change.
+  pea-farming: This is a description of this article. When available, this message would change.
+  vetch-farming: This is a description of this article. When available, this message would change.
+  root-and-tuber-crop-farming: This is a description of this article. When available, this message would change.
+  cassava-farming: This is a description of this article. When available, this message would change.
+  cocoyam-farming: This is a description of this article. When available, this message would change.
+  potato-farming: This is a description of this article. When available, this message would change.
+  yam-farming: This is a description of this article. When available, this message would change.
+  spice-crop-farming: This is a description of this article. When available, this message would change.
+  anise-farming: This is a description of this article. When available, this message would change.
+  badian-farming: This is a description of this article. When available, this message would change.
+  cardamon-farming: This is a description of this article. When available, this message would change.
+  chilly-and-pepper-farming: This is a description of this article. When available, this message would change.
+  cinnamon-farming: This is a description of this article. When available, this message would change.
+  clove-farming: This is a description of this article. When available, this message would change.
+  fennel-farming: This is a description of this article. When available, this message would change.
+  ginger-farming: This is a description of this article. When available, this message would change.
+  mace-farming: This is a description of this article. When available, this message would change.
+  nutmeg-farming: This is a description of this article. When available, this message would change.
+  pimento-farming: This is a description of this article. When available, this message would change.
+  vanilla-farming: This is a description of this article. When available, this message would change.
+  stimulant-crop-farming: This is a description of this article. When available, this message would change.
+  bean-farming: This is a description of this article. When available, this message would change.
+  coffee-farming: This is a description of this article. When available, this message would change.
+  mate-farming: This is a description of this article. When available, this message would change.
+  tea-farming: This is a description of this article. When available, this message would change.
+  sugar-crop-farming: This is a description of this article. When available, this message would change.
+  sugar-beet-farming: This is a description of this article. When available, this message would change.
+  sugar-cane-farming: This is a description of this article. When available, this message would change.
+  tree-nut-crop-farming: This is a description of this article. When available, this message would change.
+  almond-farming: This is a description of this article. When available, this message would change.
+  brazil-farming: This is a description of this article. When available, this message would change.
+  cashew-farming: This is a description of this article. When available, this message would change.
+  chestnut-farming: This is a description of this article. When available, this message would change.
+  hazelnut-farming: This is a description of this article. When available, this message would change.
+  pistachio-farming: This is a description of this article. When available, this message would change.
+  walnut-farming: This is a description of this article. When available, this message would change.
+  vegetable-crop-farming: This is a description of this article. When available, this message would change.
+  artichoke-farming: This is a description of this article. When available, this message would change.
+  asparagus-farming: This is a description of this article. When available, this message would change.
+  bean-farming: This is a description of this article. When available, this message would change.
+  broccoli-farming: This is a description of this article. When available, this message would change.
+  cabbage-farming: This is a description of this article. When available, this message would change.
+  carrot-farming: This is a description of this article. When available, this message would change.
+  cauliflower-farming: This is a description of this article. When available, this message would change.
+  chicory-farming: This is a description of this article. When available, this message would change.
+  chilly-and-pepper-farming: This is a description of this article. When available, this message would change.
+  cucumber-farming: This is a description of this article. When available, this message would change.
+  eggplant-farming: This is a description of this article. When available, this message would change.
+  garlic-farming: This is a description of this article. When available, this message would change.
+  gherkin-farming: This is a description of this article. When available, this message would change.
+  gourd-farming: This is a description of this article. When available, this message would change.
+  leek-farming: This is a description of this article. When available, this message would change.
+  lettuce-farming: This is a description of this article. When available, this message would change.
+  maize-farming: This is a description of this article. When available, this message would change.
+  mushroom-farming: This is a description of this article. When available, this message would change.
+  okra-farming: This is a description of this article. When available, this message would change.
+  onion-farming: This is a description of this article. When available, this message would change.
+  pea-farming: This is a description of this article. When available, this message would change.
+  pumpkin-farming: This is a description of this article. When available, this message would change.
+  shallot-farming: This is a description of this article. When available, this message would change.
+  spinach-farming: This is a description of this article. When available, this message would change.
+  squash-farming: This is a description of this article. When available, this message would change.
+  tomato-farming: This is a description of this article. When available, this message would change.
+  truffle-farming: This is a description of this article. When available, this message would change.
+  turnip-farming: This is a description of this article. When available, this message would change.
+  food-production: This is a description of this article. When available, this message would change.
+  beverage-production: This is a description of this article. When available, this message would change.
+  cereal-product-production: This is a description of this article. When available, this message would change.
+  condiment-production: This is a description of this article. When available, this message would change.
+  confection-production: This is a description of this article. When available, this message would change.
+  food-additive-production: This is a description of this article. When available, this message would change.
+  nut-product-production: This is a description of this article. When available, this message would change.
+  pasta-and-noodle-production: This is a description of this article. When available, this message would change.
+  pulse-product-production: This is a description of this article. When available, this message would change.
+  craft: This is a description of this article. When available, this message would change.
+ 

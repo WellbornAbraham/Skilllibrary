@@ -1,0 +1,328 @@
+title2:
+  attribute-skills: الأخلاق الأخلاقية
+  moral-ethic: أمانة
+  courage: الصبر
+  gratitude: يشكر
+  honesty: العطف
+  humility: شجاعة
+  kindness: اعتدال
+  patience: التواضع
+  serenity: راحة نفسية
+  temperance: أخلاقيات العمل
+  work-ethic: نزاهة
+  accountability: احترام
+  co-operation: تعاون
+  consistency: تناسق
+  fairness: الإيجابية
+  integrity: مسئولية
+  openness: الإنصاف
+  positivity: إنتاجية
+  productivity: الانفتاح
+  respect: الإدارة الذاتية
+  self-management: احترام الذات
+  personal-change-management: الثقة بالنفس
+  resilence: الكفاءة الذاتية
+  self-confidence: تقرير المصير
+  self-control: الانضباط الذاتي
+  self-determination: الدافع الذاتي
+  self-discipline: السيطرة على النفس
+  self-efficacy: الصمود
+  self-esteem: إدارة الوقت
+  self-motivation: ادارة الاجهاد
+  stress-management: إدارة التغيير الشخصي
+  time-management: معرفة
+  cognition: انتباه
+  attention: تصور
+  executive-functions: ذاكرة
+  language-skills: الوظائف التنفيذية
+  memory: سرعة المعالجة
+  metacognition: مهارات قيادة
+  motor-skills: مهارات اللغة
+  perception: ما وراء المعرفة
+  processing-speed: الكفاءة المعرفية
+  cognitive-aptitude: القدرة على التعلم
+  ability-to-learn: القدرة على التنظيم
+  ability-to-organize: القدرة على التخطيط
+  ability-to-plan: حل المشاكل
+  creativity: صناعة القرار
+  critical-thinking: التفكير النقدي
+  decision-making: التفكير الاستراتيجي
+  intuition: حدس
+  problem-solving: إبداع
+  strategic-thinking: إدارة العاطفة
+  emotion-management: السيطرة على الغضب
+  anger-management: إدارة القلق
+  anxiety-management: إدارة الخوف
+  despair-management: إدارة السعادة
+  envy-management: إدارة الحزن
+  fear-management: إدارة الكراهية
+  guilt-management: إدارة الحب
+  happiness-management: إدارة العار
+  hatred-management: إدارة الندم
+  hope-management: إدارة الأمل
+  loneliness-management: إدارة الذنب
+  love-management: إدارة اليأس
+  pride-management: إدارة الوحدة
+  regret-management: إدارة الحسد
+  sadness-management: إدارة الكبرياء
+  shame-management: الترابط الاجتماعي
+  social-interrelation: التواصل اللفظي
+  active-listening: التواصل غير اللفظي
+  conflict-management: التواصل الكتابي
+  negotiation: الاستماع الفعال
+  non-verbal-communication: التواصل البصري
+  social-awareness: العمل بروح الفريق الواحد
+  teamwork: تفاوض
+  verbal-communication: الوعي الاجتماعي
+  visual-communication: فض النزاعات
+  written-communication: الادارة
+  administration: إدارة
+  delegation: منظمة
+  leadership: قيادة
+  management: إدارة الناس
+  mentoring: وفد
+  monitoring: تحفيز
+  motivating: التوجيه
+  organization: يراقب
+  people-management: المهارات المهنية
+  farming: الزراعة
+  cereal-crop-farming: تربية الماشية
+  barley-farming: زراعة الألبكة
+  buckwheat-farming: زراعة الجاموس
+  canary-seed-farming: تربية الجمال
+  fonio-farming: مزرعة ماشية
+  maize-farming: تربية الحمير
+  millet-farming: تربية الماعز
+  oat-farming: تربية الخيول
+  quinoa-farming: زراعة اللاما
+  rice-farming: تربية الثور
+  rye-farming: تربية الخنازير
+  sorghum-farming: تربية الأرانب
+  triticale-farming: زراعة الرنة
+  wheat-farming: تربية الاغنام
+  citrus-fruit-farming: زراعة جاموس الماء
+  clementine-farming: زراعة الياك
+  grapefruit-farming: تربية الدواجن
+  lemon-farming: تربية الدجاج
+  lime-farming: تربية البط
+  mandarin-farming: Emu Farming
+  orange-farming: فرانكولين فارمينج
+  satsumas-farming: زراعة الاوز
+  tangerine-farming: زراعة دجاج غينيا
+  crustacean-farming: زراعة النعام
+  crab-farming: زراعة الحجل
+  crayfish-farming: زراعة الطاووس
+  lobster-farming: زراعة الدراج
+  prawn-farming: تربية الحمام
+  shrimp-farming: زراعة السمان
+  fibre-crop-farming: زراعة البجع
+  agave-farming: Swiftlet Farming
+  bast-farming: زراعة تينامو
+  flax-farming: زراعة تركيا
+  hemp-farming: تربية الأسماك
+  jute-farming: استزراع الكارب
+  kapok-farming: استزراع سمك السلور
+  manila-farming: زراعة ثعبان البحر
+  ramie-farming: زراعة البوري
+  seed-cotton-farming: زراعة الفرخ
+  sisal-farming: زراعة السلمون
+  fish-farming: استزراع الدنيس
+  carp-farming: زراعة سمك الحفش
+  catfish-farming: استزراع البلطي
+  eel-farming: زراعة التراوت
+  mullet-farming: زراعة القشريات
+  perch-farming: زراعة السلطعون
+  salmon-farming: زراعة جراد البحر
+  seabream-farming: زراعة الكركند
+  sturgeon-farming: تربية الجمبري
+  tilapia-farming: استزراع الجمبري
+  trout-farming: استزراع الرخويات
+  fruit-crop-farming: تربية أبالون
+  apple-farming: ارك فارمينج
+  apricot-farming: زراعة البطلينوس
+  avocado-farming: زراعة بلح البحر
+  banana-farming: زراعة المحار
+  blueberry-farming: زراعة الإسكالوب
+  carob-farming: الزراعة الصدفية
+  cashewapple-farming: زراعة محاصيل الحبوب
+  cherry-farming: زراعة الشعير
+  clementine-farming: زراعة الحنطة السوداء
+  cranberry-farming: زراعة بذور الكناري
+  currant-farming: فونيو فارمينغ
+  date-farming: زراعة الذرة
+  fig-farming: زراعة الدخن
+  gooseberry-farming: زراعة الشوفان
+  grape-farming: زراعة الكينوا
+  grapefruit-farming: زراعة الأرز
+  guava-farming: زراعة الجاودار
+  kiwi-farming: زراعة الذرة الرفيعة
+  lemon-farming: الزراعة Triticale
+  lime-farming: زراعة القمح
+  mandarin-farming: زراعة الحمضيات
+  mango-farming: زراعة كليمنتين
+  mangosteen-farming: زراعة الجريب فروت
+  nectarine-farming: زراعة الليمون
+  orange-farming: زراعة الجير
+  papaya-farming: زراعة الماندرين
+  peach-farming: زراعة البرتقال
+  pear-farming: زراعة ساتسوماس
+  persimmon-farming: زراعة اليوسفي
+  pineapple-farming: زراعة المحاصيل الليفية
+  plantain-farming: زراعة الأغاف
+  plum-and-sole-farming: زراعة اللحاء
+  quince-farming: زراعة الكتان
+  raspberry-farming: زراعة القنب
+  satsumas-farming: زراعة الجوت
+  strawberry-farming: زراعة الكابوك
+  tangerine-farming: الزراعة في مانيلا
+  watermelon-farming: رامي فارمينغ
+  livestock-farming: زراعة بذور القطن
+  alpaca-farming: زراعة السيزال
+  buffalo-farming: زراعة محاصيل الفاكهة
+  camel-farming: زراعة التفاح
+  cattle-farming: زراعة المشمش
+  donkey-farming: زراعة الأفوكادو
+  goat-farming: زراعة الموز
+  horse-farming: زراعة التوت الأزرق
+  llama-farming: زراعة الخروب
+  ox-farming: زراعة الكاجو
+  pig-farming: زراعة الكرز
+  rabbit-farming: زراعة كليمنتين
+  reindeer-farming: زراعة التوت البري
+  sheep-farming: زراعة الكشمش
+  water-buffalo-farming: زراعة التمور
+  yak-farming: زراعة التين
+  molluscs-farming: زراعة عنب الثعلب
+  abalone-farming: زراعة العنب
+  ark-farming: زراعة الجريب فروت
+  clam-farming: زراعة الجوافة
+  mussel-farming: زراعة الكيوي
+  oyster-farming: زراعة الليمون
+  scallop-farming: زراعة الجير
+  shell-farming: زراعة الماندرين
+  oilcrop-farming: زراعة المانجو
+  castor-farming: زراعة مانغوستين
+  coconut-farming: زراعة النكتارين
+  flax-farming: زراعة البرتقال
+  groundnut-farming: زراعة البابايا
+  hemp-farming: زراعة الخوخ
+  jojoba-farming: زراعة الكمثرى
+  kapok-farming: زراعة البرسيمون
+  karite-farming: زراعة الأناناس
+  melon-farming: زراعة لسان الحمل
+  mustard-farming: زراعة البرقوق والوحيد
+  oil-palm-farming: سفرجل الزراعة
+  olive-farming: زراعة التوت
+  poppy-farming: زراعة ساتسوماس
+  rape-farming: زراعة الفراولة
+  safflower-farming: زراعة اليوسفي
+  seed-cotton-farming: زراعة البطيخ
+  sesame-farming: زراعة المحاصيل الزيتية
+  soybean-farming: زراعة الخروع
+  sunflower-farming: زراعة جوز الهند
+  tung-farming: زراعة الكتان
+  other-crops-farming: زراعة الفول السوداني
+  citronella-farming: زراعة القنب
+  gum-farming: زراعة الجوجوبا
+  hop-farming: زراعة الكابوك
+  mint-farming: الزراعة الكاريتية
+  pyrethrum-farming: زراعة البطيخ
+  tobacco-farming: زراعة الخردل
+  wax-farming: زراعة نخيل الزيت
+  poultry-farming: زراعة الزيتون
+  chicken-farming: زراعة الخشخاش
+  duck-farming: زراعة الاغتصاب
+  emu-farming: زراعة القرطم
+  francolin-farming: زراعة بذور القطن
+  goose-farming: زراعة السمسم
+  guinea-fowl-farming: زراعة فول الصويا
+  ostrich-farming: زراعة عباد الشمس
+  partridge-farming: تونغ فارمينغ
+  peafowl-farming: زراعة المحاصيل النبضية
+  pheasant-farming: زراعة الفول
+  pigeon-farming: زراعة العدس
+  quail-farming: زراعة الترمس
+  swan-farming: زراعة البازلاء
+  swiftlet-farming: زراعة البيقية
+  tinamou-farming: زراعة المحاصيل الجذرية والدرنات
+  turkey-farming: زراعة الكسافا
+  pulse-crop-farming: زراعة Cocoyam
+  bean-farming: زراعة البطاطا
+  lentil-farming: مزرعة يام
+  lupin-farming: زراعة محاصيل السكر
+  pea-farming: زراعة بنجر السكر
+  vetch-farming: زراعة قصب السكر
+  root-and-tuber-crop-farming: زراعة شجرة الجوز والمحاصيل
+  cassava-farming: زراعة اللوز
+  cocoyam-farming: الزراعة البرازيلية
+  potato-farming: زراعة الكاجو
+  yam-farming: زراعة الكستناء
+  spice-crop-farming: زراعة البندق
+  anise-farming: زراعة الفستق
+  badian-farming: زراعة الجوز
+  cardamon-farming: زراعة محاصيل الخضر
+  chilly-and-pepper-farming: زراعة الخرشوف
+  cinnamon-farming: زراعة الهليون
+  clove-farming: زراعة الفول
+  fennel-farming: زراعة البروكلي
+  ginger-farming: زراعة الكرنب
+  mace-farming: زراعة الجزر
+  nutmeg-farming: زراعة القرنبيط
+  pimento-farming: الهندباء الزراعة
+  vanilla-farming: زراعة الفلفل والفلفل الحار
+  stimulant-crop-farming: زراعة الخيار
+  bean-farming: زراعة الباذنجان
+  coffee-farming: زراعة الثوم
+  mate-farming: زراعة غيركين
+  tea-farming: زراعة القرع
+  sugar-crop-farming: زراعة الكراث
+  sugar-beet-farming: زراعة الخس
+  sugar-cane-farming: زراعة الذرة
+  tree-nut-crop-farming: زراعة الفطر
+  almond-farming: زراعة البامية
+  brazil-farming: زراعة البصل
+  cashew-farming: زراعة البازلاء
+  chestnut-farming: زراعة القرع
+  hazelnut-farming: زراعة الكراث
+  pistachio-farming: زراعة السبانخ
+  walnut-farming: زراعة الاسكواش
+  vegetable-crop-farming: زراعة الطماطم
+  artichoke-farming: زراعة الكمأة
+  asparagus-farming: زراعة اللفت
+  bean-farming: زراعة محاصيل التوابل
+  broccoli-farming: زراعة اليانسون
+  cabbage-farming: مزارع باديان
+  carrot-farming: زراعة الهيل
+  cauliflower-farming: زراعة الفلفل والفلفل الحار
+  chicory-farming: زراعة القرفة
+  chilly-and-pepper-farming: زراعة القرنفل
+  cucumber-farming: زراعة الشمر
+  eggplant-farming: زراعة الزنجبيل
+  garlic-farming: زراعة الصولجان
+  gherkin-farming: زراعة جوزة الطيب
+  gourd-farming: زراعة الفلفل
+  leek-farming: زراعة الفانيليا
+  lettuce-farming: زراعة المحاصيل المنشطة
+  maize-farming: زراعة الفول
+  mushroom-farming: زراعة البن
+  okra-farming: زراعة ماتي
+  onion-farming: زراعة الشاي
+  pea-farming: زراعة المحاصيل الأخرى
+  pumpkin-farming: زراعة السترونيلا
+  shallot-farming: زراعة اللثة
+  spinach-farming: زراعة القفزات
+  squash-farming: زراعة النعناع
+  tomato-farming: زراعة بيريثروم
+  truffle-farming: زراعة التبغ
+  turnip-farming: زراعة الشمع
+  food-production: إنتاج الغذاء
+  beverage-production: إنتاج منتجات الحبوب
+  cereal-product-production: إنتاج منتجات النبض
+  condiment-production: إنتاج منتجات الجوز
+  confection-production: إنتاج المشروبات
+  food-additive-production: إنتاج البهارات
+  nut-product-production: إنتاج الحلويات
+  pasta-and-noodle-production: إنتاج المعكرونة والمعكرونة
+  pulse-product-production: إنتاج المضافات الغذائية
+  craft: حرفة
+ 

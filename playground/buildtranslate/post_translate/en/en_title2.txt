@@ -1,0 +1,328 @@
+title2:
+  attribute-skills: Moral Ethic
+  moral-ethic: Honesty
+  courage: Patience
+  gratitude: Gratitude
+  honesty: Kindness
+  humility: Courage
+  kindness: Temperance
+  patience: Humility
+  serenity: Serenity
+  temperance: Work Ethic
+  work-ethic: Integrity
+  accountability: Respect
+  co-operation: Co-operation
+  consistency: Consistency
+  fairness: Positivity
+  integrity: Accountability
+  openness: Fairness
+  positivity: Productivity
+  productivity: Openness
+  respect: Self Management
+  self-management: Self Esteem
+  personal-change-management: Self Confidence
+  resilence: Self Efficacy
+  self-confidence: Self Determination
+  self-control: Self Discipline
+  self-determination: Self Motivation
+  self-discipline: Self Control
+  self-efficacy: Resilence
+  self-esteem: Time Management
+  self-motivation: Stress Management
+  stress-management: Personal Change Management
+  time-management: Cognition
+  cognition: Attention
+  attention: Perception
+  executive-functions: Memory
+  language-skills: Executive Functions
+  memory: Processing Speed
+  metacognition: Motor Skills
+  motor-skills: Language Skills
+  perception: Metacognition
+  processing-speed: Cognitive Aptitude
+  cognitive-aptitude: Ability to Learn
+  ability-to-learn: Ability to Organize
+  ability-to-organize: Ability to Plan
+  ability-to-plan: Problem Solving
+  creativity: Decision Making
+  critical-thinking: Critical Thinking
+  decision-making: Strategic Thinking
+  intuition: Intuition
+  problem-solving: Creativity
+  strategic-thinking: Emotion Management
+  emotion-management: Anger Management
+  anger-management: Anxiety Management
+  anxiety-management: Fear Management
+  despair-management: Happiness Management
+  envy-management: Sadness Management
+  fear-management: Hatred Management
+  guilt-management: Love Management
+  happiness-management: Shame Management
+  hatred-management: Regret Management
+  hope-management: Hope Management
+  loneliness-management: Guilt Management
+  love-management: Despair Management
+  pride-management: Loneliness Management
+  regret-management: Envy Management
+  sadness-management: Pride Management
+  shame-management: Social Interrelation
+  social-interrelation: Verbal Communication
+  active-listening: Non-Verbal Communication
+  conflict-management: Written Communication
+  negotiation: Active Listening
+  non-verbal-communication: Visual Communication
+  social-awareness: Teamwork
+  teamwork: Negotiation
+  verbal-communication: Social Awareness
+  visual-communication: Conflict Management
+  written-communication: Administration
+  administration: Management
+  delegation: Organization
+  leadership: Leadership
+  management: People Management
+  mentoring: Delegation
+  monitoring: Motivating
+  motivating: Mentoring
+  organization: Monitoring
+  people-management: Vocational Skills
+  farming: Farming
+  cereal-crop-farming: Livestock Farming
+  barley-farming: Alpaca Farming
+  buckwheat-farming: Buffalo Farming
+  canary-seed-farming: Camel Farming
+  fonio-farming: Cattle Farming
+  maize-farming: Donkey Farming
+  millet-farming: Goat Farming
+  oat-farming: Horse Farming
+  quinoa-farming: Llama Farming
+  rice-farming: Ox Farming
+  rye-farming: Pig Farming
+  sorghum-farming: Rabbit Farming
+  triticale-farming: Reindeer Farming
+  wheat-farming: Sheep Farming
+  citrus-fruit-farming: Water Buffalo Farming
+  clementine-farming: Yak Farming
+  grapefruit-farming: Poultry Farming
+  lemon-farming: Chicken Farming
+  lime-farming: Duck Farming
+  mandarin-farming: Emu Farming
+  orange-farming: Francolin Farming
+  satsumas-farming: Goose Farming
+  tangerine-farming: Guinea Fowl Farming
+  crustacean-farming: Ostrich Farming
+  crab-farming: Partridge Farming
+  crayfish-farming: Peafowl Farming
+  lobster-farming: Pheasant Farming
+  prawn-farming: Pigeon Farming
+  shrimp-farming: Quail Farming
+  fibre-crop-farming: Swan Farming
+  agave-farming: Swiftlet Farming
+  bast-farming: Tinamou Farming
+  flax-farming: Turkey Farming
+  hemp-farming: Fish Farming
+  jute-farming: Carp Farming
+  kapok-farming: Catfish Farming
+  manila-farming: Eel Farming
+  ramie-farming: Mullet Farming
+  seed-cotton-farming: Perch Farming
+  sisal-farming: Salmon Farming
+  fish-farming: Seabream Farming
+  carp-farming: Sturgeon Farming
+  catfish-farming: Tilapia Farming
+  eel-farming: Trout Farming
+  mullet-farming: Crustacean Farming
+  perch-farming: Crab Farming
+  salmon-farming: Crayfish Farming
+  seabream-farming: Lobster Farming
+  sturgeon-farming: Prawn Farming
+  tilapia-farming: Shrimp Farming
+  trout-farming: Molluscs Farming
+  fruit-crop-farming: Abalone Farming
+  apple-farming: Ark Farming
+  apricot-farming: Clam Farming
+  avocado-farming: Mussel Farming
+  banana-farming: Oyster Farming
+  blueberry-farming: Scallop Farming
+  carob-farming: Shell Farming
+  cashewapple-farming: Cereal Crop Farming
+  cherry-farming: Barley Farming
+  clementine-farming: Buckwheat Farming
+  cranberry-farming: Canary Seed Farming
+  currant-farming: Fonio Farming
+  date-farming: Maize Farming
+  fig-farming: Millet Farming
+  gooseberry-farming: Oat Farming
+  grape-farming: Quinoa Farming
+  grapefruit-farming: Rice Farming
+  guava-farming: Rye Farming
+  kiwi-farming: Sorghum Farming
+  lemon-farming: Triticale Farming
+  lime-farming: Wheat Farming
+  mandarin-farming: Citrus Fruit Farming
+  mango-farming: Clementine Farming
+  mangosteen-farming: Grapefruit Farming
+  nectarine-farming: Lemon Farming
+  orange-farming: Lime Farming
+  papaya-farming: Mandarin Farming
+  peach-farming: Orange Farming
+  pear-farming: Satsumas Farming
+  persimmon-farming: Tangerine Farming
+  pineapple-farming: Fibre Crop Farming
+  plantain-farming: Agave Farming
+  plum-and-sole-farming: Bast Farming
+  quince-farming: Flax Farming
+  raspberry-farming: Hemp Farming
+  satsumas-farming: Jute Farming
+  strawberry-farming: Kapok Farming
+  tangerine-farming: Manila Farming
+  watermelon-farming: Ramie Farming
+  livestock-farming: Seed Cotton Farming
+  alpaca-farming: Sisal Farming
+  buffalo-farming: Fruit Crop Farming
+  camel-farming: Apple Farming
+  cattle-farming: Apricot Farming
+  donkey-farming: Avocado Farming
+  goat-farming: Banana Farming
+  horse-farming: Blueberry Farming
+  llama-farming: Carob Farming
+  ox-farming: Cashewapple Farming
+  pig-farming: Cherry Farming
+  rabbit-farming: Clementine Farming
+  reindeer-farming: Cranberry Farming
+  sheep-farming: Currant Farming
+  water-buffalo-farming: Date Farming
+  yak-farming: Fig Farming
+  molluscs-farming: Gooseberry Farming
+  abalone-farming: Grape Farming
+  ark-farming: Grapefruit Farming
+  clam-farming: Guava Farming
+  mussel-farming: Kiwi Farming
+  oyster-farming: Lemon Farming
+  scallop-farming: Lime Farming
+  shell-farming: Mandarin Farming
+  oilcrop-farming: Mango Farming
+  castor-farming: Mangosteen Farming
+  coconut-farming: Nectarine Farming
+  flax-farming: Orange Farming
+  groundnut-farming: Papaya Farming
+  hemp-farming: Peach Farming
+  jojoba-farming: Pear Farming
+  kapok-farming: Persimmon Farming
+  karite-farming: Pineapple Farming
+  melon-farming: Plantain Farming
+  mustard-farming: Plum and Sole Farming
+  oil-palm-farming: Quince Farming
+  olive-farming: Raspberry Farming
+  poppy-farming: Satsumas Farming
+  rape-farming: Strawberry Farming
+  safflower-farming: Tangerine Farming
+  seed-cotton-farming: Watermelon Farming
+  sesame-farming: Oilcrop Farming
+  soybean-farming: Castor Farming
+  sunflower-farming: Coconut Farming
+  tung-farming: Flax Farming
+  other-crops-farming: Groundnut Farming
+  citronella-farming: Hemp Farming
+  gum-farming: Jojoba Farming
+  hop-farming: Kapok Farming
+  mint-farming: Karite Farming
+  pyrethrum-farming: Melon Farming
+  tobacco-farming: Mustard Farming
+  wax-farming: Oil Palm Farming
+  poultry-farming: Olive Farming
+  chicken-farming: Poppy Farming
+  duck-farming: Rape Farming
+  emu-farming: Safflower Farming
+  francolin-farming: Seed Cotton Farming
+  goose-farming: Sesame Farming
+  guinea-fowl-farming: Soybean Farming
+  ostrich-farming: Sunflower Farming
+  partridge-farming: Tung Farming
+  peafowl-farming: Pulse Crop Farming
+  pheasant-farming: Bean Farming
+  pigeon-farming: Lentil Farming
+  quail-farming: Lupin Farming
+  swan-farming: Pea Farming
+  swiftlet-farming: Vetch Farming
+  tinamou-farming: Root and Tuber Crop Farming
+  turkey-farming: Cassava Farming
+  pulse-crop-farming: Cocoyam Farming
+  bean-farming: Potato Farming
+  lentil-farming: Yam Farming
+  lupin-farming: Sugar Crop Farming
+  pea-farming: Sugar Beet Farming
+  vetch-farming: Sugar Cane Farming
+  root-and-tuber-crop-farming: Tree Nut Crop Farming
+  cassava-farming: Almond Farming
+  cocoyam-farming: Brazil Farming
+  potato-farming: Cashew Farming
+  yam-farming: Chestnut Farming
+  spice-crop-farming: Hazelnut Farming
+  anise-farming: Pistachio Farming
+  badian-farming: Walnut Farming
+  cardamon-farming: Vegetable Crop Farming
+  chilly-and-pepper-farming: Artichoke Farming
+  cinnamon-farming: Asparagus Farming
+  clove-farming: Bean Farming
+  fennel-farming: Broccoli Farming
+  ginger-farming: Cabbage Farming
+  mace-farming: Carrot Farming
+  nutmeg-farming: Cauliflower Farming
+  pimento-farming: Chicory Farming
+  vanilla-farming: Chilly and Pepper Farming
+  stimulant-crop-farming: Cucumber Farming
+  bean-farming: Eggplant Farming
+  coffee-farming: Garlic Farming
+  mate-farming: Gherkin Farming
+  tea-farming: Gourd Farming
+  sugar-crop-farming: Leek Farming
+  sugar-beet-farming: Lettuce Farming
+  sugar-cane-farming: Maize Farming
+  tree-nut-crop-farming: Mushroom Farming
+  almond-farming: Okra Farming
+  brazil-farming: Onion Farming
+  cashew-farming: Pea Farming
+  chestnut-farming: Pumpkin Farming
+  hazelnut-farming: Shallot Farming
+  pistachio-farming: Spinach Farming
+  walnut-farming: Squash Farming
+  vegetable-crop-farming: Tomato Farming
+  artichoke-farming: Truffle Farming
+  asparagus-farming: Turnip Farming
+  bean-farming: Spice Crop Farming
+  broccoli-farming: Anise Farming
+  cabbage-farming: Badian Farming
+  carrot-farming: Cardamon Farming
+  cauliflower-farming: Chilly and Pepper Farming
+  chicory-farming: Cinnamon Farming
+  chilly-and-pepper-farming: Clove Farming
+  cucumber-farming: Fennel Farming
+  eggplant-farming: Ginger Farming
+  garlic-farming: Mace Farming
+  gherkin-farming: Nutmeg Farming
+  gourd-farming: Pimento Farming
+  leek-farming: Vanilla Farming
+  lettuce-farming: Stimulant Crop Farming
+  maize-farming: Bean Farming
+  mushroom-farming: Coffee Farming
+  okra-farming: Mate Farming
+  onion-farming: Tea Farming
+  pea-farming: Other Crops Farming
+  pumpkin-farming: Citronella Farming
+  shallot-farming: Gum Farming
+  spinach-farming: Hop Farming
+  squash-farming: Mint Farming
+  tomato-farming: Pyrethrum Farming
+  truffle-farming: Tobacco Farming
+  turnip-farming: Wax Farming
+  food-production: Food Production
+  beverage-production: Cereal Product Production
+  cereal-product-production: Pulse Product Production
+  condiment-production: Nut Product Production
+  confection-production: Beverage Production
+  food-additive-production: Condiment Production
+  nut-product-production: Confection Production
+  pasta-and-noodle-production: Pasta and Noodle Production
+  pulse-product-production: Food Additive Production
+  craft: Craft
+ 

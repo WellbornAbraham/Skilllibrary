@@ -1,0 +1,8 @@
+---
+permalink: /robots.txt
+---
+{% if site.robotsTXT == true %}
+User-agent: *
+Allow: /
+{% assign datafile_childless = site.data.datafile_childless.data %} {% if datafile_childless[0] %} {% assign robotsTXT_URL = datafile_childless | uniq: 'title2' %} {% for item in robotsTXT_URL %} {% if item.deploy.en != site.development %}{% endif %} {% endfor %} {% endif %}
+{% endif %}

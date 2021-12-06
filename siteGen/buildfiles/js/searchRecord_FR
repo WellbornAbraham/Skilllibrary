@@ -1,0 +1,20 @@
+---
+permalink: /assets/js/searchRecord_FR.js
+---
+{% if site.searchRecord_FR == true %}
+const docs = [{% assign datafile_childless = site.data.datafile_childless.data %} {% if datafile_childless[0] %} {% assign datafile_childless_alphasort = datafile_childless | sort: 'title2.fr' %} {% assign searchRecord_FR = datafile_childless_alphasort | uniq: 'title_uniq' %} {% for item in searchRecord_FR %} {% if item.deploy.fr != site.development %}
+  {
+    id: {{ forloop.index0 }},
+    kind: "{{ item.kind.fr }}",
+    category: "{{ item.category.fr }}",
+    icon: "{{ item.icon.fr }}",
+    title2: "{{ item.title2.fr }}",
+    label: "{{ item.label.fr }}",
+    url: "{{ item.url.fr }}",
+    sub_title: "{{ item.sub_title.fr }}",
+    excerpt: "{{ item.excerpt.fr }}",
+  },{% endif %} {% endfor %} {% endif %}
+  {
+  }
+]
+{% endif %}

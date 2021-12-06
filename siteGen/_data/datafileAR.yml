@@ -1,0 +1,4241 @@
+
+data:
+    
+  - title: يصف
+    title2: مهارات السمة
+    default: attribute-skills
+    kind: directory
+    icon: icon-directory
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute
+    label: 
+    group: مهارات السمة
+    deploy: true
+    children:
+        
+      - title: الأخلاق الأخلاقية
+        title2: الأخلاق الأخلاقية
+        default: moral-ethic
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/attribute/moral-ethic
+        label: الشجاعة ، الامتنان ، الصدق ، التواضع ، اللطف ، الصبر ، الصفاء ، الاعتدال
+        group: الأخلاق الأخلاقية
+        deploy: true
+        children: 
+            
+          - title: شجاعة
+            title2: شجاعة
+            default: courage
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/moral-ethic/courage
+            label: شجاعة
+            group: Moral Ethic
+            deploy: false
+            children: 
+                
+          - title: يشكر
+            title2: يشكر
+            default: gratitude
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/moral-ethic/gratitude
+            label: يشكر
+            group: Moral Ethic
+            deploy: false
+            children: 
+                
+          - title: أمانة
+            title2: أمانة
+            default: honesty
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/moral-ethic/honesty
+            label: أمانة
+            group: Moral Ethic
+            deploy: false
+            children: 
+                
+          - title: التواضع
+            title2: التواضع
+            default: humility
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/moral-ethic/humility
+            label: التواضع
+            group: Moral Ethic
+            deploy: false
+            children: 
+                
+          - title: العطف
+            title2: العطف
+            default: kindness
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/moral-ethic/kindness
+            label: العطف
+            group: Moral Ethic
+            deploy: false
+            children: 
+                
+          - title: الصبر
+            title2: الصبر
+            default: patience
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/moral-ethic/patience
+            label: الصبر
+            group: Moral Ethic
+            deploy: false
+            children: 
+                
+          - title: راحة نفسية
+            title2: راحة نفسية
+            default: serenity
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/moral-ethic/serenity
+            label: راحة نفسية
+            group: Moral Ethic
+            deploy: false
+            children: 
+                
+          - title: اعتدال
+            title2: اعتدال
+            default: temperance
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/moral-ethic/temperance
+            label: اعتدال
+            group: Moral Ethic
+            deploy: false
+            children: 
+                   
+      - title: أخلاقيات العمل
+        title2: أخلاقيات العمل
+        default: work-ethic
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/attribute/work-ethic
+        label: المساءلة ، التعاون ، الاتساق ، الإنصاف ، النزاهة ، الانفتاح ، الإيجابية ، الإنتاجية ، الاحترام
+        group: أخلاقيات العمل
+        deploy: true
+        children: 
+            
+          - title: مسئولية
+            title2: مسئولية
+            default: accountability
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/work-ethic/accountability
+            label: مسئولية
+            group: Work Ethic
+            deploy: false
+            children: 
+                
+          - title: تعاون
+            title2: تعاون
+            default: co-operation
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/work-ethic/co-operation
+            label: تعاون
+            group: Work Ethic
+            deploy: false
+            children: 
+                
+          - title: تناسق
+            title2: تناسق
+            default: consistency
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/work-ethic/consistency
+            label: تناسق
+            group: Work Ethic
+            deploy: false
+            children: 
+                
+          - title: الإنصاف
+            title2: الإنصاف
+            default: fairness
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/work-ethic/fairness
+            label: الإنصاف
+            group: Work Ethic
+            deploy: false
+            children: 
+                
+          - title: نزاهة
+            title2: نزاهة
+            default: integrity
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/work-ethic/integrity
+            label: نزاهة
+            group: Work Ethic
+            deploy: false
+            children: 
+                
+          - title: الانفتاح
+            title2: الانفتاح
+            default: openness
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/work-ethic/openness
+            label: الانفتاح
+            group: Work Ethic
+            deploy: false
+            children: 
+                
+          - title: الإيجابية
+            title2: الإيجابية
+            default: positivity
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/work-ethic/positivity
+            label: الإيجابية
+            group: Work Ethic
+            deploy: false
+            children: 
+                
+          - title: إنتاجية
+            title2: إنتاجية
+            default: productivity
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/work-ethic/productivity
+            label: إنتاجية
+            group: Work Ethic
+            deploy: false
+            children: 
+                
+          - title: احترام
+            title2: احترام
+            default: respect
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/work-ethic/respect
+            label: احترام
+            group: Work Ethic
+            deploy: false
+            children: 
+                   
+      - title: الإدارة الذاتية
+        title2: الإدارة الذاتية
+        default: self-management
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/attribute/self-management
+        label: إدارة التغيير الشخصي ، المرونة ، الثقة بالنفس ، ضبط النفس ، تقرير المصير ، الانضباط الذاتي ، الكفاءة الذاتية ، تقدير الذات ، التحفيز الذاتي ، إدارة الإجهاد ، إدارة الوقت
+        group: الإدارة الذاتية
+        deploy: true
+        children: 
+            
+          - title: إدارة التغيير الشخصي
+            title2: إدارة التغيير الشخصي
+            default: personal-change-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/self-management/personal-change-management
+            label: إدارة التغيير الشخصي
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: الصمود
+            title2: الصمود
+            default: resilence
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/self-management/resilence
+            label: الصمود
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: الثقة بالنفس
+            title2: الثقة بالنفس
+            default: self-confidence
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/self-management/self-confidence
+            label: الثقة بالنفس
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: السيطرة على النفس
+            title2: السيطرة على النفس
+            default: self-control
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/self-management/self-control
+            label: السيطرة على النفس
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: تقرير المصير
+            title2: تقرير المصير
+            default: self-determination
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/self-management/self-determination
+            label: تقرير المصير
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: الانضباط الذاتي
+            title2: الانضباط الذاتي
+            default: self-discipline
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/self-management/self-discipline
+            label: الانضباط الذاتي
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: الكفاءة الذاتية
+            title2: الكفاءة الذاتية
+            default: self-efficacy
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/self-management/self-efficacy
+            label: الكفاءة الذاتية
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: احترام الذات
+            title2: احترام الذات
+            default: self-esteem
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/self-management/self-esteem
+            label: احترام الذات
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: الدافع الذاتي
+            title2: الدافع الذاتي
+            default: self-motivation
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/self-management/self-motivation
+            label: الدافع الذاتي
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: ادارة الاجهاد
+            title2: ادارة الاجهاد
+            default: stress-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/self-management/stress-management
+            label: ادارة الاجهاد
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: إدارة الوقت
+            title2: إدارة الوقت
+            default: time-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/self-management/time-management
+            label: إدارة الوقت
+            group: Self Management
+            deploy: false
+            children: 
+                   
+      - title: معرفة
+        title2: معرفة
+        default: cognition
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/attribute/cognition
+        label: الانتباه ، الوظائف التنفيذية ، المهارات اللغوية ، الذاكرة ، ما وراء المعرفة ، المهارات الحركية ، الإدراك ، سرعة المعالجة
+        group: معرفة
+        deploy: true
+        children: 
+            
+          - title: انتباه
+            title2: انتباه
+            default: attention
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/cognition/attention
+            label: انتباه
+            group: Cognition
+            deploy: false
+            children: 
+                
+          - title: الوظائف التنفيذية
+            title2: الوظائف التنفيذية
+            default: executive-functions
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/cognition/executive-functions
+            label: الوظائف التنفيذية
+            group: Cognition
+            deploy: false
+            children: 
+                
+          - title: مهارات اللغة
+            title2: مهارات اللغة
+            default: language-skills
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/cognition/language-skills
+            label: مهارات اللغة
+            group: Cognition
+            deploy: false
+            children: 
+                
+          - title: ذاكرة
+            title2: ذاكرة
+            default: memory
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/cognition/memory
+            label: ذاكرة
+            group: Cognition
+            deploy: false
+            children: 
+                
+          - title: ما وراء المعرفة
+            title2: ما وراء المعرفة
+            default: metacognition
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/cognition/metacognition
+            label: ما وراء المعرفة
+            group: Cognition
+            deploy: false
+            children: 
+                
+          - title: مهارات قيادة
+            title2: مهارات قيادة
+            default: motor-skills
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/cognition/motor-skills
+            label: مهارات قيادة
+            group: Cognition
+            deploy: false
+            children: 
+                
+          - title: تصور
+            title2: تصور
+            default: perception
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/cognition/perception
+            label: تصور
+            group: Cognition
+            deploy: false
+            children: 
+                
+          - title: سرعة المعالجة
+            title2: سرعة المعالجة
+            default: processing-speed
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/cognition/processing-speed
+            label: سرعة المعالجة
+            group: Cognition
+            deploy: false
+            children: 
+                   
+      - title: الكفاءة المعرفية
+        title2: الكفاءة المعرفية
+        default: cognitive-aptitude
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/attribute/cognitive-aptitude
+        label: القدرة على التعلم ، والقدرة على التنظيم ، والقدرة على التخطيط ، والإبداع ، والتفكير النقدي ، واتخاذ القرار ، والحدس ، وحل المشكلات ، والتفكير الاستراتيجي ، والحكمة
+        group: الكفاءة المعرفية
+        deploy: true
+        children: 
+            
+          - title: القدرة على التعلم
+            title2: القدرة على التعلم
+            default: ability-to-learn
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/cognitive-aptitude/ability-to-learn
+            label: القدرة على التعلم
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                
+          - title: القدرة على التنظيم
+            title2: القدرة على التنظيم
+            default: ability-to-organize
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/cognitive-aptitude/ability-to-organize
+            label: القدرة على التنظيم
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                
+          - title: القدرة على التخطيط
+            title2: القدرة على التخطيط
+            default: ability-to-plan
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/cognitive-aptitude/ability-to-plan
+            label: القدرة على التخطيط
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                
+          - title: إبداع
+            title2: إبداع
+            default: creativity
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/cognitive-aptitude/creativity
+            label: إبداع
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                
+          - title: التفكير النقدي
+            title2: التفكير النقدي
+            default: critical-thinking
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/cognitive-aptitude/critical-thinking
+            label: التفكير النقدي
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                
+          - title: صناعة القرار
+            title2: صناعة القرار
+            default: decision-making
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/cognitive-aptitude/decision-making
+            label: صناعة القرار
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                
+          - title: حدس
+            title2: حدس
+            default: intuition
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/cognitive-aptitude/intuition
+            label: حدس
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                
+          - title: حل المشاكل
+            title2: حل المشاكل
+            default: problem-solving
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/cognitive-aptitude/problem-solving
+            label: حل المشاكل
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                
+          - title: التفكير الاستراتيجي
+            title2: التفكير الاستراتيجي
+            default: strategic-thinking
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/cognitive-aptitude/strategic-thinking
+            label: التفكير الاستراتيجي
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                   
+      - title: إدارة العاطفة
+        title2: إدارة العاطفة
+        default: emotion-management
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/attribute/emotion-management
+        label: الغضب ، القلق ، اليأس ، الحسد ، الخوف ، الذنب ، السعادة ، الكراهية ، الأمل ، الوحدة ، الحب ، الكبرياء ، الندم ، الحزن ، العار
+        group: إدارة العاطفة
+        deploy: true
+        children: 
+            
+          - title: السيطرة على الغضب
+            title2: السيطرة على الغضب
+            default: anger-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/emotion-management/anger-management
+            label: السيطرة على الغضب
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: إدارة القلق
+            title2: إدارة القلق
+            default: anxiety-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/emotion-management/anxiety-management
+            label: إدارة القلق
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: إدارة اليأس
+            title2: إدارة اليأس
+            default: despair-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/emotion-management/despair-management
+            label: إدارة اليأس
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: إدارة الحسد
+            title2: إدارة الحسد
+            default: envy-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/emotion-management/envy-management
+            label: إدارة الحسد
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: إدارة الخوف
+            title2: إدارة الخوف
+            default: fear-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/emotion-management/fear-management
+            label: إدارة الخوف
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: إدارة الذنب
+            title2: إدارة الذنب
+            default: guilt-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/emotion-management/guilt-management
+            label: إدارة الذنب
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: إدارة السعادة
+            title2: إدارة السعادة
+            default: happiness-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/emotion-management/happiness-management
+            label: إدارة السعادة
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: إدارة الكراهية
+            title2: إدارة الكراهية
+            default: hatred-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/emotion-management/hatred-management
+            label: إدارة الكراهية
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: إدارة الأمل
+            title2: إدارة الأمل
+            default: hope-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/emotion-management/hope-management
+            label: إدارة الأمل
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: إدارة الوحدة
+            title2: إدارة الوحدة
+            default: loneliness-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/emotion-management/loneliness-management
+            label: إدارة الوحدة
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: إدارة الحب
+            title2: إدارة الحب
+            default: love-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/emotion-management/love-management
+            label: إدارة الحب
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: إدارة الكبرياء
+            title2: إدارة الكبرياء
+            default: pride-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/emotion-management/pride-management
+            label: إدارة الكبرياء
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: إدارة الندم
+            title2: إدارة الندم
+            default: regret-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/emotion-management/regret-management
+            label: إدارة الندم
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: إدارة الحزن
+            title2: إدارة الحزن
+            default: sadness-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/emotion-management/sadness-management
+            label: إدارة الحزن
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: إدارة العار
+            title2: إدارة العار
+            default: shame-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/emotion-management/shame-management
+            label: إدارة العار
+            group: Emotion Management
+            deploy: false
+            children: 
+                   
+      - title: الترابط الاجتماعي
+        title2: الترابط الاجتماعي
+        default: social-interrelation
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/attribute/social-interrelation
+        label: الاستماع الفعال ، الاتصال غير اللفظي ، الاتصال اللفظي ، الاتصال المرئي ، الاتصال الكتابي ، التفاوض ، إدارة الصراع ، الوعي الاجتماعي ، العمل الجماعي
+        group: الترابط الاجتماعي
+        deploy: true
+        children: 
+            
+          - title: الاستماع الفعال
+            title2: الاستماع الفعال
+            default: active-listening
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/social-interrelation/active-listening
+            label: الاستماع الفعال
+            group: Social Interrelation
+            deploy: false
+            children: 
+                
+          - title: فض النزاعات
+            title2: فض النزاعات
+            default: conflict-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/social-interrelation/conflict-management
+            label: فض النزاعات
+            group: Social Interrelation
+            deploy: false
+            children: 
+                
+          - title: تفاوض
+            title2: تفاوض
+            default: negotiation
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/social-interrelation/negotiation
+            label: تفاوض
+            group: Social Interrelation
+            deploy: false
+            children: 
+                
+          - title: التواصل غير اللفظي
+            title2: التواصل غير اللفظي
+            default: non-verbal-communication
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/social-interrelation/non-verbal-communication
+            label: التواصل غير اللفظي
+            group: Social Interrelation
+            deploy: false
+            children: 
+                
+          - title: الوعي الاجتماعي
+            title2: الوعي الاجتماعي
+            default: social-awareness
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/social-interrelation/social-awareness
+            label: الوعي الاجتماعي
+            group: Social Interrelation
+            deploy: false
+            children: 
+                
+          - title: العمل بروح الفريق الواحد
+            title2: العمل بروح الفريق الواحد
+            default: teamwork
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/social-interrelation/teamwork
+            label: العمل بروح الفريق الواحد
+            group: Social Interrelation
+            deploy: false
+            children: 
+                
+          - title: التواصل اللفظي
+            title2: التواصل اللفظي
+            default: verbal-communication
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/social-interrelation/verbal-communication
+            label: التواصل اللفظي
+            group: Social Interrelation
+            deploy: false
+            children: 
+                
+          - title: التواصل البصري
+            title2: التواصل البصري
+            default: visual-communication
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/social-interrelation/visual-communication
+            label: التواصل البصري
+            group: Social Interrelation
+            deploy: false
+            children: 
+                
+          - title: التواصل الكتابي
+            title2: التواصل الكتابي
+            default: written-communication
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/social-interrelation/written-communication
+            label: التواصل الكتابي
+            group: Social Interrelation
+            deploy: false
+            children: 
+                   
+      - title: الادارة
+        title2: الادارة
+        default: administration
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/attribute/administration
+        label: التفويض ، القيادة ، الإدارة ، التوجيه ، المراقبة ، التحفيز ، التنظيم ، إدارة الأفراد
+        group: الادارة
+        deploy: true
+        children: 
+            
+          - title: وفد
+            title2: وفد
+            default: delegation
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/administration/delegation
+            label: وفد
+            group: Administration
+            deploy: false
+            children: 
+                
+          - title: قيادة
+            title2: قيادة
+            default: leadership
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/administration/leadership
+            label: قيادة
+            group: Administration
+            deploy: false
+            children: 
+                
+          - title: إدارة
+            title2: إدارة
+            default: management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/administration/management
+            label: إدارة
+            group: Administration
+            deploy: false
+            children: 
+                
+          - title: التوجيه
+            title2: التوجيه
+            default: mentoring
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/administration/mentoring
+            label: التوجيه
+            group: Administration
+            deploy: false
+            children: 
+                
+          - title: يراقب
+            title2: يراقب
+            default: monitoring
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/administration/monitoring
+            label: يراقب
+            group: Administration
+            deploy: false
+            children: 
+                
+          - title: تحفيز
+            title2: تحفيز
+            default: motivating
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/administration/motivating
+            label: تحفيز
+            group: Administration
+            deploy: false
+            children: 
+                
+          - title: منظمة
+            title2: منظمة
+            default: organization
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/administration/organization
+            label: منظمة
+            group: Administration
+            deploy: false
+            children: 
+                
+          - title: إدارة الناس
+            title2: إدارة الناس
+            default: people-management
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/attribute/administration/people-management
+            label: إدارة الناس
+            group: Administration
+            deploy: false
+            children: 
+                      
+  - title: الزراعة
+    title2: الزراعة
+    default: farming
+    kind: directory
+    icon: icon-directory
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming
+    label: 
+    group: الزراعة
+    deploy: true
+    children:
+        
+      - title: محصول الحبوب
+        title2: زراعة محاصيل الحبوب
+        default: cereal-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/cereal-crop
+        label: زراعة محاصيل الحبوب
+        group: زراعة محاصيل الحبوب
+        deploy: true
+        children: 
+            
+          - title: شعير
+            title2: زراعة الشعير
+            default: barley-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/cereal-crop/barley
+            label: زراعة محاصيل حبوب الشعير
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الحنطة السوداء
+            title2: زراعة الحنطة السوداء
+            default: buckwheat-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/cereal-crop/buckwheat
+            label: زراعة محاصيل حبوب الحنطة السوداء
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: بذور الكناري
+            title2: زراعة بذور الكناري
+            default: canary-seed-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/cereal-crop/canary-seed
+            label: زراعة محاصيل حبوب الكناري
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: فونيو
+            title2: فونيو فارمينغ
+            default: fonio-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/cereal-crop/fonio
+            label: زراعة محاصيل الحبوب Fonio
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الذرة
+            title2: زراعة الذرة
+            default: maize-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/cereal-crop/maize
+            label: زراعة محاصيل الذرة والخضروات
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الدخن
+            title2: زراعة الدخن
+            default: millet-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/cereal-crop/millet
+            label: زراعة محاصيل حبوب الدخن
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: شعر بالتعب
+            title2: زراعة الشوفان
+            default: oat-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/cereal-crop/oat
+            label: زراعة محاصيل حبوب الشوفان
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الكينوا
+            title2: زراعة الكينوا
+            default: quinoa-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/cereal-crop/quinoa
+            label: زراعة محاصيل حبوب الكينوا
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: أرز
+            title2: زراعة الأرز
+            default: rice-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/cereal-crop/rice
+            label: زراعة محاصيل الأرز والحبوب
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الذرة
+            title2: زراعة الجاودار
+            default: rye-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/cereal-crop/rye
+            label: زراعة محاصيل حبوب الجاودار
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الذرة الرفيعة
+            title2: زراعة الذرة الرفيعة
+            default: sorghum-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/cereal-crop/sorghum
+            label: زراعة محاصيل حبوب الذرة الرفيعة
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Triticale
+            title2: الزراعة Triticale
+            default: triticale-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/cereal-crop/triticale
+            label: زراعة محاصيل الحبوب Triticale
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: قمح
+            title2: زراعة القمح
+            default: wheat-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/cereal-crop/wheat
+            label: زراعة محاصيل حبوب القمح
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: فاكهة حمضية
+        title2: زراعة الحمضيات
+        default: citrus-fruit-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/citrus-fruit
+        label: زراعة الحمضيات
+        group: زراعة الحمضيات
+        deploy: false
+        children: 
+            
+          - title: كليمنتين
+            title2: زراعة كليمنتين
+            default: clementine-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/citrus-fruit/clementine
+            label: زراعة محاصيل الفاكهة كليمنتين
+            group: Citrus Fruit Farming
+            deploy: false
+            children: 
+                
+          - title: جريب فروت
+            title2: زراعة الجريب فروت
+            default: grapefruit-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/citrus-fruit/grapefruit
+            label: زراعة محاصيل الجريب فروت
+            group: Citrus Fruit Farming
+            deploy: false
+            children: 
+                
+          - title: ليمون
+            title2: زراعة الليمون
+            default: lemon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/citrus-fruit/lemon
+            label: زراعة محاصيل الليمون
+            group: Citrus Fruit Farming
+            deploy: false
+            children: 
+                
+          - title: جير
+            title2: زراعة الجير
+            default: lime-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/citrus-fruit/lime
+            label: زراعة محاصيل الفاكهة الجير
+            group: Citrus Fruit Farming
+            deploy: false
+            children: 
+                
+          - title: الماندرين
+            title2: زراعة الماندرين
+            default: mandarin-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/citrus-fruit/mandarin
+            label: زراعة محاصيل فاكهة الماندرين
+            group: Citrus Fruit Farming
+            deploy: false
+            children: 
+                
+          - title: البرتقالي
+            title2: زراعة البرتقال
+            default: orange-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/citrus-fruit/orange
+            label: زراعة محاصيل فاكهة البرتقال
+            group: Citrus Fruit Farming
+            deploy: false
+            children: 
+                
+          - title: ساتسوما
+            title2: زراعة ساتسوماس
+            default: satsumas-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/citrus-fruit/satsumas
+            label: زراعة محاصيل الفاكهة في ساتسوماس
+            group: Citrus Fruit Farming
+            deploy: false
+            children: 
+                
+          - title: يوسفي
+            title2: زراعة اليوسفي
+            default: tangerine-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/citrus-fruit/tangerine
+            label: زراعة محاصيل اليوسفي
+            group: Citrus Fruit Farming
+            deploy: false
+            children: 
+                   
+      - title: قشريات
+        title2: زراعة القشريات
+        default: crustacean-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/crustacean
+        label: زراعة القشريات
+        group: زراعة القشريات
+        deploy: true
+        children: 
+            
+          - title: سلطعون
+            title2: زراعة السلطعون
+            default: crab-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/crustacean/crab
+            label: زراعة سرطان البحر والقشريات
+            group: Crustacean Farming
+            deploy: false
+            children: 
+                
+          - title: جراد البحر
+            title2: زراعة جراد البحر
+            default: crayfish-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/crustacean/crayfish
+            label: زراعة قشريات جراد البحر
+            group: Crustacean Farming
+            deploy: false
+            children: 
+                
+          - title: سرطان البحر
+            title2: زراعة الكركند
+            default: lobster-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/crustacean/lobster
+            label: زراعة جراد البحر والقشريات
+            group: Crustacean Farming
+            deploy: false
+            children: 
+                
+          - title: روبيان
+            title2: تربية الجمبري
+            default: prawn-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/crustacean/prawn
+            label: تربية قشريات الجمبري
+            group: Crustacean Farming
+            deploy: false
+            children: 
+                
+          - title: جمبري
+            title2: استزراع الجمبري
+            default: shrimp-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/crustacean/shrimp
+            label: استزراع قشريات الجمبري
+            group: Crustacean Farming
+            deploy: false
+            children: 
+                   
+      - title: الألياف المحاصيل
+        title2: زراعة المحاصيل الليفية
+        default: fibre-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/fibre-crop
+        label: زراعة المحاصيل الليفية
+        group: زراعة المحاصيل الليفية
+        deploy: true
+        children: 
+            
+          - title: الأغاف
+            title2: زراعة الأغاف
+            default: agave-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fibre-crop/agave
+            label: زراعة المحاصيل من ألياف الأغاف
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: باست
+            title2: زراعة اللحاء
+            default: bast-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fibre-crop/bast
+            label: زراعة محاصيل ألياف اللحاء
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الكتان
+            title2: زراعة الكتان
+            default: flax-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fibre-crop/flax
+            label: زراعة الكتان الزيتي
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: عيدان
+            title2: زراعة القنب
+            default: hemp-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fibre-crop/hemp
+            label: زراعة القنب الزيتية
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الجوت
+            title2: زراعة الجوت
+            default: jute-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fibre-crop/jute
+            label: زراعة محاصيل ألياف الجوت
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: كابوك
+            title2: زراعة الكابوك
+            default: kapok-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fibre-crop/kapok
+            label: زراعة الكابوك الزيتية
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: مانيلا
+            title2: الزراعة في مانيلا
+            default: manila-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fibre-crop/manila
+            label: زراعة محاصيل الألياف في مانيلا
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: رامي
+            title2: رامي فارمينغ
+            default: ramie-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fibre-crop/ramie
+            label: زراعة محاصيل الألياف في رامي
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: بذور القطن
+            title2: زراعة بذور القطن
+            default: seed-cotton-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fibre-crop/seed-cotton
+            label: زراعة المحاصيل الزيتية من بذور القطن
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: سيزال
+            title2: زراعة السيزال
+            default: sisal-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fibre-crop/sisal
+            label: زراعة محاصيل ألياف السيزال
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: سمكة
+        title2: تربية الأسماك
+        default: fish-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/fish
+        label: تربية الأسماك
+        group: تربية الأسماك
+        deploy: true
+        children: 
+            
+          - title: الكارب
+            title2: استزراع الكارب
+            default: carp-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fish/carp
+            label: استزراع أسماك الكارب
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: سمك السلور
+            title2: استزراع سمك السلور
+            default: catfish-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fish/catfish
+            label: تربية أسماك السلور
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: الانقليس
+            title2: زراعة ثعبان البحر
+            default: eel-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fish/eel
+            label: تربية أسماك الأنقليس
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: البوري
+            title2: زراعة البوري
+            default: mullet-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fish/mullet
+            label: تربية أسماك البوري
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: جثم
+            title2: زراعة الفرخ
+            default: perch-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fish/perch
+            label: تربية سمك الفرخ
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: سمك السالمون
+            title2: زراعة السلمون
+            default: salmon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fish/salmon
+            label: زراعة أسماك السلمون
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: الدنيس
+            title2: استزراع الدنيس
+            default: seabream-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fish/seabream
+            label: استزراع أسماك الدنيس
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: سمك الحفش
+            title2: زراعة سمك الحفش
+            default: sturgeon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fish/sturgeon
+            label: زراعة سمك الحفش
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: البلطي
+            title2: استزراع البلطي
+            default: tilapia-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fish/tilapia
+            label: استزراع أسماك البلطي
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: سمك السلمون المرقط
+            title2: زراعة التراوت
+            default: trout-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fish/trout
+            label: تربية أسماك التراوت
+            group: Fish Farming
+            deploy: false
+            children: 
+                   
+      - title: محصول الفاكهة
+        title2: زراعة محاصيل الفاكهة
+        default: fruit-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/fruit-crop
+        label: زراعة محاصيل الفاكهة
+        group: زراعة محاصيل الفاكهة
+        deploy: true
+        children: 
+            
+          - title: تفاح
+            title2: زراعة التفاح
+            default: apple-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/apple
+            label: زراعة محاصيل فاكهة التفاح
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: مشمش
+            title2: زراعة المشمش
+            default: apricot-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/apricot
+            label: زراعة محاصيل المشمش الفاكهة
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: أفوكادو
+            title2: زراعة الأفوكادو
+            default: avocado-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/avocado
+            label: زراعة محاصيل الأفوكادو الفاكهة
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: موز
+            title2: زراعة الموز
+            default: banana-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/banana
+            label: زراعة محاصيل الموز والفاكهة
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: توت
+            title2: زراعة التوت الأزرق
+            default: blueberry-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/blueberry
+            label: زراعة المحاصيل عنبية الفاكهة
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الخروب
+            title2: زراعة الخروب
+            default: carob-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/carob
+            label: زراعة محاصيل الخروب
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: كاجو أبل
+            title2: زراعة الكاجو
+            default: cashewapple-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/cashewapple
+            label: زراعة محاصيل الفاكهة الكاجو أبل
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الكرز
+            title2: زراعة الكرز
+            default: cherry-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/cherry
+            label: زراعة محاصيل فاكهة الكرز
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: كليمنتين
+            title2: زراعة كليمنتين
+            default: clementine-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/clementine
+            label: زراعة محاصيل الفاكهة كليمنتين
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: كرز
+            title2: زراعة التوت البري
+            default: cranberry-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/cranberry
+            label: زراعة المحاصيل التوت البري الفاكهة
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: زبيب
+            title2: زراعة الكشمش
+            default: currant-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/currant
+            label: زراعة محاصيل الكشمش
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: تاريخ
+            title2: زراعة التمور
+            default: date-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/date
+            label: زراعة محاصيل الفاكهة التمر
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: تين
+            title2: زراعة التين
+            default: fig-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/fig
+            label: زراعة محاصيل فاكهة التين
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: عنب الثعلب
+            title2: زراعة عنب الثعلب
+            default: gooseberry-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/gooseberry
+            label: زراعة محاصيل عنب الثعلب
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: عنب
+            title2: زراعة العنب
+            default: grape-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/grape
+            label: زراعة محاصيل العنب
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: جريب فروت
+            title2: زراعة الجريب فروت
+            default: grapefruit-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/grapefruit
+            label: زراعة محاصيل الجريب فروت
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: جوافة
+            title2: زراعة الجوافة
+            default: guava-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/guava
+            label: زراعة محاصيل الجوافة
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: كيوي
+            title2: زراعة الكيوي
+            default: kiwi-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/kiwi
+            label: زراعة محاصيل فاكهة الكيوي
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: ليمون
+            title2: زراعة الليمون
+            default: lemon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/lemon
+            label: زراعة محاصيل الليمون
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: جير
+            title2: زراعة الجير
+            default: lime-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/lime
+            label: زراعة محاصيل الفاكهة الجير
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الماندرين
+            title2: زراعة الماندرين
+            default: mandarin-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/mandarin
+            label: زراعة محاصيل فاكهة الماندرين
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: مانجو
+            title2: زراعة المانجو
+            default: mango-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/mango
+            label: زراعة محاصيل المانجو
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: مانغوستين
+            title2: زراعة مانغوستين
+            default: mangosteen-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/mangosteen
+            label: زراعة محاصيل الفاكهة في مانغوستين
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: زليقة
+            title2: زراعة النكتارين
+            default: nectarine-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/nectarine
+            label: زراعة محاصيل فاكهة النكتارين
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: البرتقالي
+            title2: زراعة البرتقال
+            default: orange-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/orange
+            label: زراعة محاصيل فاكهة البرتقال
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: بابايا
+            title2: زراعة البابايا
+            default: papaya-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/papaya
+            label: زراعة محاصيل الفاكهة في البابايا
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: خوخ
+            title2: زراعة الخوخ
+            default: peach-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/peach
+            label: زراعة محاصيل الخوخ الفاكهة
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: كمثرى
+            title2: زراعة الكمثرى
+            default: pear-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/pear
+            label: زراعة محاصيل الفاكهة الكمثرى
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: البرسيمون
+            title2: زراعة البرسيمون
+            default: persimmon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/persimmon
+            label: زراعة محاصيل فاكهة البرسيمون
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: أناناس
+            title2: زراعة الأناناس
+            default: pineapple-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/pineapple
+            label: زراعة محاصيل فاكهة الأناناس
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: لسان الحمل
+            title2: زراعة لسان الحمل
+            default: plantain-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/plantain
+            label: زراعة محاصيل الفاكهة لسان الحمل
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: بلوم ونعل
+            title2: زراعة البرقوق والوحيد
+            default: plum-and-sole-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/plum-and-sole
+            label: زراعة محاصيل البرقوق والفاكهة الوحيدة
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: سفرجل
+            title2: سفرجل الزراعة
+            default: quince-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/quince
+            label: سفرجل زراعة محاصيل الفاكهة
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: توت العليق
+            title2: زراعة التوت
+            default: raspberry-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/raspberry
+            label: زراعة محاصيل فاكهة التوت
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: ساتسوما
+            title2: زراعة ساتسوماس
+            default: satsumas-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/satsumas
+            label: زراعة محاصيل الفاكهة في ساتسوماس
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الفراولة
+            title2: زراعة الفراولة
+            default: strawberry-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/strawberry
+            label: زراعة محاصيل فاكهة الفراولة
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: يوسفي
+            title2: زراعة اليوسفي
+            default: tangerine-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/tangerine
+            label: زراعة محاصيل اليوسفي
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: بطيخ
+            title2: زراعة البطيخ
+            default: watermelon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/fruit-crop/watermelon
+            label: زراعة محاصيل البطيخ الفاكهة
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: الماشية
+        title2: تربية الماشية
+        default: livestock-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/livestock
+        label: تربية الماشية
+        group: تربية الماشية
+        deploy: true
+        children: 
+            
+          - title: الألبكة
+            title2: زراعة الألبكة
+            default: alpaca-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/livestock/alpaca
+            label: تربية الماشية الألبكة
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: الجاموس
+            title2: زراعة الجاموس
+            default: buffalo-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/livestock/buffalo
+            label: تربية الماشية الجاموس
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: جمل
+            title2: تربية الجمال
+            default: camel-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/livestock/camel
+            label: تربية مواشي الإبل
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: ماشية
+            title2: مزرعة ماشية
+            default: cattle-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/livestock/cattle
+            label: تربية الماشية والماشية
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: حمار
+            title2: تربية الحمير
+            default: donkey-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/livestock/donkey
+            label: تربية الماشية الحمير
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: ماعز
+            title2: تربية الماعز
+            default: goat-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/livestock/goat
+            label: تربية الماعز
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: حصان
+            title2: تربية الخيول
+            default: horse-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/livestock/horse
+            label: تربية الخيول والماشية
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: اللاما
+            title2: زراعة اللاما
+            default: llama-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/livestock/llama
+            label: تربية الماشية اللاما
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: ثور
+            title2: تربية الثور
+            default: ox-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/livestock/ox
+            label: الثور لتربية الماشية
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: شخص شره
+            title2: تربية الخنازير
+            default: pig-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/livestock/pig
+            label: تربية الخنازير
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: أرنب
+            title2: تربية الأرانب
+            default: rabbit-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/livestock/rabbit
+            label: تربية الأرانب للماشية
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: الرنة
+            title2: زراعة الرنة
+            default: reindeer-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/livestock/reindeer
+            label: تربية الماشية الرنة
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: خروف
+            title2: تربية الاغنام
+            default: sheep-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/livestock/sheep
+            label: تربية الأغنام
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: جاموس الماء
+            title2: زراعة جاموس الماء
+            default: water-buffalo-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/livestock/water-buffalo
+            label: تربية الماشية في جاموس الماء
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: الياك
+            title2: زراعة الياك
+            default: yak-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/livestock/yak
+            label: تربية مواشي الياك
+            group: Livestock Farming
+            deploy: false
+            children: 
+                   
+      - title: الرخويات
+        title2: استزراع الرخويات
+        default: molluscs-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/molluscs
+        label: استزراع الرخويات
+        group: استزراع الرخويات
+        deploy: true
+        children: 
+            
+          - title: أذن البحر
+            title2: تربية أبالون
+            default: abalone-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/molluscs/abalone
+            label: تربية الرخويات أذن البحر
+            group: Molluscs Farming
+            deploy: false
+            children: 
+                
+          - title: فلك
+            title2: ارك فارمينج
+            default: ark-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/molluscs/ark
+            label: تربية الرخويات
+            group: Molluscs Farming
+            deploy: false
+            children: 
+                
+          - title: هادئة
+            title2: زراعة البطلينوس
+            default: clam-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/molluscs/clam
+            label: استزراع الرخويات البطلينوس
+            group: Molluscs Farming
+            deploy: false
+            children: 
+                
+          - title: بلح البحر
+            title2: زراعة بلح البحر
+            default: mussel-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/molluscs/mussel
+            label: استزراع بلح البحر الرخويات
+            group: Molluscs Farming
+            deploy: false
+            children: 
+                
+          - title: محار
+            title2: زراعة المحار
+            default: oyster-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/molluscs/oyster
+            label: استزراع رخويات المحار
+            group: Molluscs Farming
+            deploy: false
+            children: 
+                
+          - title: إكليل
+            title2: زراعة الإسكالوب
+            default: scallop-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/molluscs/scallop
+            label: استزراع المحار الرخويات
+            group: Molluscs Farming
+            deploy: false
+            children: 
+                
+          - title: صدفة
+            title2: الزراعة الصدفية
+            default: shell-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/molluscs/shell
+            label: زراعة الرخويات في شل
+            group: Molluscs Farming
+            deploy: false
+            children: 
+                   
+      - title: أويلكروب
+        title2: زراعة المحاصيل الزيتية
+        default: oilcrop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/oilcrop
+        label: زراعة المحاصيل الزيتية
+        group: زراعة المحاصيل الزيتية
+        deploy: true
+        children: 
+            
+          - title: كاستور
+            title2: زراعة الخروع
+            default: castor-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/castor
+            label: زراعة محاصيل الخروع
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: جوزة الهند
+            title2: زراعة جوز الهند
+            default: coconut-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/coconut
+            label: زراعة محاصيل زيت جوز الهند
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: الكتان
+            title2: زراعة الكتان
+            default: flax-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/flax
+            label: زراعة الكتان الزيتي
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: فستق
+            title2: زراعة الفول السوداني
+            default: groundnut-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/groundnut
+            label: زراعة محاصيل الفول السوداني
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: عيدان
+            title2: زراعة القنب
+            default: hemp-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/hemp
+            label: زراعة القنب الزيتية
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: الجوجوبا
+            title2: زراعة الجوجوبا
+            default: jojoba-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/jojoba
+            label: زراعة المحاصيل الزيتية من الجوجوبا
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: كابوك
+            title2: زراعة الكابوك
+            default: kapok-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/kapok
+            label: زراعة الكابوك الزيتية
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: كاريت
+            title2: الزراعة الكاريتية
+            default: karite-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/karite
+            label: Karite Oilcrop Farming
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: شمام
+            title2: زراعة البطيخ
+            default: melon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/melon
+            label: زراعة البطيخ الزيتية
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: خردل
+            title2: زراعة الخردل
+            default: mustard-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/mustard
+            label: زراعة محاصيل الخردل الزيتية
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: زيت النخيل
+            title2: زراعة نخيل الزيت
+            default: oil-palm-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/oil-palm
+            label: زراعة محاصيل زيت نخيل الزيت
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: زيتون
+            title2: زراعة الزيتون
+            default: olive-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/olive
+            label: زراعة محاصيل زيت الزيتون
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: شقائق النعمان
+            title2: زراعة الخشخاش
+            default: poppy-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/poppy
+            label: زراعة الخشخاش الزيتية
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: اغتصاب
+            title2: زراعة الاغتصاب
+            default: rape-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/rape
+            label: اغتصاب زراعة المحاصيل الزيتية
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: القرطم
+            title2: زراعة القرطم
+            default: safflower-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/safflower
+            label: زراعة المحاصيل الزيتية من القرطم
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: بذور القطن
+            title2: زراعة بذور القطن
+            default: seed-cotton-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/seed-cotton
+            label: زراعة المحاصيل الزيتية من بذور القطن
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: سمسم
+            title2: زراعة السمسم
+            default: sesame-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/sesame
+            label: زراعة محاصيل السمسم الزيتية
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: فول الصويا
+            title2: زراعة فول الصويا
+            default: soybean-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/soybean
+            label: زراعة محاصيل فول الصويا
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: دوار الشمس
+            title2: زراعة عباد الشمس
+            default: sunflower-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/sunflower
+            label: زراعة محاصيل زيت عباد الشمس
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: تونغ
+            title2: تونغ فارمينغ
+            default: tung-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/oilcrop/tung
+            label: زراعة المحاصيل الزيتية في تونغ
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                   
+      - title: محاصيل أخرى
+        title2: زراعة المحاصيل الأخرى
+        default: other-crops-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/other-crops
+        label: زراعة المحاصيل الأخرى
+        group: زراعة المحاصيل الأخرى
+        deploy: true
+        children: 
+            
+          - title: السترونيلا
+            title2: زراعة السترونيلا
+            default: citronella-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/other-crops/citronella
+            label: زراعة المحاصيل الأخرى بالسترونيلا
+            group: Other Crops Farming
+            deploy: false
+            children: 
+                
+          - title: صمغ
+            title2: زراعة اللثة
+            default: gum-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/other-crops/gum
+            label: زراعة محاصيل اللبان الأخرى
+            group: Other Crops Farming
+            deploy: false
+            children: 
+                
+          - title: قفزة
+            title2: زراعة القفزات
+            default: hop-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/other-crops/hop
+            label: قفزة زراعة المحاصيل الأخرى
+            group: Other Crops Farming
+            deploy: false
+            children: 
+                
+          - title: نعناع
+            title2: زراعة النعناع
+            default: mint-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/other-crops/mint
+            label: زراعة المحاصيل الأخرى بالنعناع
+            group: Other Crops Farming
+            deploy: false
+            children: 
+                
+          - title: بيريثروم
+            title2: زراعة بيريثروم
+            default: pyrethrum-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/other-crops/pyrethrum
+            label: بيريثروم زراعة المحاصيل الأخرى
+            group: Other Crops Farming
+            deploy: false
+            children: 
+                
+          - title: تبغ
+            title2: زراعة التبغ
+            default: tobacco-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/other-crops/tobacco
+            label: زراعة محاصيل أخرى للتبغ
+            group: Other Crops Farming
+            deploy: false
+            children: 
+                
+          - title: الشمع
+            title2: زراعة الشمع
+            default: wax-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/other-crops/wax
+            label: شمع زراعة المحاصيل الأخرى
+            group: Other Crops Farming
+            deploy: false
+            children: 
+                   
+      - title: دواجن
+        title2: تربية الدواجن
+        default: poultry-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/poultry
+        label: تربية الدواجن
+        group: تربية الدواجن
+        deploy: true
+        children: 
+            
+          - title: فرخة
+            title2: تربية الدجاج
+            default: chicken-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/poultry/chicken
+            label: تربية دواجن الدجاج
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: بطة
+            title2: تربية البط
+            default: duck-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/poultry/duck
+            label: تربية دواجن البط
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: الاتحاد الاقتصادي والنقدي
+            title2: Emu Farming
+            default: emu-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/poultry/emu
+            label: تربية الدواجن في الاتحاد الاقتصادي والنقدي
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: فرانكولين
+            title2: فرانكولين فارمينج
+            default: francolin-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/poultry/francolin
+            label: مزرعة الدواجن فرانكولين
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: بجعة
+            title2: زراعة الاوز
+            default: goose-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/poultry/goose
+            label: تربية دواجن الاوز
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: طير غينيا
+            title2: زراعة دجاج غينيا
+            default: guinea-fowl-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/poultry/guinea-fowl
+            label: تربية الدواجن في غينيا
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: نعامة
+            title2: زراعة النعام
+            default: ostrich-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/poultry/ostrich
+            label: تربية دواجن النعام
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: الحجل
+            title2: زراعة الحجل
+            default: partridge-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/poultry/partridge
+            label: تربية دواجن الحجل
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: طاووس
+            title2: زراعة الطاووس
+            default: peafowl-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/poultry/peafowl
+            label: تربية دواجن الطاووس
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: التدرج
+            title2: زراعة الدراج
+            default: pheasant-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/poultry/pheasant
+            label: تربية الدواجن
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: حمامة
+            title2: تربية الحمام
+            default: pigeon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/poultry/pigeon
+            label: تربية دواجن الحمام
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: طائر السمان
+            title2: زراعة السمان
+            default: quail-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/poultry/quail
+            label: تربية دواجن السمان
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: بجعة
+            title2: زراعة البجع
+            default: swan-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/poultry/swan
+            label: تربية الدواجن بجعة
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: سويفت
+            title2: Swiftlet Farming
+            default: swiftlet-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/poultry/swiftlet
+            label: تربية الدواجن Swiftlet
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: تينامو
+            title2: زراعة تينامو
+            default: tinamou-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/poultry/tinamou
+            label: تربية الدواجن في تينامو
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: ديك رومى
+            title2: زراعة تركيا
+            default: turkey-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/poultry/turkey
+            label: تربية الدواجن في تركيا
+            group: Poultry Farming
+            deploy: false
+            children: 
+                   
+      - title: نبض المحاصيل
+        title2: زراعة المحاصيل النبضية
+        default: pulse-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/pulse-crop
+        label: زراعة المحاصيل النبضية
+        group: زراعة المحاصيل النبضية
+        deploy: true
+        children: 
+            
+          - title: فاصوليا
+            title2: زراعة الفول
+            default: bean-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/pulse-crop/bean
+            label: زراعة محاصيل الفول
+            group: Pulse Crop Farming
+            deploy: false
+            children: 
+                
+          - title: عدس
+            title2: زراعة العدس
+            default: lentil-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/pulse-crop/lentil
+            label: زراعة محاصيل نبضية العدس
+            group: Pulse Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الترمس
+            title2: زراعة الترمس
+            default: lupin-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/pulse-crop/lupin
+            label: نبضي الترمس لزراعة المحاصيل
+            group: Pulse Crop Farming
+            deploy: false
+            children: 
+                
+          - title: البازلاء
+            title2: زراعة البازلاء
+            default: pea-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/pulse-crop/pea
+            label: زراعة محاصيل البازلاء والخضروات
+            group: Pulse Crop Farming
+            deploy: false
+            children: 
+                
+          - title: البيقية
+            title2: زراعة البيقية
+            default: vetch-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/pulse-crop/vetch
+            label: زراعة محاصيل البيقة النبضية
+            group: Pulse Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: الجذر والدرنات المحاصيل
+        title2: زراعة المحاصيل الجذرية والدرنات
+        default: root-and-tuber-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/root-and-tuber-crop
+        label: زراعة المحاصيل الجذرية والدرنات
+        group: زراعة المحاصيل الجذرية والدرنات
+        deploy: true
+        children: 
+            
+          - title: الكسافا
+            title2: زراعة الكسافا
+            default: cassava-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/root-and-tuber-crop/cassava
+            label: زراعة محاصيل جذور الكسافا والدرنات
+            group: Root and Tuber Crop Farming
+            deploy: false
+            children: 
+                
+          - title: كوكويام
+            title2: زراعة Cocoyam
+            default: cocoyam-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/root-and-tuber-crop/cocoyam
+            label: زراعة محاصيل جذور الكوكويام والدرنات
+            group: Root and Tuber Crop Farming
+            deploy: false
+            children: 
+                
+          - title: البطاطس
+            title2: زراعة البطاطا
+            default: potato-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/root-and-tuber-crop/potato
+            label: زراعة جذور البطاطس والدرنات
+            group: Root and Tuber Crop Farming
+            deploy: false
+            children: 
+                
+          - title: بطاطا
+            title2: مزرعة يام
+            default: yam-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/root-and-tuber-crop/yam
+            label: زراعة جذور اليام والدرنات
+            group: Root and Tuber Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: سبايس كروب
+        title2: زراعة محاصيل التوابل
+        default: spice-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/spice-crop
+        label: زراعة محاصيل التوابل
+        group: زراعة محاصيل التوابل
+        deploy: true
+        children: 
+            
+          - title: يانسون
+            title2: زراعة اليانسون
+            default: anise-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/spice-crop/anise
+            label: زراعة محاصيل اليانسون والتوابل
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: باديان
+            title2: مزارع باديان
+            default: badian-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/spice-crop/badian
+            label: زراعة المحاصيل البادية للتوابل
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: هيل
+            title2: زراعة الهيل
+            default: cardamon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/spice-crop/cardamon
+            label: زراعة محاصيل الهيل
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الفلفل الحار والفلفل
+            title2: زراعة الفلفل والفلفل الحار
+            default: chilly-and-pepper-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/spice-crop/chilly-and-pepper
+            label: زراعة محاصيل الفلفل الحار والفلفل الحار
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: قرفة
+            title2: زراعة القرفة
+            default: cinnamon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/spice-crop/cinnamon
+            label: زراعة محاصيل القرفة والتوابل
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: القرنفل
+            title2: زراعة القرنفل
+            default: clove-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/spice-crop/clove
+            label: زراعة محاصيل القرنفل التوابل
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الشمرة
+            title2: زراعة الشمر
+            default: fennel-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/spice-crop/fennel
+            label: زراعة محاصيل الشمر والتوابل
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: زنجبيل
+            title2: زراعة الزنجبيل
+            default: ginger-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/spice-crop/ginger
+            label: زراعة محاصيل الزنجبيل والتوابل
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: صولجان
+            title2: زراعة الصولجان
+            default: mace-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/spice-crop/mace
+            label: زراعة المحاصيل التوابل الصولجان
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: جوزة الطيب
+            title2: زراعة جوزة الطيب
+            default: nutmeg-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/spice-crop/nutmeg
+            label: زراعة محاصيل جوزة الطيب والتوابل
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: بيمنتو
+            title2: زراعة الفلفل
+            default: pimento-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/spice-crop/pimento
+            label: زراعة محاصيل البيمنتو التوابل
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: فانيلا
+            title2: زراعة الفانيليا
+            default: vanilla-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/spice-crop/vanilla
+            label: زراعة محاصيل الفانيليا والتوابل
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: منبه المحاصيل
+        title2: زراعة المحاصيل المنشطة
+        default: stimulant-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/stimulant-crop
+        label: زراعة المحاصيل المنشطة
+        group: زراعة المحاصيل المنشطة
+        deploy: true
+        children: 
+            
+          - title: فاصوليا
+            title2: زراعة الفول
+            default: bean-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/stimulant-crop/bean
+            label: زراعة محاصيل الفول
+            group: Stimulant Crop Farming
+            deploy: false
+            children: 
+                
+          - title: قهوة
+            title2: زراعة البن
+            default: coffee-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/stimulant-crop/coffee
+            label: زراعة محاصيل القهوة
+            group: Stimulant Crop Farming
+            deploy: false
+            children: 
+                
+          - title: رفيق
+            title2: زراعة ماتي
+            default: mate-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/stimulant-crop/mate
+            label: زراعة المحاصيل المنشطة
+            group: Stimulant Crop Farming
+            deploy: false
+            children: 
+                
+          - title: شاي
+            title2: زراعة الشاي
+            default: tea-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/stimulant-crop/tea
+            label: زراعة المحاصيل المنشّطة بالشاي
+            group: Stimulant Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: محصول السكر
+        title2: زراعة محاصيل السكر
+        default: sugar-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/sugar-crop
+        label: زراعة محاصيل السكر
+        group: زراعة محاصيل السكر
+        deploy: true
+        children: 
+            
+          - title: شمندر سكري
+            title2: زراعة بنجر السكر
+            default: sugar-beet-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/sugar-crop/sugar-beet
+            label: زراعة محاصيل السكر بنجر السكر
+            group: Sugar Crop Farming
+            deploy: false
+            children: 
+                
+          - title: قصب السكر
+            title2: زراعة قصب السكر
+            default: sugar-cane-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/sugar-crop/sugar-cane
+            label: زراعة محاصيل قصب السكر والسكر
+            group: Sugar Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: شجرة الجوز المحاصيل
+        title2: زراعة شجرة الجوز والمحاصيل
+        default: tree-nut-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/tree-nut-crop
+        label: زراعة شجرة الجوز والمحاصيل
+        group: زراعة شجرة الجوز والمحاصيل
+        deploy: true
+        children: 
+            
+          - title: لوز
+            title2: زراعة اللوز
+            default: almond-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/tree-nut-crop/almond
+            label: زراعة المحاصيل الجوز شجرة اللوز
+            group: Tree Nut Crop Farming
+            deploy: false
+            children: 
+                
+          - title: البرازيل
+            title2: الزراعة البرازيلية
+            default: brazil-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/tree-nut-crop/brazil
+            label: البرازيل زراعة شجرة الجوز المحاصيل
+            group: Tree Nut Crop Farming
+            deploy: false
+            children: 
+                
+          - title: كاجو
+            title2: زراعة الكاجو
+            default: cashew-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/tree-nut-crop/cashew
+            label: زراعة المحاصيل والجوز شجرة الكاجو
+            group: Tree Nut Crop Farming
+            deploy: false
+            children: 
+                
+          - title: كستناء
+            title2: زراعة الكستناء
+            default: chestnut-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/tree-nut-crop/chestnut
+            label: زراعة المحاصيل الجوز شجرة الكستناء
+            group: Tree Nut Crop Farming
+            deploy: false
+            children: 
+                
+          - title: بندق
+            title2: زراعة البندق
+            default: hazelnut-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/tree-nut-crop/hazelnut
+            label: زراعة محاصيل شجرة البندق والجوز
+            group: Tree Nut Crop Farming
+            deploy: false
+            children: 
+                
+          - title: فستق
+            title2: زراعة الفستق
+            default: pistachio-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/tree-nut-crop/pistachio
+            label: زراعة محاصيل شجرة الفستق والجوز
+            group: Tree Nut Crop Farming
+            deploy: false
+            children: 
+                
+          - title: جوز
+            title2: زراعة الجوز
+            default: walnut-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/tree-nut-crop/walnut
+            label: الجوز شجرة الجوز زراعة المحاصيل
+            group: Tree Nut Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: محصول الخضر
+        title2: زراعة محاصيل الخضر
+        default: vegetable-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/farming/vegetable-crop
+        label: زراعة محاصيل الخضر
+        group: زراعة محاصيل الخضر
+        deploy: true
+        children: 
+            
+          - title: خرشوف
+            title2: زراعة الخرشوف
+            default: artichoke-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/artichoke
+            label: زراعة محاصيل الخرشوف
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: نبات الهليون
+            title2: زراعة الهليون
+            default: asparagus-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/asparagus
+            label: زراعة محاصيل نبات الهليون
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: فاصوليا
+            title2: زراعة الفول
+            default: bean-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/bean
+            label: زراعة محاصيل الفول
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: بروكلي
+            title2: زراعة البروكلي
+            default: broccoli-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/broccoli
+            label: زراعة محاصيل الخضر والقرنبيط
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: كرنب
+            title2: زراعة الكرنب
+            default: cabbage-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/cabbage
+            label: زراعة محاصيل الكرنب والخضر
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: جزرة
+            title2: زراعة الجزر
+            default: carrot-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/carrot
+            label: زراعة محاصيل الجزر والخضروات
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: قرنبيط
+            title2: زراعة القرنبيط
+            default: cauliflower-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/cauliflower
+            label: زراعة محاصيل الخضر والقرنبيط
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الهندباء
+            title2: الهندباء الزراعة
+            default: chicory-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/chicory
+            label: الهندباء زراعة محاصيل الخضر
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الفلفل الحار والفلفل
+            title2: زراعة الفلفل والفلفل الحار
+            default: chilly-and-pepper-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/chilly-and-pepper
+            label: زراعة محاصيل الفلفل الحار والفلفل الحار
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: خيار
+            title2: زراعة الخيار
+            default: cucumber-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/cucumber
+            label: زراعة محاصيل الخيار والخضر
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الباذنجان
+            title2: زراعة الباذنجان
+            default: eggplant-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/eggplant
+            label: زراعة محاصيل الباذنجان والخضروات
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: ثوم
+            title2: زراعة الثوم
+            default: garlic-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/garlic
+            label: زراعة محاصيل الثوم والخضروات
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: غيركين
+            title2: زراعة غيركين
+            default: gherkin-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/gherkin
+            label: زراعة محاصيل الخضر
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: القرع
+            title2: زراعة القرع
+            default: gourd-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/gourd
+            label: زراعة محاصيل الخضر القرع
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: شخص عادي
+            title2: زراعة الكراث
+            default: leek-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/leek
+            label: زراعة محاصيل الخضر الكراث
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: خس
+            title2: زراعة الخس
+            default: lettuce-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/lettuce
+            label: زراعة محاصيل الخس والخضروات
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الذرة
+            title2: زراعة الذرة
+            default: maize-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/maize
+            label: زراعة محاصيل الذرة والخضروات
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: فطر
+            title2: زراعة الفطر
+            default: mushroom-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/mushroom
+            label: زراعة محاصيل خضروات الفطر
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: بامية
+            title2: زراعة البامية
+            default: okra-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/okra
+            label: زراعة محاصيل البامية والخضروات
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: بصلة
+            title2: زراعة البصل
+            default: onion-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/onion
+            label: زراعة محاصيل البصل والخضروات
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: البازلاء
+            title2: زراعة البازلاء
+            default: pea-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/pea
+            label: زراعة محاصيل البازلاء والخضروات
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: يقطين
+            title2: زراعة القرع
+            default: pumpkin-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/pumpkin
+            label: زراعة محاصيل الخضر اليقطين
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: القفلوط الكراث الأندلسي
+            title2: زراعة الكراث
+            default: shallot-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/shallot
+            label: زراعة محاصيل الخضر الكراث
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: سبانخ
+            title2: زراعة السبانخ
+            default: spinach-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/spinach
+            label: زراعة محاصيل الخضر بالسبانخ
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: قرع
+            title2: زراعة الاسكواش
+            default: squash-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/squash
+            label: زراعة محاصيل الخضر
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: طماطم
+            title2: زراعة الطماطم
+            default: tomato-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/tomato
+            label: زراعة محاصيل الطماطم والخضروات
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: الكمأة
+            title2: زراعة الكمأة
+            default: truffle-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/truffle
+            label: زراعة محاصيل نبات الكمأة
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: لفت نبات
+            title2: زراعة اللفت
+            default: turnip-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: وصف مختصر
+            excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+            url: /ar/resources/farming/vegetable-crop/turnip
+            label: زراعة محاصيل الخضر اللفت
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                      
+  - title: إنتاج الغذاء
+    title2: إنتاج الغذاء
+    default: food-production
+    kind: directory
+    icon: icon-directory
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/food-production
+    label: 
+    group: إنتاج الغذاء
+    deploy: true
+    children:
+        
+      - title: مشروب
+        title2: إنتاج المشروبات
+        default: beverage-production
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/food-production/beverage
+        label: إنتاج المشروبات
+        group: إنتاج المشروبات
+        deploy: true
+        children: 
+            
+      - title: منتج الحبوب
+        title2: إنتاج منتجات الحبوب
+        default: cereal-product-production
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/food-production/cereal-product
+        label: إنتاج منتجات الحبوب
+        group: إنتاج منتجات الحبوب
+        deploy: true
+        children: 
+            
+      - title: بهار
+        title2: إنتاج البهارات
+        default: condiment-production
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/food-production/condiment
+        label: إنتاج البهارات
+        group: إنتاج البهارات
+        deploy: true
+        children: 
+            
+      - title: حلوى
+        title2: إنتاج الحلويات
+        default: confection-production
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/food-production/confection
+        label: إنتاج الحلويات
+        group: إنتاج الحلويات
+        deploy: 
+        children: 
+            
+      - title: المضافات الغذائية
+        title2: إنتاج المضافات الغذائية
+        default: food-additive-production
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/food-production/food-additive
+        label: إنتاج المضافات الغذائية
+        group: إنتاج المضافات الغذائية
+        deploy: true
+        children: 
+            
+      - title: منتج الجوز
+        title2: إنتاج منتجات الجوز
+        default: nut-product-production
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/food-production/nut-product
+        label: إنتاج منتجات الجوز
+        group: إنتاج منتجات الجوز
+        deploy: true
+        children: 
+            
+      - title: المعكرونة والمعكرونة
+        title2: إنتاج المعكرونة والمعكرونة
+        default: pasta-and-noodle-production
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/food-production/pasta-and-noodle
+        label: إنتاج المعكرونة والمعكرونة
+        group: إنتاج المعكرونة والمعكرونة
+        deploy: true
+        children: 
+            
+      - title: منتج النبض
+        title2: إنتاج منتجات النبض
+        default: pulse-product-production
+        kind: directory
+        icon: icon-directory
+        sub_title: وصف مختصر
+        excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+        url: /ar/resources/food-production/pulse-product
+        label: إنتاج منتجات النبض
+        group: إنتاج منتجات النبض
+        deploy: true
+        children: 
+               
+  - title: حرفة
+    title2: حرفة
+    default: craft
+    kind: directory
+    icon: icon-directory
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/craft
+    label: 
+    group: حرفة
+    deploy: true
+    children:
+        

@@ -1,0 +1,804 @@
+convert -distort perspective '0,0,0,0  0,1824,0,1824  0,3648,0,3648  2372,0,2372,0  2372,1824,2372,1824  2372,3648,2372,3648  2912,0,2912,0  2912,1824,2912,1824  2912,3648,2912,3648  4744,0,4744,0 4744,1824,4744,1824  4744,3648,4744,3648' bgcropped.jpg bgcroppedcentered.jpg
+
+Training Categories
+
+
+Preliminary Training
+
+Moral Ethic
+Honesty
+Patience
+Gratitude
+Kindness
+Courage
+Temperance
+Humility
+Senerity
+
+Work Ethic
+Integrity
+Respect
+Co-operation
+Consistency
+Positivity
+Accountability
+Trust
+Fairness
+Productivity
+Openness
+
+Self Management
+Self Esteem
+Self Efficacy
+Self Confidence
+Self Discipline
+Self Determination
+Self Motivation
+Self Control
+Resilence
+Time Management
+Stress Management
+Personal Change Management
+
+Cognition
+Attention
+Perception
+Memory
+Executive Functions
+Processing Speed
+Motor Skills
+Language Skills
+Metacognition
+
+Cognitive Aptitude
+Ability to Learn
+Ability to Organize
+Ability to Plan
+Problem Solving
+Decision Making
+Critical Thinking
+Strategic Thinking
+Creativity
+Intuition
+
+Emotion Management
+Anger
+Anxiety
+Fear
+Happiness
+Sadness
+Hatred
+Love
+Regret
+Hope
+Guilt
+Despair
+Shame
+Loneliness
+Envy
+Pride
+
+Social Interaction
+Verbal Communication
+Non Verbal Communication
+Written Communication
+Active Listening
+Visual Communication
+Teamwork
+Negotiation
+Conflict Management
+Social Awareness
+
+Administration
+Management
+Organization
+Leadership
+Delegation
+Motivating
+Mentoring
+Monitoring
+People Management
+
+
+Vocational Training
+
+Farming
+
+Livestock Farming (Britannica) [https://www.britannica.com/animal/livestock]
+Alpaca
+Buffalo
+Camel
+Cattle
+Cow
+Donkey
+Goat
+Horse
+Llama
+Ox
+Pig
+Reindeer
+Sheep
+Water Buffalo
+Yak
+
+Livestock Farming (Wikipedia) [https://en.m.wikipedia.org/wiki/Livestock]
+Horse
+Donkey
+Cattle
+Zebu
+Bali Cattle
+Yak
+Water Buffalo
+Gayal
+Sheep
+Goat
+Reindeer
+Bactrian Camel
+Arabian Camel
+Llama
+Alpaca
+Domestic Pig
+Rabbit
+Guinea Pig
+
+Poultry Farming (Wikipedia) [https://en.m.wikipedia.org/wiki/Poultry]
+Chicken
+Turkey
+Duck
+Goose
+Guinea Fowl
+Pigeon
+
+Fish Farming (Wikipedia) [https://en.m.wikipedia.org/wiki/List_of_commercially_important_fish_species]
+Grass Carp
+Peruvian Anchoveta
+Silver Carp
+Common Carp
+Asari, Japanese Littleneck, Manila Clam, Filipino Venus, Japanese Cockle, Japanese Carpet Shell
+Alaska Pollock
+Nile Tilapia
+Whiteleg Shrimp
+Bighead Carp
+Skipjack Tuna
+Catla
+Crucian Carp
+Atlantic Salmon
+Atlantic Herring
+Chub Mackerel
+Rohu
+Yellowfin Tuna
+Japanese Anchovy
+Largehead Hairtail
+Atlantic Cod
+European Pilchard
+Capelin
+Jumbo Flying Squid
+Milkfish
+Atlantic Mackerel
+Rainbow Trout
+Giant Tiger Prawn, Asian Tiger Shrimp
+Araucanian Herring
+Chinese Razor Clam, Agemaki Clam
+Chinese Mitten Crab
+Wuchang Bream
+Pacific Oyster, Japanese Oyster, Miyagi Oyster
+Louisiana Crawfish, Red Swamp Crawfish
+Akiami Paste Shrimp
+Gulf Menhaden
+Indian Oil Sardine
+Black Carp
+European Anchovy
+Northern Snakehead
+Pacific Cod
+Pacific Saury
+Pacific Herring
+Bigeye Tuna
+Chilean Jack Mackerel
+Yellow Croaker
+Haddock
+Gazami Crab
+Amur Catfish, Japanese Common Catfish
+European Sprat
+Pin Salmon
+Mrigal Crap
+Channel Catfish
+Blood Cockle
+Blue Whiting
+Hilsa Shad
+Daggertooth Pike Conger
+California Pilchard
+Cape Horse Mackerel
+Pacific Anchoveta
+Japanese Flying Squid
+Argentine Shortfin Squid
+Pollock
+Chinese Softshell Turtle
+Kawakawa
+Indian Mackerel
+Asian Swamp Eel
+Yesso Scallop
+Argentine Hake
+Northern Prawn
+Short Mackerel
+Southern Rough Shrimp
+Southern African Anchovy
+Pond Loach
+Iridescent Shark
+Mandarin Fish, Chinese Perch
+Nile Perch
+Round Sardinella
+Japanese Pilchard
+American Sea Scallop
+Bombay-duck
+Yellowhead Catfish, Korean Bullhead
+Narrow-barred Spanish Mackerel
+Albacore
+Madeiran Sardinella
+Bonga Shad
+Silver Cyprinid
+Nile Tilapia
+Longtail Tuna
+Atlantic Menhaden
+Giant Tiger Prawn
+North Pacific Hake
+Atlantic Horse Mackerel
+Japanese Jack Mackerel
+Pacific Thread Herring
+Bigeye Scad
+Yellowstripe Scad
+Chum Salmon
+Antarctic Krill
+Blue Swimming Crab
+Pacific Sand Lance, Pacific Sandlance
+Goldstripe Sardinella
+
+Seaweed Farming (Wikipedia) [https://en.m.wikipedia.org/wiki/Seaweed_farming]
+Guso (Eucheuma)
+Elkhorn Sea Moss (Kappaphycus Alverezii)
+Gracilaria
+Saccharina Japonica
+Wakame (Undaria Pinnatifida)
+Pyropia
+Hijiki (Sargassum Fusiforme)
+
+Crab fisheries (Wikipedia) [https://en.m.wikipedia.org/wiki/Crab_fisheries]
+Portunus trituberculatus (names: Horse crab, Gazami crab, Japanese blue crab)
+Portunus Pelagicus (names: Flower crab, Blue crab, Blue swimmer crab, blue manna crab, sand crab)
+Chionoecete (names: Snow crab, Spider crab, Queen crab)
+Callinectes Sapidus
+Cancer pagurus (names Edible crab, Brown crab)
+Metacarcinus Magister (name: "Cancer Magister" meaning Master crab)
+Scylla serrata (names: Mud crab, Mangrove crab, Black crab)
+Maja squinado
+Cancer borealis (names: Jonah crab)
+
+Fish Farming (FAO) [http://www.fao.org/3/w2333e/W2333E03.htm#31]
+Siberian sturgeon
+Sterlet sturgeon
+Starry sturgeon
+White sturgeon
+Beluga
+Arapaima
+African bonytongue
+European eel
+Japanese eel
+American eel
+Milkfish
+Freshwater bream
+Asp
+Catla
+Goldfish
+Crucian carp
+Mud carp
+Mrigal carp
+Grass carp
+Common carp
+Silver carp
+Bighead carp
+Orangefin labeo 
+Roho labeo
+Hoven's carp
+Wuchang bream
+Black carp
+Golden shiner
+Nilem carp
+White amur bream
+Thai silver barb
+Java barb
+Roach
+Tench
+Pond loach
+Bigmouth buffalo
+Bocachico*
+Bocachico
+Dorada*
+Cachama*
+Cachama blanca*
+Paco*
+Black bullhead
+Channel catfish
+Bagrid catfish
+Wels catfish
+Pangas catfish
+Striped catfish
+Mudfish
+Philippine catfish
+Hong Kong catfish
+North African catfish
+Bighead catfish
+African catfish*
+Sampa*
+South American catfish*
+Atipa*
+Northern pike
+Ayu sweetfish
+Vendace*
+Whitefish*
+Pink salmon
+Chum salmon
+Coho salmon
+Masu salmon
+Rainbow trout
+Sockeye salmon
+Chinook salmon
+Atlantic salmon
+Sea trout
+Arctic char
+Brook trout
+Lake trout
+Atlantic cod
+Pejerrey
+Lai
+Common snook
+Barramundi*
+Nile perch
+Murray cod*
+Golden perch
+Striped bass
+European seabass
+Hong Kong grouper
+Areolate grouper*
+Greasy grouper
+Spotted coralgrouper
+Silver perch
+Largemouth black bass
+European perch
+Pike-perch
+Bluefish
+Greater amberjack
+Japanese amberjack
+Snubnose pompano*
+Florida pompano
+Palometa pompano
+Japanese jack mackerel
+Mangrove red snapper
+Yellowtail snapper
+Dark seabream
+White seabream
+Crimson seabream
+Red seabream*
+Red porgy
+Goldlined seabream*
+Gilthead seabream
+Red drum
+Green terror
+Blackbelt cichlid
+Jaguar guapote
+Mexican mojarra
+Pearlspot
+Three spotted tilapia
+Blue tilapia
+Longfin tilapia
+Mozambique tilapia
+Nile tilapia
+Tilapia*
+Wami tilapia
+Blackchin tilapia
+Tilapia*
+Redbreast tilapia
+Redbelly tilapia
+Golden grey mullet
+Largescale mullet
+Gold-spot mullet
+Thinlip grey mullet
+Leaping mullet
+Tade mullet
+Flathead grey mullet
+White mullet
+Lebranche mullet
+Pacific fat sleeper
+Marble goby
+White-spotted spinefoot
+Goldlined spinefoot
+Marbled spinefoot
+Southern bluefin tuna
+Northern bluefin tuna
+Climbing perch
+Snakeskin gourami
+Kissing gourami
+Giant gourami
+Snakehead
+Indonesian snakehead
+Spotted snakehead
+Striped snakehead
+Turbot
+Bastard halibut
+Common sole
+
+Crustacean Farming (FAO) [http://www.fao.org/3/w2333e/W2333E04.htm#41]
+Kadal Shrimp
+Endeavour Shrimp
+Greasyback Shrimp
+Speckled Shrimp
+Northern Brown shrimp
+Fleshy Prawn
+Brown Tiger Prawn
+Indian White Prawn
+Kuruma Prawn
+Caramote Prawn
+Banana Prawn
+Giant Tiger Prawn
+Southern Pink Shrimp
+Sao Paulo Shrimp
+Redtail Prawn
+Southern White Shrimp
+Green Tiger Prawn
+Northern White Shrimp
+Blue Shrimp
+Southern Brown Shrimp
+Whiteleg Shrimp
+Atlantic Seabob
+Akiami Paste Shrimp
+Monsoon River Prawn
+Giant River Prawn
+Common Prawn
+American Lobster
+European Lobster
+Noble Crayfish
+Danube Crayfish
+Signal Crayfish
+Red Swamp Crawfish
+Yabby Crayfish
+Red Claw Crayfish
+Marron Crayfish
+Longlegged Spiny Lobster
+Gazami Crab
+Indo-Pacific Swamp Crab
+Chinese River Crab
+
+Molluscs Farming (FAO) [http://www.fao.org/3/w2333e/W2333E05.htm#51]
+Japanese abalone
+Small abalone
+Perlemoen abalone
+Red abalone
+European abalone*
+Common periwinkle*
+Pink conch*
+Cholga mussel
+Choro mussel
+Californian mussel
+Chilean mussel
+Korean mussel
+Blue mussel
+Mediterranean mussel
+Australian mussel
+New Zealand mussel*
+Indian brown mussel
+South American rock mussel
+Green mussel
+Blood cockle*
+Inflated ark
+Half-crenate ark
+Japanese pearl oyster
+Black-lip pearl oyster
+Silver-lip pearl oyster*
+Penguin wing oyster
+Queen scallop
+Atlantic bay scallop
+Peruvian calico scallop
+Pacific calico scallop
+Farrer's scallop
+Iceland scallop
+Noble scallop
+Yesso scallop
+Australian southern scallop
+Great Atlantic scallop*
+New Zealand scallop
+American sea scallop*
+Lugubrious cupped oyster
+Cortez oyster
+Pacific cupped oyster*
+Slipper cupped oyster*
+Indian backwater oyster
+Mangrove cupped oyster
+Suminoe oyster
+American cupped oyster
+Chilean flat oyster
+European flat oyster
+Olympia flat oyster
+Sidney rock oyster*
+Hooded oyster
+Spiny oyster
+Common edible cockle
+Smooth giant clam
+Giant clam
+Smooth mactra
+Globose clam
+Atlantic surf clam
+Constricted tagelus
+Asian clam
+Japanese corbicula
+Northern quahog*
+Japanese hard clam
+Asiatic hard clam
+Undulate venus
+Pacific littleneck clam
+Grooved carpet shell
+Japanese carpet shell*
+Butter clam
+Pullet carpet shell*
+Sand gaper*
+Pacific geoduck
+
+Cereal Crop Farming (FAO) [http://www.fao.org/es/faodef/fdef01e.htm]
+Barley
+Buckwheat
+Canary Seed
+Fonio
+Maize
+Millet
+Oats
+Quinoa
+Rice
+Rye
+Sorghum
+Triticale
+Wheat
+
+Citrus Fruit Farming (FAO) [http://www.fao.org/es/faodef/fdef08e.htm]
+Grapefruit
+Lemon and Lime
+Orange
+Tangerine, Mandarin, Clementine, Satsumas
+
+Fiber Crop Farming (FAO) [http://www.fao.org/es/faodef/fdef09e.htm]
+Agave fibre
+Bastfibre
+Flax fibre and tow
+Hemp tow waste
+Jute
+Kapok fruit
+Manila fibre (abaca)
+Ramie
+Seed Cotton
+Sisal
+
+Fruit Crop Farming (FAO) [http://www.fao.org/es/faodef/fdef08e.htm]
+Apple
+Apricot
+Avocado
+Banana
+Blueberry
+Carob
+Cashewapple
+Cherry
+Cranberry
+Currant
+Date
+Fig
+Gooseberry
+Grapefruit
+Grape
+Kiwi fruit
+Lemon and Lime
+Mango, Mangosteen, guavas
+Orange
+Papaya
+Peach and nectarines
+Pear
+Persimmon
+Pineapple
+Plantain
+Plum and Sloe
+Quince
+Raspberry
+Strawberry
+Tangerine, Mandarin, Clementine, Satsumas
+Watermelon
+
+Oilcrop Farming (FAO) [http://www.fao.org/es/faodef/fdef06e.htm]
+Castor oil seed
+Coconut
+Groundnuts, with shell
+Hempseed
+Jojoba seed
+Kapok fruit
+Karite nuts (Sheanuts)
+Linseed -- Flax
+Melonseed
+Mustard seed
+Oil Palm fruit
+Olive
+Poppy seed
+Rapeseed
+Safflower seed
+Seed Cotton
+Sesame seed (Benne seed)
+Soybean
+Sunflower seed
+Tung nuts
+
+Pulse Crop Farming (FAO) [http://www.fao.org/es/faodef/fdef04e.htm]
+Bambara Bean
+Bean
+Broad Bean
+Horse Bean
+Chick pea
+Cow pea
+Lentil
+Lupin
+Pea
+Pigeon pea
+Vetches
+
+Root and Tuber Crop Farming (FAO) [http://www.fao.org/es/faodef/fdef02e.htm]
+Cassava
+Potato
+Sweet Potato
+Taro (Cocoyam)
+Yam
+Yautia (Cocoyam)
+
+Sugar Crop Farming (FAO) [http://www.fao.org/es/faodef/fdef03e.htm]
+Sugar Beet
+Sugar Cane
+
+Tree Nut Crop Farming (FAO) [http://www.fao.org/es/faodef/fdef05e.htm]
+Almonds, with shell
+Brazil nuts, with shell
+Cashew nut, with shell
+Chestnut
+Hazelnut, with shell
+Pistachio
+Walnut
+
+Vegetable Crop Farming (FAO) [http://www.fao.org/es/faodef/fdef07e.htm]
+Artichokes
+Asparagus
+Beans, green
+Cabbages and other brassicas
+Carrots and Turnips
+Cauliflowers and Broccoli
+Chillies and Peppers
+Cucumbers and Gherkins
+Eggplants (Aubergines)
+Garlic
+Leeks, other alliaceous vegetables
+Lettuce and Chicory
+Maize, green
+Mushroom and Truffles
+Okra
+Onions, dry … shallots, green
+Peas, green
+Pumpkins, squash and gourds
+Spinach
+String beans
+Tomatoes
+
+Spice Crop Farming (FAO) [http://www.fao.org/es/faodef/fdef10e.htm]
+Pepper
+Pimento
+Vanilla
+Cinnamon (Canella)
+Cloves
+Nutmeg, Mace, Cardamons
+Anise, Badian, Fennel
+Ginger
+
+Stimulant Crop Farming (FAO) [http://www.fao.org/es/faodef/fdef12e.htm]
+Green Coffee
+Cocoa Bean
+Tea
+Mate
+
+Tobacco and Rubber and Other Crops (FAO) [http://www.fao.org/es/faodef/fdef13e.htm#13.6; http://www.fao.org/waicent/faoinfo/economic/faodef/fdef13e.htm]
+Chicory Roots
+Carob
+Hops
+Oil of Citronella
+Peppermint and Spearmint
+Pyrethrum
+Tobacco Leaves
+Natural Rubber (--Rubber tree)
+Natural Gums (--Latex tree)
+Arabic Gum (--acacia tree)
+Other Resins
+Vegetable Waxes
+
+
+Food Production
+
+Cereals and Cereal Products Production
+Pulses and Pulse Products Production
+Nuts and Nut Products Production
+Drinks and Beverages Production
+Condiments Production (Condiment, Dip, and Spread)
+Baked Goods and Confection Production
+Pasta and Noodles Production
+Food Additives Production
+
+Food Additive
+
+Drinks
+
+Baked Goods and Confection
+
+Animal By-Product
+
+Cereal Product
+
+Pulse Product
+
+Nut Product
+
+Craft
+Cleaning Agent and Cosmetic
+Guildance
+CGI
+Computer Programming
+Software Development
+Cyber Security
+
+Self Improvement
+Agriculture
+Material Processing
+Craft
+Media
+Computing
+Manufacturing
+Healthcare
+Education
+Military
+Building
+Transport
+Legal
+Others
+
+Farming
+Food Production
+Education
+Computing
+Multimedia Art
+New Media Art
+Manufacturing
+Military
+Healthcare
+Building
+Transportation
+Telecommunication
+Legal
+
+Community Services
+
+Electricity
+Law
+Christainity
+Building
+
+
+Services
+Welfare
+
+
+Material Production / 
+Personal Development / 
+
+Resource Extraction
+Education
+Energy
+Health
+Entertainment
+Information
+Software
+Sport
+

@@ -1,0 +1,5219 @@
+
+data:
+    
+  - title: Triticale
+    title2: الزراعة Triticale
+    title_uniq: الزراعة-triticale
+    default: lemon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Tr
+    alphabet_l3: Tri
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/citrus-fruit/lemon
+    label: ليمون فاكهة حمضية الزراعة ليمون
+    group: الزراعة Triticale
+    deploy: false
+                  
+  - title: Triticale
+    title2: الزراعة Triticale
+    title_uniq: الزراعة-triticale
+    default: lemon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Tr
+    alphabet_l3: Tri
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/lemon
+    label: ليمون محصول الفاكهة الزراعة ليمون
+    group: الزراعة Triticale
+    deploy: false
+                  
+  - title: أخلاقيات العمل
+    title2: أخلاقيات العمل
+    title_uniq: أخلاقيات-العمل
+    default: temperance
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: أ
+    alphabet_l2: أخ
+    alphabet_l3: أخل
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/moral-ethic/temperance
+    label: اعتدال الأخلاق الأخلاقية يصف اعتدال
+    group: أخلاقيات العمل
+    deploy: false
+                  
+  - title: أذن البحر
+    title2: تربية أبالون
+    title_uniq: تربية-أبالون
+    default: fruit-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: أ
+    alphabet_l2: أذ
+    alphabet_l3: أذن
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop
+    label: محصول الفاكهة الزراعة محصول الفاكهة تفاح مشمش أفوكادو موز توت الخروب كاجو أبل الكرز كليمنتين كرز زبيب تاريخ تين عنب الثعلب عنب جريب فروت جوافة كيوي ليمون جير الماندرين مانجو مانغوستين زليقة البرتقالي بابايا خوخ كمثرى البرسيمون أناناس لسان الحمل بلوم ونعل سفرجل توت العليق ساتسوما الفراولة يوسفي بطيخ
+    group: تربية أبالون
+    deploy: true
+                  
+  - title: أرز
+    title2: زراعة الأرز
+    title_uniq: زراعة-الأرز
+    default: grapefruit-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: أ
+    alphabet_l2: أر
+    alphabet_l3: أرز
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/citrus-fruit/grapefruit
+    label: جريب فروت فاكهة حمضية الزراعة جريب فروت
+    group: زراعة الأرز
+    deploy: false
+                  
+  - title: أرز
+    title2: زراعة الأرز
+    title_uniq: زراعة-الأرز
+    default: grapefruit-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: أ
+    alphabet_l2: أر
+    alphabet_l3: أرز
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/grapefruit
+    label: جريب فروت محصول الفاكهة الزراعة جريب فروت
+    group: زراعة الأرز
+    deploy: false
+                  
+  - title: أرنب
+    title2: تربية الأرانب
+    title_uniq: تربية-الأرانب
+    default: sorghum-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: أ
+    alphabet_l2: أر
+    alphabet_l3: أرن
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/cereal-crop/sorghum
+    label: الذرة الرفيعة محصول الحبوب الزراعة الذرة الرفيعة
+    group: تربية الأرانب
+    deploy: false
+                  
+  - title: أفوكادو
+    title2: زراعة الأفوكادو
+    title_uniq: زراعة-الأفوكادو
+    default: donkey-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: أ
+    alphabet_l2: أف
+    alphabet_l3: أفو
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/livestock/donkey
+    label: حمار الماشية الزراعة حمار
+    group: زراعة الأفوكادو
+    deploy: false
+                  
+  - title: أمانة
+    title2: أمانة
+    title_uniq: أمانة
+    default: moral-ethic
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: أ
+    alphabet_l2: أم
+    alphabet_l3: أما
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/moral-ethic
+    label: الأخلاق الأخلاقية يصف الأخلاق الأخلاقية شجاعة يشكر أمانة التواضع العطف الصبر راحة نفسية اعتدال
+    group: أمانة
+    deploy: true
+                  
+  - title: أناناس
+    title2: زراعة الأناناس
+    title_uniq: زراعة-الأناناس
+    default: karite-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: أ
+    alphabet_l2: أن
+    alphabet_l3: أنا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/karite
+    label: كاريت أويلكروب الزراعة كاريت
+    group: زراعة الأناناس
+    deploy: false
+                  
+  - title: أويلكروب
+    title2: زراعة المحاصيل الزيتية
+    title_uniq: زراعة-المحاصيل-الزيتية
+    default: sesame-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: أ
+    alphabet_l2: أو
+    alphabet_l3: أوي
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/sesame
+    label: سمسم أويلكروب الزراعة سمسم
+    group: زراعة المحاصيل الزيتية
+    deploy: false
+                  
+  - title: إبداع
+    title2: إبداع
+    title_uniq: إبداع
+    default: problem-solving
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إب
+    alphabet_l3: إبد
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognitive-aptitude/problem-solving
+    label: حل المشاكل الكفاءة المعرفية يصف حل المشاكل
+    group: إبداع
+    deploy: false
+                  
+  - title: إدارة
+    title2: إدارة
+    title_uniq: إدارة
+    default: administration
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/administration
+    label: الادارة يصف الادارة وفد قيادة إدارة التوجيه يراقب تحفيز منظمة إدارة الناس
+    group: إدارة
+    deploy: true
+                  
+  - title: إدارة الأمل
+    title2: إدارة الأمل
+    title_uniq: إدارة-الأمل
+    default: hope-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/emotion-management/hope-management
+    label: إدارة الأمل إدارة العاطفة يصف إدارة الأمل
+    group: إدارة الأمل
+    deploy: false
+                  
+  - title: إدارة التغيير الشخصي
+    title2: إدارة التغيير الشخصي
+    title_uniq: إدارة-التغيير-الشخصي
+    default: stress-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/self-management/stress-management
+    label: ادارة الاجهاد الإدارة الذاتية يصف ادارة الاجهاد
+    group: إدارة التغيير الشخصي
+    deploy: false
+                  
+  - title: إدارة الحب
+    title2: إدارة الحب
+    title_uniq: إدارة-الحب
+    default: guilt-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/emotion-management/guilt-management
+    label: إدارة الذنب إدارة العاطفة يصف إدارة الذنب
+    group: إدارة الحب
+    deploy: false
+                  
+  - title: إدارة الحزن
+    title2: إدارة الحزن
+    title_uniq: إدارة-الحزن
+    default: envy-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/emotion-management/envy-management
+    label: إدارة الحسد إدارة العاطفة يصف إدارة الحسد
+    group: إدارة الحزن
+    deploy: false
+                  
+  - title: إدارة الحسد
+    title2: إدارة الحسد
+    title_uniq: إدارة-الحسد
+    default: regret-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/emotion-management/regret-management
+    label: إدارة الندم إدارة العاطفة يصف إدارة الندم
+    group: إدارة الحسد
+    deploy: false
+                  
+  - title: إدارة الخوف
+    title2: إدارة الخوف
+    title_uniq: إدارة-الخوف
+    default: anxiety-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/emotion-management/anxiety-management
+    label: إدارة القلق إدارة العاطفة يصف إدارة القلق
+    group: إدارة الخوف
+    deploy: false
+                  
+  - title: إدارة الذنب
+    title2: إدارة الذنب
+    title_uniq: إدارة-الذنب
+    default: loneliness-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/emotion-management/loneliness-management
+    label: إدارة الوحدة إدارة العاطفة يصف إدارة الوحدة
+    group: إدارة الذنب
+    deploy: false
+                  
+  - title: إدارة السعادة
+    title2: إدارة السعادة
+    title_uniq: إدارة-السعادة
+    default: despair-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/emotion-management/despair-management
+    label: إدارة اليأس إدارة العاطفة يصف إدارة اليأس
+    group: إدارة السعادة
+    deploy: false
+                  
+  - title: إدارة العار
+    title2: إدارة العار
+    title_uniq: إدارة-العار
+    default: happiness-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/emotion-management/happiness-management
+    label: إدارة السعادة إدارة العاطفة يصف إدارة السعادة
+    group: إدارة العار
+    deploy: false
+                  
+  - title: إدارة العاطفة
+    title2: إدارة العاطفة
+    title_uniq: إدارة-العاطفة
+    default: strategic-thinking
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognitive-aptitude/strategic-thinking
+    label: التفكير الاستراتيجي الكفاءة المعرفية يصف التفكير الاستراتيجي
+    group: إدارة العاطفة
+    deploy: false
+                  
+  - title: إدارة القلق
+    title2: إدارة القلق
+    title_uniq: إدارة-القلق
+    default: anger-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/emotion-management/anger-management
+    label: السيطرة على الغضب إدارة العاطفة يصف السيطرة على الغضب
+    group: إدارة القلق
+    deploy: false
+                  
+  - title: إدارة الكبرياء
+    title2: إدارة الكبرياء
+    title_uniq: إدارة-الكبرياء
+    default: sadness-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/emotion-management/sadness-management
+    label: إدارة الحزن إدارة العاطفة يصف إدارة الحزن
+    group: إدارة الكبرياء
+    deploy: false
+                  
+  - title: إدارة الكراهية
+    title2: إدارة الكراهية
+    title_uniq: إدارة-الكراهية
+    default: fear-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/emotion-management/fear-management
+    label: إدارة الخوف إدارة العاطفة يصف إدارة الخوف
+    group: إدارة الكراهية
+    deploy: false
+                  
+  - title: إدارة الناس
+    title2: إدارة الناس
+    title_uniq: إدارة-الناس
+    default: management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/administration/management
+    label: إدارة الادارة يصف إدارة
+    group: إدارة الناس
+    deploy: false
+                  
+  - title: إدارة الندم
+    title2: إدارة الندم
+    title_uniq: إدارة-الندم
+    default: hatred-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/emotion-management/hatred-management
+    label: إدارة الكراهية إدارة العاطفة يصف إدارة الكراهية
+    group: إدارة الندم
+    deploy: false
+                  
+  - title: إدارة الوحدة
+    title2: إدارة الوحدة
+    title_uniq: إدارة-الوحدة
+    default: pride-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/emotion-management/pride-management
+    label: إدارة الكبرياء إدارة العاطفة يصف إدارة الكبرياء
+    group: إدارة الوحدة
+    deploy: false
+                  
+  - title: إدارة الوقت
+    title2: إدارة الوقت
+    title_uniq: إدارة-الوقت
+    default: self-esteem
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/self-management/self-esteem
+    label: احترام الذات الإدارة الذاتية يصف احترام الذات
+    group: إدارة الوقت
+    deploy: false
+                  
+  - title: إدارة اليأس
+    title2: إدارة اليأس
+    title_uniq: إدارة-اليأس
+    default: love-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إد
+    alphabet_l3: إدا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/emotion-management/love-management
+    label: إدارة الحب إدارة العاطفة يصف إدارة الحب
+    group: إدارة اليأس
+    deploy: false
+                  
+  - title: إكليل
+    title2: زراعة الإسكالوب
+    title_uniq: زراعة-الإسكالوب
+    default: blueberry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إك
+    alphabet_l3: إكل
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/blueberry
+    label: توت محصول الفاكهة الزراعة توت
+    group: زراعة الإسكالوب
+    deploy: false
+                  
+  - title: إنتاج الغذاء
+    title2: إنتاج الغذاء
+    title_uniq: إنتاج-الغذاء
+    default: food-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إن
+    alphabet_l3: إنت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/food-production
+    label: إنتاج الغذاء إنتاج الغذاء مشروب منتج الحبوب بهار حلوى المضافات الغذائية منتج الجوز المعكرونة والمعكرونة منتج النبض
+    group: إنتاج الغذاء
+    deploy: true
+                  
+  - title: إنتاجية
+    title2: إنتاجية
+    title_uniq: إنتاجية
+    default: positivity
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: إ
+    alphabet_l2: إن
+    alphabet_l3: إنت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/work-ethic/positivity
+    label: الإيجابية أخلاقيات العمل يصف الإيجابية
+    group: إنتاجية
+    deploy: false
+                  
+  - title: احترام
+    title2: احترام
+    title_uniq: احترام
+    default: accountability
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: اح
+    alphabet_l3: احت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/work-ethic/accountability
+    label: مسئولية أخلاقيات العمل يصف مسئولية
+    group: احترام
+    deploy: false
+                  
+  - title: احترام الذات
+    title2: احترام الذات
+    title_uniq: احترام-الذات
+    default: self-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: اح
+    alphabet_l3: احت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/self-management
+    label: الإدارة الذاتية يصف الإدارة الذاتية إدارة التغيير الشخصي الصمود الثقة بالنفس السيطرة على النفس تقرير المصير الانضباط الذاتي الكفاءة الذاتية احترام الذات الدافع الذاتي ادارة الاجهاد إدارة الوقت
+    group: احترام الذات
+    deploy: true
+                  
+  - title: ادارة الاجهاد
+    title2: ادارة الاجهاد
+    title_uniq: ادارة-الاجهاد
+    default: self-motivation
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: اد
+    alphabet_l3: ادا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/self-management/self-motivation
+    label: الدافع الذاتي الإدارة الذاتية يصف الدافع الذاتي
+    group: ادارة الاجهاد
+    deploy: false
+                  
+  - title: اعتدال
+    title2: اعتدال
+    title_uniq: اعتدال
+    default: kindness
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: اع
+    alphabet_l3: اعت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/moral-ethic/kindness
+    label: العطف الأخلاق الأخلاقية يصف العطف
+    group: اعتدال
+    deploy: false
+                  
+  - title: اغتصاب
+    title2: زراعة الاغتصاب
+    title_uniq: زراعة-الاغتصاب
+    default: duck-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: اغ
+    alphabet_l3: اغت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/poultry/duck
+    label: بطة دواجن الزراعة بطة
+    group: زراعة الاغتصاب
+    deploy: false
+                  
+  - title: الأخلاق الأخلاقية
+    title2: الأخلاق الأخلاقية
+    title_uniq: الأخلاق-الأخلاقية
+    default: attribute-skills
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الأ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute
+    label: يصف يصف الأخلاق الأخلاقية شجاعة يشكر أمانة التواضع العطف الصبر راحة نفسية اعتدال أخلاقيات العمل مسئولية تعاون تناسق الإنصاف نزاهة الانفتاح الإيجابية إنتاجية احترام الإدارة الذاتية إدارة التغيير الشخصي الصمود الثقة بالنفس السيطرة على النفس تقرير المصير الانضباط الذاتي الكفاءة الذاتية احترام الذات الدافع الذاتي ادارة الاجهاد إدارة الوقت معرفة انتباه الوظائف التنفيذية مهارات اللغة ذاكرة ما وراء المعرفة مهارات قيادة تصور سرعة المعالجة الكفاءة المعرفية القدرة على التعلم القدرة على التنظيم القدرة على التخطيط إبداع التفكير النقدي صناعة القرار حدس حل المشاكل التفكير الاستراتيجي إدارة العاطفة السيطرة على الغضب إدارة القلق إدارة اليأس إدارة الحسد إدارة الخوف إدارة الذنب إدارة السعادة إدارة الكراهية إدارة الأمل إدارة الوحدة إدارة الحب إدارة الكبرياء إدارة الندم إدارة الحزن إدارة العار الترابط الاجتماعي الاستماع الفعال فض النزاعات تفاوض التواصل غير اللفظي الوعي الاجتماعي العمل بروح الفريق الواحد التواصل اللفظي التواصل البصري التواصل الكتابي الادارة وفد قيادة إدارة التوجيه يراقب تحفيز منظمة إدارة الناس
+    group: الأخلاق الأخلاقية
+    deploy: true
+                  
+  - title: الأغاف
+    title2: زراعة الأغاف
+    title_uniq: زراعة-الأغاف
+    default: plantain-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الأ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/plantain
+    label: لسان الحمل محصول الفاكهة الزراعة لسان الحمل
+    group: زراعة الأغاف
+    deploy: false
+                  
+  - title: الألبكة
+    title2: زراعة الألبكة
+    title_uniq: زراعة-الألبكة
+    default: barley-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الأ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/cereal-crop/barley
+    label: شعير محصول الحبوب الزراعة شعير
+    group: زراعة الألبكة
+    deploy: false
+                  
+  - title: الألياف المحاصيل
+    title2: زراعة المحاصيل الليفية
+    title_uniq: زراعة-المحاصيل-الليفية
+    default: pineapple-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الأ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/pineapple
+    label: أناناس محصول الفاكهة الزراعة أناناس
+    group: زراعة المحاصيل الليفية
+    deploy: false
+                  
+  - title: الإدارة الذاتية
+    title2: الإدارة الذاتية
+    title_uniq: الإدارة-الذاتية
+    default: respect
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الإ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/work-ethic/respect
+    label: احترام أخلاقيات العمل يصف احترام
+    group: الإدارة الذاتية
+    deploy: false
+                  
+  - title: الإنصاف
+    title2: الإنصاف
+    title_uniq: الإنصاف
+    default: openness
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الإ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/work-ethic/openness
+    label: الانفتاح أخلاقيات العمل يصف الانفتاح
+    group: الإنصاف
+    deploy: false
+                  
+  - title: الإيجابية
+    title2: الإيجابية
+    title_uniq: الإيجابية
+    default: fairness
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الإ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/work-ethic/fairness
+    label: الإنصاف أخلاقيات العمل يصف الإنصاف
+    group: الإيجابية
+    deploy: false
+                  
+  - title: الادارة
+    title2: الادارة
+    title_uniq: الادارة
+    default: written-communication
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/social-interrelation/written-communication
+    label: التواصل الكتابي الترابط الاجتماعي يصف التواصل الكتابي
+    group: الادارة
+    deploy: false
+                  
+  - title: الاستماع الفعال
+    title2: الاستماع الفعال
+    title_uniq: الاستماع-الفعال
+    default: negotiation
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/social-interrelation/negotiation
+    label: تفاوض الترابط الاجتماعي يصف تفاوض
+    group: الاستماع الفعال
+    deploy: false
+                  
+  - title: الانضباط الذاتي
+    title2: الانضباط الذاتي
+    title_uniq: الانضباط-الذاتي
+    default: self-control
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/self-management/self-control
+    label: السيطرة على النفس الإدارة الذاتية يصف السيطرة على النفس
+    group: الانضباط الذاتي
+    deploy: false
+                  
+  - title: الانفتاح
+    title2: الانفتاح
+    title_uniq: الانفتاح
+    default: productivity
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/work-ethic/productivity
+    label: إنتاجية أخلاقيات العمل يصف إنتاجية
+    group: الانفتاح
+    deploy: false
+                  
+  - title: الانقليس
+    title2: زراعة ثعبان البحر
+    title_uniq: زراعة-ثعبان-البحر
+    default: manila-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fibre-crop/manila
+    label: مانيلا الألياف المحاصيل الزراعة مانيلا
+    group: زراعة ثعبان البحر
+    deploy: false
+                  
+  - title: البازلاء
+    title2: زراعة البازلاء
+    title_uniq: زراعة-البازلاء
+    default: swan-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/poultry/swan
+    label: بجعة دواجن الزراعة بجعة بجعة
+    group: زراعة البازلاء
+    deploy: false
+                  
+  - title: البازلاء
+    title2: زراعة البازلاء
+    title_uniq: زراعة-البازلاء
+    default: cashew-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/tree-nut-crop/cashew
+    label: كاجو شجرة الجوز المحاصيل الزراعة كاجو
+    group: زراعة البازلاء
+    deploy: false
+                  
+  - title: البرازيل
+    title2: الزراعة البرازيلية
+    title_uniq: الزراعة-البرازيلية
+    default: cocoyam-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/root-and-tuber-crop/cocoyam
+    label: كوكويام الجذر والدرنات المحاصيل الزراعة كوكويام
+    group: الزراعة البرازيلية
+    deploy: false
+                  
+  - title: البرتقالي
+    title2: زراعة البرتقال
+    title_uniq: زراعة-البرتقال
+    default: flax-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fibre-crop/flax
+    label: الكتان الألياف المحاصيل الزراعة الكتان
+    group: زراعة البرتقال
+    deploy: false
+                  
+  - title: البرتقالي
+    title2: زراعة البرتقال
+    title_uniq: زراعة-البرتقال
+    default: peach-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/peach
+    label: خوخ محصول الفاكهة الزراعة خوخ
+    group: زراعة البرتقال
+    deploy: false
+                  
+  - title: البرتقالي
+    title2: زراعة البرتقال
+    title_uniq: زراعة-البرتقال
+    default: flax-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/flax
+    label: الكتان أويلكروب الزراعة الكتان
+    group: زراعة البرتقال
+    deploy: false
+                  
+  - title: البرسيمون
+    title2: زراعة البرسيمون
+    title_uniq: زراعة-البرسيمون
+    default: kapok-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/kapok
+    label: كابوك أويلكروب الزراعة كابوك
+    group: زراعة البرسيمون
+    deploy: false
+                  
+  - title: البرسيمون
+    title2: زراعة البرسيمون
+    title_uniq: زراعة-البرسيمون
+    default: kapok-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fibre-crop/kapok
+    label: كابوك الألياف المحاصيل الزراعة كابوك
+    group: زراعة البرسيمون
+    deploy: false
+                  
+  - title: البلطي
+    title2: استزراع البلطي
+    title_uniq: استزراع-البلطي
+    default: catfish-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fish/catfish
+    label: سمك السلور سمكة الزراعة سمك السلور
+    group: استزراع البلطي
+    deploy: false
+                  
+  - title: البوري
+    title2: زراعة البوري
+    title_uniq: زراعة-البوري
+    default: ramie-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fibre-crop/ramie
+    label: رامي الألياف المحاصيل الزراعة رامي
+    group: زراعة البوري
+    deploy: false
+                  
+  - title: البيقية
+    title2: زراعة البيقية
+    title_uniq: زراعة-البيقية
+    default: swiftlet-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/poultry/swiftlet
+    label: سويفت دواجن الزراعة سويفت
+    group: زراعة البيقية
+    deploy: false
+                  
+  - title: التدرج
+    title2: زراعة الدراج
+    title_uniq: زراعة-الدراج
+    default: lobster-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/crustacean/lobster
+    label: سرطان البحر قشريات الزراعة سرطان البحر
+    group: زراعة الدراج
+    deploy: false
+                  
+  - title: الترابط الاجتماعي
+    title2: الترابط الاجتماعي
+    title_uniq: الترابط-الاجتماعي
+    default: shame-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/emotion-management/shame-management
+    label: إدارة العار إدارة العاطفة يصف إدارة العار
+    group: الترابط الاجتماعي
+    deploy: false
+                  
+  - title: الترمس
+    title2: زراعة الترمس
+    title_uniq: زراعة-الترمس
+    default: quail-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/poultry/quail
+    label: طائر السمان دواجن الزراعة طائر السمان
+    group: زراعة الترمس
+    deploy: false
+                  
+  - title: التفكير الاستراتيجي
+    title2: التفكير الاستراتيجي
+    title_uniq: التفكير-الاستراتيجي
+    default: decision-making
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognitive-aptitude/decision-making
+    label: صناعة القرار الكفاءة المعرفية يصف صناعة القرار
+    group: التفكير الاستراتيجي
+    deploy: false
+                  
+  - title: التفكير النقدي
+    title2: التفكير النقدي
+    title_uniq: التفكير-النقدي
+    default: critical-thinking
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognitive-aptitude/critical-thinking
+    label: التفكير النقدي الكفاءة المعرفية يصف التفكير النقدي
+    group: التفكير النقدي
+    deploy: false
+                  
+  - title: التواصل البصري
+    title2: التواصل البصري
+    title_uniq: التواصل-البصري
+    default: non-verbal-communication
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/social-interrelation/non-verbal-communication
+    label: التواصل غير اللفظي الترابط الاجتماعي يصف التواصل غير اللفظي
+    group: التواصل البصري
+    deploy: false
+                  
+  - title: التواصل الكتابي
+    title2: التواصل الكتابي
+    title_uniq: التواصل-الكتابي
+    default: conflict-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/social-interrelation/conflict-management
+    label: فض النزاعات الترابط الاجتماعي يصف فض النزاعات
+    group: التواصل الكتابي
+    deploy: false
+                  
+  - title: التواصل اللفظي
+    title2: التواصل اللفظي
+    title_uniq: التواصل-اللفظي
+    default: social-interrelation
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/social-interrelation
+    label: الترابط الاجتماعي يصف الترابط الاجتماعي الاستماع الفعال فض النزاعات تفاوض التواصل غير اللفظي الوعي الاجتماعي العمل بروح الفريق الواحد التواصل اللفظي التواصل البصري التواصل الكتابي
+    group: التواصل اللفظي
+    deploy: true
+                  
+  - title: التواصل غير اللفظي
+    title2: التواصل غير اللفظي
+    title_uniq: التواصل-غير-اللفظي
+    default: active-listening
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/social-interrelation/active-listening
+    label: الاستماع الفعال الترابط الاجتماعي يصف الاستماع الفعال
+    group: التواصل غير اللفظي
+    deploy: false
+                  
+  - title: التواضع
+    title2: التواضع
+    title_uniq: التواضع
+    default: patience
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/moral-ethic/patience
+    label: الصبر الأخلاق الأخلاقية يصف الصبر
+    group: التواضع
+    deploy: false
+                  
+  - title: التوجيه
+    title2: التوجيه
+    title_uniq: التوجيه
+    default: motivating
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/administration/motivating
+    label: تحفيز الادارة يصف تحفيز
+    group: التوجيه
+    deploy: false
+                  
+  - title: الثقة بالنفس
+    title2: الثقة بالنفس
+    title_uniq: الثقة-بالنفس
+    default: personal-change-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الث
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/self-management/personal-change-management
+    label: إدارة التغيير الشخصي الإدارة الذاتية يصف إدارة التغيير الشخصي
+    group: الثقة بالنفس
+    deploy: false
+                  
+  - title: الجاموس
+    title2: زراعة الجاموس
+    title_uniq: زراعة-الجاموس
+    default: buckwheat-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الج
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/cereal-crop/buckwheat
+    label: الحنطة السوداء محصول الحبوب الزراعة الحنطة السوداء
+    group: زراعة الجاموس
+    deploy: false
+                  
+  - title: الجذر والدرنات المحاصيل
+    title2: زراعة المحاصيل الجذرية والدرنات
+    title_uniq: زراعة-المحاصيل-الجذرية-والدرنات
+    default: tinamou-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الج
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/poultry/tinamou
+    label: تينامو دواجن الزراعة تينامو
+    group: زراعة المحاصيل الجذرية والدرنات
+    deploy: false
+                  
+  - title: الجوت
+    title2: زراعة الجوت
+    title_uniq: زراعة-الجوت
+    default: satsumas-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الج
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/satsumas
+    label: ساتسوما محصول الفاكهة الزراعة ساتسوما
+    group: زراعة الجوت
+    deploy: false
+                  
+  - title: الجوت
+    title2: زراعة الجوت
+    title_uniq: زراعة-الجوت
+    default: satsumas-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الج
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/citrus-fruit/satsumas
+    label: ساتسوما فاكهة حمضية الزراعة ساتسوما
+    group: زراعة الجوت
+    deploy: false
+                  
+  - title: الجوجوبا
+    title2: زراعة الجوجوبا
+    title_uniq: زراعة-الجوجوبا
+    default: gum-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الج
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/other-crops/gum
+    label: صمغ محاصيل أخرى الزراعة صمغ
+    group: زراعة الجوجوبا
+    deploy: false
+                  
+  - title: الحجل
+    title2: زراعة الحجل
+    title_uniq: زراعة-الحجل
+    default: crab-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الح
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/crustacean/crab
+    label: سلطعون قشريات الزراعة سلطعون
+    group: زراعة الحجل
+    deploy: false
+                  
+  - title: الحنطة السوداء
+    title2: زراعة الحنطة السوداء
+    title_uniq: زراعة-الحنطة-السوداء
+    default: clementine-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الح
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/clementine
+    label: كليمنتين محصول الفاكهة الزراعة كليمنتين
+    group: زراعة الحنطة السوداء
+    deploy: false
+                  
+  - title: الحنطة السوداء
+    title2: زراعة الحنطة السوداء
+    title_uniq: زراعة-الحنطة-السوداء
+    default: clementine-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الح
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/citrus-fruit/clementine
+    label: كليمنتين فاكهة حمضية الزراعة كليمنتين
+    group: زراعة الحنطة السوداء
+    deploy: false
+                  
+  - title: الخروب
+    title2: زراعة الخروب
+    title_uniq: زراعة-الخروب
+    default: llama-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الخ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/livestock/llama
+    label: اللاما الماشية الزراعة اللاما
+    group: زراعة الخروب
+    deploy: false
+                  
+  - title: الدافع الذاتي
+    title2: الدافع الذاتي
+    title_uniq: الدافع-الذاتي
+    default: self-determination
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الد
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/self-management/self-determination
+    label: تقرير المصير الإدارة الذاتية يصف تقرير المصير
+    group: الدافع الذاتي
+    deploy: false
+                  
+  - title: الدخن
+    title2: زراعة الدخن
+    title_uniq: زراعة-الدخن
+    default: fig-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الد
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/fig
+    label: تين محصول الفاكهة الزراعة تين
+    group: زراعة الدخن
+    deploy: false
+                  
+  - title: الدنيس
+    title2: استزراع الدنيس
+    title_uniq: استزراع-الدنيس
+    default: fish-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الد
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fish
+    label: سمكة الزراعة سمكة الكارب سمك السلور الانقليس البوري جثم سمك السالمون الدنيس سمك الحفش البلطي سمك السلمون المرقط
+    group: استزراع الدنيس
+    deploy: true
+                  
+  - title: الذرة
+    title2: زراعة الجاودار
+    title_uniq: زراعة-الجاودار
+    default: guava-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الذ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/guava
+    label: جوافة محصول الفاكهة الزراعة جوافة
+    group: زراعة الجاودار
+    deploy: false
+                  
+  - title: الذرة
+    title2: زراعة الذرة
+    title_uniq: زراعة-الذرة
+    default: date-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الذ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/date
+    label: تاريخ محصول الفاكهة الزراعة تاريخ
+    group: زراعة الذرة
+    deploy: false
+                  
+  - title: الذرة
+    title2: زراعة الذرة
+    title_uniq: زراعة-الذرة
+    default: sugar-cane-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الذ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/sugar-crop/sugar-cane
+    label: قصب السكر محصول السكر الزراعة قصب السكر
+    group: زراعة الذرة
+    deploy: false
+                  
+  - title: الذرة الرفيعة
+    title2: زراعة الذرة الرفيعة
+    title_uniq: زراعة-الذرة-الرفيعة
+    default: kiwi-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الذ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/kiwi
+    label: كيوي محصول الفاكهة الزراعة كيوي
+    group: زراعة الذرة الرفيعة
+    deploy: false
+                  
+  - title: الرخويات
+    title2: استزراع الرخويات
+    title_uniq: استزراع-الرخويات
+    default: trout-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الر
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fish/trout
+    label: سمك السلمون المرقط سمكة الزراعة سمك السلمون المرقط
+    group: استزراع الرخويات
+    deploy: false
+                  
+  - title: الرنة
+    title2: زراعة الرنة
+    title_uniq: زراعة-الرنة
+    default: triticale-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الر
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/cereal-crop/triticale
+    label: Triticale محصول الحبوب الزراعة Triticale
+    group: زراعة الرنة
+    deploy: false
+                  
+  - title: الزراعة
+    title2: الزراعة
+    title_uniq: الزراعة
+    default: farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الز
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming
+    label: الزراعة الزراعة محصول الحبوب شعير الحنطة السوداء بذور الكناري فونيو الذرة الدخن شعر بالتعب الكينوا أرز الذرة الذرة الرفيعة Triticale قمح فاكهة حمضية كليمنتين جريب فروت ليمون جير الماندرين البرتقالي ساتسوما يوسفي قشريات سلطعون جراد البحر سرطان البحر روبيان جمبري الألياف المحاصيل الأغاف باست الكتان عيدان الجوت كابوك مانيلا رامي بذور القطن سيزال سمكة الكارب سمك السلور الانقليس البوري جثم سمك السالمون الدنيس سمك الحفش البلطي سمك السلمون المرقط محصول الفاكهة تفاح مشمش أفوكادو موز توت الخروب كاجو أبل الكرز كليمنتين كرز زبيب تاريخ تين عنب الثعلب عنب جريب فروت جوافة كيوي ليمون جير الماندرين مانجو مانغوستين زليقة البرتقالي بابايا خوخ كمثرى البرسيمون أناناس لسان الحمل بلوم ونعل سفرجل توت العليق ساتسوما الفراولة يوسفي بطيخ الماشية الألبكة الجاموس جمل ماشية حمار ماعز حصان اللاما ثور شخص شره أرنب الرنة خروف جاموس الماء الياك الرخويات أذن البحر فلك هادئة بلح البحر محار إكليل صدفة أويلكروب كاستور جوزة الهند الكتان فستق عيدان الجوجوبا كابوك كاريت شمام خردل زيت النخيل زيتون شقائق النعمان اغتصاب القرطم بذور القطن سمسم فول الصويا دوار الشمس تونغ محاصيل أخرى السترونيلا صمغ قفزة نعناع بيريثروم تبغ الشمع دواجن فرخة بطة الاتحاد الاقتصادي والنقدي فرانكولين بجعة طير غينيا نعامة الحجل طاووس التدرج حمامة طائر السمان بجعة سويفت تينامو ديك رومى نبض المحاصيل فاصوليا عدس الترمس البازلاء البيقية الجذر والدرنات المحاصيل الكسافا كوكويام البطاطس بطاطا سبايس كروب يانسون باديان هيل الفلفل الحار والفلفل قرفة القرنفل الشمرة زنجبيل صولجان جوزة الطيب بيمنتو فانيلا منبه المحاصيل فاصوليا قهوة رفيق شاي محصول السكر شمندر سكري قصب السكر شجرة الجوز المحاصيل لوز البرازيل كاجو كستناء بندق فستق جوز محصول الخضر خرشوف نبات الهليون فاصوليا بروكلي كرنب جزرة قرنبيط الهندباء الفلفل الحار والفلفل خيار الباذنجان ثوم غيركين القرع شخص عادي خس الذرة فطر بامية بصلة البازلاء يقطين القفلوط الكراث الأندلسي سبانخ قرع طماطم الكمأة لفت نبات
+    group: الزراعة
+    deploy: true
+                  
+  - title: السترونيلا
+    title2: زراعة السترونيلا
+    title_uniq: زراعة-السترونيلا
+    default: pumpkin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الس
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/pumpkin
+    label: يقطين محصول الخضر الزراعة يقطين
+    group: زراعة السترونيلا
+    deploy: false
+                  
+  - title: السيطرة على الغضب
+    title2: السيطرة على الغضب
+    title_uniq: السيطرة-على-الغضب
+    default: emotion-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الس
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/emotion-management
+    label: إدارة العاطفة يصف إدارة العاطفة السيطرة على الغضب إدارة القلق إدارة اليأس إدارة الحسد إدارة الخوف إدارة الذنب إدارة السعادة إدارة الكراهية إدارة الأمل إدارة الوحدة إدارة الحب إدارة الكبرياء إدارة الندم إدارة الحزن إدارة العار
+    group: السيطرة على الغضب
+    deploy: true
+                  
+  - title: السيطرة على النفس
+    title2: السيطرة على النفس
+    title_uniq: السيطرة-على-النفس
+    default: self-discipline
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الس
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/self-management/self-discipline
+    label: الانضباط الذاتي الإدارة الذاتية يصف الانضباط الذاتي
+    group: السيطرة على النفس
+    deploy: false
+                  
+  - title: الشمرة
+    title2: زراعة الشمر
+    title_uniq: زراعة-الشمر
+    default: cucumber-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الش
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/cucumber
+    label: خيار محصول الخضر الزراعة خيار
+    group: زراعة الشمر
+    deploy: false
+                  
+  - title: الشمع
+    title2: زراعة الشمع
+    title_uniq: زراعة-الشمع
+    default: turnip-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الش
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/turnip
+    label: لفت نبات محصول الخضر الزراعة لفت نبات
+    group: زراعة الشمع
+    deploy: false
+                  
+  - title: الصبر
+    title2: الصبر
+    title_uniq: الصبر
+    default: courage
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الص
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/moral-ethic/courage
+    label: شجاعة الأخلاق الأخلاقية يصف شجاعة
+    group: الصبر
+    deploy: false
+                  
+  - title: الصمود
+    title2: الصمود
+    title_uniq: الصمود
+    default: self-efficacy
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الص
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/self-management/self-efficacy
+    label: الكفاءة الذاتية الإدارة الذاتية يصف الكفاءة الذاتية
+    group: الصمود
+    deploy: false
+                  
+  - title: العطف
+    title2: العطف
+    title_uniq: العطف
+    default: honesty
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الع
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/moral-ethic/honesty
+    label: أمانة الأخلاق الأخلاقية يصف أمانة
+    group: العطف
+    deploy: false
+                  
+  - title: العمل بروح الفريق الواحد
+    title2: العمل بروح الفريق الواحد
+    title_uniq: العمل-بروح-الفريق-الواحد
+    default: social-awareness
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الع
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/social-interrelation/social-awareness
+    label: الوعي الاجتماعي الترابط الاجتماعي يصف الوعي الاجتماعي
+    group: العمل بروح الفريق الواحد
+    deploy: false
+                  
+  - title: الفراولة
+    title2: زراعة الفراولة
+    title_uniq: زراعة-الفراولة
+    default: rape-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الف
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/rape
+    label: اغتصاب أويلكروب الزراعة اغتصاب
+    group: زراعة الفراولة
+    deploy: false
+                  
+  - title: الفلفل الحار والفلفل
+    title2: زراعة الفلفل والفلفل الحار
+    title_uniq: زراعة-الفلفل-والفلفل-الحار
+    default: cauliflower-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الف
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/cauliflower
+    label: قرنبيط محصول الخضر الزراعة قرنبيط
+    group: زراعة الفلفل والفلفل الحار
+    deploy: false
+                  
+  - title: الفلفل الحار والفلفل
+    title2: زراعة الفلفل والفلفل الحار
+    title_uniq: زراعة-الفلفل-والفلفل-الحار
+    default: vanilla-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الف
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/spice-crop/vanilla
+    label: فانيلا سبايس كروب الزراعة فانيلا
+    group: زراعة الفلفل والفلفل الحار
+    deploy: false
+                  
+  - title: القدرة على التخطيط
+    title2: القدرة على التخطيط
+    title_uniq: القدرة-على-التخطيط
+    default: ability-to-organize
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الق
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognitive-aptitude/ability-to-organize
+    label: القدرة على التنظيم الكفاءة المعرفية يصف القدرة على التنظيم
+    group: القدرة على التخطيط
+    deploy: false
+                  
+  - title: القدرة على التعلم
+    title2: القدرة على التعلم
+    title_uniq: القدرة-على-التعلم
+    default: cognitive-aptitude
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الق
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognitive-aptitude
+    label: الكفاءة المعرفية يصف الكفاءة المعرفية القدرة على التعلم القدرة على التنظيم القدرة على التخطيط إبداع التفكير النقدي صناعة القرار حدس حل المشاكل التفكير الاستراتيجي
+    group: القدرة على التعلم
+    deploy: true
+                  
+  - title: القدرة على التنظيم
+    title2: القدرة على التنظيم
+    title_uniq: القدرة-على-التنظيم
+    default: ability-to-learn
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الق
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognitive-aptitude/ability-to-learn
+    label: القدرة على التعلم الكفاءة المعرفية يصف القدرة على التعلم
+    group: القدرة على التنظيم
+    deploy: false
+                  
+  - title: القرطم
+    title2: زراعة القرطم
+    title_uniq: زراعة-القرطم
+    default: emu-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الق
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/poultry/emu
+    label: الاتحاد الاقتصادي والنقدي دواجن الزراعة الاتحاد الاقتصادي والنقدي
+    group: زراعة القرطم
+    deploy: false
+                  
+  - title: القرع
+    title2: زراعة القرع
+    title_uniq: زراعة-القرع
+    default: tea-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الق
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/stimulant-crop/tea
+    label: شاي منبه المحاصيل الزراعة شاي
+    group: زراعة القرع
+    deploy: false
+                  
+  - title: القرنفل
+    title2: زراعة القرنفل
+    title_uniq: زراعة-القرنفل
+    default: chilly-and-pepper-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الق
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/chilly-and-pepper
+    label: الفلفل الحار والفلفل محصول الخضر الزراعة الفلفل الحار والفلفل
+    group: زراعة القرنفل
+    deploy: false
+                  
+  - title: القرنفل
+    title2: زراعة القرنفل
+    title_uniq: زراعة-القرنفل
+    default: chilly-and-pepper-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الق
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/spice-crop/chilly-and-pepper
+    label: الفلفل الحار والفلفل سبايس كروب الزراعة الفلفل الحار والفلفل
+    group: زراعة القرنفل
+    deploy: false
+                  
+  - title: القفلوط الكراث الأندلسي
+    title2: زراعة الكراث
+    title_uniq: زراعة-الكراث
+    default: hazelnut-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الق
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/tree-nut-crop/hazelnut
+    label: بندق شجرة الجوز المحاصيل الزراعة بندق
+    group: زراعة الكراث
+    deploy: false
+                  
+  - title: الكارب
+    title2: استزراع الكارب
+    title_uniq: استزراع-الكارب
+    default: jute-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fibre-crop/jute
+    label: الجوت الألياف المحاصيل الزراعة الجوت
+    group: استزراع الكارب
+    deploy: false
+                  
+  - title: الكتان
+    title2: زراعة الكتان
+    title_uniq: زراعة-الكتان
+    default: quince-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/quince
+    label: سفرجل محصول الفاكهة الزراعة سفرجل
+    group: زراعة الكتان
+    deploy: false
+                  
+  - title: الكتان
+    title2: زراعة الكتان
+    title_uniq: زراعة-الكتان
+    default: tung-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/tung
+    label: تونغ أويلكروب الزراعة تونغ
+    group: زراعة الكتان
+    deploy: false
+                  
+  - title: الكرز
+    title2: زراعة الكرز
+    title_uniq: زراعة-الكرز
+    default: pig-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/livestock/pig
+    label: شخص شره الماشية الزراعة شخص شره
+    group: زراعة الكرز
+    deploy: false
+                  
+  - title: الكسافا
+    title2: زراعة الكسافا
+    title_uniq: زراعة-الكسافا
+    default: turkey-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/poultry/turkey
+    label: ديك رومى دواجن الزراعة ديك رومى
+    group: زراعة الكسافا
+    deploy: false
+                  
+  - title: الكفاءة الذاتية
+    title2: الكفاءة الذاتية
+    title_uniq: الكفاءة-الذاتية
+    default: resilence
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/self-management/resilence
+    label: الصمود الإدارة الذاتية يصف الصمود
+    group: الكفاءة الذاتية
+    deploy: false
+                  
+  - title: الكفاءة المعرفية
+    title2: الكفاءة المعرفية
+    title_uniq: الكفاءة-المعرفية
+    default: processing-speed
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognition/processing-speed
+    label: سرعة المعالجة معرفة يصف سرعة المعالجة
+    group: الكفاءة المعرفية
+    deploy: false
+                  
+  - title: الكمأة
+    title2: زراعة الكمأة
+    title_uniq: زراعة-الكمأة
+    default: artichoke-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/artichoke
+    label: خرشوف محصول الخضر الزراعة خرشوف
+    group: زراعة الكمأة
+    deploy: false
+                  
+  - title: الكينوا
+    title2: زراعة الكينوا
+    title_uniq: زراعة-الكينوا
+    default: grape-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/grape
+    label: عنب محصول الفاكهة الزراعة عنب
+    group: زراعة الكينوا
+    deploy: false
+                  
+  - title: اللاما
+    title2: زراعة اللاما
+    title_uniq: زراعة-اللاما
+    default: quinoa-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الل
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/cereal-crop/quinoa
+    label: الكينوا محصول الحبوب الزراعة الكينوا
+    group: زراعة اللاما
+    deploy: false
+                  
+  - title: الماشية
+    title2: تربية الماشية
+    title_uniq: تربية-الماشية
+    default: cereal-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الم
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/cereal-crop
+    label: محصول الحبوب الزراعة محصول الحبوب شعير الحنطة السوداء بذور الكناري فونيو الذرة الدخن شعر بالتعب الكينوا أرز الذرة الذرة الرفيعة Triticale قمح
+    group: تربية الماشية
+    deploy: true
+                  
+  - title: الماندرين
+    title2: زراعة الماندرين
+    title_uniq: زراعة-الماندرين
+    default: shell-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الم
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/molluscs/shell
+    label: صدفة الرخويات الزراعة صدفة
+    group: زراعة الماندرين
+    deploy: false
+                  
+  - title: الماندرين
+    title2: زراعة الماندرين
+    title_uniq: زراعة-الماندرين
+    default: papaya-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الم
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/papaya
+    label: بابايا محصول الفاكهة الزراعة بابايا
+    group: زراعة الماندرين
+    deploy: false
+                  
+  - title: المضافات الغذائية
+    title2: إنتاج المضافات الغذائية
+    title_uniq: إنتاج-المضافات-الغذائية
+    default: pulse-product-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الم
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/food-production/pulse-product
+    label: منتج النبض إنتاج الغذاء منتج النبض
+    group: إنتاج المضافات الغذائية
+    deploy: true
+                  
+  - title: المعكرونة والمعكرونة
+    title2: إنتاج المعكرونة والمعكرونة
+    title_uniq: إنتاج-المعكرونة-والمعكرونة
+    default: pasta-and-noodle-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الم
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/food-production/pasta-and-noodle
+    label: المعكرونة والمعكرونة إنتاج الغذاء المعكرونة والمعكرونة
+    group: إنتاج المعكرونة والمعكرونة
+    deploy: true
+                  
+  - title: الهندباء
+    title2: الهندباء الزراعة
+    title_uniq: الهندباء-الزراعة
+    default: pimento-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: اله
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/spice-crop/pimento
+    label: بيمنتو سبايس كروب الزراعة بيمنتو
+    group: الهندباء الزراعة
+    deploy: false
+                  
+  - title: الوظائف التنفيذية
+    title2: الوظائف التنفيذية
+    title_uniq: الوظائف-التنفيذية
+    default: language-skills
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الو
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognition/language-skills
+    label: مهارات اللغة معرفة يصف مهارات اللغة
+    group: الوظائف التنفيذية
+    deploy: false
+                  
+  - title: الوعي الاجتماعي
+    title2: الوعي الاجتماعي
+    title_uniq: الوعي-الاجتماعي
+    default: verbal-communication
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ال
+    alphabet_l3: الو
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/social-interrelation/verbal-communication
+    label: التواصل اللفظي الترابط الاجتماعي يصف التواصل اللفظي
+    group: الوعي الاجتماعي
+    deploy: false
+                  
+  - title: انتباه
+    title2: انتباه
+    title_uniq: انتباه
+    default: cognition
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ا
+    alphabet_l2: ان
+    alphabet_l3: انت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognition
+    label: معرفة يصف معرفة انتباه الوظائف التنفيذية مهارات اللغة ذاكرة ما وراء المعرفة مهارات قيادة تصور سرعة المعالجة
+    group: انتباه
+    deploy: true
+                  
+  - title: بابايا
+    title2: زراعة البابايا
+    title_uniq: زراعة-البابايا
+    default: groundnut-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: با
+    alphabet_l3: باب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/groundnut
+    label: فستق أويلكروب الزراعة فستق
+    group: زراعة البابايا
+    deploy: false
+                  
+  - title: باديان
+    title2: مزارع باديان
+    title_uniq: مزارع-باديان
+    default: cabbage-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: با
+    alphabet_l3: باد
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/cabbage
+    label: كرنب محصول الخضر الزراعة كرنب
+    group: مزارع باديان
+    deploy: false
+                  
+  - title: باست
+    title2: زراعة اللحاء
+    title_uniq: زراعة-اللحاء
+    default: plum-and-sole-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: با
+    alphabet_l3: باس
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/plum-and-sole
+    label: بلوم ونعل محصول الفاكهة الزراعة بلوم ونعل
+    group: زراعة اللحاء
+    deploy: false
+                  
+  - title: بامية
+    title2: زراعة البامية
+    title_uniq: زراعة-البامية
+    default: almond-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: با
+    alphabet_l3: بام
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/tree-nut-crop/almond
+    label: لوز شجرة الجوز المحاصيل الزراعة لوز
+    group: زراعة البامية
+    deploy: false
+                  
+  - title: بجعة
+    title2: زراعة البجع
+    title_uniq: زراعة-البجع
+    default: fibre-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: بج
+    alphabet_l3: بجع
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fibre-crop
+    label: الألياف المحاصيل الزراعة الألياف المحاصيل الأغاف باست الكتان عيدان الجوت كابوك مانيلا رامي بذور القطن سيزال
+    group: زراعة البجع
+    deploy: true
+                  
+  - title: بذور القطن
+    title2: زراعة بذور القطن
+    title_uniq: زراعة-بذور-القطن
+    default: livestock-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: بذ
+    alphabet_l3: بذو
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/livestock
+    label: الماشية الزراعة الماشية الألبكة الجاموس جمل ماشية حمار ماعز حصان اللاما ثور شخص شره أرنب الرنة خروف جاموس الماء الياك
+    group: زراعة بذور القطن
+    deploy: true
+                  
+  - title: بذور القطن
+    title2: زراعة بذور القطن
+    title_uniq: زراعة-بذور-القطن
+    default: francolin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: بذ
+    alphabet_l3: بذو
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/poultry/francolin
+    label: فرانكولين دواجن الزراعة فرانكولين
+    group: زراعة بذور القطن
+    deploy: false
+                  
+  - title: بذور الكناري
+    title2: زراعة بذور الكناري
+    title_uniq: زراعة-بذور-الكناري
+    default: cranberry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: بذ
+    alphabet_l3: بذو
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/cranberry
+    label: كرز محصول الفاكهة الزراعة كرز
+    group: زراعة بذور الكناري
+    deploy: false
+                  
+  - title: بروكلي
+    title2: زراعة البروكلي
+    title_uniq: زراعة-البروكلي
+    default: fennel-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: بر
+    alphabet_l3: برو
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/spice-crop/fennel
+    label: الشمرة سبايس كروب الزراعة الشمرة
+    group: زراعة البروكلي
+    deploy: false
+                  
+  - title: بصلة
+    title2: زراعة البصل
+    title_uniq: زراعة-البصل
+    default: brazil-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: بص
+    alphabet_l3: بصل
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/tree-nut-crop/brazil
+    label: البرازيل شجرة الجوز المحاصيل الزراعة البرازيل
+    group: زراعة البصل
+    deploy: false
+                  
+  - title: بطاطا
+    title2: مزرعة يام
+    title_uniq: مزرعة-يام
+    default: lentil-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: بط
+    alphabet_l3: بطا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/pulse-crop/lentil
+    label: عدس نبض المحاصيل الزراعة عدس
+    group: مزرعة يام
+    deploy: false
+                  
+  - title: بطيخ
+    title2: زراعة البطيخ
+    title_uniq: زراعة-البطيخ
+    default: seed-cotton-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: بط
+    alphabet_l3: بطي
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/seed-cotton
+    label: بذور القطن أويلكروب الزراعة بذور القطن
+    group: زراعة البطيخ
+    deploy: false
+                  
+  - title: بطيخ
+    title2: زراعة البطيخ
+    title_uniq: زراعة-البطيخ
+    default: seed-cotton-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: بط
+    alphabet_l3: بطي
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fibre-crop/seed-cotton
+    label: بذور القطن الألياف المحاصيل الزراعة بذور القطن
+    group: زراعة البطيخ
+    deploy: false
+                  
+  - title: بلح البحر
+    title2: زراعة بلح البحر
+    title_uniq: زراعة-بلح-البحر
+    default: avocado-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: بل
+    alphabet_l3: بلح
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/avocado
+    label: أفوكادو محصول الفاكهة الزراعة أفوكادو
+    group: زراعة بلح البحر
+    deploy: false
+                  
+  - title: بلوم ونعل
+    title2: زراعة البرقوق والوحيد
+    title_uniq: زراعة-البرقوق-والوحيد
+    default: mustard-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: بل
+    alphabet_l3: بلو
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/mustard
+    label: خردل أويلكروب الزراعة خردل
+    group: زراعة البرقوق والوحيد
+    deploy: false
+                  
+  - title: بندق
+    title2: زراعة البندق
+    title_uniq: زراعة-البندق
+    default: spice-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: بن
+    alphabet_l3: بند
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/spice-crop
+    label: سبايس كروب الزراعة سبايس كروب يانسون باديان هيل الفلفل الحار والفلفل قرفة القرنفل الشمرة زنجبيل صولجان جوزة الطيب بيمنتو فانيلا
+    group: زراعة البندق
+    deploy: true
+                  
+  - title: بهار
+    title2: إنتاج البهارات
+    title_uniq: إنتاج-البهارات
+    default: food-additive-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: به
+    alphabet_l3: بها
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/food-production/food-additive
+    label: المضافات الغذائية إنتاج الغذاء المضافات الغذائية
+    group: إنتاج البهارات
+    deploy: true
+                  
+  - title: بيريثروم
+    title2: زراعة بيريثروم
+    title_uniq: زراعة-بيريثروم
+    default: tomato-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: بي
+    alphabet_l3: بير
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/tomato
+    label: طماطم محصول الخضر الزراعة طماطم
+    group: زراعة بيريثروم
+    deploy: false
+                  
+  - title: بيمنتو
+    title2: زراعة الفلفل
+    title_uniq: زراعة-الفلفل
+    default: gourd-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ب
+    alphabet_l2: بي
+    alphabet_l3: بيم
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/gourd
+    label: القرع محصول الخضر الزراعة القرع
+    group: زراعة الفلفل
+    deploy: false
+                  
+  - title: تاريخ
+    title2: زراعة التمور
+    title_uniq: زراعة-التمور
+    default: water-buffalo-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ت
+    alphabet_l2: تا
+    alphabet_l3: تار
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/livestock/water-buffalo
+    label: جاموس الماء الماشية الزراعة جاموس الماء
+    group: زراعة التمور
+    deploy: false
+                  
+  - title: تبغ
+    title2: زراعة التبغ
+    title_uniq: زراعة-التبغ
+    default: truffle-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ت
+    alphabet_l2: تب
+    alphabet_l3: تبغ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/truffle
+    label: الكمأة محصول الخضر الزراعة الكمأة
+    group: زراعة التبغ
+    deploy: false
+                  
+  - title: تحفيز
+    title2: تحفيز
+    title_uniq: تحفيز
+    default: monitoring
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ت
+    alphabet_l2: تح
+    alphabet_l3: تحف
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/administration/monitoring
+    label: يراقب الادارة يصف يراقب
+    group: تحفيز
+    deploy: false
+                  
+  - title: تصور
+    title2: تصور
+    title_uniq: تصور
+    default: attention
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ت
+    alphabet_l2: تص
+    alphabet_l3: تصو
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognition/attention
+    label: انتباه معرفة يصف انتباه
+    group: تصور
+    deploy: false
+                  
+  - title: تعاون
+    title2: تعاون
+    title_uniq: تعاون
+    default: co-operation
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ت
+    alphabet_l2: تع
+    alphabet_l3: تعا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/work-ethic/co-operation
+    label: تعاون أخلاقيات العمل يصف تعاون
+    group: تعاون
+    deploy: false
+                  
+  - title: تفاح
+    title2: زراعة التفاح
+    title_uniq: زراعة-التفاح
+    default: camel-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ت
+    alphabet_l2: تف
+    alphabet_l3: تفا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/livestock/camel
+    label: جمل الماشية الزراعة جمل
+    group: زراعة التفاح
+    deploy: false
+                  
+  - title: تفاوض
+    title2: تفاوض
+    title_uniq: تفاوض
+    default: teamwork
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ت
+    alphabet_l2: تف
+    alphabet_l3: تفا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/social-interrelation/teamwork
+    label: العمل بروح الفريق الواحد الترابط الاجتماعي يصف العمل بروح الفريق الواحد
+    group: تفاوض
+    deploy: false
+                  
+  - title: تقرير المصير
+    title2: تقرير المصير
+    title_uniq: تقرير-المصير
+    default: self-confidence
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ت
+    alphabet_l2: تق
+    alphabet_l3: تقر
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/self-management/self-confidence
+    label: الثقة بالنفس الإدارة الذاتية يصف الثقة بالنفس
+    group: تقرير المصير
+    deploy: false
+                  
+  - title: تناسق
+    title2: تناسق
+    title_uniq: تناسق
+    default: consistency
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ت
+    alphabet_l2: تن
+    alphabet_l3: تنا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/work-ethic/consistency
+    label: تناسق أخلاقيات العمل يصف تناسق
+    group: تناسق
+    deploy: false
+                  
+  - title: توت
+    title2: زراعة التوت الأزرق
+    title_uniq: زراعة-التوت-الأزرق
+    default: horse-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ت
+    alphabet_l2: تو
+    alphabet_l3: توت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/livestock/horse
+    label: حصان الماشية الزراعة حصان
+    group: زراعة التوت الأزرق
+    deploy: false
+                  
+  - title: توت العليق
+    title2: زراعة التوت
+    title_uniq: زراعة-التوت
+    default: olive-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ت
+    alphabet_l2: تو
+    alphabet_l3: توت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/olive
+    label: زيتون أويلكروب الزراعة زيتون
+    group: زراعة التوت
+    deploy: false
+                  
+  - title: تونغ
+    title2: تونغ فارمينغ
+    title_uniq: تونغ-فارمينغ
+    default: partridge-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ت
+    alphabet_l2: تو
+    alphabet_l3: تون
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/poultry/partridge
+    label: الحجل دواجن الزراعة الحجل
+    group: تونغ فارمينغ
+    deploy: false
+                  
+  - title: تين
+    title2: زراعة التين
+    title_uniq: زراعة-التين
+    default: yak-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ت
+    alphabet_l2: تي
+    alphabet_l3: تين
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/livestock/yak
+    label: الياك الماشية الزراعة الياك
+    group: زراعة التين
+    deploy: false
+                  
+  - title: تينامو
+    title2: زراعة تينامو
+    title_uniq: زراعة-تينامو
+    default: bast-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ت
+    alphabet_l2: تي
+    alphabet_l3: تين
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fibre-crop/bast
+    label: باست الألياف المحاصيل الزراعة باست
+    group: زراعة تينامو
+    deploy: false
+                  
+  - title: ثور
+    title2: تربية الثور
+    title_uniq: تربية-الثور
+    default: rice-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ث
+    alphabet_l2: ثو
+    alphabet_l3: ثور
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/cereal-crop/rice
+    label: أرز محصول الحبوب الزراعة أرز
+    group: تربية الثور
+    deploy: false
+                  
+  - title: ثوم
+    title2: زراعة الثوم
+    title_uniq: زراعة-الثوم
+    default: coffee-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ث
+    alphabet_l2: ثو
+    alphabet_l3: ثوم
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/stimulant-crop/coffee
+    label: قهوة منبه المحاصيل الزراعة قهوة
+    group: زراعة الثوم
+    deploy: false
+                  
+  - title: جاموس الماء
+    title2: زراعة جاموس الماء
+    title_uniq: زراعة-جاموس-الماء
+    default: citrus-fruit-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ج
+    alphabet_l2: جا
+    alphabet_l3: جام
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/citrus-fruit
+    label: فاكهة حمضية الزراعة فاكهة حمضية كليمنتين جريب فروت ليمون جير الماندرين البرتقالي ساتسوما يوسفي
+    group: زراعة جاموس الماء
+    deploy: false
+                  
+  - title: جراد البحر
+    title2: زراعة جراد البحر
+    title_uniq: زراعة-جراد-البحر
+    default: salmon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ج
+    alphabet_l2: جر
+    alphabet_l3: جرا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fish/salmon
+    label: سمك السالمون سمكة الزراعة سمك السالمون
+    group: زراعة جراد البحر
+    deploy: false
+                  
+  - title: جريب فروت
+    title2: زراعة الجريب فروت
+    title_uniq: زراعة-الجريب-فروت
+    default: ark-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ج
+    alphabet_l2: جر
+    alphabet_l3: جري
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/molluscs/ark
+    label: فلك الرخويات الزراعة فلك
+    group: زراعة الجريب فروت
+    deploy: false
+                  
+  - title: جريب فروت
+    title2: زراعة الجريب فروت
+    title_uniq: زراعة-الجريب-فروت
+    default: mangosteen-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ج
+    alphabet_l2: جر
+    alphabet_l3: جري
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/mangosteen
+    label: مانغوستين محصول الفاكهة الزراعة مانغوستين
+    group: زراعة الجريب فروت
+    deploy: false
+                  
+  - title: جزرة
+    title2: زراعة الجزر
+    title_uniq: زراعة-الجزر
+    default: mace-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ج
+    alphabet_l2: جز
+    alphabet_l3: جزر
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/spice-crop/mace
+    label: صولجان سبايس كروب الزراعة صولجان
+    group: زراعة الجزر
+    deploy: false
+                  
+  - title: جمبري
+    title2: استزراع الجمبري
+    title_uniq: استزراع-الجمبري
+    default: tilapia-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ج
+    alphabet_l2: جم
+    alphabet_l3: جمب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fish/tilapia
+    label: البلطي سمكة الزراعة البلطي
+    group: استزراع الجمبري
+    deploy: false
+                  
+  - title: جمل
+    title2: تربية الجمال
+    title_uniq: تربية-الجمال
+    default: canary-seed-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ج
+    alphabet_l2: جم
+    alphabet_l3: جمل
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/cereal-crop/canary-seed
+    label: بذور الكناري محصول الحبوب الزراعة بذور الكناري
+    group: تربية الجمال
+    deploy: false
+                  
+  - title: جوافة
+    title2: زراعة الجوافة
+    title_uniq: زراعة-الجوافة
+    default: clam-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ج
+    alphabet_l2: جو
+    alphabet_l3: جوا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/molluscs/clam
+    label: هادئة الرخويات الزراعة هادئة
+    group: زراعة الجوافة
+    deploy: false
+                  
+  - title: جوز
+    title2: زراعة الجوز
+    title_uniq: زراعة-الجوز
+    default: badian-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ج
+    alphabet_l2: جو
+    alphabet_l3: جوز
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/spice-crop/badian
+    label: باديان سبايس كروب الزراعة باديان
+    group: زراعة الجوز
+    deploy: false
+                  
+  - title: جوزة الطيب
+    title2: زراعة جوزة الطيب
+    title_uniq: زراعة-جوزة-الطيب
+    default: gherkin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ج
+    alphabet_l2: جو
+    alphabet_l3: جوز
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/gherkin
+    label: غيركين محصول الخضر الزراعة غيركين
+    group: زراعة جوزة الطيب
+    deploy: false
+                  
+  - title: جوزة الهند
+    title2: زراعة جوز الهند
+    title_uniq: زراعة-جوز-الهند
+    default: sunflower-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ج
+    alphabet_l2: جو
+    alphabet_l3: جوز
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/sunflower
+    label: دوار الشمس أويلكروب الزراعة دوار الشمس
+    group: زراعة جوز الهند
+    deploy: false
+                  
+  - title: جير
+    title2: زراعة الجير
+    title_uniq: زراعة-الجير
+    default: orange-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ج
+    alphabet_l2: جي
+    alphabet_l3: جير
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/citrus-fruit/orange
+    label: البرتقالي فاكهة حمضية الزراعة البرتقالي
+    group: زراعة الجير
+    deploy: false
+                  
+  - title: جير
+    title2: زراعة الجير
+    title_uniq: زراعة-الجير
+    default: scallop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ج
+    alphabet_l2: جي
+    alphabet_l3: جير
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/molluscs/scallop
+    label: إكليل الرخويات الزراعة إكليل
+    group: زراعة الجير
+    deploy: false
+                  
+  - title: جير
+    title2: زراعة الجير
+    title_uniq: زراعة-الجير
+    default: orange-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ج
+    alphabet_l2: جي
+    alphabet_l3: جير
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/orange
+    label: البرتقالي محصول الفاكهة الزراعة البرتقالي
+    group: زراعة الجير
+    deploy: false
+                  
+  - title: حدس
+    title2: حدس
+    title_uniq: حدس
+    default: intuition
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ح
+    alphabet_l2: حد
+    alphabet_l3: حدس
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognitive-aptitude/intuition
+    label: حدس الكفاءة المعرفية يصف حدس
+    group: حدس
+    deploy: false
+                  
+  - title: حرفة
+    title2: حرفة
+    title_uniq: حرفة
+    default: craft
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ح
+    alphabet_l2: حر
+    alphabet_l3: حرف
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/craft
+    label: حرفة حرفة
+    group: حرفة
+    deploy: true
+                  
+  - title: حصان
+    title2: تربية الخيول
+    title_uniq: تربية-الخيول
+    default: oat-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ح
+    alphabet_l2: حص
+    alphabet_l3: حصا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/cereal-crop/oat
+    label: شعر بالتعب محصول الحبوب الزراعة شعر بالتعب
+    group: تربية الخيول
+    deploy: false
+                  
+  - title: حل المشاكل
+    title2: حل المشاكل
+    title_uniq: حل-المشاكل
+    default: ability-to-plan
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ح
+    alphabet_l2: حل
+    alphabet_l3: حل 
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognitive-aptitude/ability-to-plan
+    label: القدرة على التخطيط الكفاءة المعرفية يصف القدرة على التخطيط
+    group: حل المشاكل
+    deploy: false
+                  
+  - title: حلوى
+    title2: إنتاج الحلويات
+    title_uniq: إنتاج-الحلويات
+    default: nut-product-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ح
+    alphabet_l2: حل
+    alphabet_l3: حلو
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/food-production/nut-product
+    label: منتج الجوز إنتاج الغذاء منتج الجوز
+    group: إنتاج الحلويات
+    deploy: true
+                  
+  - title: حمامة
+    title2: تربية الحمام
+    title_uniq: تربية-الحمام
+    default: prawn-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ح
+    alphabet_l2: حم
+    alphabet_l3: حما
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/crustacean/prawn
+    label: روبيان قشريات الزراعة روبيان
+    group: تربية الحمام
+    deploy: false
+                  
+  - title: خردل
+    title2: زراعة الخردل
+    title_uniq: زراعة-الخردل
+    default: tobacco-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: خ
+    alphabet_l2: خر
+    alphabet_l3: خرد
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/other-crops/tobacco
+    label: تبغ محاصيل أخرى الزراعة تبغ
+    group: زراعة الخردل
+    deploy: false
+                  
+  - title: خروف
+    title2: تربية الاغنام
+    title_uniq: تربية-الاغنام
+    default: wheat-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: خ
+    alphabet_l2: خر
+    alphabet_l3: خرو
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/cereal-crop/wheat
+    label: قمح محصول الحبوب الزراعة قمح
+    group: تربية الاغنام
+    deploy: false
+                  
+  - title: خس
+    title2: زراعة الخس
+    title_uniq: زراعة-الخس
+    default: sugar-beet-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: خ
+    alphabet_l2: خس
+    alphabet_l3: خس
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/sugar-crop/sugar-beet
+    label: شمندر سكري محصول السكر الزراعة شمندر سكري
+    group: زراعة الخس
+    deploy: false
+                  
+  - title: خوخ
+    title2: زراعة الخوخ
+    title_uniq: زراعة-الخوخ
+    default: hemp-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: خ
+    alphabet_l2: خو
+    alphabet_l3: خوخ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fibre-crop/hemp
+    label: عيدان الألياف المحاصيل الزراعة عيدان
+    group: زراعة الخوخ
+    deploy: false
+                  
+  - title: خوخ
+    title2: زراعة الخوخ
+    title_uniq: زراعة-الخوخ
+    default: hemp-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: خ
+    alphabet_l2: خو
+    alphabet_l3: خوخ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/hemp
+    label: عيدان أويلكروب الزراعة عيدان
+    group: زراعة الخوخ
+    deploy: false
+                  
+  - title: خيار
+    title2: زراعة الخيار
+    title_uniq: زراعة-الخيار
+    default: stimulant-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: خ
+    alphabet_l2: خي
+    alphabet_l3: خيا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/stimulant-crop
+    label: منبه المحاصيل الزراعة منبه المحاصيل فاصوليا قهوة رفيق شاي
+    group: زراعة الخيار
+    deploy: true
+                  
+  - title: دوار الشمس
+    title2: زراعة عباد الشمس
+    title_uniq: زراعة-عباد-الشمس
+    default: ostrich-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: د
+    alphabet_l2: دو
+    alphabet_l3: دوا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/poultry/ostrich
+    label: نعامة دواجن الزراعة نعامة
+    group: زراعة عباد الشمس
+    deploy: false
+                  
+  - title: ذاكرة
+    title2: ذاكرة
+    title_uniq: ذاكرة
+    default: executive-functions
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ذ
+    alphabet_l2: ذا
+    alphabet_l3: ذاك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognition/executive-functions
+    label: الوظائف التنفيذية معرفة يصف الوظائف التنفيذية
+    group: ذاكرة
+    deploy: false
+                  
+  - title: راحة نفسية
+    title2: راحة نفسية
+    title_uniq: راحة-نفسية
+    default: serenity
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ر
+    alphabet_l2: را
+    alphabet_l3: راح
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/moral-ethic/serenity
+    label: راحة نفسية الأخلاق الأخلاقية يصف راحة نفسية
+    group: راحة نفسية
+    deploy: false
+                  
+  - title: رامي
+    title2: رامي فارمينغ
+    title_uniq: رامي-فارمينغ
+    default: watermelon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ر
+    alphabet_l2: را
+    alphabet_l3: رام
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/watermelon
+    label: بطيخ محصول الفاكهة الزراعة بطيخ
+    group: رامي فارمينغ
+    deploy: false
+                  
+  - title: رفيق
+    title2: زراعة ماتي
+    title_uniq: زراعة-ماتي
+    default: okra-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ر
+    alphabet_l2: رف
+    alphabet_l3: رفي
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/okra
+    label: بامية محصول الخضر الزراعة بامية
+    group: زراعة ماتي
+    deploy: false
+                  
+  - title: روبيان
+    title2: تربية الجمبري
+    title_uniq: تربية-الجمبري
+    default: sturgeon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ر
+    alphabet_l2: رو
+    alphabet_l3: روب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fish/sturgeon
+    label: سمك الحفش سمكة الزراعة سمك الحفش
+    group: تربية الجمبري
+    deploy: false
+                  
+  - title: زبيب
+    title2: زراعة الكشمش
+    title_uniq: زراعة-الكشمش
+    default: sheep-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ز
+    alphabet_l2: زب
+    alphabet_l3: زبي
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/livestock/sheep
+    label: خروف الماشية الزراعة خروف
+    group: زراعة الكشمش
+    deploy: false
+                  
+  - title: زليقة
+    title2: زراعة النكتارين
+    title_uniq: زراعة-النكتارين
+    default: coconut-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ز
+    alphabet_l2: زل
+    alphabet_l3: زلي
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/coconut
+    label: جوزة الهند أويلكروب الزراعة جوزة الهند
+    group: زراعة النكتارين
+    deploy: false
+                  
+  - title: زنجبيل
+    title2: زراعة الزنجبيل
+    title_uniq: زراعة-الزنجبيل
+    default: eggplant-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ز
+    alphabet_l2: زن
+    alphabet_l3: زنج
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/eggplant
+    label: الباذنجان محصول الخضر الزراعة الباذنجان
+    group: زراعة الزنجبيل
+    deploy: false
+                  
+  - title: زيت النخيل
+    title2: زراعة نخيل الزيت
+    title_uniq: زراعة-نخيل-الزيت
+    default: wax-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ز
+    alphabet_l2: زي
+    alphabet_l3: زيت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/other-crops/wax
+    label: الشمع محاصيل أخرى الزراعة الشمع
+    group: زراعة نخيل الزيت
+    deploy: false
+                  
+  - title: زيتون
+    title2: زراعة الزيتون
+    title_uniq: زراعة-الزيتون
+    default: poultry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ز
+    alphabet_l2: زي
+    alphabet_l3: زيت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/poultry
+    label: دواجن الزراعة دواجن فرخة بطة الاتحاد الاقتصادي والنقدي فرانكولين بجعة طير غينيا نعامة الحجل طاووس التدرج حمامة طائر السمان بجعة سويفت تينامو ديك رومى
+    group: زراعة الزيتون
+    deploy: true
+                  
+  - title: ساتسوما
+    title2: زراعة ساتسوماس
+    title_uniq: زراعة-ساتسوماس
+    default: poppy-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: س
+    alphabet_l2: سا
+    alphabet_l3: سات
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/poppy
+    label: شقائق النعمان أويلكروب الزراعة شقائق النعمان
+    group: زراعة ساتسوماس
+    deploy: false
+                  
+  - title: ساتسوما
+    title2: زراعة ساتسوماس
+    title_uniq: زراعة-ساتسوماس
+    default: pear-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: س
+    alphabet_l2: سا
+    alphabet_l3: سات
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/pear
+    label: كمثرى محصول الفاكهة الزراعة كمثرى
+    group: زراعة ساتسوماس
+    deploy: false
+                  
+  - title: سبانخ
+    title2: زراعة السبانخ
+    title_uniq: زراعة-السبانخ
+    default: pistachio-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: س
+    alphabet_l2: سب
+    alphabet_l3: سبا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/tree-nut-crop/pistachio
+    label: فستق شجرة الجوز المحاصيل الزراعة فستق
+    group: زراعة السبانخ
+    deploy: false
+                  
+  - title: سبايس كروب
+    title2: زراعة محاصيل التوابل
+    title_uniq: زراعة-محاصيل-التوابل
+    default: bean-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: س
+    alphabet_l2: سب
+    alphabet_l3: سبا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/stimulant-crop/bean
+    label: فاصوليا منبه المحاصيل الزراعة فاصوليا
+    group: زراعة محاصيل التوابل
+    deploy: false
+                  
+  - title: سبايس كروب
+    title2: زراعة محاصيل التوابل
+    title_uniq: زراعة-محاصيل-التوابل
+    default: bean-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: س
+    alphabet_l2: سب
+    alphabet_l3: سبا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/pulse-crop/bean
+    label: فاصوليا نبض المحاصيل الزراعة فاصوليا
+    group: زراعة محاصيل التوابل
+    deploy: false
+                  
+  - title: سبايس كروب
+    title2: زراعة محاصيل التوابل
+    title_uniq: زراعة-محاصيل-التوابل
+    default: bean-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: س
+    alphabet_l2: سب
+    alphabet_l3: سبا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/bean
+    label: فاصوليا محصول الخضر الزراعة فاصوليا
+    group: زراعة محاصيل التوابل
+    deploy: false
+                  
+  - title: سرطان البحر
+    title2: زراعة الكركند
+    title_uniq: زراعة-الكركند
+    default: seabream-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: س
+    alphabet_l2: سر
+    alphabet_l3: سرط
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fish/seabream
+    label: الدنيس سمكة الزراعة الدنيس
+    group: زراعة الكركند
+    deploy: false
+                  
+  - title: سرعة المعالجة
+    title2: سرعة المعالجة
+    title_uniq: سرعة-المعالجة
+    default: memory
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: س
+    alphabet_l2: سر
+    alphabet_l3: سرع
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognition/memory
+    label: ذاكرة معرفة يصف ذاكرة
+    group: سرعة المعالجة
+    deploy: false
+                  
+  - title: سفرجل
+    title2: سفرجل الزراعة
+    title_uniq: سفرجل-الزراعة
+    default: oil-palm-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: س
+    alphabet_l2: سف
+    alphabet_l3: سفر
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/oil-palm
+    label: زيت النخيل أويلكروب الزراعة زيت النخيل
+    group: سفرجل الزراعة
+    deploy: false
+                  
+  - title: سلطعون
+    title2: زراعة السلطعون
+    title_uniq: زراعة-السلطعون
+    default: perch-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: س
+    alphabet_l2: سل
+    alphabet_l3: سلط
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fish/perch
+    label: جثم سمكة الزراعة جثم
+    group: زراعة السلطعون
+    deploy: false
+                  
+  - title: سمسم
+    title2: زراعة السمسم
+    title_uniq: زراعة-السمسم
+    default: goose-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: س
+    alphabet_l2: سم
+    alphabet_l3: سمس
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/poultry/goose
+    label: بجعة دواجن الزراعة بجعة بجعة
+    group: زراعة السمسم
+    deploy: false
+                  
+  - title: سمك الحفش
+    title2: زراعة سمك الحفش
+    title_uniq: زراعة-سمك-الحفش
+    default: carp-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: س
+    alphabet_l2: سم
+    alphabet_l3: سمك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fish/carp
+    label: الكارب سمكة الزراعة الكارب
+    group: زراعة سمك الحفش
+    deploy: false
+                  
+  - title: سمك السالمون
+    title2: زراعة السلمون
+    title_uniq: زراعة-السلمون
+    default: sisal-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: س
+    alphabet_l2: سم
+    alphabet_l3: سمك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fibre-crop/sisal
+    label: سيزال الألياف المحاصيل الزراعة سيزال
+    group: زراعة السلمون
+    deploy: false
+                  
+  - title: سمك السلمون المرقط
+    title2: زراعة التراوت
+    title_uniq: زراعة-التراوت
+    default: eel-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: س
+    alphabet_l2: سم
+    alphabet_l3: سمك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fish/eel
+    label: الانقليس سمكة الزراعة الانقليس
+    group: زراعة التراوت
+    deploy: false
+                  
+  - title: سويفت
+    title2: Swiftlet Farming
+    title_uniq: swiftlet-farming
+    default: agave-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: س
+    alphabet_l2: سو
+    alphabet_l3: سوي
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fibre-crop/agave
+    label: الأغاف الألياف المحاصيل الزراعة الأغاف
+    group: Swiftlet Farming
+    deploy: false
+                  
+  - title: سيزال
+    title2: زراعة السيزال
+    title_uniq: زراعة-السيزال
+    default: alpaca-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: س
+    alphabet_l2: سي
+    alphabet_l3: سيز
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/livestock/alpaca
+    label: الألبكة الماشية الزراعة الألبكة
+    group: زراعة السيزال
+    deploy: false
+                  
+  - title: شاي
+    title2: زراعة الشاي
+    title_uniq: زراعة-الشاي
+    default: onion-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ش
+    alphabet_l2: شا
+    alphabet_l3: شاي
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/onion
+    label: بصلة محصول الخضر الزراعة بصلة
+    group: زراعة الشاي
+    deploy: false
+                  
+  - title: شجاعة
+    title2: شجاعة
+    title_uniq: شجاعة
+    default: humility
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ش
+    alphabet_l2: شج
+    alphabet_l3: شجا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/moral-ethic/humility
+    label: التواضع الأخلاق الأخلاقية يصف التواضع
+    group: شجاعة
+    deploy: false
+                  
+  - title: شجرة الجوز المحاصيل
+    title2: زراعة شجرة الجوز والمحاصيل
+    title_uniq: زراعة-شجرة-الجوز-والمحاصيل
+    default: root-and-tuber-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ش
+    alphabet_l2: شج
+    alphabet_l3: شجر
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/root-and-tuber-crop
+    label: الجذر والدرنات المحاصيل الزراعة الجذر والدرنات المحاصيل الكسافا كوكويام البطاطس بطاطا
+    group: زراعة شجرة الجوز والمحاصيل
+    deploy: true
+                  
+  - title: شخص شره
+    title2: تربية الخنازير
+    title_uniq: تربية-الخنازير
+    default: rye-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ش
+    alphabet_l2: شخ
+    alphabet_l3: شخص
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/cereal-crop/rye
+    label: الذرة محصول الحبوب الزراعة الذرة الذرة
+    group: تربية الخنازير
+    deploy: false
+                  
+  - title: شخص عادي
+    title2: زراعة الكراث
+    title_uniq: زراعة-الكراث
+    default: sugar-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ش
+    alphabet_l2: شخ
+    alphabet_l3: شخص
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/sugar-crop
+    label: محصول السكر الزراعة محصول السكر شمندر سكري قصب السكر
+    group: زراعة الكراث
+    deploy: true
+                  
+  - title: شعر بالتعب
+    title2: زراعة الشوفان
+    title_uniq: زراعة-الشوفان
+    default: gooseberry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ش
+    alphabet_l2: شع
+    alphabet_l3: شعر
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/gooseberry
+    label: عنب الثعلب محصول الفاكهة الزراعة عنب الثعلب
+    group: زراعة الشوفان
+    deploy: false
+                  
+  - title: شعير
+    title2: زراعة الشعير
+    title_uniq: زراعة-الشعير
+    default: cherry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ش
+    alphabet_l2: شع
+    alphabet_l3: شعي
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/cherry
+    label: الكرز محصول الفاكهة الزراعة الكرز
+    group: زراعة الشعير
+    deploy: false
+                  
+  - title: شقائق النعمان
+    title2: زراعة الخشخاش
+    title_uniq: زراعة-الخشخاش
+    default: chicken-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ش
+    alphabet_l2: شق
+    alphabet_l3: شقا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/poultry/chicken
+    label: فرخة دواجن الزراعة فرخة
+    group: زراعة الخشخاش
+    deploy: false
+                  
+  - title: شمام
+    title2: زراعة البطيخ
+    title_uniq: زراعة-البطيخ
+    default: pyrethrum-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ش
+    alphabet_l2: شم
+    alphabet_l3: شما
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/other-crops/pyrethrum
+    label: بيريثروم محاصيل أخرى الزراعة بيريثروم
+    group: زراعة البطيخ
+    deploy: false
+                  
+  - title: صدفة
+    title2: الزراعة الصدفية
+    title_uniq: الزراعة-الصدفية
+    default: carob-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ص
+    alphabet_l2: صد
+    alphabet_l3: صدف
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/carob
+    label: الخروب محصول الفاكهة الزراعة الخروب
+    group: الزراعة الصدفية
+    deploy: false
+                  
+  - title: صمغ
+    title2: زراعة اللثة
+    title_uniq: زراعة-اللثة
+    default: shallot-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ص
+    alphabet_l2: صم
+    alphabet_l3: صمغ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/shallot
+    label: القفلوط الكراث الأندلسي محصول الخضر الزراعة القفلوط الكراث الأندلسي
+    group: زراعة اللثة
+    deploy: false
+                  
+  - title: صناعة القرار
+    title2: صناعة القرار
+    title_uniq: صناعة-القرار
+    default: creativity
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ص
+    alphabet_l2: صن
+    alphabet_l3: صنا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognitive-aptitude/creativity
+    label: إبداع الكفاءة المعرفية يصف إبداع
+    group: صناعة القرار
+    deploy: false
+                  
+  - title: صولجان
+    title2: زراعة الصولجان
+    title_uniq: زراعة-الصولجان
+    default: garlic-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ص
+    alphabet_l2: صو
+    alphabet_l3: صول
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/garlic
+    label: ثوم محصول الخضر الزراعة ثوم
+    group: زراعة الصولجان
+    deploy: false
+                  
+  - title: طائر السمان
+    title2: زراعة السمان
+    title_uniq: زراعة-السمان
+    default: shrimp-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ط
+    alphabet_l2: طا
+    alphabet_l3: طائ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/crustacean/shrimp
+    label: جمبري قشريات الزراعة جمبري
+    group: زراعة السمان
+    deploy: false
+                  
+  - title: طاووس
+    title2: زراعة الطاووس
+    title_uniq: زراعة-الطاووس
+    default: crayfish-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ط
+    alphabet_l2: طا
+    alphabet_l3: طاو
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/crustacean/crayfish
+    label: جراد البحر قشريات الزراعة جراد البحر
+    group: زراعة الطاووس
+    deploy: false
+                  
+  - title: طماطم
+    title2: زراعة الطماطم
+    title_uniq: زراعة-الطماطم
+    default: vegetable-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ط
+    alphabet_l2: طم
+    alphabet_l3: طما
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop
+    label: محصول الخضر الزراعة محصول الخضر خرشوف نبات الهليون فاصوليا بروكلي كرنب جزرة قرنبيط الهندباء الفلفل الحار والفلفل خيار الباذنجان ثوم غيركين القرع شخص عادي خس الذرة فطر بامية بصلة البازلاء يقطين القفلوط الكراث الأندلسي سبانخ قرع طماطم الكمأة لفت نبات
+    group: زراعة الطماطم
+    deploy: true
+                  
+  - title: عدس
+    title2: زراعة العدس
+    title_uniq: زراعة-العدس
+    default: pigeon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ع
+    alphabet_l2: عد
+    alphabet_l3: عدس
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/poultry/pigeon
+    label: حمامة دواجن الزراعة حمامة
+    group: زراعة العدس
+    deploy: false
+                  
+  - title: عنب
+    title2: زراعة العنب
+    title_uniq: زراعة-العنب
+    default: abalone-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ع
+    alphabet_l2: عن
+    alphabet_l3: عنب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/molluscs/abalone
+    label: أذن البحر الرخويات الزراعة أذن البحر
+    group: زراعة العنب
+    deploy: false
+                  
+  - title: عنب الثعلب
+    title2: زراعة عنب الثعلب
+    title_uniq: زراعة-عنب-الثعلب
+    default: molluscs-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ع
+    alphabet_l2: عن
+    alphabet_l3: عنب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/molluscs
+    label: الرخويات الزراعة الرخويات أذن البحر فلك هادئة بلح البحر محار إكليل صدفة
+    group: زراعة عنب الثعلب
+    deploy: true
+                  
+  - title: عيدان
+    title2: زراعة القنب
+    title_uniq: زراعة-القنب
+    default: raspberry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ع
+    alphabet_l2: عي
+    alphabet_l3: عيد
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/raspberry
+    label: توت العليق محصول الفاكهة الزراعة توت العليق
+    group: زراعة القنب
+    deploy: false
+                  
+  - title: عيدان
+    title2: زراعة القنب
+    title_uniq: زراعة-القنب
+    default: citronella-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ع
+    alphabet_l2: عي
+    alphabet_l3: عيد
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/other-crops/citronella
+    label: السترونيلا محاصيل أخرى الزراعة السترونيلا
+    group: زراعة القنب
+    deploy: false
+                  
+  - title: غيركين
+    title2: زراعة غيركين
+    title_uniq: زراعة-غيركين
+    default: mate-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: غ
+    alphabet_l2: غي
+    alphabet_l3: غير
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/stimulant-crop/mate
+    label: رفيق منبه المحاصيل الزراعة رفيق
+    group: زراعة غيركين
+    deploy: false
+                  
+  - title: فاصوليا
+    title2: زراعة الفول
+    title_uniq: زراعة-الفول
+    default: clove-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ف
+    alphabet_l2: فا
+    alphabet_l3: فاص
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/spice-crop/clove
+    label: القرنفل سبايس كروب الزراعة القرنفل
+    group: زراعة الفول
+    deploy: false
+                  
+  - title: فاصوليا
+    title2: زراعة الفول
+    title_uniq: زراعة-الفول
+    default: pheasant-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ف
+    alphabet_l2: فا
+    alphabet_l3: فاص
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/poultry/pheasant
+    label: التدرج دواجن الزراعة التدرج
+    group: زراعة الفول
+    deploy: false
+                  
+  - title: فاصوليا
+    title2: زراعة الفول
+    title_uniq: زراعة-الفول
+    default: maize-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ف
+    alphabet_l2: فا
+    alphabet_l3: فاص
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/cereal-crop/maize
+    label: الذرة محصول الحبوب الزراعة الذرة الذرة
+    group: زراعة الفول
+    deploy: false
+                  
+  - title: فاصوليا
+    title2: زراعة الفول
+    title_uniq: زراعة-الفول
+    default: maize-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ف
+    alphabet_l2: فا
+    alphabet_l3: فاص
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/maize
+    label: الذرة محصول الخضر الزراعة الذرة
+    group: زراعة الفول
+    deploy: false
+                  
+  - title: فاكهة حمضية
+    title2: زراعة الحمضيات
+    title_uniq: زراعة-الحمضيات
+    default: mandarin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ف
+    alphabet_l2: فا
+    alphabet_l3: فاك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/citrus-fruit/mandarin
+    label: الماندرين فاكهة حمضية الزراعة الماندرين
+    group: زراعة الحمضيات
+    deploy: false
+                  
+  - title: فاكهة حمضية
+    title2: زراعة الحمضيات
+    title_uniq: زراعة-الحمضيات
+    default: mandarin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ف
+    alphabet_l2: فا
+    alphabet_l3: فاك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/mandarin
+    label: الماندرين محصول الفاكهة الزراعة الماندرين
+    group: زراعة الحمضيات
+    deploy: false
+                  
+  - title: فانيلا
+    title2: زراعة الفانيليا
+    title_uniq: زراعة-الفانيليا
+    default: leek-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ف
+    alphabet_l2: فا
+    alphabet_l3: فان
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/leek
+    label: شخص عادي محصول الخضر الزراعة شخص عادي
+    group: زراعة الفانيليا
+    deploy: false
+                  
+  - title: فستق
+    title2: زراعة الفستق
+    title_uniq: زراعة-الفستق
+    default: anise-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ف
+    alphabet_l2: فس
+    alphabet_l3: فست
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/spice-crop/anise
+    label: يانسون سبايس كروب الزراعة يانسون
+    group: زراعة الفستق
+    deploy: false
+                  
+  - title: فستق
+    title2: زراعة الفول السوداني
+    title_uniq: زراعة-الفول-السوداني
+    default: other-crops-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ف
+    alphabet_l2: فس
+    alphabet_l3: فست
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/other-crops
+    label: محاصيل أخرى الزراعة محاصيل أخرى السترونيلا صمغ قفزة نعناع بيريثروم تبغ الشمع
+    group: زراعة الفول السوداني
+    deploy: true
+                  
+  - title: فض النزاعات
+    title2: فض النزاعات
+    title_uniq: فض-النزاعات
+    default: visual-communication
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ف
+    alphabet_l2: فض
+    alphabet_l3: فض 
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/social-interrelation/visual-communication
+    label: التواصل البصري الترابط الاجتماعي يصف التواصل البصري
+    group: فض النزاعات
+    deploy: false
+                  
+  - title: فطر
+    title2: زراعة الفطر
+    title_uniq: زراعة-الفطر
+    default: tree-nut-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ف
+    alphabet_l2: فط
+    alphabet_l3: فطر
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/tree-nut-crop
+    label: شجرة الجوز المحاصيل الزراعة شجرة الجوز المحاصيل لوز البرازيل كاجو كستناء بندق فستق جوز
+    group: زراعة الفطر
+    deploy: true
+                  
+  - title: فلك
+    title2: ارك فارمينج
+    title_uniq: ارك-فارمينج
+    default: apple-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ف
+    alphabet_l2: فل
+    alphabet_l3: فلك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/apple
+    label: تفاح محصول الفاكهة الزراعة تفاح
+    group: ارك فارمينج
+    deploy: false
+                  
+  - title: فول الصويا
+    title2: زراعة فول الصويا
+    title_uniq: زراعة-فول-الصويا
+    default: guinea-fowl-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ف
+    alphabet_l2: فو
+    alphabet_l3: فول
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/poultry/guinea-fowl
+    label: طير غينيا دواجن الزراعة طير غينيا
+    group: زراعة فول الصويا
+    deploy: false
+                  
+  - title: فونيو
+    title2: فونيو فارمينغ
+    title_uniq: فونيو-فارمينغ
+    default: currant-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ف
+    alphabet_l2: فو
+    alphabet_l3: فون
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/currant
+    label: زبيب محصول الفاكهة الزراعة زبيب
+    group: فونيو فارمينغ
+    deploy: false
+                  
+  - title: قرع
+    title2: زراعة الاسكواش
+    title_uniq: زراعة-الاسكواش
+    default: walnut-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ق
+    alphabet_l2: قر
+    alphabet_l3: قرع
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/tree-nut-crop/walnut
+    label: جوز شجرة الجوز المحاصيل الزراعة جوز
+    group: زراعة الاسكواش
+    deploy: false
+                  
+  - title: قرفة
+    title2: زراعة القرفة
+    title_uniq: زراعة-القرفة
+    default: chicory-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ق
+    alphabet_l2: قر
+    alphabet_l3: قرف
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/chicory
+    label: الهندباء محصول الخضر الزراعة الهندباء
+    group: زراعة القرفة
+    deploy: false
+                  
+  - title: قرنبيط
+    title2: زراعة القرنبيط
+    title_uniq: زراعة-القرنبيط
+    default: nutmeg-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ق
+    alphabet_l2: قر
+    alphabet_l3: قرن
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/spice-crop/nutmeg
+    label: جوزة الطيب سبايس كروب الزراعة جوزة الطيب
+    group: زراعة القرنبيط
+    deploy: false
+                  
+  - title: قشريات
+    title2: زراعة القشريات
+    title_uniq: زراعة-القشريات
+    default: mullet-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ق
+    alphabet_l2: قش
+    alphabet_l3: قشر
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fish/mullet
+    label: البوري سمكة الزراعة البوري
+    group: زراعة القشريات
+    deploy: false
+                  
+  - title: قصب السكر
+    title2: زراعة قصب السكر
+    title_uniq: زراعة-قصب-السكر
+    default: vetch-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ق
+    alphabet_l2: قص
+    alphabet_l3: قصب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/pulse-crop/vetch
+    label: البيقية نبض المحاصيل الزراعة البيقية
+    group: زراعة قصب السكر
+    deploy: false
+                  
+  - title: قفزة
+    title2: زراعة القفزات
+    title_uniq: زراعة-القفزات
+    default: spinach-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ق
+    alphabet_l2: قف
+    alphabet_l3: قفز
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/spinach
+    label: سبانخ محصول الخضر الزراعة سبانخ
+    group: زراعة القفزات
+    deploy: false
+                  
+  - title: قمح
+    title2: زراعة القمح
+    title_uniq: زراعة-القمح
+    default: lime-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ق
+    alphabet_l2: قم
+    alphabet_l3: قمح
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/lime
+    label: جير محصول الفاكهة الزراعة جير
+    group: زراعة القمح
+    deploy: false
+                  
+  - title: قمح
+    title2: زراعة القمح
+    title_uniq: زراعة-القمح
+    default: lime-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ق
+    alphabet_l2: قم
+    alphabet_l3: قمح
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/citrus-fruit/lime
+    label: جير فاكهة حمضية الزراعة جير
+    group: زراعة القمح
+    deploy: false
+                  
+  - title: قهوة
+    title2: زراعة البن
+    title_uniq: زراعة-البن
+    default: mushroom-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ق
+    alphabet_l2: قه
+    alphabet_l3: قهو
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/mushroom
+    label: فطر محصول الخضر الزراعة فطر
+    group: زراعة البن
+    deploy: false
+                  
+  - title: قيادة
+    title2: قيادة
+    title_uniq: قيادة
+    default: leadership
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ق
+    alphabet_l2: قي
+    alphabet_l3: قيا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/administration/leadership
+    label: قيادة الادارة يصف قيادة
+    group: قيادة
+    deploy: false
+                  
+  - title: كابوك
+    title2: زراعة الكابوك
+    title_uniq: زراعة-الكابوك
+    default: strawberry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ك
+    alphabet_l2: كا
+    alphabet_l3: كاب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/strawberry
+    label: الفراولة محصول الفاكهة الزراعة الفراولة
+    group: زراعة الكابوك
+    deploy: false
+                  
+  - title: كابوك
+    title2: زراعة الكابوك
+    title_uniq: زراعة-الكابوك
+    default: hop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ك
+    alphabet_l2: كا
+    alphabet_l3: كاب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/other-crops/hop
+    label: قفزة محاصيل أخرى الزراعة قفزة
+    group: زراعة الكابوك
+    deploy: false
+                  
+  - title: كاجو
+    title2: زراعة الكاجو
+    title_uniq: زراعة-الكاجو
+    default: potato-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ك
+    alphabet_l2: كا
+    alphabet_l3: كاج
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/root-and-tuber-crop/potato
+    label: البطاطس الجذر والدرنات المحاصيل الزراعة البطاطس
+    group: زراعة الكاجو
+    deploy: false
+                  
+  - title: كاجو أبل
+    title2: زراعة الكاجو
+    title_uniq: زراعة-الكاجو
+    default: ox-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ك
+    alphabet_l2: كا
+    alphabet_l3: كاج
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/livestock/ox
+    label: ثور الماشية الزراعة ثور
+    group: زراعة الكاجو
+    deploy: false
+                  
+  - title: كاريت
+    title2: الزراعة الكاريتية
+    title_uniq: الزراعة-الكاريتية
+    default: mint-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ك
+    alphabet_l2: كا
+    alphabet_l3: كار
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/other-crops/mint
+    label: نعناع محاصيل أخرى الزراعة نعناع
+    group: الزراعة الكاريتية
+    deploy: false
+                  
+  - title: كاستور
+    title2: زراعة الخروع
+    title_uniq: زراعة-الخروع
+    default: soybean-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ك
+    alphabet_l2: كا
+    alphabet_l3: كاس
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/soybean
+    label: فول الصويا أويلكروب الزراعة فول الصويا
+    group: زراعة الخروع
+    deploy: false
+                  
+  - title: كرز
+    title2: زراعة التوت البري
+    title_uniq: زراعة-التوت-البري
+    default: reindeer-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ك
+    alphabet_l2: كر
+    alphabet_l3: كرز
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/livestock/reindeer
+    label: الرنة الماشية الزراعة الرنة
+    group: زراعة التوت البري
+    deploy: false
+                  
+  - title: كرنب
+    title2: زراعة الكرنب
+    title_uniq: زراعة-الكرنب
+    default: ginger-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ك
+    alphabet_l2: كر
+    alphabet_l3: كرن
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/spice-crop/ginger
+    label: زنجبيل سبايس كروب الزراعة زنجبيل
+    group: زراعة الكرنب
+    deploy: false
+                  
+  - title: كستناء
+    title2: زراعة الكستناء
+    title_uniq: زراعة-الكستناء
+    default: yam-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ك
+    alphabet_l2: كس
+    alphabet_l3: كست
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/root-and-tuber-crop/yam
+    label: بطاطا الجذر والدرنات المحاصيل الزراعة بطاطا
+    group: زراعة الكستناء
+    deploy: false
+                  
+  - title: كليمنتين
+    title2: زراعة كليمنتين
+    title_uniq: زراعة-كليمنتين
+    default: rabbit-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ك
+    alphabet_l2: كل
+    alphabet_l3: كلي
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/livestock/rabbit
+    label: أرنب الماشية الزراعة أرنب
+    group: زراعة كليمنتين
+    deploy: false
+                  
+  - title: كليمنتين
+    title2: زراعة كليمنتين
+    title_uniq: زراعة-كليمنتين
+    default: mango-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ك
+    alphabet_l2: كل
+    alphabet_l3: كلي
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/mango
+    label: مانجو محصول الفاكهة الزراعة مانجو
+    group: زراعة كليمنتين
+    deploy: false
+                  
+  - title: كمثرى
+    title2: زراعة الكمثرى
+    title_uniq: زراعة-الكمثرى
+    default: jojoba-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ك
+    alphabet_l2: كم
+    alphabet_l3: كمث
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/jojoba
+    label: الجوجوبا أويلكروب الزراعة الجوجوبا
+    group: زراعة الكمثرى
+    deploy: false
+                  
+  - title: كوكويام
+    title2: زراعة Cocoyam
+    title_uniq: زراعة-cocoyam
+    default: pulse-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ك
+    alphabet_l2: كو
+    alphabet_l3: كوك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/pulse-crop
+    label: نبض المحاصيل الزراعة نبض المحاصيل فاصوليا عدس الترمس البازلاء البيقية
+    group: زراعة Cocoyam
+    deploy: true
+                  
+  - title: كيوي
+    title2: زراعة الكيوي
+    title_uniq: زراعة-الكيوي
+    default: mussel-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ك
+    alphabet_l2: كي
+    alphabet_l3: كيو
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/molluscs/mussel
+    label: بلح البحر الرخويات الزراعة بلح البحر
+    group: زراعة الكيوي
+    deploy: false
+                  
+  - title: لسان الحمل
+    title2: زراعة لسان الحمل
+    title_uniq: زراعة-لسان-الحمل
+    default: melon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ل
+    alphabet_l2: لس
+    alphabet_l3: لسا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/melon
+    label: شمام أويلكروب الزراعة شمام
+    group: زراعة لسان الحمل
+    deploy: false
+                  
+  - title: لفت نبات
+    title2: زراعة اللفت
+    title_uniq: زراعة-اللفت
+    default: asparagus-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ل
+    alphabet_l2: لف
+    alphabet_l3: لفت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/asparagus
+    label: نبات الهليون محصول الخضر الزراعة نبات الهليون
+    group: زراعة اللفت
+    deploy: false
+                  
+  - title: لوز
+    title2: زراعة اللوز
+    title_uniq: زراعة-اللوز
+    default: cassava-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ل
+    alphabet_l2: لو
+    alphabet_l3: لوز
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/root-and-tuber-crop/cassava
+    label: الكسافا الجذر والدرنات المحاصيل الزراعة الكسافا
+    group: زراعة اللوز
+    deploy: false
+                  
+  - title: ليمون
+    title2: زراعة الليمون
+    title_uniq: زراعة-الليمون
+    default: nectarine-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ل
+    alphabet_l2: لي
+    alphabet_l3: ليم
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/nectarine
+    label: زليقة محصول الفاكهة الزراعة زليقة
+    group: زراعة الليمون
+    deploy: false
+                  
+  - title: ليمون
+    title2: زراعة الليمون
+    title_uniq: زراعة-الليمون
+    default: oyster-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ل
+    alphabet_l2: لي
+    alphabet_l3: ليم
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/molluscs/oyster
+    label: محار الرخويات الزراعة محار
+    group: زراعة الليمون
+    deploy: false
+                  
+  - title: ما وراء المعرفة
+    title2: ما وراء المعرفة
+    title_uniq: ما-وراء-المعرفة
+    default: perception
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: ما
+    alphabet_l3: ما 
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognition/perception
+    label: تصور معرفة يصف تصور
+    group: ما وراء المعرفة
+    deploy: false
+                  
+  - title: ماشية
+    title2: مزرعة ماشية
+    title_uniq: مزرعة-ماشية
+    default: fonio-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: ما
+    alphabet_l3: ماش
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/cereal-crop/fonio
+    label: فونيو محصول الحبوب الزراعة فونيو
+    group: مزرعة ماشية
+    deploy: false
+                  
+  - title: ماعز
+    title2: تربية الماعز
+    title_uniq: تربية-الماعز
+    default: millet-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: ما
+    alphabet_l3: ماع
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/cereal-crop/millet
+    label: الدخن محصول الحبوب الزراعة الدخن
+    group: تربية الماعز
+    deploy: false
+                  
+  - title: مانجو
+    title2: زراعة المانجو
+    title_uniq: زراعة-المانجو
+    default: oilcrop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: ما
+    alphabet_l3: مان
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop
+    label: أويلكروب الزراعة أويلكروب كاستور جوزة الهند الكتان فستق عيدان الجوجوبا كابوك كاريت شمام خردل زيت النخيل زيتون شقائق النعمان اغتصاب القرطم بذور القطن سمسم فول الصويا دوار الشمس تونغ
+    group: زراعة المانجو
+    deploy: true
+                  
+  - title: مانغوستين
+    title2: زراعة مانغوستين
+    title_uniq: زراعة-مانغوستين
+    default: castor-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: ما
+    alphabet_l3: مان
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/castor
+    label: كاستور أويلكروب الزراعة كاستور
+    group: زراعة مانغوستين
+    deploy: false
+                  
+  - title: مانيلا
+    title2: الزراعة في مانيلا
+    title_uniq: الزراعة-في-مانيلا
+    default: tangerine-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: ما
+    alphabet_l3: مان
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/tangerine
+    label: يوسفي محصول الفاكهة الزراعة يوسفي
+    group: الزراعة في مانيلا
+    deploy: false
+                  
+  - title: مانيلا
+    title2: الزراعة في مانيلا
+    title_uniq: الزراعة-في-مانيلا
+    default: tangerine-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: ما
+    alphabet_l3: مان
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/citrus-fruit/tangerine
+    label: يوسفي فاكهة حمضية الزراعة يوسفي
+    group: الزراعة في مانيلا
+    deploy: false
+                  
+  - title: محار
+    title2: زراعة المحار
+    title_uniq: زراعة-المحار
+    default: banana-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: مح
+    alphabet_l3: محا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/banana
+    label: موز محصول الفاكهة الزراعة موز
+    group: زراعة المحار
+    deploy: false
+                  
+  - title: محاصيل أخرى
+    title2: زراعة المحاصيل الأخرى
+    title_uniq: زراعة-المحاصيل-الأخرى
+    default: pea-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: مح
+    alphabet_l3: محا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/pulse-crop/pea
+    label: البازلاء نبض المحاصيل الزراعة البازلاء
+    group: زراعة المحاصيل الأخرى
+    deploy: false
+                  
+  - title: محاصيل أخرى
+    title2: زراعة المحاصيل الأخرى
+    title_uniq: زراعة-المحاصيل-الأخرى
+    default: pea-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: مح
+    alphabet_l3: محا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/pea
+    label: البازلاء محصول الخضر الزراعة البازلاء
+    group: زراعة المحاصيل الأخرى
+    deploy: false
+                  
+  - title: محصول الحبوب
+    title2: زراعة محاصيل الحبوب
+    title_uniq: زراعة-محاصيل-الحبوب
+    default: cashewapple-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: مح
+    alphabet_l3: محص
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/cashewapple
+    label: كاجو أبل محصول الفاكهة الزراعة كاجو أبل
+    group: زراعة محاصيل الحبوب
+    deploy: false
+                  
+  - title: محصول الخضر
+    title2: زراعة محاصيل الخضر
+    title_uniq: زراعة-محاصيل-الخضر
+    default: cardamon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: مح
+    alphabet_l3: محص
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/spice-crop/cardamon
+    label: هيل سبايس كروب الزراعة هيل
+    group: زراعة محاصيل الخضر
+    deploy: false
+                  
+  - title: محصول السكر
+    title2: زراعة محاصيل السكر
+    title_uniq: زراعة-محاصيل-السكر
+    default: lupin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: مح
+    alphabet_l3: محص
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/pulse-crop/lupin
+    label: الترمس نبض المحاصيل الزراعة الترمس
+    group: زراعة محاصيل السكر
+    deploy: false
+                  
+  - title: محصول الفاكهة
+    title2: زراعة محاصيل الفاكهة
+    title_uniq: زراعة-محاصيل-الفاكهة
+    default: buffalo-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: مح
+    alphabet_l3: محص
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/livestock/buffalo
+    label: الجاموس الماشية الزراعة الجاموس
+    group: زراعة محاصيل الفاكهة
+    deploy: false
+                  
+  - title: مسئولية
+    title2: مسئولية
+    title_uniq: مسئولية
+    default: integrity
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: مس
+    alphabet_l3: مسئ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/work-ethic/integrity
+    label: نزاهة أخلاقيات العمل يصف نزاهة
+    group: مسئولية
+    deploy: false
+                  
+  - title: مشروب
+    title2: إنتاج المشروبات
+    title_uniq: إنتاج-المشروبات
+    default: confection-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: مش
+    alphabet_l3: مشر
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/food-production/confection
+    label: حلوى إنتاج الغذاء حلوى
+    group: إنتاج المشروبات
+    deploy: 
+                  
+  - title: مشمش
+    title2: زراعة المشمش
+    title_uniq: زراعة-المشمش
+    default: cattle-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: مش
+    alphabet_l3: مشم
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/livestock/cattle
+    label: ماشية الماشية الزراعة ماشية
+    group: زراعة المشمش
+    deploy: false
+                  
+  - title: معرفة
+    title2: معرفة
+    title_uniq: معرفة
+    default: time-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: مع
+    alphabet_l3: معر
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/self-management/time-management
+    label: إدارة الوقت الإدارة الذاتية يصف إدارة الوقت
+    group: معرفة
+    deploy: false
+                  
+  - title: منبه المحاصيل
+    title2: زراعة المحاصيل المنشطة
+    title_uniq: زراعة-المحاصيل-المنشطة
+    default: lettuce-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: من
+    alphabet_l3: منب
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/lettuce
+    label: خس محصول الخضر الزراعة خس
+    group: زراعة المحاصيل المنشطة
+    deploy: false
+                  
+  - title: منتج الجوز
+    title2: إنتاج منتجات الجوز
+    title_uniq: إنتاج-منتجات-الجوز
+    default: condiment-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: من
+    alphabet_l3: منت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/food-production/condiment
+    label: بهار إنتاج الغذاء بهار
+    group: إنتاج منتجات الجوز
+    deploy: true
+                  
+  - title: منتج الحبوب
+    title2: إنتاج منتجات الحبوب
+    title_uniq: إنتاج-منتجات-الحبوب
+    default: beverage-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: من
+    alphabet_l3: منت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/food-production/beverage
+    label: مشروب إنتاج الغذاء مشروب
+    group: إنتاج منتجات الحبوب
+    deploy: true
+                  
+  - title: منتج النبض
+    title2: إنتاج منتجات النبض
+    title_uniq: إنتاج-منتجات-النبض
+    default: cereal-product-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: من
+    alphabet_l3: منت
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/food-production/cereal-product
+    label: منتج الحبوب إنتاج الغذاء منتج الحبوب
+    group: إنتاج منتجات النبض
+    deploy: true
+                  
+  - title: منظمة
+    title2: منظمة
+    title_uniq: منظمة
+    default: delegation
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: من
+    alphabet_l3: منظ
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/administration/delegation
+    label: وفد الادارة يصف وفد
+    group: منظمة
+    deploy: false
+                  
+  - title: مهارات اللغة
+    title2: مهارات اللغة
+    title_uniq: مهارات-اللغة
+    default: motor-skills
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: مه
+    alphabet_l3: مها
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognition/motor-skills
+    label: مهارات قيادة معرفة يصف مهارات قيادة
+    group: مهارات اللغة
+    deploy: false
+                  
+  - title: مهارات قيادة
+    title2: مهارات قيادة
+    title_uniq: مهارات-قيادة
+    default: metacognition
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: مه
+    alphabet_l3: مها
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/cognition/metacognition
+    label: ما وراء المعرفة معرفة يصف ما وراء المعرفة
+    group: مهارات قيادة
+    deploy: false
+                  
+  - title: مهني
+    title2: المهارات المهنية
+    title_uniq: المهارات-المهنية
+    default: people-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: مه
+    alphabet_l3: مهن
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/administration/people-management
+    label: إدارة الناس الادارة يصف إدارة الناس
+    group: المهارات المهنية
+    deploy: false
+                  
+  - title: موز
+    title2: زراعة الموز
+    title_uniq: زراعة-الموز
+    default: goat-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: م
+    alphabet_l2: مو
+    alphabet_l3: موز
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/livestock/goat
+    label: ماعز الماشية الزراعة ماعز
+    group: زراعة الموز
+    deploy: false
+                  
+  - title: نبات الهليون
+    title2: زراعة الهليون
+    title_uniq: زراعة-الهليون
+    default: cinnamon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ن
+    alphabet_l2: نب
+    alphabet_l3: نبا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/spice-crop/cinnamon
+    label: قرفة سبايس كروب الزراعة قرفة
+    group: زراعة الهليون
+    deploy: false
+                  
+  - title: نبض المحاصيل
+    title2: زراعة المحاصيل النبضية
+    title_uniq: زراعة-المحاصيل-النبضية
+    default: peafowl-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ن
+    alphabet_l2: نب
+    alphabet_l3: نبض
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/poultry/peafowl
+    label: طاووس دواجن الزراعة طاووس
+    group: زراعة المحاصيل النبضية
+    deploy: false
+                  
+  - title: نزاهة
+    title2: نزاهة
+    title_uniq: نزاهة
+    default: work-ethic
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ن
+    alphabet_l2: نز
+    alphabet_l3: نزا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/work-ethic
+    label: أخلاقيات العمل يصف أخلاقيات العمل مسئولية تعاون تناسق الإنصاف نزاهة الانفتاح الإيجابية إنتاجية احترام
+    group: نزاهة
+    deploy: true
+                  
+  - title: نعامة
+    title2: زراعة النعام
+    title_uniq: زراعة-النعام
+    default: crustacean-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ن
+    alphabet_l2: نع
+    alphabet_l3: نعا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/crustacean
+    label: قشريات الزراعة قشريات سلطعون جراد البحر سرطان البحر روبيان جمبري
+    group: زراعة النعام
+    deploy: true
+                  
+  - title: نعناع
+    title2: زراعة النعناع
+    title_uniq: زراعة-النعناع
+    default: squash-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ن
+    alphabet_l2: نع
+    alphabet_l3: نعن
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/squash
+    label: قرع محصول الخضر الزراعة قرع
+    group: زراعة النعناع
+    deploy: false
+                  
+  - title: هادئة
+    title2: زراعة البطلينوس
+    title_uniq: زراعة-البطلينوس
+    default: apricot-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ه
+    alphabet_l2: ها
+    alphabet_l3: هاد
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/apricot
+    label: مشمش محصول الفاكهة الزراعة مشمش
+    group: زراعة البطلينوس
+    deploy: false
+                  
+  - title: هيل
+    title2: زراعة الهيل
+    title_uniq: زراعة-الهيل
+    default: carrot-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ه
+    alphabet_l2: هي
+    alphabet_l3: هيل
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/carrot
+    label: جزرة محصول الخضر الزراعة جزرة
+    group: زراعة الهيل
+    deploy: false
+                  
+  - title: وفد
+    title2: وفد
+    title_uniq: وفد
+    default: mentoring
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: و
+    alphabet_l2: وف
+    alphabet_l3: وفد
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/administration/mentoring
+    label: التوجيه الادارة يصف التوجيه
+    group: وفد
+    deploy: false
+                  
+  - title: يانسون
+    title2: زراعة اليانسون
+    title_uniq: زراعة-اليانسون
+    default: broccoli-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ي
+    alphabet_l2: يا
+    alphabet_l3: يان
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/vegetable-crop/broccoli
+    label: بروكلي محصول الخضر الزراعة بروكلي
+    group: زراعة اليانسون
+    deploy: false
+                  
+  - title: يراقب
+    title2: يراقب
+    title_uniq: يراقب
+    default: organization
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ي
+    alphabet_l2: ير
+    alphabet_l3: يرا
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/administration/organization
+    label: منظمة الادارة يصف منظمة
+    group: يراقب
+    deploy: false
+                  
+  - title: يشكر
+    title2: يشكر
+    title_uniq: يشكر
+    default: gratitude
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ي
+    alphabet_l2: يش
+    alphabet_l3: يشك
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/attribute/moral-ethic/gratitude
+    label: يشكر الأخلاق الأخلاقية يصف يشكر
+    group: يشكر
+    deploy: false
+                  
+  - title: يقطين
+    title2: زراعة القرع
+    title_uniq: زراعة-القرع
+    default: chestnut-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ي
+    alphabet_l2: يق
+    alphabet_l3: يقط
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/tree-nut-crop/chestnut
+    label: كستناء شجرة الجوز المحاصيل الزراعة كستناء
+    group: زراعة القرع
+    deploy: false
+                  
+  - title: يوسفي
+    title2: زراعة اليوسفي
+    title_uniq: زراعة-اليوسفي
+    default: safflower-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ي
+    alphabet_l2: يو
+    alphabet_l3: يوس
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/oilcrop/safflower
+    label: القرطم أويلكروب الزراعة القرطم
+    group: زراعة اليوسفي
+    deploy: false
+                  
+  - title: يوسفي
+    title2: زراعة اليوسفي
+    title_uniq: زراعة-اليوسفي
+    default: persimmon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: ي
+    alphabet_l2: يو
+    alphabet_l3: يوس
+    sub_title: وصف مختصر
+    excerpt: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+    url: /ar/resources/farming/fruit-crop/persimmon
+    label: البرسيمون محصول الفاكهة الزراعة البرسيمون
+    group: زراعة اليوسفي
+    deploy: false
+                  

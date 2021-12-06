@@ -1,0 +1,11 @@
+<script>
+  window.onload = function(){
+    var clearTextButton = document.getElementById('clear-text-button');
+    var searchBarInput = document.getElementById('search-bar-input');
+    document.onclick = function(e){
+      if(e.target.id !== 'search-bar-input'){
+        clearTextButton.style.display = 'none';
+      }
+    };
+  };
+</script>

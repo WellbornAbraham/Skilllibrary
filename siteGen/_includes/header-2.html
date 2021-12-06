@@ -1,0 +1,64 @@
+			<div id="header-2">
+                <div class="header-title-wrapper">
+                  <div class="header-pre-title">
+                    <h4 class="header-pre-title-content"> {{ site.pre_title[ page.lang ] }}</h4>
+                  </div>
+                    <div class="header-title-container">
+                      <div class="header-title-description">{{ site.pre_title[ page.lang ] }}</div>
+                      <h1 class="header-title"><a href="/{{ page.lang }}/">{{ site.title[ page.lang ] }}</a></h1>
+                      <div class="header-title-bottom-border"></div>
+                    </div>
+                </div>
+                <div id="header-mobile-menu-icon" class="header-mobile-menu-icon">
+                  <a href="javascript:void(0);" onclick="headerMobileMenu()">
+                    <svg id="header-mobile-menu-icon-open" class="icon icon-menu header-mobile-menu-icon-open"><use xlink:href="#icon-menu"></use></svg>
+                    <svg id="header-mobile-menu-icon-close" class="icon icon-close header-mobile-menu-icon-close"><use xlink:href="#icon-close"></use></svg>
+                  </a>
+                </div>
+                <div id="header-mobile-search-icon" class="header-mobile-search-icon"{% if page.layout == "search" %} style="display: none; visibility: hidden;"{% endif %}>
+                  <a href="javascript:void(0);" onclick="headerMobileSearch()">
+                    <svg id="header-mobile-search-icon-open" class="icon icon-search header-mobile-search-icon-open"><use xlink:href="#icon-search"></use></svg>
+                    <svg id="header-mobile-search-icon-close" class="icon icon-close header-mobile-search-icon-close"><use xlink:href="#icon-close"></use></svg>
+                  </a>
+                </div>
+                <div id="header-search-wrapper">
+                  <div class="header-search-bar">
+                    <form action="/{{ page.lang }}/search" method="get" id="header-search-bar-form" autocomplete="off">
+                      <input type="text" name="query" id="search-bar-input" placeholder="{{ site.data.word_translate.search[ page.lang ] }} {{ site.title[ page.lang ] }}" onkeyup="displayClearTextButton()">
+                      <a><svg class="icon icon-close" id="clear-text-button" onclick="clearText()"><use xlink:href="#icon-close"></use></svg></a>
+                      <script>
+                        function displayClearTextButton() {
+                          var inputText = document.getElementById("search-bar-input").value;
+                          if (inputText.length >= 0) {
+                            document.getElementById("clear-text-button").style.display = "block";
+                          }
+                        }
+                        function clearText() {
+                          document.getElementById("search-bar-input").value = "";
+                        }
+                      </script>
+                      <button type="submit" id="header-search-bar-button"><svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg></button>
+                      <input type="radio" name="type" id="search-filter-type-directory" class="search-type" value="directory" checked="true" style="display: none; visibility: hidden;">
+                      <input type="radio" name="cg" id="search-filter-category-all" class="search-category-button" value="all" checked="true" onchange="disableCategory()" style="display: none; visibility: hidden;">
+                      <div id="search-suggestion-container" class="header-search-bar-results-container"></div>
+                    </form>
+                  </div>
+                </div>
+                <div class="header-navigation-bar">
+                    <div class="header-navigation-link">
+                        <li class="header-navigation-link-list"><a href="/{{ page.lang }}/">{{ site.data.word_translate.home[ page.lang ] }}</a></li>
+                        <li class="header-navigation-link-list"><a href="/{{ page.lang }}/resources/">{{ site.data.word_translate.resources[ page.lang ] }}</a></li>
+                        <li class="header-navigation-link-list"><a href="/{{ page.lang }}/catalogue/">{{ site.data.word_translate.catalogue[ page.lang ] }}</a></li>
+                    </div>
+                </div>
+                <div class="header-mobile-navigation-bar">
+                    <div id="header-mobile-menu" class="header-mobile-navigation-link">
+                      <div class="header-mobile-navigation-link-container">
+                        <a href="/{{ page.lang }}/">{{ site.data.word_translate.home[ page.lang ] }}</a></li>
+                        <a href="/{{ page.lang }}/resources/">{{ site.data.word_translate.resources[ page.lang ] }}</a></li>
+                        <a href="/{{ page.lang }}/catalogue/">{{ site.data.word_translate.catalogue[ page.lang ] }}</a></li>
+                      </div>
+                    </div>
+                </div>
+            </div>
+        <div id="inner-wrapper">

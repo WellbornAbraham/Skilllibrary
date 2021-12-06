@@ -1,0 +1,1640 @@
+title:
+  attribute-skills: الأخلاق الأخلاقية
+  moral-ethic: أمانة
+  courage: الصبر
+  gratitude: يشكر
+  honesty: العطف
+  humility: شجاعة
+  kindness: اعتدال
+  patience: التواضع
+  serenity: راحة نفسية
+  temperance: أخلاقيات العمل
+  work-ethic: نزاهة
+  accountability: احترام
+  co-operation: تعاون
+  consistency: تناسق
+  fairness: الإيجابية
+  integrity: مسئولية
+  openness: الإنصاف
+  positivity: إنتاجية
+  productivity: الانفتاح
+  respect: الإدارة الذاتية
+  self-management: احترام الذات
+  personal-change-management: الثقة بالنفس
+  resilence: الكفاءة الذاتية
+  self-confidence: تقرير المصير
+  self-control: الانضباط الذاتي
+  self-determination: الدافع الذاتي
+  self-discipline: السيطرة على النفس
+  self-efficacy: الصمود
+  self-esteem: إدارة الوقت
+  self-motivation: ادارة الاجهاد
+  stress-management: إدارة التغيير الشخصي
+  time-management: معرفة
+  cognition: انتباه
+  attention: تصور
+  executive-functions: ذاكرة
+  language-skills: الوظائف التنفيذية
+  memory: سرعة المعالجة
+  metacognition: مهارات قيادة
+  motor-skills: مهارات اللغة
+  perception: ما وراء المعرفة
+  processing-speed: الكفاءة المعرفية
+  cognitive-aptitude: القدرة على التعلم
+  ability-to-learn: القدرة على التنظيم
+  ability-to-organize: القدرة على التخطيط
+  ability-to-plan: حل المشاكل
+  creativity: صناعة القرار
+  critical-thinking: التفكير النقدي
+  decision-making: التفكير الاستراتيجي
+  intuition: حدس
+  problem-solving: إبداع
+  strategic-thinking: إدارة العاطفة
+  emotion-management: السيطرة على الغضب
+  anger-management: إدارة القلق
+  anxiety-management: إدارة الخوف
+  despair-management: إدارة السعادة
+  envy-management: إدارة الحزن
+  fear-management: إدارة الكراهية
+  guilt-management: إدارة الحب
+  happiness-management: إدارة العار
+  hatred-management: إدارة الندم
+  hope-management: إدارة الأمل
+  loneliness-management: إدارة الذنب
+  love-management: إدارة اليأس
+  pride-management: إدارة الوحدة
+  regret-management: إدارة الحسد
+  sadness-management: إدارة الكبرياء
+  shame-management: الترابط الاجتماعي
+  social-interrelation: التواصل اللفظي
+  active-listening: التواصل غير اللفظي
+  conflict-management: التواصل الكتابي
+  negotiation: الاستماع الفعال
+  non-verbal-communication: التواصل البصري
+  social-awareness: العمل بروح الفريق الواحد
+  teamwork: تفاوض
+  verbal-communication: الوعي الاجتماعي
+  visual-communication: فض النزاعات
+  written-communication: الادارة
+  administration: إدارة
+  delegation: منظمة
+  leadership: قيادة
+  management: إدارة الناس
+  mentoring: وفد
+  monitoring: تحفيز
+  motivating: التوجيه
+  organization: يراقب
+  people-management: مهني
+  farming: الزراعة
+  cereal-crop-farming: الماشية
+  barley-farming: الألبكة
+  buckwheat-farming: الجاموس
+  canary-seed-farming: جمل
+  fonio-farming: ماشية
+  maize-farming: حمار
+  millet-farming: ماعز
+  oat-farming: حصان
+  quinoa-farming: اللاما
+  rice-farming: ثور
+  rye-farming: شخص شره
+  sorghum-farming: أرنب
+  triticale-farming: الرنة
+  wheat-farming: خروف
+  citrus-fruit-farming: جاموس الماء
+  clementine-farming: الياك
+  grapefruit-farming: دواجن
+  lemon-farming: فرخة
+  lime-farming: بطة
+  mandarin-farming: الاتحاد الاقتصادي والنقدي
+  orange-farming: فرانكولين
+  satsumas-farming: بجعة
+  tangerine-farming: طير غينيا
+  crustacean-farming: نعامة
+  crab-farming: الحجل
+  crayfish-farming: طاووس
+  lobster-farming: التدرج
+  prawn-farming: حمامة
+  shrimp-farming: طائر السمان
+  fibre-crop-farming: بجعة
+  agave-farming: سويفت
+  bast-farming: تينامو
+  flax-farming: ديك رومى
+  hemp-farming: سمكة
+  jute-farming: الكارب
+  kapok-farming: سمك السلور
+  manila-farming: الانقليس
+  ramie-farming: البوري
+  seed-cotton-farming: جثم
+  sisal-farming: سمك السالمون
+  fish-farming: الدنيس
+  carp-farming: سمك الحفش
+  catfish-farming: البلطي
+  eel-farming: سمك السلمون المرقط
+  mullet-farming: قشريات
+  perch-farming: سلطعون
+  salmon-farming: جراد البحر
+  seabream-farming: سرطان البحر
+  sturgeon-farming: روبيان
+  tilapia-farming: جمبري
+  trout-farming: الرخويات
+  fruit-crop-farming: أذن البحر
+  apple-farming: فلك
+  apricot-farming: هادئة
+  avocado-farming: بلح البحر
+  banana-farming: محار
+  blueberry-farming: إكليل
+  carob-farming: صدفة
+  cashewapple-farming: محصول الحبوب
+  cherry-farming: شعير
+  clementine-farming: الحنطة السوداء
+  cranberry-farming: بذور الكناري
+  currant-farming: فونيو
+  date-farming: الذرة
+  fig-farming: الدخن
+  gooseberry-farming: شعر بالتعب
+  grape-farming: الكينوا
+  grapefruit-farming: أرز
+  guava-farming: الذرة
+  kiwi-farming: الذرة الرفيعة
+  lemon-farming: Triticale
+  lime-farming: قمح
+  mandarin-farming: فاكهة حمضية
+  mango-farming: كليمنتين
+  mangosteen-farming: جريب فروت
+  nectarine-farming: ليمون
+  orange-farming: جير
+  papaya-farming: الماندرين
+  peach-farming: البرتقالي
+  pear-farming: ساتسوما
+  persimmon-farming: يوسفي
+  pineapple-farming: الألياف المحاصيل
+  plantain-farming: الأغاف
+  plum-and-sole-farming: باست
+  quince-farming: الكتان
+  raspberry-farming: عيدان
+  satsumas-farming: الجوت
+  strawberry-farming: كابوك
+  tangerine-farming: مانيلا
+  watermelon-farming: رامي
+  livestock-farming: بذور القطن
+  alpaca-farming: سيزال
+  buffalo-farming: محصول الفاكهة
+  camel-farming: تفاح
+  cattle-farming: مشمش
+  donkey-farming: أفوكادو
+  goat-farming: موز
+  horse-farming: توت
+  llama-farming: الخروب
+  ox-farming: كاجو أبل
+  pig-farming: الكرز
+  rabbit-farming: كليمنتين
+  reindeer-farming: كرز
+  sheep-farming: زبيب
+  water-buffalo-farming: تاريخ
+  yak-farming: تين
+  molluscs-farming: عنب الثعلب
+  abalone-farming: عنب
+  ark-farming: جريب فروت
+  clam-farming: جوافة
+  mussel-farming: كيوي
+  oyster-farming: ليمون
+  scallop-farming: جير
+  shell-farming: الماندرين
+  oilcrop-farming: مانجو
+  castor-farming: مانغوستين
+  coconut-farming: زليقة
+  flax-farming: البرتقالي
+  groundnut-farming: بابايا
+  hemp-farming: خوخ
+  jojoba-farming: كمثرى
+  kapok-farming: البرسيمون
+  karite-farming: أناناس
+  melon-farming: لسان الحمل
+  mustard-farming: بلوم ونعل
+  oil-palm-farming: سفرجل
+  olive-farming: توت العليق
+  poppy-farming: ساتسوما
+  rape-farming: الفراولة
+  safflower-farming: يوسفي
+  seed-cotton-farming: بطيخ
+  sesame-farming: أويلكروب
+  soybean-farming: كاستور
+  sunflower-farming: جوزة الهند
+  tung-farming: الكتان
+  other-crops-farming: فستق
+  citronella-farming: عيدان
+  gum-farming: الجوجوبا
+  hop-farming: كابوك
+  mint-farming: كاريت
+  pyrethrum-farming: شمام
+  tobacco-farming: خردل
+  wax-farming: زيت النخيل
+  poultry-farming: زيتون
+  chicken-farming: شقائق النعمان
+  duck-farming: اغتصاب
+  emu-farming: القرطم
+  francolin-farming: بذور القطن
+  goose-farming: سمسم
+  guinea-fowl-farming: فول الصويا
+  ostrich-farming: دوار الشمس
+  partridge-farming: تونغ
+  peafowl-farming: نبض المحاصيل
+  pheasant-farming: فاصوليا
+  pigeon-farming: عدس
+  quail-farming: الترمس
+  swan-farming: البازلاء
+  swiftlet-farming: البيقية
+  tinamou-farming: الجذر والدرنات المحاصيل
+  turkey-farming: الكسافا
+  pulse-crop-farming: كوكويام
+  bean-farming: البطاطس
+  lentil-farming: بطاطا
+  lupin-farming: محصول السكر
+  pea-farming: شمندر سكري
+  vetch-farming: قصب السكر
+  root-and-tuber-crop-farming: شجرة الجوز المحاصيل
+  cassava-farming: لوز
+  cocoyam-farming: البرازيل
+  potato-farming: كاجو
+  yam-farming: كستناء
+  spice-crop-farming: بندق
+  anise-farming: فستق
+  badian-farming: جوز
+  cardamon-farming: محصول الخضر
+  chilly-and-pepper-farming: خرشوف
+  cinnamon-farming: نبات الهليون
+  clove-farming: فاصوليا
+  fennel-farming: بروكلي
+  ginger-farming: كرنب
+  mace-farming: جزرة
+  nutmeg-farming: قرنبيط
+  pimento-farming: الهندباء
+  vanilla-farming: الفلفل الحار والفلفل
+  stimulant-crop-farming: خيار
+  bean-farming: الباذنجان
+  coffee-farming: ثوم
+  mate-farming: غيركين
+  tea-farming: القرع
+  sugar-crop-farming: شخص عادي
+  sugar-beet-farming: خس
+  sugar-cane-farming: الذرة
+  tree-nut-crop-farming: فطر
+  almond-farming: بامية
+  brazil-farming: بصلة
+  cashew-farming: البازلاء
+  chestnut-farming: يقطين
+  hazelnut-farming: القفلوط الكراث الأندلسي
+  pistachio-farming: سبانخ
+  walnut-farming: قرع
+  vegetable-crop-farming: طماطم
+  artichoke-farming: الكمأة
+  asparagus-farming: لفت نبات
+  bean-farming: سبايس كروب
+  broccoli-farming: يانسون
+  cabbage-farming: باديان
+  carrot-farming: هيل
+  cauliflower-farming: الفلفل الحار والفلفل
+  chicory-farming: قرفة
+  chilly-and-pepper-farming: القرنفل
+  cucumber-farming: الشمرة
+  eggplant-farming: زنجبيل
+  garlic-farming: صولجان
+  gherkin-farming: جوزة الطيب
+  gourd-farming: بيمنتو
+  leek-farming: فانيلا
+  lettuce-farming: منبه المحاصيل
+  maize-farming: فاصوليا
+  mushroom-farming: قهوة
+  okra-farming: رفيق
+  onion-farming: شاي
+  pea-farming: محاصيل أخرى
+  pumpkin-farming: السترونيلا
+  shallot-farming: صمغ
+  spinach-farming: قفزة
+  squash-farming: نعناع
+  tomato-farming: بيريثروم
+  truffle-farming: تبغ
+  turnip-farming: الشمع
+  food-production: إنتاج الغذاء
+  beverage-production: منتج الحبوب
+  cereal-product-production: منتج النبض
+  condiment-production: منتج الجوز
+  confection-production: مشروب
+  food-additive-production: بهار
+  nut-product-production: حلوى
+  pasta-and-noodle-production: المعكرونة والمعكرونة
+  pulse-product-production: المضافات الغذائية
+  craft: حرفة
+ 
+title2:
+  attribute-skills: الأخلاق الأخلاقية
+  moral-ethic: أمانة
+  courage: الصبر
+  gratitude: يشكر
+  honesty: العطف
+  humility: شجاعة
+  kindness: اعتدال
+  patience: التواضع
+  serenity: راحة نفسية
+  temperance: أخلاقيات العمل
+  work-ethic: نزاهة
+  accountability: احترام
+  co-operation: تعاون
+  consistency: تناسق
+  fairness: الإيجابية
+  integrity: مسئولية
+  openness: الإنصاف
+  positivity: إنتاجية
+  productivity: الانفتاح
+  respect: الإدارة الذاتية
+  self-management: احترام الذات
+  personal-change-management: الثقة بالنفس
+  resilence: الكفاءة الذاتية
+  self-confidence: تقرير المصير
+  self-control: الانضباط الذاتي
+  self-determination: الدافع الذاتي
+  self-discipline: السيطرة على النفس
+  self-efficacy: الصمود
+  self-esteem: إدارة الوقت
+  self-motivation: ادارة الاجهاد
+  stress-management: إدارة التغيير الشخصي
+  time-management: معرفة
+  cognition: انتباه
+  attention: تصور
+  executive-functions: ذاكرة
+  language-skills: الوظائف التنفيذية
+  memory: سرعة المعالجة
+  metacognition: مهارات قيادة
+  motor-skills: مهارات اللغة
+  perception: ما وراء المعرفة
+  processing-speed: الكفاءة المعرفية
+  cognitive-aptitude: القدرة على التعلم
+  ability-to-learn: القدرة على التنظيم
+  ability-to-organize: القدرة على التخطيط
+  ability-to-plan: حل المشاكل
+  creativity: صناعة القرار
+  critical-thinking: التفكير النقدي
+  decision-making: التفكير الاستراتيجي
+  intuition: حدس
+  problem-solving: إبداع
+  strategic-thinking: إدارة العاطفة
+  emotion-management: السيطرة على الغضب
+  anger-management: إدارة القلق
+  anxiety-management: إدارة الخوف
+  despair-management: إدارة السعادة
+  envy-management: إدارة الحزن
+  fear-management: إدارة الكراهية
+  guilt-management: إدارة الحب
+  happiness-management: إدارة العار
+  hatred-management: إدارة الندم
+  hope-management: إدارة الأمل
+  loneliness-management: إدارة الذنب
+  love-management: إدارة اليأس
+  pride-management: إدارة الوحدة
+  regret-management: إدارة الحسد
+  sadness-management: إدارة الكبرياء
+  shame-management: الترابط الاجتماعي
+  social-interrelation: التواصل اللفظي
+  active-listening: التواصل غير اللفظي
+  conflict-management: التواصل الكتابي
+  negotiation: الاستماع الفعال
+  non-verbal-communication: التواصل البصري
+  social-awareness: العمل بروح الفريق الواحد
+  teamwork: تفاوض
+  verbal-communication: الوعي الاجتماعي
+  visual-communication: فض النزاعات
+  written-communication: الادارة
+  administration: إدارة
+  delegation: منظمة
+  leadership: قيادة
+  management: إدارة الناس
+  mentoring: وفد
+  monitoring: تحفيز
+  motivating: التوجيه
+  organization: يراقب
+  people-management: المهارات المهنية
+  farming: الزراعة
+  cereal-crop-farming: تربية الماشية
+  barley-farming: زراعة الألبكة
+  buckwheat-farming: زراعة الجاموس
+  canary-seed-farming: تربية الجمال
+  fonio-farming: مزرعة ماشية
+  maize-farming: تربية الحمير
+  millet-farming: تربية الماعز
+  oat-farming: تربية الخيول
+  quinoa-farming: زراعة اللاما
+  rice-farming: تربية الثور
+  rye-farming: تربية الخنازير
+  sorghum-farming: تربية الأرانب
+  triticale-farming: زراعة الرنة
+  wheat-farming: تربية الاغنام
+  citrus-fruit-farming: زراعة جاموس الماء
+  clementine-farming: زراعة الياك
+  grapefruit-farming: تربية الدواجن
+  lemon-farming: تربية الدجاج
+  lime-farming: تربية البط
+  mandarin-farming: Emu Farming
+  orange-farming: فرانكولين فارمينج
+  satsumas-farming: زراعة الاوز
+  tangerine-farming: زراعة دجاج غينيا
+  crustacean-farming: زراعة النعام
+  crab-farming: زراعة الحجل
+  crayfish-farming: زراعة الطاووس
+  lobster-farming: زراعة الدراج
+  prawn-farming: تربية الحمام
+  shrimp-farming: زراعة السمان
+  fibre-crop-farming: زراعة البجع
+  agave-farming: Swiftlet Farming
+  bast-farming: زراعة تينامو
+  flax-farming: زراعة تركيا
+  hemp-farming: تربية الأسماك
+  jute-farming: استزراع الكارب
+  kapok-farming: استزراع سمك السلور
+  manila-farming: زراعة ثعبان البحر
+  ramie-farming: زراعة البوري
+  seed-cotton-farming: زراعة الفرخ
+  sisal-farming: زراعة السلمون
+  fish-farming: استزراع الدنيس
+  carp-farming: زراعة سمك الحفش
+  catfish-farming: استزراع البلطي
+  eel-farming: زراعة التراوت
+  mullet-farming: زراعة القشريات
+  perch-farming: زراعة السلطعون
+  salmon-farming: زراعة جراد البحر
+  seabream-farming: زراعة الكركند
+  sturgeon-farming: تربية الجمبري
+  tilapia-farming: استزراع الجمبري
+  trout-farming: استزراع الرخويات
+  fruit-crop-farming: تربية أبالون
+  apple-farming: ارك فارمينج
+  apricot-farming: زراعة البطلينوس
+  avocado-farming: زراعة بلح البحر
+  banana-farming: زراعة المحار
+  blueberry-farming: زراعة الإسكالوب
+  carob-farming: الزراعة الصدفية
+  cashewapple-farming: زراعة محاصيل الحبوب
+  cherry-farming: زراعة الشعير
+  clementine-farming: زراعة الحنطة السوداء
+  cranberry-farming: زراعة بذور الكناري
+  currant-farming: فونيو فارمينغ
+  date-farming: زراعة الذرة
+  fig-farming: زراعة الدخن
+  gooseberry-farming: زراعة الشوفان
+  grape-farming: زراعة الكينوا
+  grapefruit-farming: زراعة الأرز
+  guava-farming: زراعة الجاودار
+  kiwi-farming: زراعة الذرة الرفيعة
+  lemon-farming: الزراعة Triticale
+  lime-farming: زراعة القمح
+  mandarin-farming: زراعة الحمضيات
+  mango-farming: زراعة كليمنتين
+  mangosteen-farming: زراعة الجريب فروت
+  nectarine-farming: زراعة الليمون
+  orange-farming: زراعة الجير
+  papaya-farming: زراعة الماندرين
+  peach-farming: زراعة البرتقال
+  pear-farming: زراعة ساتسوماس
+  persimmon-farming: زراعة اليوسفي
+  pineapple-farming: زراعة المحاصيل الليفية
+  plantain-farming: زراعة الأغاف
+  plum-and-sole-farming: زراعة اللحاء
+  quince-farming: زراعة الكتان
+  raspberry-farming: زراعة القنب
+  satsumas-farming: زراعة الجوت
+  strawberry-farming: زراعة الكابوك
+  tangerine-farming: الزراعة في مانيلا
+  watermelon-farming: رامي فارمينغ
+  livestock-farming: زراعة بذور القطن
+  alpaca-farming: زراعة السيزال
+  buffalo-farming: زراعة محاصيل الفاكهة
+  camel-farming: زراعة التفاح
+  cattle-farming: زراعة المشمش
+  donkey-farming: زراعة الأفوكادو
+  goat-farming: زراعة الموز
+  horse-farming: زراعة التوت الأزرق
+  llama-farming: زراعة الخروب
+  ox-farming: زراعة الكاجو
+  pig-farming: زراعة الكرز
+  rabbit-farming: زراعة كليمنتين
+  reindeer-farming: زراعة التوت البري
+  sheep-farming: زراعة الكشمش
+  water-buffalo-farming: زراعة التمور
+  yak-farming: زراعة التين
+  molluscs-farming: زراعة عنب الثعلب
+  abalone-farming: زراعة العنب
+  ark-farming: زراعة الجريب فروت
+  clam-farming: زراعة الجوافة
+  mussel-farming: زراعة الكيوي
+  oyster-farming: زراعة الليمون
+  scallop-farming: زراعة الجير
+  shell-farming: زراعة الماندرين
+  oilcrop-farming: زراعة المانجو
+  castor-farming: زراعة مانغوستين
+  coconut-farming: زراعة النكتارين
+  flax-farming: زراعة البرتقال
+  groundnut-farming: زراعة البابايا
+  hemp-farming: زراعة الخوخ
+  jojoba-farming: زراعة الكمثرى
+  kapok-farming: زراعة البرسيمون
+  karite-farming: زراعة الأناناس
+  melon-farming: زراعة لسان الحمل
+  mustard-farming: زراعة البرقوق والوحيد
+  oil-palm-farming: سفرجل الزراعة
+  olive-farming: زراعة التوت
+  poppy-farming: زراعة ساتسوماس
+  rape-farming: زراعة الفراولة
+  safflower-farming: زراعة اليوسفي
+  seed-cotton-farming: زراعة البطيخ
+  sesame-farming: زراعة المحاصيل الزيتية
+  soybean-farming: زراعة الخروع
+  sunflower-farming: زراعة جوز الهند
+  tung-farming: زراعة الكتان
+  other-crops-farming: زراعة الفول السوداني
+  citronella-farming: زراعة القنب
+  gum-farming: زراعة الجوجوبا
+  hop-farming: زراعة الكابوك
+  mint-farming: الزراعة الكاريتية
+  pyrethrum-farming: زراعة البطيخ
+  tobacco-farming: زراعة الخردل
+  wax-farming: زراعة نخيل الزيت
+  poultry-farming: زراعة الزيتون
+  chicken-farming: زراعة الخشخاش
+  duck-farming: زراعة الاغتصاب
+  emu-farming: زراعة القرطم
+  francolin-farming: زراعة بذور القطن
+  goose-farming: زراعة السمسم
+  guinea-fowl-farming: زراعة فول الصويا
+  ostrich-farming: زراعة عباد الشمس
+  partridge-farming: تونغ فارمينغ
+  peafowl-farming: زراعة المحاصيل النبضية
+  pheasant-farming: زراعة الفول
+  pigeon-farming: زراعة العدس
+  quail-farming: زراعة الترمس
+  swan-farming: زراعة البازلاء
+  swiftlet-farming: زراعة البيقية
+  tinamou-farming: زراعة المحاصيل الجذرية والدرنات
+  turkey-farming: زراعة الكسافا
+  pulse-crop-farming: زراعة Cocoyam
+  bean-farming: زراعة البطاطا
+  lentil-farming: مزرعة يام
+  lupin-farming: زراعة محاصيل السكر
+  pea-farming: زراعة بنجر السكر
+  vetch-farming: زراعة قصب السكر
+  root-and-tuber-crop-farming: زراعة شجرة الجوز والمحاصيل
+  cassava-farming: زراعة اللوز
+  cocoyam-farming: الزراعة البرازيلية
+  potato-farming: زراعة الكاجو
+  yam-farming: زراعة الكستناء
+  spice-crop-farming: زراعة البندق
+  anise-farming: زراعة الفستق
+  badian-farming: زراعة الجوز
+  cardamon-farming: زراعة محاصيل الخضر
+  chilly-and-pepper-farming: زراعة الخرشوف
+  cinnamon-farming: زراعة الهليون
+  clove-farming: زراعة الفول
+  fennel-farming: زراعة البروكلي
+  ginger-farming: زراعة الكرنب
+  mace-farming: زراعة الجزر
+  nutmeg-farming: زراعة القرنبيط
+  pimento-farming: الهندباء الزراعة
+  vanilla-farming: زراعة الفلفل والفلفل الحار
+  stimulant-crop-farming: زراعة الخيار
+  bean-farming: زراعة الباذنجان
+  coffee-farming: زراعة الثوم
+  mate-farming: زراعة غيركين
+  tea-farming: زراعة القرع
+  sugar-crop-farming: زراعة الكراث
+  sugar-beet-farming: زراعة الخس
+  sugar-cane-farming: زراعة الذرة
+  tree-nut-crop-farming: زراعة الفطر
+  almond-farming: زراعة البامية
+  brazil-farming: زراعة البصل
+  cashew-farming: زراعة البازلاء
+  chestnut-farming: زراعة القرع
+  hazelnut-farming: زراعة الكراث
+  pistachio-farming: زراعة السبانخ
+  walnut-farming: زراعة الاسكواش
+  vegetable-crop-farming: زراعة الطماطم
+  artichoke-farming: زراعة الكمأة
+  asparagus-farming: زراعة اللفت
+  bean-farming: زراعة محاصيل التوابل
+  broccoli-farming: زراعة اليانسون
+  cabbage-farming: مزارع باديان
+  carrot-farming: زراعة الهيل
+  cauliflower-farming: زراعة الفلفل والفلفل الحار
+  chicory-farming: زراعة القرفة
+  chilly-and-pepper-farming: زراعة القرنفل
+  cucumber-farming: زراعة الشمر
+  eggplant-farming: زراعة الزنجبيل
+  garlic-farming: زراعة الصولجان
+  gherkin-farming: زراعة جوزة الطيب
+  gourd-farming: زراعة الفلفل
+  leek-farming: زراعة الفانيليا
+  lettuce-farming: زراعة المحاصيل المنشطة
+  maize-farming: زراعة الفول
+  mushroom-farming: زراعة البن
+  okra-farming: زراعة ماتي
+  onion-farming: زراعة الشاي
+  pea-farming: زراعة المحاصيل الأخرى
+  pumpkin-farming: زراعة السترونيلا
+  shallot-farming: زراعة اللثة
+  spinach-farming: زراعة القفزات
+  squash-farming: زراعة النعناع
+  tomato-farming: زراعة بيريثروم
+  truffle-farming: زراعة التبغ
+  turnip-farming: زراعة الشمع
+  food-production: إنتاج الغذاء
+  beverage-production: إنتاج منتجات الحبوب
+  cereal-product-production: إنتاج منتجات النبض
+  condiment-production: إنتاج منتجات الجوز
+  confection-production: إنتاج المشروبات
+  food-additive-production: إنتاج البهارات
+  nut-product-production: إنتاج الحلويات
+  pasta-and-noodle-production: إنتاج المعكرونة والمعكرونة
+  pulse-product-production: إنتاج المضافات الغذائية
+  craft: حرفة
+ 
+sub_title:
+  attribute-skills: وصف مختصر
+  moral-ethic: وصف مختصر
+  courage: وصف مختصر
+  gratitude: وصف مختصر
+  honesty: وصف مختصر
+  humility: وصف مختصر
+  kindness: وصف مختصر
+  patience: وصف مختصر
+  serenity: وصف مختصر
+  temperance: وصف مختصر
+  work-ethic: وصف مختصر
+  accountability: وصف مختصر
+  co-operation: وصف مختصر
+  consistency: وصف مختصر
+  fairness: وصف مختصر
+  integrity: وصف مختصر
+  openness: وصف مختصر
+  positivity: وصف مختصر
+  productivity: وصف مختصر
+  respect: وصف مختصر
+  self-management: وصف مختصر
+  personal-change-management: وصف مختصر
+  resilence: وصف مختصر
+  self-confidence: وصف مختصر
+  self-control: وصف مختصر
+  self-determination: وصف مختصر
+  self-discipline: وصف مختصر
+  self-efficacy: وصف مختصر
+  self-esteem: وصف مختصر
+  self-motivation: وصف مختصر
+  stress-management: وصف مختصر
+  time-management: وصف مختصر
+  cognition: وصف مختصر
+  attention: وصف مختصر
+  executive-functions: وصف مختصر
+  language-skills: وصف مختصر
+  memory: وصف مختصر
+  metacognition: وصف مختصر
+  motor-skills: وصف مختصر
+  perception: وصف مختصر
+  processing-speed: وصف مختصر
+  cognitive-aptitude: وصف مختصر
+  ability-to-learn: وصف مختصر
+  ability-to-organize: وصف مختصر
+  ability-to-plan: وصف مختصر
+  creativity: وصف مختصر
+  critical-thinking: وصف مختصر
+  decision-making: وصف مختصر
+  intuition: وصف مختصر
+  problem-solving: وصف مختصر
+  strategic-thinking: وصف مختصر
+  emotion-management: وصف مختصر
+  anger-management: وصف مختصر
+  anxiety-management: وصف مختصر
+  despair-management: وصف مختصر
+  envy-management: وصف مختصر
+  fear-management: وصف مختصر
+  guilt-management: وصف مختصر
+  happiness-management: وصف مختصر
+  hatred-management: وصف مختصر
+  hope-management: وصف مختصر
+  loneliness-management: وصف مختصر
+  love-management: وصف مختصر
+  pride-management: وصف مختصر
+  regret-management: وصف مختصر
+  sadness-management: وصف مختصر
+  shame-management: وصف مختصر
+  social-interrelation: وصف مختصر
+  active-listening: وصف مختصر
+  conflict-management: وصف مختصر
+  negotiation: وصف مختصر
+  non-verbal-communication: وصف مختصر
+  social-awareness: وصف مختصر
+  teamwork: وصف مختصر
+  verbal-communication: وصف مختصر
+  visual-communication: وصف مختصر
+  written-communication: وصف مختصر
+  administration: وصف مختصر
+  delegation: وصف مختصر
+  leadership: وصف مختصر
+  management: وصف مختصر
+  mentoring: وصف مختصر
+  monitoring: وصف مختصر
+  motivating: وصف مختصر
+  organization: وصف مختصر
+  people-management: وصف مختصر
+  farming: وصف مختصر
+  cereal-crop-farming: وصف مختصر
+  barley-farming: وصف مختصر
+  buckwheat-farming: وصف مختصر
+  canary-seed-farming: وصف مختصر
+  fonio-farming: وصف مختصر
+  maize-farming: وصف مختصر
+  millet-farming: وصف مختصر
+  oat-farming: وصف مختصر
+  quinoa-farming: وصف مختصر
+  rice-farming: وصف مختصر
+  rye-farming: وصف مختصر
+  sorghum-farming: وصف مختصر
+  triticale-farming: وصف مختصر
+  wheat-farming: وصف مختصر
+  citrus-fruit-farming: وصف مختصر
+  clementine-farming: وصف مختصر
+  grapefruit-farming: وصف مختصر
+  lemon-farming: وصف مختصر
+  lime-farming: وصف مختصر
+  mandarin-farming: وصف مختصر
+  orange-farming: وصف مختصر
+  satsumas-farming: وصف مختصر
+  tangerine-farming: وصف مختصر
+  crustacean-farming: وصف مختصر
+  crab-farming: وصف مختصر
+  crayfish-farming: وصف مختصر
+  lobster-farming: وصف مختصر
+  prawn-farming: وصف مختصر
+  shrimp-farming: وصف مختصر
+  fibre-crop-farming: وصف مختصر
+  agave-farming: وصف مختصر
+  bast-farming: وصف مختصر
+  flax-farming: وصف مختصر
+  hemp-farming: وصف مختصر
+  jute-farming: وصف مختصر
+  kapok-farming: وصف مختصر
+  manila-farming: وصف مختصر
+  ramie-farming: وصف مختصر
+  seed-cotton-farming: وصف مختصر
+  sisal-farming: وصف مختصر
+  fish-farming: وصف مختصر
+  carp-farming: وصف مختصر
+  catfish-farming: وصف مختصر
+  eel-farming: وصف مختصر
+  mullet-farming: وصف مختصر
+  perch-farming: وصف مختصر
+  salmon-farming: وصف مختصر
+  seabream-farming: وصف مختصر
+  sturgeon-farming: وصف مختصر
+  tilapia-farming: وصف مختصر
+  trout-farming: وصف مختصر
+  fruit-crop-farming: وصف مختصر
+  apple-farming: وصف مختصر
+  apricot-farming: وصف مختصر
+  avocado-farming: وصف مختصر
+  banana-farming: وصف مختصر
+  blueberry-farming: وصف مختصر
+  carob-farming: وصف مختصر
+  cashewapple-farming: وصف مختصر
+  cherry-farming: وصف مختصر
+  clementine-farming: وصف مختصر
+  cranberry-farming: وصف مختصر
+  currant-farming: وصف مختصر
+  date-farming: وصف مختصر
+  fig-farming: وصف مختصر
+  gooseberry-farming: وصف مختصر
+  grape-farming: وصف مختصر
+  grapefruit-farming: وصف مختصر
+  guava-farming: وصف مختصر
+  kiwi-farming: وصف مختصر
+  lemon-farming: وصف مختصر
+  lime-farming: وصف مختصر
+  mandarin-farming: وصف مختصر
+  mango-farming: وصف مختصر
+  mangosteen-farming: وصف مختصر
+  nectarine-farming: وصف مختصر
+  orange-farming: وصف مختصر
+  papaya-farming: وصف مختصر
+  peach-farming: وصف مختصر
+  pear-farming: وصف مختصر
+  persimmon-farming: وصف مختصر
+  pineapple-farming: وصف مختصر
+  plantain-farming: وصف مختصر
+  plum-and-sole-farming: وصف مختصر
+  quince-farming: وصف مختصر
+  raspberry-farming: وصف مختصر
+  satsumas-farming: وصف مختصر
+  strawberry-farming: وصف مختصر
+  tangerine-farming: وصف مختصر
+  watermelon-farming: وصف مختصر
+  livestock-farming: وصف مختصر
+  alpaca-farming: وصف مختصر
+  buffalo-farming: وصف مختصر
+  camel-farming: وصف مختصر
+  cattle-farming: وصف مختصر
+  donkey-farming: وصف مختصر
+  goat-farming: وصف مختصر
+  horse-farming: وصف مختصر
+  llama-farming: وصف مختصر
+  ox-farming: وصف مختصر
+  pig-farming: وصف مختصر
+  rabbit-farming: وصف مختصر
+  reindeer-farming: وصف مختصر
+  sheep-farming: وصف مختصر
+  water-buffalo-farming: وصف مختصر
+  yak-farming: وصف مختصر
+  molluscs-farming: وصف مختصر
+  abalone-farming: وصف مختصر
+  ark-farming: وصف مختصر
+  clam-farming: وصف مختصر
+  mussel-farming: وصف مختصر
+  oyster-farming: وصف مختصر
+  scallop-farming: وصف مختصر
+  shell-farming: وصف مختصر
+  oilcrop-farming: وصف مختصر
+  castor-farming: وصف مختصر
+  coconut-farming: وصف مختصر
+  flax-farming: وصف مختصر
+  groundnut-farming: وصف مختصر
+  hemp-farming: وصف مختصر
+  jojoba-farming: وصف مختصر
+  kapok-farming: وصف مختصر
+  karite-farming: وصف مختصر
+  melon-farming: وصف مختصر
+  mustard-farming: وصف مختصر
+  oil-palm-farming: وصف مختصر
+  olive-farming: وصف مختصر
+  poppy-farming: وصف مختصر
+  rape-farming: وصف مختصر
+  safflower-farming: وصف مختصر
+  seed-cotton-farming: وصف مختصر
+  sesame-farming: وصف مختصر
+  soybean-farming: وصف مختصر
+  sunflower-farming: وصف مختصر
+  tung-farming: وصف مختصر
+  other-crops-farming: وصف مختصر
+  citronella-farming: وصف مختصر
+  gum-farming: وصف مختصر
+  hop-farming: وصف مختصر
+  mint-farming: وصف مختصر
+  pyrethrum-farming: وصف مختصر
+  tobacco-farming: وصف مختصر
+  wax-farming: وصف مختصر
+  poultry-farming: وصف مختصر
+  chicken-farming: وصف مختصر
+  duck-farming: وصف مختصر
+  emu-farming: وصف مختصر
+  francolin-farming: وصف مختصر
+  goose-farming: وصف مختصر
+  guinea-fowl-farming: وصف مختصر
+  ostrich-farming: وصف مختصر
+  partridge-farming: وصف مختصر
+  peafowl-farming: وصف مختصر
+  pheasant-farming: وصف مختصر
+  pigeon-farming: وصف مختصر
+  quail-farming: وصف مختصر
+  swan-farming: وصف مختصر
+  swiftlet-farming: وصف مختصر
+  tinamou-farming: وصف مختصر
+  turkey-farming: وصف مختصر
+  pulse-crop-farming: وصف مختصر
+  bean-farming: وصف مختصر
+  lentil-farming: وصف مختصر
+  lupin-farming: وصف مختصر
+  pea-farming: وصف مختصر
+  vetch-farming: وصف مختصر
+  root-and-tuber-crop-farming: وصف مختصر
+  cassava-farming: وصف مختصر
+  cocoyam-farming: وصف مختصر
+  potato-farming: وصف مختصر
+  yam-farming: وصف مختصر
+  spice-crop-farming: وصف مختصر
+  anise-farming: وصف مختصر
+  badian-farming: وصف مختصر
+  cardamon-farming: وصف مختصر
+  chilly-and-pepper-farming: وصف مختصر
+  cinnamon-farming: وصف مختصر
+  clove-farming: وصف مختصر
+  fennel-farming: وصف مختصر
+  ginger-farming: وصف مختصر
+  mace-farming: وصف مختصر
+  nutmeg-farming: وصف مختصر
+  pimento-farming: وصف مختصر
+  vanilla-farming: وصف مختصر
+  stimulant-crop-farming: وصف مختصر
+  bean-farming: وصف مختصر
+  coffee-farming: وصف مختصر
+  mate-farming: وصف مختصر
+  tea-farming: وصف مختصر
+  sugar-crop-farming: وصف مختصر
+  sugar-beet-farming: وصف مختصر
+  sugar-cane-farming: وصف مختصر
+  tree-nut-crop-farming: وصف مختصر
+  almond-farming: وصف مختصر
+  brazil-farming: وصف مختصر
+  cashew-farming: وصف مختصر
+  chestnut-farming: وصف مختصر
+  hazelnut-farming: وصف مختصر
+  pistachio-farming: وصف مختصر
+  walnut-farming: وصف مختصر
+  vegetable-crop-farming: وصف مختصر
+  artichoke-farming: وصف مختصر
+  asparagus-farming: وصف مختصر
+  bean-farming: وصف مختصر
+  broccoli-farming: وصف مختصر
+  cabbage-farming: وصف مختصر
+  carrot-farming: وصف مختصر
+  cauliflower-farming: وصف مختصر
+  chicory-farming: وصف مختصر
+  chilly-and-pepper-farming: وصف مختصر
+  cucumber-farming: وصف مختصر
+  eggplant-farming: وصف مختصر
+  garlic-farming: وصف مختصر
+  gherkin-farming: وصف مختصر
+  gourd-farming: وصف مختصر
+  leek-farming: وصف مختصر
+  lettuce-farming: وصف مختصر
+  maize-farming: وصف مختصر
+  mushroom-farming: وصف مختصر
+  okra-farming: وصف مختصر
+  onion-farming: وصف مختصر
+  pea-farming: وصف مختصر
+  pumpkin-farming: وصف مختصر
+  shallot-farming: وصف مختصر
+  spinach-farming: وصف مختصر
+  squash-farming: وصف مختصر
+  tomato-farming: وصف مختصر
+  truffle-farming: وصف مختصر
+  turnip-farming: وصف مختصر
+  food-production: وصف مختصر
+  beverage-production: وصف مختصر
+  cereal-product-production: وصف مختصر
+  condiment-production: وصف مختصر
+  confection-production: وصف مختصر
+  food-additive-production: وصف مختصر
+  nut-product-production: وصف مختصر
+  pasta-and-noodle-production: وصف مختصر
+  pulse-product-production: وصف مختصر
+  craft: وصف مختصر
+ 
+label:
+  attribute-skills: الشجاعة ، الامتنان ، الصدق ، التواضع ، اللطف ، الصبر ، الصفاء ، الاعتدال
+  moral-ethic: أمانة
+  courage: الصبر
+  gratitude: يشكر
+  honesty: العطف
+  humility: شجاعة
+  kindness: اعتدال
+  patience: التواضع
+  serenity: راحة نفسية
+  temperance: المساءلة ، التعاون ، الاتساق ، الإنصاف ، النزاهة ، الانفتاح ، الإيجابية ، الإنتاجية ، الاحترام
+  work-ethic: نزاهة
+  accountability: احترام
+  co-operation: تعاون
+  consistency: تناسق
+  fairness: الإيجابية
+  integrity: مسئولية
+  openness: الإنصاف
+  positivity: إنتاجية
+  productivity: الانفتاح
+  respect: إدارة التغيير الشخصي ، المرونة ، الثقة بالنفس ، ضبط النفس ، تقرير المصير ، الانضباط الذاتي ، الكفاءة الذاتية ، تقدير الذات ، التحفيز الذاتي ، إدارة الإجهاد ، إدارة الوقت
+  self-management: احترام الذات
+  personal-change-management: الثقة بالنفس
+  resilence: الكفاءة الذاتية
+  self-confidence: تقرير المصير
+  self-control: الانضباط الذاتي
+  self-determination: الدافع الذاتي
+  self-discipline: السيطرة على النفس
+  self-efficacy: الصمود
+  self-esteem: إدارة الوقت
+  self-motivation: ادارة الاجهاد
+  stress-management: إدارة التغيير الشخصي
+  time-management: الانتباه ، الوظائف التنفيذية ، المهارات اللغوية ، الذاكرة ، ما وراء المعرفة ، المهارات الحركية ، الإدراك ، سرعة المعالجة
+  cognition: انتباه
+  attention: تصور
+  executive-functions: ذاكرة
+  language-skills: الوظائف التنفيذية
+  memory: سرعة المعالجة
+  metacognition: مهارات قيادة
+  motor-skills: مهارات اللغة
+  perception: ما وراء المعرفة
+  processing-speed: القدرة على التعلم ، والقدرة على التنظيم ، والقدرة على التخطيط ، والإبداع ، والتفكير النقدي ، واتخاذ القرار ، والحدس ، وحل المشكلات ، والتفكير الاستراتيجي ، والحكمة
+  cognitive-aptitude: القدرة على التعلم
+  ability-to-learn: القدرة على التنظيم
+  ability-to-organize: القدرة على التخطيط
+  ability-to-plan: حل المشاكل
+  creativity: صناعة القرار
+  critical-thinking: التفكير النقدي
+  decision-making: التفكير الاستراتيجي
+  intuition: حدس
+  problem-solving: إبداع
+  strategic-thinking: الغضب ، القلق ، اليأس ، الحسد ، الخوف ، الذنب ، السعادة ، الكراهية ، الأمل ، الوحدة ، الحب ، الكبرياء ، الندم ، الحزن ، العار
+  emotion-management: السيطرة على الغضب
+  anger-management: إدارة القلق
+  anxiety-management: إدارة الخوف
+  despair-management: إدارة السعادة
+  envy-management: إدارة الحزن
+  fear-management: إدارة الكراهية
+  guilt-management: إدارة الحب
+  happiness-management: إدارة العار
+  hatred-management: إدارة الندم
+  hope-management: إدارة الأمل
+  loneliness-management: إدارة الذنب
+  love-management: إدارة اليأس
+  pride-management: إدارة الوحدة
+  regret-management: إدارة الحسد
+  sadness-management: إدارة الكبرياء
+  shame-management: الاستماع الفعال ، الاتصال غير اللفظي ، الاتصال اللفظي ، الاتصال المرئي ، الاتصال الكتابي ، التفاوض ، إدارة الصراع ، الوعي الاجتماعي ، العمل الجماعي
+  social-interrelation: التواصل اللفظي
+  active-listening: التواصل غير اللفظي
+  conflict-management: التواصل الكتابي
+  negotiation: الاستماع الفعال
+  non-verbal-communication: التواصل البصري
+  social-awareness: العمل بروح الفريق الواحد
+  teamwork: تفاوض
+  verbal-communication: الوعي الاجتماعي
+  visual-communication: فض النزاعات
+  written-communication: التفويض ، القيادة ، الإدارة ، التوجيه ، المراقبة ، التحفيز ، التنظيم ، إدارة الأفراد
+  administration: إدارة
+  delegation: منظمة
+  leadership: قيادة
+  management: إدارة الناس
+  mentoring: وفد
+  monitoring: تحفيز
+  motivating: التوجيه
+  organization: يراقب
+  people-management: 
+  farming: 
+  cereal-crop-farming: تربية الماشية
+  barley-farming: تربية الماشية الألبكة
+  buckwheat-farming: تربية الماشية الجاموس
+  canary-seed-farming: تربية مواشي الإبل
+  fonio-farming: تربية الماشية والماشية
+  maize-farming: تربية الماشية الحمير
+  millet-farming: تربية الماعز
+  oat-farming: تربية الخيول والماشية
+  quinoa-farming: تربية الماشية اللاما
+  rice-farming: الثور لتربية الماشية
+  rye-farming: تربية الخنازير
+  sorghum-farming: تربية الأرانب للماشية
+  triticale-farming: تربية الماشية الرنة
+  wheat-farming: تربية الأغنام
+  citrus-fruit-farming: تربية الماشية في جاموس الماء
+  clementine-farming: تربية مواشي الياك
+  grapefruit-farming: تربية الدواجن
+  lemon-farming: تربية دواجن الدجاج
+  lime-farming: تربية دواجن البط
+  mandarin-farming: تربية الدواجن في الاتحاد الاقتصادي والنقدي
+  orange-farming: مزرعة الدواجن فرانكولين
+  satsumas-farming: تربية دواجن الاوز
+  tangerine-farming: تربية الدواجن في غينيا
+  crustacean-farming: تربية دواجن النعام
+  crab-farming: تربية دواجن الحجل
+  crayfish-farming: تربية دواجن الطاووس
+  lobster-farming: تربية الدواجن
+  prawn-farming: تربية دواجن الحمام
+  shrimp-farming: تربية دواجن السمان
+  fibre-crop-farming: تربية الدواجن بجعة
+  agave-farming: تربية الدواجن Swiftlet
+  bast-farming: تربية الدواجن في تينامو
+  flax-farming: تربية الدواجن في تركيا
+  hemp-farming: تربية الأسماك
+  jute-farming: استزراع أسماك الكارب
+  kapok-farming: تربية أسماك السلور
+  manila-farming: تربية أسماك الأنقليس
+  ramie-farming: تربية أسماك البوري
+  seed-cotton-farming: تربية سمك الفرخ
+  sisal-farming: زراعة أسماك السلمون
+  fish-farming: استزراع أسماك الدنيس
+  carp-farming: زراعة سمك الحفش
+  catfish-farming: استزراع أسماك البلطي
+  eel-farming: تربية أسماك التراوت
+  mullet-farming: زراعة القشريات
+  perch-farming: زراعة سرطان البحر والقشريات
+  salmon-farming: زراعة قشريات جراد البحر
+  seabream-farming: زراعة جراد البحر والقشريات
+  sturgeon-farming: تربية قشريات الجمبري
+  tilapia-farming: استزراع قشريات الجمبري
+  trout-farming: استزراع الرخويات
+  fruit-crop-farming: تربية الرخويات أذن البحر
+  apple-farming: تربية الرخويات
+  apricot-farming: استزراع الرخويات البطلينوس
+  avocado-farming: استزراع بلح البحر الرخويات
+  banana-farming: استزراع رخويات المحار
+  blueberry-farming: استزراع المحار الرخويات
+  carob-farming: زراعة الرخويات في شل
+  cashewapple-farming: زراعة محاصيل الحبوب
+  cherry-farming: زراعة محاصيل حبوب الشعير
+  clementine-farming: زراعة محاصيل حبوب الحنطة السوداء
+  cranberry-farming: زراعة محاصيل حبوب الكناري
+  currant-farming: زراعة محاصيل الحبوب Fonio
+  date-farming: زراعة محاصيل حبوب الذرة
+  fig-farming: زراعة محاصيل حبوب الدخن
+  gooseberry-farming: زراعة محاصيل حبوب الشوفان
+  grape-farming: زراعة محاصيل حبوب الكينوا
+  grapefruit-farming: زراعة محاصيل الأرز والحبوب
+  guava-farming: زراعة محاصيل حبوب الجاودار
+  kiwi-farming: زراعة محاصيل حبوب الذرة الرفيعة
+  lemon-farming: زراعة محاصيل الحبوب Triticale
+  lime-farming: زراعة محاصيل حبوب القمح
+  mandarin-farming: زراعة الحمضيات
+  mango-farming: زراعة فواكه حمضيات كليمنتين
+  mangosteen-farming: زراعة فاكهة الجريب فروت والحمضيات
+  nectarine-farming: زراعة الفاكهة والحمضيات
+  orange-farming: زراعة الليمون الحامض
+  papaya-farming: زراعة فواكه حمضيات اليوسفي
+  peach-farming: زراعة الفاكهة والحمضيات
+  pear-farming: زراعة الحمضيات في ساتسوماس
+  persimmon-farming: زراعة الحمضيات اليوسفي
+  pineapple-farming: زراعة المحاصيل الليفية
+  plantain-farming: زراعة المحاصيل من ألياف الأغاف
+  plum-and-sole-farming: زراعة محاصيل ألياف اللحاء
+  quince-farming: زراعة محاصيل ألياف الكتان
+  raspberry-farming: زراعة محاصيل ألياف القنب
+  satsumas-farming: زراعة محاصيل ألياف الجوت
+  strawberry-farming: زراعة محاصيل ألياف كابوك
+  tangerine-farming: زراعة محاصيل الألياف في مانيلا
+  watermelon-farming: زراعة محاصيل الألياف في رامي
+  livestock-farming: زراعة محاصيل ألياف القطن البذور
+  alpaca-farming: زراعة محاصيل ألياف السيزال
+  buffalo-farming: زراعة محاصيل الفاكهة
+  camel-farming: زراعة محاصيل فاكهة التفاح
+  cattle-farming: زراعة محاصيل المشمش الفاكهة
+  donkey-farming: زراعة محاصيل الأفوكادو الفاكهة
+  goat-farming: زراعة محاصيل الموز والفاكهة
+  horse-farming: زراعة المحاصيل عنبية الفاكهة
+  llama-farming: زراعة محاصيل الخروب
+  ox-farming: زراعة محاصيل الفاكهة الكاجو أبل
+  pig-farming: زراعة محاصيل فاكهة الكرز
+  rabbit-farming: زراعة محاصيل الفاكهة كليمنتين
+  reindeer-farming: زراعة المحاصيل التوت البري الفاكهة
+  sheep-farming: زراعة محاصيل الكشمش
+  water-buffalo-farming: زراعة محاصيل الفاكهة التمر
+  yak-farming: زراعة محاصيل فاكهة التين
+  molluscs-farming: زراعة محاصيل عنب الثعلب
+  abalone-farming: زراعة محاصيل العنب
+  ark-farming: زراعة محاصيل الجريب فروت
+  clam-farming: زراعة محاصيل الجوافة
+  mussel-farming: زراعة محاصيل فاكهة الكيوي
+  oyster-farming: زراعة محاصيل الليمون
+  scallop-farming: زراعة محاصيل الفاكهة الجير
+  shell-farming: زراعة محاصيل فاكهة الماندرين
+  oilcrop-farming: زراعة محاصيل المانجو
+  castor-farming: زراعة محاصيل الفاكهة في مانغوستين
+  coconut-farming: زراعة محاصيل فاكهة النكتارين
+  flax-farming: زراعة محاصيل فاكهة البرتقال
+  groundnut-farming: زراعة محاصيل الفاكهة في البابايا
+  hemp-farming: زراعة محاصيل الخوخ الفاكهة
+  jojoba-farming: زراعة محاصيل الفاكهة الكمثرى
+  kapok-farming: زراعة محاصيل فاكهة البرسيمون
+  karite-farming: زراعة محاصيل فاكهة الأناناس
+  melon-farming: زراعة محاصيل الفاكهة لسان الحمل
+  mustard-farming: زراعة محاصيل البرقوق والفاكهة الوحيدة
+  oil-palm-farming: سفرجل زراعة محاصيل الفاكهة
+  olive-farming: زراعة محاصيل فاكهة التوت
+  poppy-farming: زراعة محاصيل الفاكهة في ساتسوماس
+  rape-farming: زراعة محاصيل فاكهة الفراولة
+  safflower-farming: زراعة محاصيل اليوسفي
+  seed-cotton-farming: زراعة محاصيل البطيخ الفاكهة
+  sesame-farming: زراعة المحاصيل الزيتية
+  soybean-farming: زراعة محاصيل الخروع
+  sunflower-farming: زراعة محاصيل زيت جوز الهند
+  tung-farming: زراعة الكتان الزيتي
+  other-crops-farming: زراعة محاصيل الفول السوداني
+  citronella-farming: زراعة القنب الزيتية
+  gum-farming: زراعة المحاصيل الزيتية من الجوجوبا
+  hop-farming: زراعة الكابوك الزيتية
+  mint-farming: Karite Oilcrop Farming
+  pyrethrum-farming: زراعة البطيخ الزيتية
+  tobacco-farming: زراعة محاصيل الخردل الزيتية
+  wax-farming: زراعة محاصيل زيت نخيل الزيت
+  poultry-farming: زراعة محاصيل زيت الزيتون
+  chicken-farming: زراعة الخشخاش الزيتية
+  duck-farming: اغتصاب زراعة المحاصيل الزيتية
+  emu-farming: زراعة المحاصيل الزيتية من القرطم
+  francolin-farming: زراعة المحاصيل الزيتية من بذور القطن
+  goose-farming: زراعة محاصيل السمسم الزيتية
+  guinea-fowl-farming: زراعة محاصيل فول الصويا
+  ostrich-farming: زراعة محاصيل زيت عباد الشمس
+  partridge-farming: زراعة المحاصيل الزيتية في تونغ
+  peafowl-farming: زراعة المحاصيل النبضية
+  pheasant-farming: زراعة محاصيل نبضية الفول
+  pigeon-farming: زراعة محاصيل نبضية العدس
+  quail-farming: نبضي الترمس لزراعة المحاصيل
+  swan-farming: زراعة محاصيل البازلاء
+  swiftlet-farming: زراعة محاصيل البيقة النبضية
+  tinamou-farming: زراعة المحاصيل الجذرية والدرنات
+  turkey-farming: زراعة محاصيل جذور الكسافا والدرنات
+  pulse-crop-farming: زراعة محاصيل جذور الكوكويام والدرنات
+  bean-farming: زراعة جذور البطاطس والدرنات
+  lentil-farming: زراعة جذور اليام والدرنات
+  lupin-farming: زراعة محاصيل السكر
+  pea-farming: زراعة محاصيل السكر بنجر السكر
+  vetch-farming: زراعة محاصيل قصب السكر والسكر
+  root-and-tuber-crop-farming: زراعة شجرة الجوز والمحاصيل
+  cassava-farming: زراعة المحاصيل الجوز شجرة اللوز
+  cocoyam-farming: البرازيل زراعة شجرة الجوز المحاصيل
+  potato-farming: زراعة المحاصيل والجوز شجرة الكاجو
+  yam-farming: زراعة المحاصيل الجوز شجرة الكستناء
+  spice-crop-farming: زراعة محاصيل شجرة البندق والجوز
+  anise-farming: زراعة محاصيل شجرة الفستق والجوز
+  badian-farming: الجوز شجرة الجوز زراعة المحاصيل
+  cardamon-farming: زراعة محاصيل الخضر
+  chilly-and-pepper-farming: زراعة محاصيل الخرشوف
+  cinnamon-farming: زراعة محاصيل نبات الهليون
+  clove-farming: زراعة محاصيل الفاصوليا والخضروات
+  fennel-farming: زراعة محاصيل الخضر والقرنبيط
+  ginger-farming: زراعة محاصيل الكرنب والخضر
+  mace-farming: زراعة محاصيل الجزر والخضروات
+  nutmeg-farming: زراعة محاصيل الخضر والقرنبيط
+  pimento-farming: الهندباء زراعة محاصيل الخضر
+  vanilla-farming: زراعة محاصيل الفلفل الحار والفلفل الحار
+  stimulant-crop-farming: زراعة محاصيل الخيار والخضر
+  bean-farming: زراعة محاصيل الباذنجان والخضروات
+  coffee-farming: زراعة محاصيل الثوم والخضروات
+  mate-farming: زراعة محاصيل الخضر
+  tea-farming: زراعة محاصيل الخضر القرع
+  sugar-crop-farming: زراعة محاصيل الخضر الكراث
+  sugar-beet-farming: زراعة محاصيل الخس والخضروات
+  sugar-cane-farming: زراعة محاصيل الذرة والخضروات
+  tree-nut-crop-farming: زراعة محاصيل خضروات الفطر
+  almond-farming: زراعة محاصيل البامية والخضروات
+  brazil-farming: زراعة محاصيل البصل والخضروات
+  cashew-farming: زراعة محاصيل البازلاء والخضروات
+  chestnut-farming: زراعة محاصيل الخضر اليقطين
+  hazelnut-farming: زراعة محاصيل الخضر الكراث
+  pistachio-farming: زراعة محاصيل الخضر بالسبانخ
+  walnut-farming: زراعة محاصيل الخضر
+  vegetable-crop-farming: زراعة محاصيل الطماطم والخضروات
+  artichoke-farming: زراعة محاصيل نبات الكمأة
+  asparagus-farming: زراعة محاصيل الخضر اللفت
+  bean-farming: زراعة محاصيل التوابل
+  broccoli-farming: زراعة محاصيل اليانسون والتوابل
+  cabbage-farming: زراعة المحاصيل البادية للتوابل
+  carrot-farming: زراعة محاصيل الهيل
+  cauliflower-farming: زراعة محاصيل الفلفل الحار والفلفل الحار
+  chicory-farming: زراعة محاصيل القرفة والتوابل
+  chilly-and-pepper-farming: زراعة محاصيل القرنفل التوابل
+  cucumber-farming: زراعة محاصيل الشمر والتوابل
+  eggplant-farming: زراعة محاصيل الزنجبيل والتوابل
+  garlic-farming: زراعة المحاصيل التوابل الصولجان
+  gherkin-farming: زراعة محاصيل جوزة الطيب والتوابل
+  gourd-farming: زراعة محاصيل البيمنتو التوابل
+  leek-farming: زراعة محاصيل الفانيليا والتوابل
+  lettuce-farming: زراعة المحاصيل المنشطة
+  maize-farming: زراعة محاصيل الفول
+  mushroom-farming: زراعة محاصيل القهوة
+  okra-farming: زراعة المحاصيل المنشطة
+  onion-farming: زراعة المحاصيل المنشّطة بالشاي
+  pea-farming: زراعة المحاصيل الأخرى
+  pumpkin-farming: زراعة المحاصيل الأخرى بالسترونيلا
+  shallot-farming: زراعة محاصيل اللبان الأخرى
+  spinach-farming: قفزة زراعة المحاصيل الأخرى
+  squash-farming: زراعة المحاصيل الأخرى بالنعناع
+  tomato-farming: بيريثروم زراعة المحاصيل الأخرى
+  truffle-farming: زراعة محاصيل أخرى للتبغ
+  turnip-farming: شمع زراعة المحاصيل الأخرى
+  food-production: 
+  beverage-production: إنتاج منتجات الحبوب
+  cereal-product-production: إنتاج منتجات النبض
+  condiment-production: إنتاج منتجات الجوز
+  confection-production: إنتاج المشروبات
+  food-additive-production: إنتاج البهارات
+  nut-product-production: إنتاج الحلويات
+  pasta-and-noodle-production: إنتاج المعكرونة والمعكرونة
+  pulse-product-production: إنتاج المضافات الغذائية
+  craft: 
+ 
+excerpt:
+  attribute-skills: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  moral-ethic: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  courage: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  gratitude: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  honesty: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  humility: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  kindness: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  patience: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  serenity: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  temperance: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  work-ethic: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  accountability: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  co-operation: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  consistency: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  fairness: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  integrity: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  openness: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  positivity: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  productivity: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  respect: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  self-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  personal-change-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  resilence: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  self-confidence: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  self-control: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  self-determination: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  self-discipline: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  self-efficacy: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  self-esteem: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  self-motivation: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  stress-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  time-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  cognition: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  attention: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  executive-functions: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  language-skills: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  memory: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  metacognition: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  motor-skills: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  perception: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  processing-speed: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  cognitive-aptitude: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  ability-to-learn: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  ability-to-organize: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  ability-to-plan: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  creativity: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  critical-thinking: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  decision-making: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  intuition: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  problem-solving: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  strategic-thinking: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  emotion-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  anger-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  anxiety-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  despair-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  envy-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  fear-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  guilt-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  happiness-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  hatred-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  hope-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  loneliness-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  love-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  pride-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  regret-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  sadness-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  shame-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  social-interrelation: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  active-listening: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  conflict-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  negotiation: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  non-verbal-communication: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  social-awareness: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  teamwork: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  verbal-communication: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  visual-communication: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  written-communication: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  administration: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  delegation: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  leadership: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  mentoring: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  monitoring: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  motivating: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  organization: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  people-management: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  cereal-crop-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  barley-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  buckwheat-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  canary-seed-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  fonio-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  maize-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  millet-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  oat-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  quinoa-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  rice-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  rye-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  sorghum-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  triticale-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  wheat-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  citrus-fruit-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  clementine-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  grapefruit-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  lemon-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  lime-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  mandarin-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  orange-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  satsumas-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  tangerine-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  crustacean-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  crab-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  crayfish-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  lobster-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  prawn-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  shrimp-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  fibre-crop-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  agave-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  bast-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  flax-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  hemp-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  jute-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  kapok-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  manila-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  ramie-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  seed-cotton-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  sisal-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  fish-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  carp-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  catfish-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  eel-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  mullet-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  perch-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  salmon-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  seabream-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  sturgeon-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  tilapia-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  trout-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  fruit-crop-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  apple-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  apricot-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  avocado-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  banana-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  blueberry-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  carob-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  cashewapple-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  cherry-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  clementine-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  cranberry-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  currant-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  date-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  fig-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  gooseberry-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  grape-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  grapefruit-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  guava-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  kiwi-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  lemon-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  lime-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  mandarin-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  mango-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  mangosteen-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  nectarine-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  orange-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  papaya-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  peach-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  pear-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  persimmon-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  pineapple-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  plantain-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  plum-and-sole-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  quince-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  raspberry-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  satsumas-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  strawberry-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  tangerine-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  watermelon-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  livestock-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  alpaca-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  buffalo-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  camel-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  cattle-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  donkey-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  goat-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  horse-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  llama-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  ox-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  pig-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  rabbit-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  reindeer-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  sheep-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  water-buffalo-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  yak-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  molluscs-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  abalone-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  ark-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  clam-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  mussel-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  oyster-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  scallop-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  shell-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  oilcrop-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  castor-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  coconut-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  flax-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  groundnut-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  hemp-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  jojoba-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  kapok-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  karite-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  melon-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  mustard-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  oil-palm-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  olive-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  poppy-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  rape-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  safflower-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  seed-cotton-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  sesame-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  soybean-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  sunflower-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  tung-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  other-crops-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  citronella-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  gum-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  hop-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  mint-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  pyrethrum-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  tobacco-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  wax-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  poultry-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  chicken-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  duck-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  emu-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  francolin-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  goose-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  guinea-fowl-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  ostrich-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  partridge-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  peafowl-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  pheasant-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  pigeon-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  quail-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  swan-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  swiftlet-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  tinamou-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  turkey-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  pulse-crop-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  bean-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  lentil-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  lupin-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  pea-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  vetch-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  root-and-tuber-crop-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  cassava-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  cocoyam-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  potato-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  yam-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  spice-crop-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  anise-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  badian-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  cardamon-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  chilly-and-pepper-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  cinnamon-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  clove-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  fennel-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  ginger-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  mace-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  nutmeg-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  pimento-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  vanilla-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  stimulant-crop-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  bean-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  coffee-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  mate-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  tea-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  sugar-crop-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  sugar-beet-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  sugar-cane-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  tree-nut-crop-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  almond-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  brazil-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  cashew-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  chestnut-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  hazelnut-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  pistachio-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  walnut-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  vegetable-crop-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  artichoke-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  asparagus-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  bean-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  broccoli-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  cabbage-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  carrot-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  cauliflower-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  chicory-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  chilly-and-pepper-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  cucumber-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  eggplant-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  garlic-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  gherkin-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  gourd-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  leek-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  lettuce-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  maize-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  mushroom-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  okra-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  onion-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  pea-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  pumpkin-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  shallot-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  spinach-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  squash-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  tomato-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  truffle-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  turnip-farming: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  food-production: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  beverage-production: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  cereal-product-production: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  condiment-production: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  confection-production: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  food-additive-production: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  nut-product-production: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  pasta-and-noodle-production: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  pulse-product-production: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+  craft: هذا وصف لهذه المقالة. ستتغير هذه الرسالة عند توفرها.
+ 

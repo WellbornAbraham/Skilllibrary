@@ -1,0 +1,4 @@
+website_temp/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata

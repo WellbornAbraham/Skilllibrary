@@ -1,0 +1,257 @@
+# Language YML
+
+english: English
+french: Français
+arabic: عربي
+spanish: Español
+
+
+# A
+about:
+  en: About
+  fr: Sur
+  ar: عن
+  es: Sobre
+  
+All:
+  en: All
+  fr: Tous les
+  ar: كل شيء
+  es: Todos
+  
+all_rights_reserved:
+  en: All Rights Reserved
+  fr: Tous les droits sont réservés
+  ar: كل الحقوق محفوظة
+  es: Reservados todos los derechos
+  
+attribute_skill:
+  en: Attribute Skill
+  fr: Compétence d'attribut
+  ar: مهارة السمة
+  es: Habilidad de atributo
+  
+attribute_skills:
+  en: Attribute Skills
+  fr: Compétences d'attribut
+  ar: مهارات السمة
+  es: Habilidades de atributo
+
+# B
+Both:
+  en: Both
+  fr: Les deux
+  ar: كلاهما
+  es: Ambos
+
+# C
+catalogue:
+  en: Catalogue
+  fr: Catalogue
+  ar: فهرس
+  es: Catálogo
+  
+Category:
+  en: Category
+  fr: Catégorie
+  ar: الفئة
+  es: Categoría
+  
+CHRIST:
+  en: CHRIST
+  fr: CHRIST
+  ar: السيد المسيح
+  es: CRISTO
+  
+contact:
+  en: Contact
+  fr: Contact
+  ar: اتصل
+  es: Contacto
+
+Currently_Undergoing_Development:
+  en: Currently Undergoing Development
+  fr: Actuellement Subissant Développement
+  ar: ويجري حاليا التقدم المحرز في التنمية
+  es: Actualmente Sometidos A Desarrollo
+
+Custom:
+  en: Custom
+  fr: Personnalisé
+  ar: اختر
+  es: Personalizado
+# D
+Directory:
+  en: Directory
+  fr: Annuaire
+  ar: المجموعة
+  es: Directorio
+
+# E
+eg:
+  en: e.g
+  fr: ex.
+  ar: على سبيل المثال
+  es: p.ej
+
+# F
+File:
+  en: File
+  fr: Fichier
+  ar: ملف
+  es: fichero
+
+First_of_its_Kind:
+  en: First of its Kind
+  fr: Premier du Genre
+  ar: أولا من نوعه
+  es: Primero de su Tipo
+
+fish_farming:
+  en: Fish Farming
+  fr: Aquaculture
+  ar: تربية الأسماك
+  es: Piscicultura
+
+# G
+
+# H
+home:
+  en: Home
+  fr: Accueil
+  ar: الصفحة الرئيسية
+  es: Hogar
+
+# I
+is_for:
+  en: is for
+  fr: est pour
+  ar: هو ل
+  es: es para
+  
+is_not_available_at_the_moment:
+  en: is not available at the moment
+  fr: n'est pas disponible pour le moment
+  ar: غير متوفر في الوقت الحالي
+  es: no está disponible en este momento
+  
+is_not_yet_available:
+  en: is not yet available
+  fr: n'est pas encore disponible
+  ar: غير متوفر بعد
+  es: aún no está disponible
+
+# J
+Jesus_is_the_CHRIST:
+  en: Jesus is the CHRIST
+  fr: Jésus c'est le Christ
+  ar: يسوع هو المسيح
+  es: Jesús es el CRISTO
+
+# K
+Kindly_check_back_later:
+  en: Kindly check back later
+  fr: Veuillez vérifier plus tard
+  ar: يرجى التحقق مرة أخرى في وقت لاحق
+  es: Por favor, vuelva a consultar más tarde.
+
+# L
+
+# M
+
+# N
+No_result_found:
+  en: No result found
+  fr: Aucun résultat trouvé
+  ar: لا توجد نتيجة
+  es: Ningún resultado encontrado
+  
+Not_Available:
+  en: Not Available
+  fr: Pas disponible
+  ar: غير متوفر
+  es: No disponible
+
+# O
+
+# P
+page_not_found:
+  en: Page not found
+  fr: Page non trouvée
+  ar: الصفحة غير موجودة
+  es: "Página no encontrada"
+
+# Q
+
+# R
+resources:
+  en: Resources
+  fr: Ressources
+  ar: موارد
+  es: Recursos
+  
+result_found:
+  en: result found
+  fr: résultat trouvé
+  ar: تم العثور على نتيجة واحدة.
+  es: de resultados encontrados
+  
+results_found:
+  en: results found
+  fr: résultats trouvés
+  ar: تم العثور على النتائج.
+  es: resultados encontrados
+
+# S
+search:
+  en: Search
+  fr: Chercher
+  ar: البحث
+  es: Búsqueda
+
+# T
+The_First_of_its_Kind:
+  en: The First of its Kind
+  fr: Le Premier du Genre
+  ar: أول من نوعه 
+  es: El Primero de su Tipo
+
+the_requested_page_could_not_be_found:
+  en: The requested page could not be found
+  fr: La page demandée n'a pu être trouvée
+  ar: الصفحة المطلوبة لا يمكن العثور عليه
+  es: "La página solicitada no pudo ser encontrada"
+  
+Type:
+  en: Type
+  fr: Type
+  ar: نوع
+  es: Tipo
+
+# U
+Undergoing_Development:
+  en: Undergoing Development
+  fr: Subissant Développement
+  ar: تحت التنمية
+  es: Sometidos A Desarrollo
+
+# V
+vocational_skill:
+  en: Vocational Skill
+  fr: Compétence professionnelle
+  ar: مهارة مهنية
+  es: Habilidad vocacional
+  
+vocational_skills:
+  en: Vocational Skills
+  fr: Compétences professionnelles
+  ar: المهارات المهنية
+  es: Habilidades vocacionales
+
+# W
+
+# X
+
+# Y
+
+# Z

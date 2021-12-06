@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "kreon-font.css",
+	"sources": [
+		"kreon-font.scss"
+	],
+	"sourcesContent": [
+		"/* variable kreon font 300 - 700 */\n@font-face {\n  font-family: 'Kreon';\n  src: url('../fonts/serif/kreon/Kreon-VariableFont_wght.ttf'); \n  src: local(''),\n       url('../fonts/serif/kreon/Kreon-VariableFont_wght.ttf') format('truetype'), /* IE6-IE8 */\n}"
+	],
+	"names": [],
+	"mappings": "AAAA,mCAAmC;AACnC,UAAU,GACR,WAAW,EAAE,OAAO,EACpB,GAAG,EAAE,uDAAuD,EAC5D,GAAG,EAAE,SAAS,EACT,uDAAuD,CAAC,kBAAkB"
+}

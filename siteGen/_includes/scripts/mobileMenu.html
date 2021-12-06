@@ -1,0 +1,40 @@
+<script>
+function headerMobileMenu() {
+  var x = document.getElementById("header-mobile-menu");
+  if (x.style.display == "block") {
+    x.style.display = "none";
+    var i = document.getElementById("header-mobile-menu-icon");
+    var y = i.getElementsByTagName("svg")[0];
+    var z = i.getElementsByTagName("svg")[1];
+    y.style.display = "block";
+    z.style.display = "none";
+  } else {
+    x.style.display = "block";
+    var i = document.getElementById("header-mobile-menu-icon");
+    var y = i.getElementsByTagName("svg")[0];
+    var z = i.getElementsByTagName("svg")[1];
+    y.style.display = "none";
+    z.style.display = "block"; 
+  }
+}
+</script>
+<script>
+function headerMobileSearch() {
+  var x = document.getElementById("header-search-wrapper");
+  if (x.style.display == "block") {
+    x.style.display = "none";
+    var i = document.getElementById("header-mobile-search-icon");
+    var y = i.getElementsByTagName("svg")[0];
+    var z = i.getElementsByTagName("svg")[1];
+    y.style.display = "block";
+    z.style.display = "none";
+  } else {
+    x.style.display = "block";
+    var i = document.getElementById("header-mobile-search-icon");
+    var y = i.getElementsByTagName("svg")[0];
+    var z = i.getElementsByTagName("svg")[1];
+    y.style.display = "none";
+    z.style.display = "block";
+  }
+}
+</script>

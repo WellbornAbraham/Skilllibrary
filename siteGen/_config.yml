@@ -1,0 +1,168 @@
+# Skill Library
+
+# Site information
+pre_title:
+  en: Wellborn Self-Explanatory # Pan-Continental  # An Across Continents
+  fr: Wellborn Auto-Explicatives #Un À Travers Les Continents
+  ar:    التفسيرية الذاتية # عبر القارات 
+  es: Wellborn Auto-Explicativo #Un A Través De Los Continentes
+title:
+  en: Skill Library
+  fr: Compétence Bibliothèque
+  ar: مكتبة مهارة
+  es: Habilidad Biblioteca
+email:
+  en: WellbornAbraham@outlook.com
+  fr: WellbornAbraham@outlook.com
+  ar: WellbornAbraham@outlook.com
+  es: WellbornAbraham@outlook.com
+
+# Site URL
+url: "https://skilllibrary.github.io/"
+url2: "https://skilllibrary.github.io/"
+permalink: /:categories/:title/
+
+# Files output and monitoring control
+development: all # all or false (append true to view only draft files)
+audit: false     #requires datafile_childless.yml
+
+# Root files output control
+sitemap: false     #requires datafile_childless.yml
+robotsTXT: false     #requires datafile_childless.yml
+
+# YML datafile output control
+datafile: false     #requires datafile.yml
+datafile_childless: false     #requires datafile.yml
+datafile_childless_alphasort: false     #requires datafile_childless.yml
+datafile_recovery: false     #requires datafile_recovery.yml
+datafileAR: false     #requires datafile.yml
+datafileEN: false     #requires datafile.yml
+datafileES: false     #requires datafile.yml
+datafileFR: false     #requires datafile.yml
+catalogue_datafile_AR: false     #requires datafile_childless.yml
+catalogue_datafile_EN: false     #requires datafile_childless.yml
+catalogue_datafile_ES: false     #requires datafile_childless.yml
+catalogue_datafile_FR: false     #requires datafile_childless.yml
+
+# BASH script output control
+buildresources: false     #requires datafile.yml
+buildincludes: false     #requires datafileXX.yml
+buildtranslate: false     
+catalogue_language: false     
+playground: false     
+
+# JAVASCRIPT files output control
+catalogueData_AR: false     #requires datafile_childless.yml
+catalogueData_EN: false     #requires datafile_childless.yml
+catalogueData_ES: false     #requires datafile_childless.yml
+catalogueData_FR: false     #requires datafile_childless.yml
+searchData_AR: false     #requires datafile_childless.yml
+searchData_EN: false     #requires datafile_childless.yml
+searchData_ES: false     #requires datafile_childless.yml
+searchData_FR: false     #requires datafile_childless.yml
+searchDataMini_AR: false     #requires datafile_childless.yml
+searchDataMini_EN: false     #requires datafile_childless.yml
+searchDataMini_ES: false     #requires datafile_childless.yml
+searchDataMini_FR: false     #requires datafile_childless.yml
+searchData_AR_json: false     #requires datafile_childless.yml
+searchData_EN_json: false     #requires datafile_childless.yml
+searchData_ES_json: false     #requires datafile_childless.yml
+searchData_FR_json: false     #requires datafile_childless.yml
+searchRecord_AR: true     #requires datafile_childless.yml
+searchRecord_EN: true     #requires datafile_childless.yml
+searchRecord_ES: true     #requires datafile_childless.yml
+searchRecord_FR: true     #requires datafile_childless.yml
+
+# PRE-TRANSLATE files output control
+build_pretranslate_files: false     #requires datafile_childless.yml
+
+# What files and folders should be processed
+include:
+  - _headers
+
+# What files and folders shouldn't be processed
+exclude:
+  #- _en/resources/
+  #- _fr/resources/
+  #- _ar/resources/
+  #- _es/resources/
+  #
+  - assets/buildtranslate/pre_translate/   # Do not undo exclude
+  - assets/plugins/
+  - assets/pdfs/
+  - assets/txt/
+  - assets/fonts/playground/
+  
+# Configuration settings
+
+destination: ./website_temp
+
+collections_dir: languages
+
+collections:
+    
+  en:
+    output: true
+    
+  fr:
+    output: true
+    
+  ar:
+    output: true
+    
+  es:
+    output: true
+    
+defaults:
+  -
+    scope :
+      path: "" # an empty string here means all files in the project
+      type: "en"
+    values :
+      lang: "en"
+      lang_dir : "ltr"
+  -
+    scope :
+      path: "languages/_en/catalogue"
+      type: "en"
+    values :
+      layout : "catalogue"
+  -
+    scope :
+      path: "" # an empty string here means all files in the project
+      type: "fr"
+    values :
+      lang: "fr"
+      lang_dir : "ltr"
+  -
+    scope :
+      path: "languages/_fr/catalogue"
+      type: "fr"
+    values :
+      layout : "catalogue"
+  -
+    scope :
+      path: "" # an empty string here means all files in the project
+      type: "ar"
+    values :
+      lang: "ar"
+      lang_dir : "rtl"
+  -
+    scope :
+      path: "languages/_ar/catalogue"
+      type: "ar"
+    values :
+      layout : "catalogue"
+  -
+    scope :
+      path: "" # an empty string here means all files in the project
+      type: "es"
+    values :
+      lang: "es"
+      lang_dir : "ltr"
+  -
+    scope :
+      path: "languages/_es/catalogue"
+      type: "es"
+    values :
+      layout : "catalogue"

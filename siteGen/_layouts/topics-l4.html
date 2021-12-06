@@ -1,0 +1,108 @@
+<!DOCTYPE HTML>
+<html lang="{{ page.lang }}" dir="{{ page.lang_dir }}">
+    <head>
+      <meta charset ="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>{{ page.title }} - {{ site.title[ page.lang] }}</title>
+      {% include stylesheet.html %}
+      {% include scripts/analytics.html %}
+    </head>
+    <body>
+      {% include svg.html %}
+    <div id="external-wrapper">
+        {% include header-2.html %}
+{%- assign datafile-unsorted = site.data.datafile.data -%}
+{%- if datafile-unsorted[0] -%}
+{%- assign datafile = datafile-unsorted -%}
+{%- for item in datafile -%}
+{%- if item.title.en == page.l1 -%}
+
+{%- assign level1-unsorted = item.children -%}
+{%- if level1-unsorted[0] -%}
+{%- assign level1 = level1-unsorted -%}
+{%- for entry in level1 -%}
+{%- if entry.title.en == page.l2 -%}
+
+{%- assign level2-unsorted = entry.children -%}
+{%- if level2-unsorted[0] -%}
+{%- assign level2 = level2-unsorted -%}
+{%- for subentry in level2 -%}
+{%- if subentry.title.en == page.l3 -%}
+
+{%- assign level3-unsorted = subentry.children -%}
+{%- if level3-unsorted[0] -%}
+{%- assign level3 = level3-unsorted -%}
+{%- for subsubentry in level3 -%}
+{%- if subsubentry.title.en == page.l4 %}
+          <div id="levels-page-title-container">
+        			<h1>{{ subsubentry.title2[ page.lang ] }} <span class="levels-page-title-sub"></span></h1>
+              <div class="levels-page-title-navigation">
+                <span><a href="/{{ page.lang }}/"><svg class=" icon icon-home"><use xlink:href="#icon-home"></use></svg></a> | <a href="/{{ page.lang }}/resources/">{{ site.data.word_translate.resources[ page.lang ] }}</a> | <a href="{{ item.url[ page.lang ] }}/">{{ item.title2[ page.lang ] }}</a> | <a href="{{ entry.url[ page.lang ] }}/">{{ entry.title[ page.lang ] }}</a> | <a href="{{ subentry.url[ page.lang ] }}/">{{ subentry.title[ page.lang ] }}</a> | <a href="{{ subsubentry.url[ page.lang ] }}/">{{ subsubentry.title[ page.lang ] }}</a></span>
+              </div>
+        	</div>
+        	<div id="levels-page-card-container">
+{%- assign level4-unsorted = subsubentry.children -%}
+{%- if level4-unsorted[0] -%}
+{%- assign level4 = level4-unsorted | sort: 'title' -%}
+{%- for subsubsubentry in level4 -%}
+{%- if subsubsubentry.kind.en == "directory" -%}
+{%- if subsubsubentry.deploy.en != site.development %}
+			<div class="levels-page-card levels-page-card-three-columns directory" onclick="location.href='{{ subsubsubentry.url[ page.lang ] }}/';">
+            		<div class="levels-page-card-icon">
+            			<a href="{{ subsubsubentry.url[ page.lang ] }}/"><svg class = "{{ subsubsubentry.icon[ page.lang ] }} icon"><use xlink:href="#{{ subsubsubentry.icon[ page.lang ] }}"></use></svg></a>
+            		</div>
+                  <div class="levels-page-card-description">
+                 	  <h3 class="levels-page-card-title">
+                     	<a href= "{{ subsubsubentry.url[ page.lang ] }}/">{{ subsubsubentry.title[ page.lang ] | truncate: 22 }}</a>
+                    </h3>
+                    <sub class="levels-page-card-sub">
+                       <i>{{ subsubsubentry.title2[ page.lang ] | truncate: 32 }}</i>
+                    </sub>
+                    <p>{{ subsubsubentry.excerpt[ page.lang ] | truncate: 80 }}</p>
+                  </div>
+      </div>
+{%- endif -%}
+{%- else if subsubsubentry.kind.en == "file" -%}
+{%- if subsubsubentry.deploy.en != site.development %}
+			<div class="levels-page-card levels-page-card-three-columns file">
+			  <div class="levels-page-card-file" onclick="location.href='{{ subsubsubentry.url[ page.lang ] }}/';">
+            		<div class="levels-page-card-icon">
+            			<a href="{{ subsubsubentry.url[ page.lang ] }}/"><svg class = "{{ subsubsubentry.icon[ page.lang ] }} icon"><use xlink:href="#{{ subsubsubentry.icon[ page.lang ] }}"></use></svg></a>
+            		</div>
+                  <div class="levels-page-card-description">
+                 	  <h3 class="levels-page-card-title">
+                     	<a href= "{{ subsubsubentry.url[ page.lang ] }}/">{{ subsubsubentry.title[ page.lang ] | truncate: 22 }}</a>
+                    </h3>
+                    <sub class="levels-page-card-sub">
+                       <i>{{ subsubsubentry.title2[ page.lang ] | truncate: 32 }}</i>
+                    </sub>
+                    <p>{{ subsubsubentry.excerpt[ page.lang ] | truncate: 80 }}</p>
+                  </div>
+        </div>
+      </div>
+{%- endif -%}
+{%- endif -%}
+{%- endfor -%}
+{%- endif %}
+          </div>
+{%- endif -%}
+{%- endfor -%}
+{%- endif -%}
+
+{%- endif -%}
+{%- endfor -%}
+{%- endif -%}
+
+{%- endif -%}
+{%- endfor -%}
+{%- endif -%}
+
+{%- endif -%}
+{%- endfor -%}
+{%- endif %}
+        {% include bottom-snippet.html %}
+        {% include footer-2.html %}
+        {% include scripts/mobileMenu.html %}
+    </div>
+    </body>
+</html>

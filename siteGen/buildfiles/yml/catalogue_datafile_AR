@@ -1,0 +1,23 @@
+---
+permalink: /assets/yml/catalogue_datafile_AR.yml
+---
+{% if site.catalogue_datafile_AR == true %}
+data:
+{% assign datafile_childless = site.data.datafile_childless.data %} {% if datafile_childless[0] %} {% assign catalogue_datafile_AR = datafile_childless | sort: 'title.ar' %} {% for item in catalogue_datafile_AR %} {% if item.deploy.ar != site.development %}
+  - title: {{ item.title.ar }}
+    title2: {{ item.title2.ar }}
+    title_uniq: {{ item.title2.ar | slugify: "pretty" }}
+    default: {{ item.default.ar }}
+    kind: {{ item.kind.ar }}
+    icon: {{ item.icon.ar }}
+    alphabet_l1: {{ item.title.ar | slice: 0, 1 }}
+    alphabet_l2: {{ item.title.ar | slice: 0, 2 }}
+    alphabet_l3: {{ item.title.ar | slice: 0, 3 }}
+    sub_title: {{ item.sub_title.ar }}
+    excerpt: {{ item.excerpt.ar }}
+    url: {{ item.url.ar }}
+    label: {{ item.label.ar }}
+    group: {{ item.group.ar }}
+    deploy: {{ item.deploy.ar }}
+                {% endif %} {% endfor %} {% endif %}
+{% endif %}

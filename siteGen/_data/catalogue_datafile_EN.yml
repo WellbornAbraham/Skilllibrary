@@ -1,0 +1,5219 @@
+
+data:
+    
+  - title: Abalone
+    title2: Abalone Farming
+    title_uniq: abalone-farming
+    default: abalone-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ab
+    alphabet_l3: Aba
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/molluscs/abalone
+    label: Abalone Molluscs Farming Abalone
+    group: Abalone Farming
+    deploy: false
+                  
+  - title: Ability to Learn
+    title2: Ability to Learn
+    title_uniq: ability-to-learn
+    default: ability-to-learn
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ab
+    alphabet_l3: Abi
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognitive-aptitude/ability-to-learn
+    label: Ability to Learn Cognitive Aptitude Attribute Ability to Learn
+    group: Ability to Learn
+    deploy: false
+                  
+  - title: Ability to Organize
+    title2: Ability to Organize
+    title_uniq: ability-to-organize
+    default: ability-to-organize
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ab
+    alphabet_l3: Abi
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognitive-aptitude/ability-to-organize
+    label: Ability to Organize Cognitive Aptitude Attribute Ability to Organize
+    group: Ability to Organize
+    deploy: false
+                  
+  - title: Ability to Plan
+    title2: Ability to Plan
+    title_uniq: ability-to-plan
+    default: ability-to-plan
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ab
+    alphabet_l3: Abi
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognitive-aptitude/ability-to-plan
+    label: Ability to Plan Cognitive Aptitude Attribute Ability to Plan
+    group: Ability to Plan
+    deploy: false
+                  
+  - title: Accountability
+    title2: Accountability
+    title_uniq: accountability
+    default: accountability
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ac
+    alphabet_l3: Acc
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/work-ethic/accountability
+    label: Accountability Work Ethic Attribute Accountability
+    group: Accountability
+    deploy: false
+                  
+  - title: Active Listening
+    title2: Active Listening
+    title_uniq: active-listening
+    default: active-listening
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ac
+    alphabet_l3: Act
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/social-interrelation/active-listening
+    label: Active Listening Social Interrelation Attribute Active Listening
+    group: Active Listening
+    deploy: false
+                  
+  - title: Administration
+    title2: Administration
+    title_uniq: administration
+    default: administration
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ad
+    alphabet_l3: Adm
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/administration
+    label: Administration Attribute Administration Delegation Leadership Management Mentoring Monitoring Motivating Organization People Management
+    group: Administration
+    deploy: true
+                  
+  - title: Agave
+    title2: Agave Farming
+    title_uniq: agave-farming
+    default: agave-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ag
+    alphabet_l3: Aga
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fibre-crop/agave
+    label: Agave Fibre Crop Farming Agave
+    group: Agave Farming
+    deploy: false
+                  
+  - title: Almond
+    title2: Almond Farming
+    title_uniq: almond-farming
+    default: almond-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Al
+    alphabet_l3: Alm
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/tree-nut-crop/almond
+    label: Almond Tree Nut Crop Farming Almond
+    group: Almond Farming
+    deploy: false
+                  
+  - title: Alpaca
+    title2: Alpaca Farming
+    title_uniq: alpaca-farming
+    default: alpaca-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Al
+    alphabet_l3: Alp
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/livestock/alpaca
+    label: Alpaca Livestock Farming Alpaca
+    group: Alpaca Farming
+    deploy: false
+                  
+  - title: Anger Management
+    title2: Anger Management
+    title_uniq: anger-management
+    default: anger-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: An
+    alphabet_l3: Ang
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/emotion-management/anger-management
+    label: Anger Management Emotion Management Attribute Anger Management
+    group: Anger Management
+    deploy: false
+                  
+  - title: Anise
+    title2: Anise Farming
+    title_uniq: anise-farming
+    default: anise-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: An
+    alphabet_l3: Ani
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/spice-crop/anise
+    label: Anise Spice Crop Farming Anise
+    group: Anise Farming
+    deploy: false
+                  
+  - title: Anxiety Management
+    title2: Anxiety Management
+    title_uniq: anxiety-management
+    default: anxiety-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: An
+    alphabet_l3: Anx
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/emotion-management/anxiety-management
+    label: Anxiety Management Emotion Management Attribute Anxiety Management
+    group: Anxiety Management
+    deploy: false
+                  
+  - title: Apple
+    title2: Apple Farming
+    title_uniq: apple-farming
+    default: apple-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ap
+    alphabet_l3: App
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/apple
+    label: Apple Fruit Crop Farming Apple
+    group: Apple Farming
+    deploy: false
+                  
+  - title: Apricot
+    title2: Apricot Farming
+    title_uniq: apricot-farming
+    default: apricot-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ap
+    alphabet_l3: Apr
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/apricot
+    label: Apricot Fruit Crop Farming Apricot
+    group: Apricot Farming
+    deploy: false
+                  
+  - title: Ark
+    title2: Ark Farming
+    title_uniq: ark-farming
+    default: ark-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ar
+    alphabet_l3: Ark
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/molluscs/ark
+    label: Ark Molluscs Farming Ark
+    group: Ark Farming
+    deploy: false
+                  
+  - title: Artichoke
+    title2: Artichoke Farming
+    title_uniq: artichoke-farming
+    default: artichoke-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ar
+    alphabet_l3: Art
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/artichoke
+    label: Artichoke Vegetable Crop Farming Artichoke
+    group: Artichoke Farming
+    deploy: false
+                  
+  - title: Asparagus
+    title2: Asparagus Farming
+    title_uniq: asparagus-farming
+    default: asparagus-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: As
+    alphabet_l3: Asp
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/asparagus
+    label: Asparagus Vegetable Crop Farming Asparagus
+    group: Asparagus Farming
+    deploy: false
+                  
+  - title: Attention
+    title2: Attention
+    title_uniq: attention
+    default: attention
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: At
+    alphabet_l3: Att
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognition/attention
+    label: Attention Cognition Attribute Attention
+    group: Attention
+    deploy: false
+                  
+  - title: Attribute
+    title2: Attribute Skills
+    title_uniq: attribute-skills
+    default: attribute-skills
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: At
+    alphabet_l3: Att
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute
+    label: Attribute Attribute Moral Ethic Courage Gratitude Honesty Humility Kindness Patience Serenity Temperance Work Ethic Accountability Co-operation Consistency Fairness Integrity Openness Positivity Productivity Respect Self Management Personal Change Management Resilence Self Confidence Self Control Self Determination Self Discipline Self Efficacy Self Esteem Self Motivation Stress Management Time Management Cognition Attention Executive Functions Language Skills Memory Metacognition Motor Skills Perception Processing Speed Cognitive Aptitude Ability to Learn Ability to Organize Ability to Plan Creativity Critical Thinking Decision Making Intuition Problem Solving Strategic Thinking Emotion Management Anger Management Anxiety Management Despair Management Envy Management Fear Management Guilt Management Happiness Management Hatred Management Hope Management Loneliness Management Love Management Pride Management Regret Management Sadness Management Shame Management Social Interrelation Active Listening Conflict Management Negotiation Non-Verbal Communication Social Awareness Teamwork Verbal Communication Visual Communication Written Communication Administration Delegation Leadership Management Mentoring Monitoring Motivating Organization People Management
+    group: Attribute Skills
+    deploy: true
+                  
+  - title: Avocado
+    title2: Avocado Farming
+    title_uniq: avocado-farming
+    default: avocado-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Av
+    alphabet_l3: Avo
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/avocado
+    label: Avocado Fruit Crop Farming Avocado
+    group: Avocado Farming
+    deploy: false
+                  
+  - title: Badian
+    title2: Badian Farming
+    title_uniq: badian-farming
+    default: badian-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Ba
+    alphabet_l3: Bad
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/spice-crop/badian
+    label: Badian Spice Crop Farming Badian
+    group: Badian Farming
+    deploy: false
+                  
+  - title: Banana
+    title2: Banana Farming
+    title_uniq: banana-farming
+    default: banana-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Ba
+    alphabet_l3: Ban
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/banana
+    label: Banana Fruit Crop Farming Banana
+    group: Banana Farming
+    deploy: false
+                  
+  - title: Barley
+    title2: Barley Farming
+    title_uniq: barley-farming
+    default: barley-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Ba
+    alphabet_l3: Bar
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/cereal-crop/barley
+    label: Barley Cereal Crop Farming Barley
+    group: Barley Farming
+    deploy: false
+                  
+  - title: Bast
+    title2: Bast Farming
+    title_uniq: bast-farming
+    default: bast-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Ba
+    alphabet_l3: Bas
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fibre-crop/bast
+    label: Bast Fibre Crop Farming Bast
+    group: Bast Farming
+    deploy: false
+                  
+  - title: Bean
+    title2: Bean Farming
+    title_uniq: bean-farming
+    default: bean-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Be
+    alphabet_l3: Bea
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/stimulant-crop/bean
+    label: Bean Stimulant Crop Farming Bean
+    group: Bean Farming
+    deploy: false
+                  
+  - title: Bean
+    title2: Bean Farming
+    title_uniq: bean-farming
+    default: bean-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Be
+    alphabet_l3: Bea
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/pulse-crop/bean
+    label: Bean Pulse Crop Farming Bean
+    group: Bean Farming
+    deploy: false
+                  
+  - title: Bean
+    title2: Bean Farming
+    title_uniq: bean-farming
+    default: bean-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Be
+    alphabet_l3: Bea
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/bean
+    label: Bean Vegetable Crop Farming Bean
+    group: Bean Farming
+    deploy: false
+                  
+  - title: Beverage
+    title2: Beverage Production
+    title_uniq: beverage-production
+    default: beverage-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Be
+    alphabet_l3: Bev
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/food-production/beverage
+    label: Beverage Food Production Beverage
+    group: Beverage Production
+    deploy: true
+                  
+  - title: Blueberry
+    title2: Blueberry Farming
+    title_uniq: blueberry-farming
+    default: blueberry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Bl
+    alphabet_l3: Blu
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/blueberry
+    label: Blueberry Fruit Crop Farming Blueberry
+    group: Blueberry Farming
+    deploy: false
+                  
+  - title: Brazil
+    title2: Brazil Farming
+    title_uniq: brazil-farming
+    default: brazil-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Br
+    alphabet_l3: Bra
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/tree-nut-crop/brazil
+    label: Brazil Tree Nut Crop Farming Brazil
+    group: Brazil Farming
+    deploy: false
+                  
+  - title: Broccoli
+    title2: Broccoli Farming
+    title_uniq: broccoli-farming
+    default: broccoli-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Br
+    alphabet_l3: Bro
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/broccoli
+    label: Broccoli Vegetable Crop Farming Broccoli
+    group: Broccoli Farming
+    deploy: false
+                  
+  - title: Buckwheat
+    title2: Buckwheat Farming
+    title_uniq: buckwheat-farming
+    default: buckwheat-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Bu
+    alphabet_l3: Buc
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/cereal-crop/buckwheat
+    label: Buckwheat Cereal Crop Farming Buckwheat
+    group: Buckwheat Farming
+    deploy: false
+                  
+  - title: Buffalo
+    title2: Buffalo Farming
+    title_uniq: buffalo-farming
+    default: buffalo-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Bu
+    alphabet_l3: Buf
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/livestock/buffalo
+    label: Buffalo Livestock Farming Buffalo
+    group: Buffalo Farming
+    deploy: false
+                  
+  - title: Cabbage
+    title2: Cabbage Farming
+    title_uniq: cabbage-farming
+    default: cabbage-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Cab
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/cabbage
+    label: Cabbage Vegetable Crop Farming Cabbage
+    group: Cabbage Farming
+    deploy: false
+                  
+  - title: Camel
+    title2: Camel Farming
+    title_uniq: camel-farming
+    default: camel-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Cam
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/livestock/camel
+    label: Camel Livestock Farming Camel
+    group: Camel Farming
+    deploy: false
+                  
+  - title: Canary Seed
+    title2: Canary Seed Farming
+    title_uniq: canary-seed-farming
+    default: canary-seed-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Can
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/cereal-crop/canary-seed
+    label: Canary Seed Cereal Crop Farming Canary Seed
+    group: Canary Seed Farming
+    deploy: false
+                  
+  - title: Cardamon
+    title2: Cardamon Farming
+    title_uniq: cardamon-farming
+    default: cardamon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Car
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/spice-crop/cardamon
+    label: Cardamon Spice Crop Farming Cardamon
+    group: Cardamon Farming
+    deploy: false
+                  
+  - title: Carob
+    title2: Carob Farming
+    title_uniq: carob-farming
+    default: carob-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Car
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/carob
+    label: Carob Fruit Crop Farming Carob
+    group: Carob Farming
+    deploy: false
+                  
+  - title: Carp
+    title2: Carp Farming
+    title_uniq: carp-farming
+    default: carp-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Car
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fish/carp
+    label: Carp Fish Farming Carp
+    group: Carp Farming
+    deploy: false
+                  
+  - title: Carrot
+    title2: Carrot Farming
+    title_uniq: carrot-farming
+    default: carrot-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Car
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/carrot
+    label: Carrot Vegetable Crop Farming Carrot
+    group: Carrot Farming
+    deploy: false
+                  
+  - title: Cashew
+    title2: Cashew Farming
+    title_uniq: cashew-farming
+    default: cashew-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Cas
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/tree-nut-crop/cashew
+    label: Cashew Tree Nut Crop Farming Cashew
+    group: Cashew Farming
+    deploy: false
+                  
+  - title: Cashewapple
+    title2: Cashewapple Farming
+    title_uniq: cashewapple-farming
+    default: cashewapple-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Cas
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/cashewapple
+    label: Cashewapple Fruit Crop Farming Cashewapple
+    group: Cashewapple Farming
+    deploy: false
+                  
+  - title: Cassava
+    title2: Cassava Farming
+    title_uniq: cassava-farming
+    default: cassava-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Cas
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/root-and-tuber-crop/cassava
+    label: Cassava Root and Tuber Crop Farming Cassava
+    group: Cassava Farming
+    deploy: false
+                  
+  - title: Castor
+    title2: Castor Farming
+    title_uniq: castor-farming
+    default: castor-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Cas
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/castor
+    label: Castor Oilcrop Farming Castor
+    group: Castor Farming
+    deploy: false
+                  
+  - title: Catfish
+    title2: Catfish Farming
+    title_uniq: catfish-farming
+    default: catfish-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Cat
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fish/catfish
+    label: Catfish Fish Farming Catfish
+    group: Catfish Farming
+    deploy: false
+                  
+  - title: Cattle
+    title2: Cattle Farming
+    title_uniq: cattle-farming
+    default: cattle-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Cat
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/livestock/cattle
+    label: Cattle Livestock Farming Cattle
+    group: Cattle Farming
+    deploy: false
+                  
+  - title: Cauliflower
+    title2: Cauliflower Farming
+    title_uniq: cauliflower-farming
+    default: cauliflower-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Cau
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/cauliflower
+    label: Cauliflower Vegetable Crop Farming Cauliflower
+    group: Cauliflower Farming
+    deploy: false
+                  
+  - title: Cereal Crop
+    title2: Cereal Crop Farming
+    title_uniq: cereal-crop-farming
+    default: cereal-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ce
+    alphabet_l3: Cer
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/cereal-crop
+    label: Cereal Crop Farming Cereal Crop Barley Buckwheat Canary Seed Fonio Maize Millet Oat Quinoa Rice Rye Sorghum Triticale Wheat
+    group: Cereal Crop Farming
+    deploy: true
+                  
+  - title: Cereal Product
+    title2: Cereal Product Production
+    title_uniq: cereal-product-production
+    default: cereal-product-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ce
+    alphabet_l3: Cer
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/food-production/cereal-product
+    label: Cereal Product Food Production Cereal Product
+    group: Cereal Product Production
+    deploy: true
+                  
+  - title: Cherry
+    title2: Cherry Farming
+    title_uniq: cherry-farming
+    default: cherry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ch
+    alphabet_l3: Che
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/cherry
+    label: Cherry Fruit Crop Farming Cherry
+    group: Cherry Farming
+    deploy: false
+                  
+  - title: Chestnut
+    title2: Chestnut Farming
+    title_uniq: chestnut-farming
+    default: chestnut-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ch
+    alphabet_l3: Che
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/tree-nut-crop/chestnut
+    label: Chestnut Tree Nut Crop Farming Chestnut
+    group: Chestnut Farming
+    deploy: false
+                  
+  - title: Chicken
+    title2: Chicken Farming
+    title_uniq: chicken-farming
+    default: chicken-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ch
+    alphabet_l3: Chi
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/poultry/chicken
+    label: Chicken Poultry Farming Chicken
+    group: Chicken Farming
+    deploy: false
+                  
+  - title: Chicory
+    title2: Chicory Farming
+    title_uniq: chicory-farming
+    default: chicory-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ch
+    alphabet_l3: Chi
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/chicory
+    label: Chicory Vegetable Crop Farming Chicory
+    group: Chicory Farming
+    deploy: false
+                  
+  - title: Chilly and Pepper
+    title2: Chilly and Pepper Farming
+    title_uniq: chilly-and-pepper-farming
+    default: chilly-and-pepper-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ch
+    alphabet_l3: Chi
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/chilly-and-pepper
+    label: Chilly and Pepper Vegetable Crop Farming Chilly and Pepper
+    group: Chilly and Pepper Farming
+    deploy: false
+                  
+  - title: Chilly and Pepper
+    title2: Chilly and Pepper Farming
+    title_uniq: chilly-and-pepper-farming
+    default: chilly-and-pepper-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ch
+    alphabet_l3: Chi
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/spice-crop/chilly-and-pepper
+    label: Chilly and Pepper Spice Crop Farming Chilly and Pepper
+    group: Chilly and Pepper Farming
+    deploy: false
+                  
+  - title: Cinnamon
+    title2: Cinnamon Farming
+    title_uniq: cinnamon-farming
+    default: cinnamon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ci
+    alphabet_l3: Cin
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/spice-crop/cinnamon
+    label: Cinnamon Spice Crop Farming Cinnamon
+    group: Cinnamon Farming
+    deploy: false
+                  
+  - title: Citronella
+    title2: Citronella Farming
+    title_uniq: citronella-farming
+    default: citronella-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ci
+    alphabet_l3: Cit
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/other-crops/citronella
+    label: Citronella Other Crops Farming Citronella
+    group: Citronella Farming
+    deploy: false
+                  
+  - title: Citrus Fruit
+    title2: Citrus Fruit Farming
+    title_uniq: citrus-fruit-farming
+    default: citrus-fruit-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ci
+    alphabet_l3: Cit
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/citrus-fruit
+    label: Citrus Fruit Farming Citrus Fruit Clementine Grapefruit Lemon Lime Mandarin Orange Satsumas Tangerine
+    group: Citrus Fruit Farming
+    deploy: false
+                  
+  - title: Clam
+    title2: Clam Farming
+    title_uniq: clam-farming
+    default: clam-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cl
+    alphabet_l3: Cla
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/molluscs/clam
+    label: Clam Molluscs Farming Clam
+    group: Clam Farming
+    deploy: false
+                  
+  - title: Clementine
+    title2: Clementine Farming
+    title_uniq: clementine-farming
+    default: clementine-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cl
+    alphabet_l3: Cle
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/clementine
+    label: Clementine Fruit Crop Farming Clementine
+    group: Clementine Farming
+    deploy: false
+                  
+  - title: Clementine
+    title2: Clementine Farming
+    title_uniq: clementine-farming
+    default: clementine-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cl
+    alphabet_l3: Cle
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/citrus-fruit/clementine
+    label: Clementine Citrus Fruit Farming Clementine
+    group: Clementine Farming
+    deploy: false
+                  
+  - title: Clove
+    title2: Clove Farming
+    title_uniq: clove-farming
+    default: clove-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cl
+    alphabet_l3: Clo
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/spice-crop/clove
+    label: Clove Spice Crop Farming Clove
+    group: Clove Farming
+    deploy: false
+                  
+  - title: Co-operation
+    title2: Co-operation
+    title_uniq: co-operation
+    default: co-operation
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Co-
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/work-ethic/co-operation
+    label: Co-operation Work Ethic Attribute Co-operation
+    group: Co-operation
+    deploy: false
+                  
+  - title: Coconut
+    title2: Coconut Farming
+    title_uniq: coconut-farming
+    default: coconut-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Coc
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/coconut
+    label: Coconut Oilcrop Farming Coconut
+    group: Coconut Farming
+    deploy: false
+                  
+  - title: Cocoyam
+    title2: Cocoyam Farming
+    title_uniq: cocoyam-farming
+    default: cocoyam-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Coc
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/root-and-tuber-crop/cocoyam
+    label: Cocoyam Root and Tuber Crop Farming Cocoyam
+    group: Cocoyam Farming
+    deploy: false
+                  
+  - title: Coffee
+    title2: Coffee Farming
+    title_uniq: coffee-farming
+    default: coffee-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Cof
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/stimulant-crop/coffee
+    label: Coffee Stimulant Crop Farming Coffee
+    group: Coffee Farming
+    deploy: false
+                  
+  - title: Cognition
+    title2: Cognition
+    title_uniq: cognition
+    default: cognition
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Cog
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognition
+    label: Cognition Attribute Cognition Attention Executive Functions Language Skills Memory Metacognition Motor Skills Perception Processing Speed
+    group: Cognition
+    deploy: true
+                  
+  - title: Cognitive Aptitude
+    title2: Cognitive Aptitude
+    title_uniq: cognitive-aptitude
+    default: cognitive-aptitude
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Cog
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognitive-aptitude
+    label: Cognitive Aptitude Attribute Cognitive Aptitude Ability to Learn Ability to Organize Ability to Plan Creativity Critical Thinking Decision Making Intuition Problem Solving Strategic Thinking
+    group: Cognitive Aptitude
+    deploy: true
+                  
+  - title: Condiment
+    title2: Condiment Production
+    title_uniq: condiment-production
+    default: condiment-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Con
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/food-production/condiment
+    label: Condiment Food Production Condiment
+    group: Condiment Production
+    deploy: true
+                  
+  - title: Confection
+    title2: Confection Production
+    title_uniq: confection-production
+    default: confection-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Con
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/food-production/confection
+    label: Confection Food Production Confection
+    group: Confection Production
+    deploy: 
+                  
+  - title: Conflict Management
+    title2: Conflict Management
+    title_uniq: conflict-management
+    default: conflict-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Con
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/social-interrelation/conflict-management
+    label: Conflict Management Social Interrelation Attribute Conflict Management
+    group: Conflict Management
+    deploy: false
+                  
+  - title: Consistency
+    title2: Consistency
+    title_uniq: consistency
+    default: consistency
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Con
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/work-ethic/consistency
+    label: Consistency Work Ethic Attribute Consistency
+    group: Consistency
+    deploy: false
+                  
+  - title: Courage
+    title2: Courage
+    title_uniq: courage
+    default: courage
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Cou
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/moral-ethic/courage
+    label: Courage Moral Ethic Attribute Courage
+    group: Courage
+    deploy: false
+                  
+  - title: Crab
+    title2: Crab Farming
+    title_uniq: crab-farming
+    default: crab-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cr
+    alphabet_l3: Cra
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/crustacean/crab
+    label: Crab Crustacean Farming Crab
+    group: Crab Farming
+    deploy: false
+                  
+  - title: Craft
+    title2: Craft
+    title_uniq: craft
+    default: craft
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cr
+    alphabet_l3: Cra
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/craft
+    label: Craft Craft
+    group: Craft
+    deploy: true
+                  
+  - title: Cranberry
+    title2: Cranberry Farming
+    title_uniq: cranberry-farming
+    default: cranberry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cr
+    alphabet_l3: Cra
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/cranberry
+    label: Cranberry Fruit Crop Farming Cranberry
+    group: Cranberry Farming
+    deploy: false
+                  
+  - title: Crayfish
+    title2: Crayfish Farming
+    title_uniq: crayfish-farming
+    default: crayfish-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cr
+    alphabet_l3: Cra
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/crustacean/crayfish
+    label: Crayfish Crustacean Farming Crayfish
+    group: Crayfish Farming
+    deploy: false
+                  
+  - title: Creativity
+    title2: Creativity
+    title_uniq: creativity
+    default: creativity
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cr
+    alphabet_l3: Cre
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognitive-aptitude/creativity
+    label: Creativity Cognitive Aptitude Attribute Creativity
+    group: Creativity
+    deploy: false
+                  
+  - title: Critical Thinking
+    title2: Critical Thinking
+    title_uniq: critical-thinking
+    default: critical-thinking
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cr
+    alphabet_l3: Cri
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognitive-aptitude/critical-thinking
+    label: Critical Thinking Cognitive Aptitude Attribute Critical Thinking
+    group: Critical Thinking
+    deploy: false
+                  
+  - title: Crustacean
+    title2: Crustacean Farming
+    title_uniq: crustacean-farming
+    default: crustacean-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cr
+    alphabet_l3: Cru
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/crustacean
+    label: Crustacean Farming Crustacean Crab Crayfish Lobster Prawn Shrimp
+    group: Crustacean Farming
+    deploy: true
+                  
+  - title: Cucumber
+    title2: Cucumber Farming
+    title_uniq: cucumber-farming
+    default: cucumber-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cu
+    alphabet_l3: Cuc
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/cucumber
+    label: Cucumber Vegetable Crop Farming Cucumber
+    group: Cucumber Farming
+    deploy: false
+                  
+  - title: Currant
+    title2: Currant Farming
+    title_uniq: currant-farming
+    default: currant-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cu
+    alphabet_l3: Cur
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/currant
+    label: Currant Fruit Crop Farming Currant
+    group: Currant Farming
+    deploy: false
+                  
+  - title: Date
+    title2: Date Farming
+    title_uniq: date-farming
+    default: date-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: D
+    alphabet_l2: Da
+    alphabet_l3: Dat
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/date
+    label: Date Fruit Crop Farming Date
+    group: Date Farming
+    deploy: false
+                  
+  - title: Decision Making
+    title2: Decision Making
+    title_uniq: decision-making
+    default: decision-making
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: D
+    alphabet_l2: De
+    alphabet_l3: Dec
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognitive-aptitude/decision-making
+    label: Decision Making Cognitive Aptitude Attribute Decision Making
+    group: Decision Making
+    deploy: false
+                  
+  - title: Delegation
+    title2: Delegation
+    title_uniq: delegation
+    default: delegation
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: D
+    alphabet_l2: De
+    alphabet_l3: Del
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/administration/delegation
+    label: Delegation Administration Attribute Delegation
+    group: Delegation
+    deploy: false
+                  
+  - title: Despair Management
+    title2: Despair Management
+    title_uniq: despair-management
+    default: despair-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: D
+    alphabet_l2: De
+    alphabet_l3: Des
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/emotion-management/despair-management
+    label: Despair Management Emotion Management Attribute Despair Management
+    group: Despair Management
+    deploy: false
+                  
+  - title: Donkey
+    title2: Donkey Farming
+    title_uniq: donkey-farming
+    default: donkey-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: D
+    alphabet_l2: Do
+    alphabet_l3: Don
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/livestock/donkey
+    label: Donkey Livestock Farming Donkey
+    group: Donkey Farming
+    deploy: false
+                  
+  - title: Duck
+    title2: Duck Farming
+    title_uniq: duck-farming
+    default: duck-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: D
+    alphabet_l2: Du
+    alphabet_l3: Duc
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/poultry/duck
+    label: Duck Poultry Farming Duck
+    group: Duck Farming
+    deploy: false
+                  
+  - title: Eel
+    title2: Eel Farming
+    title_uniq: eel-farming
+    default: eel-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: E
+    alphabet_l2: Ee
+    alphabet_l3: Eel
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fish/eel
+    label: Eel Fish Farming Eel
+    group: Eel Farming
+    deploy: false
+                  
+  - title: Eggplant
+    title2: Eggplant Farming
+    title_uniq: eggplant-farming
+    default: eggplant-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: E
+    alphabet_l2: Eg
+    alphabet_l3: Egg
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/eggplant
+    label: Eggplant Vegetable Crop Farming Eggplant
+    group: Eggplant Farming
+    deploy: false
+                  
+  - title: Emotion Management
+    title2: Emotion Management
+    title_uniq: emotion-management
+    default: emotion-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: E
+    alphabet_l2: Em
+    alphabet_l3: Emo
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/emotion-management
+    label: Emotion Management Attribute Emotion Management Anger Management Anxiety Management Despair Management Envy Management Fear Management Guilt Management Happiness Management Hatred Management Hope Management Loneliness Management Love Management Pride Management Regret Management Sadness Management Shame Management
+    group: Emotion Management
+    deploy: true
+                  
+  - title: Emu
+    title2: Emu Farming
+    title_uniq: emu-farming
+    default: emu-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: E
+    alphabet_l2: Em
+    alphabet_l3: Emu
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/poultry/emu
+    label: Emu Poultry Farming Emu
+    group: Emu Farming
+    deploy: false
+                  
+  - title: Envy Management
+    title2: Envy Management
+    title_uniq: envy-management
+    default: envy-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: E
+    alphabet_l2: En
+    alphabet_l3: Env
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/emotion-management/envy-management
+    label: Envy Management Emotion Management Attribute Envy Management
+    group: Envy Management
+    deploy: false
+                  
+  - title: Executive Functions
+    title2: Executive Functions
+    title_uniq: executive-functions
+    default: executive-functions
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: E
+    alphabet_l2: Ex
+    alphabet_l3: Exe
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognition/executive-functions
+    label: Executive Functions Cognition Attribute Executive Functions
+    group: Executive Functions
+    deploy: false
+                  
+  - title: Fairness
+    title2: Fairness
+    title_uniq: fairness
+    default: fairness
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fa
+    alphabet_l3: Fai
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/work-ethic/fairness
+    label: Fairness Work Ethic Attribute Fairness
+    group: Fairness
+    deploy: false
+                  
+  - title: Farming
+    title2: Farming
+    title_uniq: farming
+    default: farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fa
+    alphabet_l3: Far
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming
+    label: Farming Farming Cereal Crop Barley Buckwheat Canary Seed Fonio Maize Millet Oat Quinoa Rice Rye Sorghum Triticale Wheat Citrus Fruit Clementine Grapefruit Lemon Lime Mandarin Orange Satsumas Tangerine Crustacean Crab Crayfish Lobster Prawn Shrimp Fibre Crop Agave Bast Flax Hemp Jute Kapok Manila Ramie Seed Cotton Sisal Fish Carp Catfish Eel Mullet Perch Salmon Seabream Sturgeon Tilapia Trout Fruit Crop Apple Apricot Avocado Banana Blueberry Carob Cashewapple Cherry Clementine Cranberry Currant Date Fig Gooseberry Grape Grapefruit Guava Kiwi Lemon Lime Mandarin Mango Mangosteen Nectarine Orange Papaya Peach Pear Persimmon Pineapple Plantain Plum and Sole Quince Raspberry Satsumas Strawberry Tangerine Watermelon Livestock Alpaca Buffalo Camel Cattle Donkey Goat Horse Llama Ox Pig Rabbit Reindeer Sheep Water Buffalo Yak Molluscs Abalone Ark Clam Mussel Oyster Scallop Shell Oilcrop Castor Coconut Flax Groundnut Hemp Jojoba Kapok Karite Melon Mustard Oil Palm Olive Poppy Rape Safflower Seed Cotton Sesame Soybean Sunflower Tung Other Crops Citronella Gum Hop Mint Pyrethrum Tobacco Wax Poultry Chicken Duck Emu Francolin Goose Guinea Fowl Ostrich Partridge Peafowl Pheasant Pigeon Quail Swan Swiftlet Tinamou Turkey Pulse Crop Bean Lentil Lupin Pea Vetch Root and Tuber Crop Cassava Cocoyam Potato Yam Spice Crop Anise Badian Cardamon Chilly and Pepper Cinnamon Clove Fennel Ginger Mace Nutmeg Pimento Vanilla Stimulant Crop Bean Coffee Mate Tea Sugar Crop Sugar Beet Sugar Cane Tree Nut Crop Almond Brazil Cashew Chestnut Hazelnut Pistachio Walnut Vegetable Crop Artichoke Asparagus Bean Broccoli Cabbage Carrot Cauliflower Chicory Chilly and Pepper Cucumber Eggplant Garlic Gherkin Gourd Leek Lettuce Maize Mushroom Okra Onion Pea Pumpkin Shallot Spinach Squash Tomato Truffle Turnip
+    group: Farming
+    deploy: true
+                  
+  - title: Fear Management
+    title2: Fear Management
+    title_uniq: fear-management
+    default: fear-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fe
+    alphabet_l3: Fea
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/emotion-management/fear-management
+    label: Fear Management Emotion Management Attribute Fear Management
+    group: Fear Management
+    deploy: false
+                  
+  - title: Fennel
+    title2: Fennel Farming
+    title_uniq: fennel-farming
+    default: fennel-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fe
+    alphabet_l3: Fen
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/spice-crop/fennel
+    label: Fennel Spice Crop Farming Fennel
+    group: Fennel Farming
+    deploy: false
+                  
+  - title: Fibre Crop
+    title2: Fibre Crop Farming
+    title_uniq: fibre-crop-farming
+    default: fibre-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fi
+    alphabet_l3: Fib
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fibre-crop
+    label: Fibre Crop Farming Fibre Crop Agave Bast Flax Hemp Jute Kapok Manila Ramie Seed Cotton Sisal
+    group: Fibre Crop Farming
+    deploy: true
+                  
+  - title: Fig
+    title2: Fig Farming
+    title_uniq: fig-farming
+    default: fig-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fi
+    alphabet_l3: Fig
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/fig
+    label: Fig Fruit Crop Farming Fig
+    group: Fig Farming
+    deploy: false
+                  
+  - title: Fish
+    title2: Fish Farming
+    title_uniq: fish-farming
+    default: fish-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fi
+    alphabet_l3: Fis
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fish
+    label: Fish Farming Fish Carp Catfish Eel Mullet Perch Salmon Seabream Sturgeon Tilapia Trout
+    group: Fish Farming
+    deploy: true
+                  
+  - title: Flax
+    title2: Flax Farming
+    title_uniq: flax-farming
+    default: flax-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fl
+    alphabet_l3: Fla
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/flax
+    label: Flax Oilcrop Farming Flax
+    group: Flax Farming
+    deploy: false
+                  
+  - title: Flax
+    title2: Flax Farming
+    title_uniq: flax-farming
+    default: flax-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fl
+    alphabet_l3: Fla
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fibre-crop/flax
+    label: Flax Fibre Crop Farming Flax
+    group: Flax Farming
+    deploy: false
+                  
+  - title: Fonio
+    title2: Fonio Farming
+    title_uniq: fonio-farming
+    default: fonio-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fo
+    alphabet_l3: Fon
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/cereal-crop/fonio
+    label: Fonio Cereal Crop Farming Fonio
+    group: Fonio Farming
+    deploy: false
+                  
+  - title: Food Additive
+    title2: Food Additive Production
+    title_uniq: food-additive-production
+    default: food-additive-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fo
+    alphabet_l3: Foo
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/food-production/food-additive
+    label: Food Additive Food Production Food Additive
+    group: Food Additive Production
+    deploy: true
+                  
+  - title: Food Production
+    title2: Food Production
+    title_uniq: food-production
+    default: food-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fo
+    alphabet_l3: Foo
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/food-production
+    label: Food Production Food Production Beverage Cereal Product Condiment Confection Food Additive Nut Product Pasta and Noodle Pulse Product
+    group: Food Production
+    deploy: true
+                  
+  - title: Francolin
+    title2: Francolin Farming
+    title_uniq: francolin-farming
+    default: francolin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fr
+    alphabet_l3: Fra
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/poultry/francolin
+    label: Francolin Poultry Farming Francolin
+    group: Francolin Farming
+    deploy: false
+                  
+  - title: Fruit Crop
+    title2: Fruit Crop Farming
+    title_uniq: fruit-crop-farming
+    default: fruit-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fr
+    alphabet_l3: Fru
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop
+    label: Fruit Crop Farming Fruit Crop Apple Apricot Avocado Banana Blueberry Carob Cashewapple Cherry Clementine Cranberry Currant Date Fig Gooseberry Grape Grapefruit Guava Kiwi Lemon Lime Mandarin Mango Mangosteen Nectarine Orange Papaya Peach Pear Persimmon Pineapple Plantain Plum and Sole Quince Raspberry Satsumas Strawberry Tangerine Watermelon
+    group: Fruit Crop Farming
+    deploy: true
+                  
+  - title: Garlic
+    title2: Garlic Farming
+    title_uniq: garlic-farming
+    default: garlic-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ga
+    alphabet_l3: Gar
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/garlic
+    label: Garlic Vegetable Crop Farming Garlic
+    group: Garlic Farming
+    deploy: false
+                  
+  - title: Gherkin
+    title2: Gherkin Farming
+    title_uniq: gherkin-farming
+    default: gherkin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Gh
+    alphabet_l3: Ghe
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/gherkin
+    label: Gherkin Vegetable Crop Farming Gherkin
+    group: Gherkin Farming
+    deploy: false
+                  
+  - title: Ginger
+    title2: Ginger Farming
+    title_uniq: ginger-farming
+    default: ginger-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Gi
+    alphabet_l3: Gin
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/spice-crop/ginger
+    label: Ginger Spice Crop Farming Ginger
+    group: Ginger Farming
+    deploy: false
+                  
+  - title: Goat
+    title2: Goat Farming
+    title_uniq: goat-farming
+    default: goat-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Go
+    alphabet_l3: Goa
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/livestock/goat
+    label: Goat Livestock Farming Goat
+    group: Goat Farming
+    deploy: false
+                  
+  - title: Goose
+    title2: Goose Farming
+    title_uniq: goose-farming
+    default: goose-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Go
+    alphabet_l3: Goo
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/poultry/goose
+    label: Goose Poultry Farming Goose
+    group: Goose Farming
+    deploy: false
+                  
+  - title: Gooseberry
+    title2: Gooseberry Farming
+    title_uniq: gooseberry-farming
+    default: gooseberry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Go
+    alphabet_l3: Goo
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/gooseberry
+    label: Gooseberry Fruit Crop Farming Gooseberry
+    group: Gooseberry Farming
+    deploy: false
+                  
+  - title: Gourd
+    title2: Gourd Farming
+    title_uniq: gourd-farming
+    default: gourd-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Go
+    alphabet_l3: Gou
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/gourd
+    label: Gourd Vegetable Crop Farming Gourd
+    group: Gourd Farming
+    deploy: false
+                  
+  - title: Grape
+    title2: Grape Farming
+    title_uniq: grape-farming
+    default: grape-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Gr
+    alphabet_l3: Gra
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/grape
+    label: Grape Fruit Crop Farming Grape
+    group: Grape Farming
+    deploy: false
+                  
+  - title: Grapefruit
+    title2: Grapefruit Farming
+    title_uniq: grapefruit-farming
+    default: grapefruit-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Gr
+    alphabet_l3: Gra
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/grapefruit
+    label: Grapefruit Fruit Crop Farming Grapefruit
+    group: Grapefruit Farming
+    deploy: false
+                  
+  - title: Grapefruit
+    title2: Grapefruit Farming
+    title_uniq: grapefruit-farming
+    default: grapefruit-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Gr
+    alphabet_l3: Gra
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/citrus-fruit/grapefruit
+    label: Grapefruit Citrus Fruit Farming Grapefruit
+    group: Grapefruit Farming
+    deploy: false
+                  
+  - title: Gratitude
+    title2: Gratitude
+    title_uniq: gratitude
+    default: gratitude
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Gr
+    alphabet_l3: Gra
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/moral-ethic/gratitude
+    label: Gratitude Moral Ethic Attribute Gratitude
+    group: Gratitude
+    deploy: false
+                  
+  - title: Groundnut
+    title2: Groundnut Farming
+    title_uniq: groundnut-farming
+    default: groundnut-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Gr
+    alphabet_l3: Gro
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/groundnut
+    label: Groundnut Oilcrop Farming Groundnut
+    group: Groundnut Farming
+    deploy: false
+                  
+  - title: Guava
+    title2: Guava Farming
+    title_uniq: guava-farming
+    default: guava-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Gu
+    alphabet_l3: Gua
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/guava
+    label: Guava Fruit Crop Farming Guava
+    group: Guava Farming
+    deploy: false
+                  
+  - title: Guilt Management
+    title2: Guilt Management
+    title_uniq: guilt-management
+    default: guilt-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Gu
+    alphabet_l3: Gui
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/emotion-management/guilt-management
+    label: Guilt Management Emotion Management Attribute Guilt Management
+    group: Guilt Management
+    deploy: false
+                  
+  - title: Guinea Fowl
+    title2: Guinea Fowl Farming
+    title_uniq: guinea-fowl-farming
+    default: guinea-fowl-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Gu
+    alphabet_l3: Gui
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/poultry/guinea-fowl
+    label: Guinea Fowl Poultry Farming Guinea Fowl
+    group: Guinea Fowl Farming
+    deploy: false
+                  
+  - title: Gum
+    title2: Gum Farming
+    title_uniq: gum-farming
+    default: gum-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Gu
+    alphabet_l3: Gum
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/other-crops/gum
+    label: Gum Other Crops Farming Gum
+    group: Gum Farming
+    deploy: false
+                  
+  - title: Happiness Management
+    title2: Happiness Management
+    title_uniq: happiness-management
+    default: happiness-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: Ha
+    alphabet_l3: Hap
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/emotion-management/happiness-management
+    label: Happiness Management Emotion Management Attribute Happiness Management
+    group: Happiness Management
+    deploy: false
+                  
+  - title: Hatred Management
+    title2: Hatred Management
+    title_uniq: hatred-management
+    default: hatred-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: Ha
+    alphabet_l3: Hat
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/emotion-management/hatred-management
+    label: Hatred Management Emotion Management Attribute Hatred Management
+    group: Hatred Management
+    deploy: false
+                  
+  - title: Hazelnut
+    title2: Hazelnut Farming
+    title_uniq: hazelnut-farming
+    default: hazelnut-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: Ha
+    alphabet_l3: Haz
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/tree-nut-crop/hazelnut
+    label: Hazelnut Tree Nut Crop Farming Hazelnut
+    group: Hazelnut Farming
+    deploy: false
+                  
+  - title: Hemp
+    title2: Hemp Farming
+    title_uniq: hemp-farming
+    default: hemp-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: He
+    alphabet_l3: Hem
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/hemp
+    label: Hemp Oilcrop Farming Hemp
+    group: Hemp Farming
+    deploy: false
+                  
+  - title: Hemp
+    title2: Hemp Farming
+    title_uniq: hemp-farming
+    default: hemp-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: He
+    alphabet_l3: Hem
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fibre-crop/hemp
+    label: Hemp Fibre Crop Farming Hemp
+    group: Hemp Farming
+    deploy: false
+                  
+  - title: Honesty
+    title2: Honesty
+    title_uniq: honesty
+    default: honesty
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: Ho
+    alphabet_l3: Hon
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/moral-ethic/honesty
+    label: Honesty Moral Ethic Attribute Honesty
+    group: Honesty
+    deploy: false
+                  
+  - title: Hop
+    title2: Hop Farming
+    title_uniq: hop-farming
+    default: hop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: Ho
+    alphabet_l3: Hop
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/other-crops/hop
+    label: Hop Other Crops Farming Hop
+    group: Hop Farming
+    deploy: false
+                  
+  - title: Hope Management
+    title2: Hope Management
+    title_uniq: hope-management
+    default: hope-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: Ho
+    alphabet_l3: Hop
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/emotion-management/hope-management
+    label: Hope Management Emotion Management Attribute Hope Management
+    group: Hope Management
+    deploy: false
+                  
+  - title: Horse
+    title2: Horse Farming
+    title_uniq: horse-farming
+    default: horse-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: Ho
+    alphabet_l3: Hor
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/livestock/horse
+    label: Horse Livestock Farming Horse
+    group: Horse Farming
+    deploy: false
+                  
+  - title: Humility
+    title2: Humility
+    title_uniq: humility
+    default: humility
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: Hu
+    alphabet_l3: Hum
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/moral-ethic/humility
+    label: Humility Moral Ethic Attribute Humility
+    group: Humility
+    deploy: false
+                  
+  - title: Integrity
+    title2: Integrity
+    title_uniq: integrity
+    default: integrity
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: I
+    alphabet_l2: In
+    alphabet_l3: Int
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/work-ethic/integrity
+    label: Integrity Work Ethic Attribute Integrity
+    group: Integrity
+    deploy: false
+                  
+  - title: Intuition
+    title2: Intuition
+    title_uniq: intuition
+    default: intuition
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: I
+    alphabet_l2: In
+    alphabet_l3: Int
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognitive-aptitude/intuition
+    label: Intuition Cognitive Aptitude Attribute Intuition
+    group: Intuition
+    deploy: false
+                  
+  - title: Jojoba
+    title2: Jojoba Farming
+    title_uniq: jojoba-farming
+    default: jojoba-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: J
+    alphabet_l2: Jo
+    alphabet_l3: Joj
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/jojoba
+    label: Jojoba Oilcrop Farming Jojoba
+    group: Jojoba Farming
+    deploy: false
+                  
+  - title: Jute
+    title2: Jute Farming
+    title_uniq: jute-farming
+    default: jute-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: J
+    alphabet_l2: Ju
+    alphabet_l3: Jut
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fibre-crop/jute
+    label: Jute Fibre Crop Farming Jute
+    group: Jute Farming
+    deploy: false
+                  
+  - title: Kapok
+    title2: Kapok Farming
+    title_uniq: kapok-farming
+    default: kapok-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: K
+    alphabet_l2: Ka
+    alphabet_l3: Kap
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fibre-crop/kapok
+    label: Kapok Fibre Crop Farming Kapok
+    group: Kapok Farming
+    deploy: false
+                  
+  - title: Kapok
+    title2: Kapok Farming
+    title_uniq: kapok-farming
+    default: kapok-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: K
+    alphabet_l2: Ka
+    alphabet_l3: Kap
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/kapok
+    label: Kapok Oilcrop Farming Kapok
+    group: Kapok Farming
+    deploy: false
+                  
+  - title: Karite
+    title2: Karite Farming
+    title_uniq: karite-farming
+    default: karite-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: K
+    alphabet_l2: Ka
+    alphabet_l3: Kar
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/karite
+    label: Karite Oilcrop Farming Karite
+    group: Karite Farming
+    deploy: false
+                  
+  - title: Kindness
+    title2: Kindness
+    title_uniq: kindness
+    default: kindness
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: K
+    alphabet_l2: Ki
+    alphabet_l3: Kin
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/moral-ethic/kindness
+    label: Kindness Moral Ethic Attribute Kindness
+    group: Kindness
+    deploy: false
+                  
+  - title: Kiwi
+    title2: Kiwi Farming
+    title_uniq: kiwi-farming
+    default: kiwi-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: K
+    alphabet_l2: Ki
+    alphabet_l3: Kiw
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/kiwi
+    label: Kiwi Fruit Crop Farming Kiwi
+    group: Kiwi Farming
+    deploy: false
+                  
+  - title: Language Skills
+    title2: Language Skills
+    title_uniq: language-skills
+    default: language-skills
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: La
+    alphabet_l3: Lan
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognition/language-skills
+    label: Language Skills Cognition Attribute Language Skills
+    group: Language Skills
+    deploy: false
+                  
+  - title: Leadership
+    title2: Leadership
+    title_uniq: leadership
+    default: leadership
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Le
+    alphabet_l3: Lea
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/administration/leadership
+    label: Leadership Administration Attribute Leadership
+    group: Leadership
+    deploy: false
+                  
+  - title: Leek
+    title2: Leek Farming
+    title_uniq: leek-farming
+    default: leek-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Le
+    alphabet_l3: Lee
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/leek
+    label: Leek Vegetable Crop Farming Leek
+    group: Leek Farming
+    deploy: false
+                  
+  - title: Lemon
+    title2: Lemon Farming
+    title_uniq: lemon-farming
+    default: lemon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Le
+    alphabet_l3: Lem
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/citrus-fruit/lemon
+    label: Lemon Citrus Fruit Farming Lemon
+    group: Lemon Farming
+    deploy: false
+                  
+  - title: Lemon
+    title2: Lemon Farming
+    title_uniq: lemon-farming
+    default: lemon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Le
+    alphabet_l3: Lem
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/lemon
+    label: Lemon Fruit Crop Farming Lemon
+    group: Lemon Farming
+    deploy: false
+                  
+  - title: Lentil
+    title2: Lentil Farming
+    title_uniq: lentil-farming
+    default: lentil-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Le
+    alphabet_l3: Len
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/pulse-crop/lentil
+    label: Lentil Pulse Crop Farming Lentil
+    group: Lentil Farming
+    deploy: false
+                  
+  - title: Lettuce
+    title2: Lettuce Farming
+    title_uniq: lettuce-farming
+    default: lettuce-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Le
+    alphabet_l3: Let
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/lettuce
+    label: Lettuce Vegetable Crop Farming Lettuce
+    group: Lettuce Farming
+    deploy: false
+                  
+  - title: Lime
+    title2: Lime Farming
+    title_uniq: lime-farming
+    default: lime-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Li
+    alphabet_l3: Lim
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/lime
+    label: Lime Fruit Crop Farming Lime
+    group: Lime Farming
+    deploy: false
+                  
+  - title: Lime
+    title2: Lime Farming
+    title_uniq: lime-farming
+    default: lime-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Li
+    alphabet_l3: Lim
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/citrus-fruit/lime
+    label: Lime Citrus Fruit Farming Lime
+    group: Lime Farming
+    deploy: false
+                  
+  - title: Livestock
+    title2: Livestock Farming
+    title_uniq: livestock-farming
+    default: livestock-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Li
+    alphabet_l3: Liv
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/livestock
+    label: Livestock Farming Livestock Alpaca Buffalo Camel Cattle Donkey Goat Horse Llama Ox Pig Rabbit Reindeer Sheep Water Buffalo Yak
+    group: Livestock Farming
+    deploy: true
+                  
+  - title: Llama
+    title2: Llama Farming
+    title_uniq: llama-farming
+    default: llama-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Ll
+    alphabet_l3: Lla
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/livestock/llama
+    label: Llama Livestock Farming Llama
+    group: Llama Farming
+    deploy: false
+                  
+  - title: Lobster
+    title2: Lobster Farming
+    title_uniq: lobster-farming
+    default: lobster-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Lo
+    alphabet_l3: Lob
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/crustacean/lobster
+    label: Lobster Crustacean Farming Lobster
+    group: Lobster Farming
+    deploy: false
+                  
+  - title: Loneliness Management
+    title2: Loneliness Management
+    title_uniq: loneliness-management
+    default: loneliness-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Lo
+    alphabet_l3: Lon
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/emotion-management/loneliness-management
+    label: Loneliness Management Emotion Management Attribute Loneliness Management
+    group: Loneliness Management
+    deploy: false
+                  
+  - title: Love Management
+    title2: Love Management
+    title_uniq: love-management
+    default: love-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Lo
+    alphabet_l3: Lov
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/emotion-management/love-management
+    label: Love Management Emotion Management Attribute Love Management
+    group: Love Management
+    deploy: false
+                  
+  - title: Lupin
+    title2: Lupin Farming
+    title_uniq: lupin-farming
+    default: lupin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Lu
+    alphabet_l3: Lup
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/pulse-crop/lupin
+    label: Lupin Pulse Crop Farming Lupin
+    group: Lupin Farming
+    deploy: false
+                  
+  - title: Mace
+    title2: Mace Farming
+    title_uniq: mace-farming
+    default: mace-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Mac
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/spice-crop/mace
+    label: Mace Spice Crop Farming Mace
+    group: Mace Farming
+    deploy: false
+                  
+  - title: Maize
+    title2: Maize Farming
+    title_uniq: maize-farming
+    default: maize-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Mai
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/maize
+    label: Maize Vegetable Crop Farming Maize
+    group: Maize Farming
+    deploy: false
+                  
+  - title: Maize
+    title2: Maize Farming
+    title_uniq: maize-farming
+    default: maize-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Mai
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/cereal-crop/maize
+    label: Maize Cereal Crop Farming Maize
+    group: Maize Farming
+    deploy: false
+                  
+  - title: Management
+    title2: Management
+    title_uniq: management
+    default: management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Man
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/administration/management
+    label: Management Administration Attribute Management
+    group: Management
+    deploy: false
+                  
+  - title: Mandarin
+    title2: Mandarin Farming
+    title_uniq: mandarin-farming
+    default: mandarin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Man
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/citrus-fruit/mandarin
+    label: Mandarin Citrus Fruit Farming Mandarin
+    group: Mandarin Farming
+    deploy: false
+                  
+  - title: Mandarin
+    title2: Mandarin Farming
+    title_uniq: mandarin-farming
+    default: mandarin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Man
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/mandarin
+    label: Mandarin Fruit Crop Farming Mandarin
+    group: Mandarin Farming
+    deploy: false
+                  
+  - title: Mango
+    title2: Mango Farming
+    title_uniq: mango-farming
+    default: mango-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Man
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/mango
+    label: Mango Fruit Crop Farming Mango
+    group: Mango Farming
+    deploy: false
+                  
+  - title: Mangosteen
+    title2: Mangosteen Farming
+    title_uniq: mangosteen-farming
+    default: mangosteen-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Man
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/mangosteen
+    label: Mangosteen Fruit Crop Farming Mangosteen
+    group: Mangosteen Farming
+    deploy: false
+                  
+  - title: Manila
+    title2: Manila Farming
+    title_uniq: manila-farming
+    default: manila-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Man
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fibre-crop/manila
+    label: Manila Fibre Crop Farming Manila
+    group: Manila Farming
+    deploy: false
+                  
+  - title: Mate
+    title2: Mate Farming
+    title_uniq: mate-farming
+    default: mate-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Mat
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/stimulant-crop/mate
+    label: Mate Stimulant Crop Farming Mate
+    group: Mate Farming
+    deploy: false
+                  
+  - title: Melon
+    title2: Melon Farming
+    title_uniq: melon-farming
+    default: melon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Me
+    alphabet_l3: Mel
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/melon
+    label: Melon Oilcrop Farming Melon
+    group: Melon Farming
+    deploy: false
+                  
+  - title: Memory
+    title2: Memory
+    title_uniq: memory
+    default: memory
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Me
+    alphabet_l3: Mem
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognition/memory
+    label: Memory Cognition Attribute Memory
+    group: Memory
+    deploy: false
+                  
+  - title: Mentoring
+    title2: Mentoring
+    title_uniq: mentoring
+    default: mentoring
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Me
+    alphabet_l3: Men
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/administration/mentoring
+    label: Mentoring Administration Attribute Mentoring
+    group: Mentoring
+    deploy: false
+                  
+  - title: Metacognition
+    title2: Metacognition
+    title_uniq: metacognition
+    default: metacognition
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Me
+    alphabet_l3: Met
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognition/metacognition
+    label: Metacognition Cognition Attribute Metacognition
+    group: Metacognition
+    deploy: false
+                  
+  - title: Millet
+    title2: Millet Farming
+    title_uniq: millet-farming
+    default: millet-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mi
+    alphabet_l3: Mil
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/cereal-crop/millet
+    label: Millet Cereal Crop Farming Millet
+    group: Millet Farming
+    deploy: false
+                  
+  - title: Mint
+    title2: Mint Farming
+    title_uniq: mint-farming
+    default: mint-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mi
+    alphabet_l3: Min
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/other-crops/mint
+    label: Mint Other Crops Farming Mint
+    group: Mint Farming
+    deploy: false
+                  
+  - title: Molluscs
+    title2: Molluscs Farming
+    title_uniq: molluscs-farming
+    default: molluscs-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mo
+    alphabet_l3: Mol
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/molluscs
+    label: Molluscs Farming Molluscs Abalone Ark Clam Mussel Oyster Scallop Shell
+    group: Molluscs Farming
+    deploy: true
+                  
+  - title: Monitoring
+    title2: Monitoring
+    title_uniq: monitoring
+    default: monitoring
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mo
+    alphabet_l3: Mon
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/administration/monitoring
+    label: Monitoring Administration Attribute Monitoring
+    group: Monitoring
+    deploy: false
+                  
+  - title: Moral Ethic
+    title2: Moral Ethic
+    title_uniq: moral-ethic
+    default: moral-ethic
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mo
+    alphabet_l3: Mor
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/moral-ethic
+    label: Moral Ethic Attribute Moral Ethic Courage Gratitude Honesty Humility Kindness Patience Serenity Temperance
+    group: Moral Ethic
+    deploy: true
+                  
+  - title: Motivating
+    title2: Motivating
+    title_uniq: motivating
+    default: motivating
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mo
+    alphabet_l3: Mot
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/administration/motivating
+    label: Motivating Administration Attribute Motivating
+    group: Motivating
+    deploy: false
+                  
+  - title: Motor Skills
+    title2: Motor Skills
+    title_uniq: motor-skills
+    default: motor-skills
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mo
+    alphabet_l3: Mot
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognition/motor-skills
+    label: Motor Skills Cognition Attribute Motor Skills
+    group: Motor Skills
+    deploy: false
+                  
+  - title: Mullet
+    title2: Mullet Farming
+    title_uniq: mullet-farming
+    default: mullet-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mu
+    alphabet_l3: Mul
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fish/mullet
+    label: Mullet Fish Farming Mullet
+    group: Mullet Farming
+    deploy: false
+                  
+  - title: Mushroom
+    title2: Mushroom Farming
+    title_uniq: mushroom-farming
+    default: mushroom-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mu
+    alphabet_l3: Mus
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/mushroom
+    label: Mushroom Vegetable Crop Farming Mushroom
+    group: Mushroom Farming
+    deploy: false
+                  
+  - title: Mussel
+    title2: Mussel Farming
+    title_uniq: mussel-farming
+    default: mussel-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mu
+    alphabet_l3: Mus
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/molluscs/mussel
+    label: Mussel Molluscs Farming Mussel
+    group: Mussel Farming
+    deploy: false
+                  
+  - title: Mustard
+    title2: Mustard Farming
+    title_uniq: mustard-farming
+    default: mustard-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mu
+    alphabet_l3: Mus
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/mustard
+    label: Mustard Oilcrop Farming Mustard
+    group: Mustard Farming
+    deploy: false
+                  
+  - title: Nectarine
+    title2: Nectarine Farming
+    title_uniq: nectarine-farming
+    default: nectarine-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: N
+    alphabet_l2: Ne
+    alphabet_l3: Nec
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/nectarine
+    label: Nectarine Fruit Crop Farming Nectarine
+    group: Nectarine Farming
+    deploy: false
+                  
+  - title: Negotiation
+    title2: Negotiation
+    title_uniq: negotiation
+    default: negotiation
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: N
+    alphabet_l2: Ne
+    alphabet_l3: Neg
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/social-interrelation/negotiation
+    label: Negotiation Social Interrelation Attribute Negotiation
+    group: Negotiation
+    deploy: false
+                  
+  - title: Non-Verbal Communication
+    title2: Non-Verbal Communication
+    title_uniq: non-verbal-communication
+    default: non-verbal-communication
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: N
+    alphabet_l2: No
+    alphabet_l3: Non
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/social-interrelation/non-verbal-communication
+    label: Non-Verbal Communication Social Interrelation Attribute Non-Verbal Communication
+    group: Non-Verbal Communication
+    deploy: false
+                  
+  - title: Nut Product
+    title2: Nut Product Production
+    title_uniq: nut-product-production
+    default: nut-product-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: N
+    alphabet_l2: Nu
+    alphabet_l3: Nut
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/food-production/nut-product
+    label: Nut Product Food Production Nut Product
+    group: Nut Product Production
+    deploy: true
+                  
+  - title: Nutmeg
+    title2: Nutmeg Farming
+    title_uniq: nutmeg-farming
+    default: nutmeg-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: N
+    alphabet_l2: Nu
+    alphabet_l3: Nut
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/spice-crop/nutmeg
+    label: Nutmeg Spice Crop Farming Nutmeg
+    group: Nutmeg Farming
+    deploy: false
+                  
+  - title: Oat
+    title2: Oat Farming
+    title_uniq: oat-farming
+    default: oat-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Oa
+    alphabet_l3: Oat
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/cereal-crop/oat
+    label: Oat Cereal Crop Farming Oat
+    group: Oat Farming
+    deploy: false
+                  
+  - title: Oil Palm
+    title2: Oil Palm Farming
+    title_uniq: oil-palm-farming
+    default: oil-palm-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Oi
+    alphabet_l3: Oil
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/oil-palm
+    label: Oil Palm Oilcrop Farming Oil Palm
+    group: Oil Palm Farming
+    deploy: false
+                  
+  - title: Oilcrop
+    title2: Oilcrop Farming
+    title_uniq: oilcrop-farming
+    default: oilcrop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Oi
+    alphabet_l3: Oil
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop
+    label: Oilcrop Farming Oilcrop Castor Coconut Flax Groundnut Hemp Jojoba Kapok Karite Melon Mustard Oil Palm Olive Poppy Rape Safflower Seed Cotton Sesame Soybean Sunflower Tung
+    group: Oilcrop Farming
+    deploy: true
+                  
+  - title: Okra
+    title2: Okra Farming
+    title_uniq: okra-farming
+    default: okra-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Ok
+    alphabet_l3: Okr
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/okra
+    label: Okra Vegetable Crop Farming Okra
+    group: Okra Farming
+    deploy: false
+                  
+  - title: Olive
+    title2: Olive Farming
+    title_uniq: olive-farming
+    default: olive-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Ol
+    alphabet_l3: Oli
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/olive
+    label: Olive Oilcrop Farming Olive
+    group: Olive Farming
+    deploy: false
+                  
+  - title: Onion
+    title2: Onion Farming
+    title_uniq: onion-farming
+    default: onion-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: On
+    alphabet_l3: Oni
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/onion
+    label: Onion Vegetable Crop Farming Onion
+    group: Onion Farming
+    deploy: false
+                  
+  - title: Openness
+    title2: Openness
+    title_uniq: openness
+    default: openness
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Op
+    alphabet_l3: Ope
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/work-ethic/openness
+    label: Openness Work Ethic Attribute Openness
+    group: Openness
+    deploy: false
+                  
+  - title: Orange
+    title2: Orange Farming
+    title_uniq: orange-farming
+    default: orange-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Or
+    alphabet_l3: Ora
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/orange
+    label: Orange Fruit Crop Farming Orange
+    group: Orange Farming
+    deploy: false
+                  
+  - title: Orange
+    title2: Orange Farming
+    title_uniq: orange-farming
+    default: orange-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Or
+    alphabet_l3: Ora
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/citrus-fruit/orange
+    label: Orange Citrus Fruit Farming Orange
+    group: Orange Farming
+    deploy: false
+                  
+  - title: Organization
+    title2: Organization
+    title_uniq: organization
+    default: organization
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Or
+    alphabet_l3: Org
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/administration/organization
+    label: Organization Administration Attribute Organization
+    group: Organization
+    deploy: false
+                  
+  - title: Ostrich
+    title2: Ostrich Farming
+    title_uniq: ostrich-farming
+    default: ostrich-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Os
+    alphabet_l3: Ost
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/poultry/ostrich
+    label: Ostrich Poultry Farming Ostrich
+    group: Ostrich Farming
+    deploy: false
+                  
+  - title: Other Crops
+    title2: Other Crops Farming
+    title_uniq: other-crops-farming
+    default: other-crops-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Ot
+    alphabet_l3: Oth
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/other-crops
+    label: Other Crops Farming Other Crops Citronella Gum Hop Mint Pyrethrum Tobacco Wax
+    group: Other Crops Farming
+    deploy: true
+                  
+  - title: Ox
+    title2: Ox Farming
+    title_uniq: ox-farming
+    default: ox-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Ox
+    alphabet_l3: Ox
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/livestock/ox
+    label: Ox Livestock Farming Ox
+    group: Ox Farming
+    deploy: false
+                  
+  - title: Oyster
+    title2: Oyster Farming
+    title_uniq: oyster-farming
+    default: oyster-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Oy
+    alphabet_l3: Oys
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/molluscs/oyster
+    label: Oyster Molluscs Farming Oyster
+    group: Oyster Farming
+    deploy: false
+                  
+  - title: Papaya
+    title2: Papaya Farming
+    title_uniq: papaya-farming
+    default: papaya-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pa
+    alphabet_l3: Pap
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/papaya
+    label: Papaya Fruit Crop Farming Papaya
+    group: Papaya Farming
+    deploy: false
+                  
+  - title: Partridge
+    title2: Partridge Farming
+    title_uniq: partridge-farming
+    default: partridge-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pa
+    alphabet_l3: Par
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/poultry/partridge
+    label: Partridge Poultry Farming Partridge
+    group: Partridge Farming
+    deploy: false
+                  
+  - title: Pasta and Noodle
+    title2: Pasta and Noodle Production
+    title_uniq: pasta-and-noodle-production
+    default: pasta-and-noodle-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pa
+    alphabet_l3: Pas
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/food-production/pasta-and-noodle
+    label: Pasta and Noodle Food Production Pasta and Noodle
+    group: Pasta and Noodle Production
+    deploy: true
+                  
+  - title: Patience
+    title2: Patience
+    title_uniq: patience
+    default: patience
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pa
+    alphabet_l3: Pat
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/moral-ethic/patience
+    label: Patience Moral Ethic Attribute Patience
+    group: Patience
+    deploy: false
+                  
+  - title: Pea
+    title2: Pea Farming
+    title_uniq: pea-farming
+    default: pea-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pe
+    alphabet_l3: Pea
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/pulse-crop/pea
+    label: Pea Pulse Crop Farming Pea
+    group: Pea Farming
+    deploy: false
+                  
+  - title: Pea
+    title2: Pea Farming
+    title_uniq: pea-farming
+    default: pea-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pe
+    alphabet_l3: Pea
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/pea
+    label: Pea Vegetable Crop Farming Pea
+    group: Pea Farming
+    deploy: false
+                  
+  - title: Peach
+    title2: Peach Farming
+    title_uniq: peach-farming
+    default: peach-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pe
+    alphabet_l3: Pea
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/peach
+    label: Peach Fruit Crop Farming Peach
+    group: Peach Farming
+    deploy: false
+                  
+  - title: Peafowl
+    title2: Peafowl Farming
+    title_uniq: peafowl-farming
+    default: peafowl-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pe
+    alphabet_l3: Pea
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/poultry/peafowl
+    label: Peafowl Poultry Farming Peafowl
+    group: Peafowl Farming
+    deploy: false
+                  
+  - title: Pear
+    title2: Pear Farming
+    title_uniq: pear-farming
+    default: pear-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pe
+    alphabet_l3: Pea
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/pear
+    label: Pear Fruit Crop Farming Pear
+    group: Pear Farming
+    deploy: false
+                  
+  - title: People Management
+    title2: People Management
+    title_uniq: people-management
+    default: people-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pe
+    alphabet_l3: Peo
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/administration/people-management
+    label: People Management Administration Attribute People Management
+    group: People Management
+    deploy: false
+                  
+  - title: Perception
+    title2: Perception
+    title_uniq: perception
+    default: perception
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pe
+    alphabet_l3: Per
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognition/perception
+    label: Perception Cognition Attribute Perception
+    group: Perception
+    deploy: false
+                  
+  - title: Perch
+    title2: Perch Farming
+    title_uniq: perch-farming
+    default: perch-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pe
+    alphabet_l3: Per
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fish/perch
+    label: Perch Fish Farming Perch
+    group: Perch Farming
+    deploy: false
+                  
+  - title: Persimmon
+    title2: Persimmon Farming
+    title_uniq: persimmon-farming
+    default: persimmon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pe
+    alphabet_l3: Per
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/persimmon
+    label: Persimmon Fruit Crop Farming Persimmon
+    group: Persimmon Farming
+    deploy: false
+                  
+  - title: Personal Change Management
+    title2: Personal Change Management
+    title_uniq: personal-change-management
+    default: personal-change-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pe
+    alphabet_l3: Per
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/self-management/personal-change-management
+    label: Personal Change Management Self Management Attribute Personal Change Management
+    group: Personal Change Management
+    deploy: false
+                  
+  - title: Pheasant
+    title2: Pheasant Farming
+    title_uniq: pheasant-farming
+    default: pheasant-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Ph
+    alphabet_l3: Phe
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/poultry/pheasant
+    label: Pheasant Poultry Farming Pheasant
+    group: Pheasant Farming
+    deploy: false
+                  
+  - title: Pig
+    title2: Pig Farming
+    title_uniq: pig-farming
+    default: pig-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pi
+    alphabet_l3: Pig
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/livestock/pig
+    label: Pig Livestock Farming Pig
+    group: Pig Farming
+    deploy: false
+                  
+  - title: Pigeon
+    title2: Pigeon Farming
+    title_uniq: pigeon-farming
+    default: pigeon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pi
+    alphabet_l3: Pig
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/poultry/pigeon
+    label: Pigeon Poultry Farming Pigeon
+    group: Pigeon Farming
+    deploy: false
+                  
+  - title: Pimento
+    title2: Pimento Farming
+    title_uniq: pimento-farming
+    default: pimento-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pi
+    alphabet_l3: Pim
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/spice-crop/pimento
+    label: Pimento Spice Crop Farming Pimento
+    group: Pimento Farming
+    deploy: false
+                  
+  - title: Pineapple
+    title2: Pineapple Farming
+    title_uniq: pineapple-farming
+    default: pineapple-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pi
+    alphabet_l3: Pin
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/pineapple
+    label: Pineapple Fruit Crop Farming Pineapple
+    group: Pineapple Farming
+    deploy: false
+                  
+  - title: Pistachio
+    title2: Pistachio Farming
+    title_uniq: pistachio-farming
+    default: pistachio-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pi
+    alphabet_l3: Pis
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/tree-nut-crop/pistachio
+    label: Pistachio Tree Nut Crop Farming Pistachio
+    group: Pistachio Farming
+    deploy: false
+                  
+  - title: Plantain
+    title2: Plantain Farming
+    title_uniq: plantain-farming
+    default: plantain-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pl
+    alphabet_l3: Pla
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/plantain
+    label: Plantain Fruit Crop Farming Plantain
+    group: Plantain Farming
+    deploy: false
+                  
+  - title: Plum and Sole
+    title2: Plum and Sole Farming
+    title_uniq: plum-and-sole-farming
+    default: plum-and-sole-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pl
+    alphabet_l3: Plu
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/plum-and-sole
+    label: Plum and Sole Fruit Crop Farming Plum and Sole
+    group: Plum and Sole Farming
+    deploy: false
+                  
+  - title: Poppy
+    title2: Poppy Farming
+    title_uniq: poppy-farming
+    default: poppy-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Po
+    alphabet_l3: Pop
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/poppy
+    label: Poppy Oilcrop Farming Poppy
+    group: Poppy Farming
+    deploy: false
+                  
+  - title: Positivity
+    title2: Positivity
+    title_uniq: positivity
+    default: positivity
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Po
+    alphabet_l3: Pos
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/work-ethic/positivity
+    label: Positivity Work Ethic Attribute Positivity
+    group: Positivity
+    deploy: false
+                  
+  - title: Potato
+    title2: Potato Farming
+    title_uniq: potato-farming
+    default: potato-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Po
+    alphabet_l3: Pot
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/root-and-tuber-crop/potato
+    label: Potato Root and Tuber Crop Farming Potato
+    group: Potato Farming
+    deploy: false
+                  
+  - title: Poultry
+    title2: Poultry Farming
+    title_uniq: poultry-farming
+    default: poultry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Po
+    alphabet_l3: Pou
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/poultry
+    label: Poultry Farming Poultry Chicken Duck Emu Francolin Goose Guinea Fowl Ostrich Partridge Peafowl Pheasant Pigeon Quail Swan Swiftlet Tinamou Turkey
+    group: Poultry Farming
+    deploy: true
+                  
+  - title: Prawn
+    title2: Prawn Farming
+    title_uniq: prawn-farming
+    default: prawn-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pr
+    alphabet_l3: Pra
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/crustacean/prawn
+    label: Prawn Crustacean Farming Prawn
+    group: Prawn Farming
+    deploy: false
+                  
+  - title: Pride Management
+    title2: Pride Management
+    title_uniq: pride-management
+    default: pride-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pr
+    alphabet_l3: Pri
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/emotion-management/pride-management
+    label: Pride Management Emotion Management Attribute Pride Management
+    group: Pride Management
+    deploy: false
+                  
+  - title: Problem Solving
+    title2: Problem Solving
+    title_uniq: problem-solving
+    default: problem-solving
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pr
+    alphabet_l3: Pro
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognitive-aptitude/problem-solving
+    label: Problem Solving Cognitive Aptitude Attribute Problem Solving
+    group: Problem Solving
+    deploy: false
+                  
+  - title: Processing Speed
+    title2: Processing Speed
+    title_uniq: processing-speed
+    default: processing-speed
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pr
+    alphabet_l3: Pro
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognition/processing-speed
+    label: Processing Speed Cognition Attribute Processing Speed
+    group: Processing Speed
+    deploy: false
+                  
+  - title: Productivity
+    title2: Productivity
+    title_uniq: productivity
+    default: productivity
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pr
+    alphabet_l3: Pro
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/work-ethic/productivity
+    label: Productivity Work Ethic Attribute Productivity
+    group: Productivity
+    deploy: false
+                  
+  - title: Pulse Crop
+    title2: Pulse Crop Farming
+    title_uniq: pulse-crop-farming
+    default: pulse-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pu
+    alphabet_l3: Pul
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/pulse-crop
+    label: Pulse Crop Farming Pulse Crop Bean Lentil Lupin Pea Vetch
+    group: Pulse Crop Farming
+    deploy: true
+                  
+  - title: Pulse Product
+    title2: Pulse Product Production
+    title_uniq: pulse-product-production
+    default: pulse-product-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pu
+    alphabet_l3: Pul
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/food-production/pulse-product
+    label: Pulse Product Food Production Pulse Product
+    group: Pulse Product Production
+    deploy: true
+                  
+  - title: Pumpkin
+    title2: Pumpkin Farming
+    title_uniq: pumpkin-farming
+    default: pumpkin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pu
+    alphabet_l3: Pum
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/pumpkin
+    label: Pumpkin Vegetable Crop Farming Pumpkin
+    group: Pumpkin Farming
+    deploy: false
+                  
+  - title: Pyrethrum
+    title2: Pyrethrum Farming
+    title_uniq: pyrethrum-farming
+    default: pyrethrum-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Py
+    alphabet_l3: Pyr
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/other-crops/pyrethrum
+    label: Pyrethrum Other Crops Farming Pyrethrum
+    group: Pyrethrum Farming
+    deploy: false
+                  
+  - title: Quail
+    title2: Quail Farming
+    title_uniq: quail-farming
+    default: quail-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: Q
+    alphabet_l2: Qu
+    alphabet_l3: Qua
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/poultry/quail
+    label: Quail Poultry Farming Quail
+    group: Quail Farming
+    deploy: false
+                  
+  - title: Quince
+    title2: Quince Farming
+    title_uniq: quince-farming
+    default: quince-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: Q
+    alphabet_l2: Qu
+    alphabet_l3: Qui
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/quince
+    label: Quince Fruit Crop Farming Quince
+    group: Quince Farming
+    deploy: false
+                  
+  - title: Quinoa
+    title2: Quinoa Farming
+    title_uniq: quinoa-farming
+    default: quinoa-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: Q
+    alphabet_l2: Qu
+    alphabet_l3: Qui
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/cereal-crop/quinoa
+    label: Quinoa Cereal Crop Farming Quinoa
+    group: Quinoa Farming
+    deploy: false
+                  
+  - title: Rabbit
+    title2: Rabbit Farming
+    title_uniq: rabbit-farming
+    default: rabbit-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ra
+    alphabet_l3: Rab
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/livestock/rabbit
+    label: Rabbit Livestock Farming Rabbit
+    group: Rabbit Farming
+    deploy: false
+                  
+  - title: Ramie
+    title2: Ramie Farming
+    title_uniq: ramie-farming
+    default: ramie-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ra
+    alphabet_l3: Ram
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fibre-crop/ramie
+    label: Ramie Fibre Crop Farming Ramie
+    group: Ramie Farming
+    deploy: false
+                  
+  - title: Rape
+    title2: Rape Farming
+    title_uniq: rape-farming
+    default: rape-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ra
+    alphabet_l3: Rap
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/rape
+    label: Rape Oilcrop Farming Rape
+    group: Rape Farming
+    deploy: false
+                  
+  - title: Raspberry
+    title2: Raspberry Farming
+    title_uniq: raspberry-farming
+    default: raspberry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ra
+    alphabet_l3: Ras
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/raspberry
+    label: Raspberry Fruit Crop Farming Raspberry
+    group: Raspberry Farming
+    deploy: false
+                  
+  - title: Regret Management
+    title2: Regret Management
+    title_uniq: regret-management
+    default: regret-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Re
+    alphabet_l3: Reg
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/emotion-management/regret-management
+    label: Regret Management Emotion Management Attribute Regret Management
+    group: Regret Management
+    deploy: false
+                  
+  - title: Reindeer
+    title2: Reindeer Farming
+    title_uniq: reindeer-farming
+    default: reindeer-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Re
+    alphabet_l3: Rei
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/livestock/reindeer
+    label: Reindeer Livestock Farming Reindeer
+    group: Reindeer Farming
+    deploy: false
+                  
+  - title: Resilence
+    title2: Resilence
+    title_uniq: resilence
+    default: resilence
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Re
+    alphabet_l3: Res
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/self-management/resilence
+    label: Resilence Self Management Attribute Resilence
+    group: Resilence
+    deploy: false
+                  
+  - title: Respect
+    title2: Respect
+    title_uniq: respect
+    default: respect
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Re
+    alphabet_l3: Res
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/work-ethic/respect
+    label: Respect Work Ethic Attribute Respect
+    group: Respect
+    deploy: false
+                  
+  - title: Rice
+    title2: Rice Farming
+    title_uniq: rice-farming
+    default: rice-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ri
+    alphabet_l3: Ric
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/cereal-crop/rice
+    label: Rice Cereal Crop Farming Rice
+    group: Rice Farming
+    deploy: false
+                  
+  - title: Root and Tuber Crop
+    title2: Root and Tuber Crop Farming
+    title_uniq: root-and-tuber-crop-farming
+    default: root-and-tuber-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ro
+    alphabet_l3: Roo
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/root-and-tuber-crop
+    label: Root and Tuber Crop Farming Root and Tuber Crop Cassava Cocoyam Potato Yam
+    group: Root and Tuber Crop Farming
+    deploy: true
+                  
+  - title: Rye
+    title2: Rye Farming
+    title_uniq: rye-farming
+    default: rye-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ry
+    alphabet_l3: Rye
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/cereal-crop/rye
+    label: Rye Cereal Crop Farming Rye
+    group: Rye Farming
+    deploy: false
+                  
+  - title: Sadness Management
+    title2: Sadness Management
+    title_uniq: sadness-management
+    default: sadness-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sa
+    alphabet_l3: Sad
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/emotion-management/sadness-management
+    label: Sadness Management Emotion Management Attribute Sadness Management
+    group: Sadness Management
+    deploy: false
+                  
+  - title: Safflower
+    title2: Safflower Farming
+    title_uniq: safflower-farming
+    default: safflower-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sa
+    alphabet_l3: Saf
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/safflower
+    label: Safflower Oilcrop Farming Safflower
+    group: Safflower Farming
+    deploy: false
+                  
+  - title: Salmon
+    title2: Salmon Farming
+    title_uniq: salmon-farming
+    default: salmon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sa
+    alphabet_l3: Sal
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fish/salmon
+    label: Salmon Fish Farming Salmon
+    group: Salmon Farming
+    deploy: false
+                  
+  - title: Satsumas
+    title2: Satsumas Farming
+    title_uniq: satsumas-farming
+    default: satsumas-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sa
+    alphabet_l3: Sat
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/satsumas
+    label: Satsumas Fruit Crop Farming Satsumas
+    group: Satsumas Farming
+    deploy: false
+                  
+  - title: Satsumas
+    title2: Satsumas Farming
+    title_uniq: satsumas-farming
+    default: satsumas-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sa
+    alphabet_l3: Sat
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/citrus-fruit/satsumas
+    label: Satsumas Citrus Fruit Farming Satsumas
+    group: Satsumas Farming
+    deploy: false
+                  
+  - title: Scallop
+    title2: Scallop Farming
+    title_uniq: scallop-farming
+    default: scallop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sc
+    alphabet_l3: Sca
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/molluscs/scallop
+    label: Scallop Molluscs Farming Scallop
+    group: Scallop Farming
+    deploy: false
+                  
+  - title: Seabream
+    title2: Seabream Farming
+    title_uniq: seabream-farming
+    default: seabream-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Se
+    alphabet_l3: Sea
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fish/seabream
+    label: Seabream Fish Farming Seabream
+    group: Seabream Farming
+    deploy: false
+                  
+  - title: Seed Cotton
+    title2: Seed Cotton Farming
+    title_uniq: seed-cotton-farming
+    default: seed-cotton-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Se
+    alphabet_l3: See
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fibre-crop/seed-cotton
+    label: Seed Cotton Fibre Crop Farming Seed Cotton
+    group: Seed Cotton Farming
+    deploy: false
+                  
+  - title: Seed Cotton
+    title2: Seed Cotton Farming
+    title_uniq: seed-cotton-farming
+    default: seed-cotton-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Se
+    alphabet_l3: See
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/seed-cotton
+    label: Seed Cotton Oilcrop Farming Seed Cotton
+    group: Seed Cotton Farming
+    deploy: false
+                  
+  - title: Self Confidence
+    title2: Self Confidence
+    title_uniq: self-confidence
+    default: self-confidence
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Se
+    alphabet_l3: Sel
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/self-management/self-confidence
+    label: Self Confidence Self Management Attribute Self Confidence
+    group: Self Confidence
+    deploy: false
+                  
+  - title: Self Control
+    title2: Self Control
+    title_uniq: self-control
+    default: self-control
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Se
+    alphabet_l3: Sel
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/self-management/self-control
+    label: Self Control Self Management Attribute Self Control
+    group: Self Control
+    deploy: false
+                  
+  - title: Self Determination
+    title2: Self Determination
+    title_uniq: self-determination
+    default: self-determination
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Se
+    alphabet_l3: Sel
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/self-management/self-determination
+    label: Self Determination Self Management Attribute Self Determination
+    group: Self Determination
+    deploy: false
+                  
+  - title: Self Discipline
+    title2: Self Discipline
+    title_uniq: self-discipline
+    default: self-discipline
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Se
+    alphabet_l3: Sel
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/self-management/self-discipline
+    label: Self Discipline Self Management Attribute Self Discipline
+    group: Self Discipline
+    deploy: false
+                  
+  - title: Self Efficacy
+    title2: Self Efficacy
+    title_uniq: self-efficacy
+    default: self-efficacy
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Se
+    alphabet_l3: Sel
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/self-management/self-efficacy
+    label: Self Efficacy Self Management Attribute Self Efficacy
+    group: Self Efficacy
+    deploy: false
+                  
+  - title: Self Esteem
+    title2: Self Esteem
+    title_uniq: self-esteem
+    default: self-esteem
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Se
+    alphabet_l3: Sel
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/self-management/self-esteem
+    label: Self Esteem Self Management Attribute Self Esteem
+    group: Self Esteem
+    deploy: false
+                  
+  - title: Self Management
+    title2: Self Management
+    title_uniq: self-management
+    default: self-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Se
+    alphabet_l3: Sel
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/self-management
+    label: Self Management Attribute Self Management Personal Change Management Resilence Self Confidence Self Control Self Determination Self Discipline Self Efficacy Self Esteem Self Motivation Stress Management Time Management
+    group: Self Management
+    deploy: true
+                  
+  - title: Self Motivation
+    title2: Self Motivation
+    title_uniq: self-motivation
+    default: self-motivation
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Se
+    alphabet_l3: Sel
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/self-management/self-motivation
+    label: Self Motivation Self Management Attribute Self Motivation
+    group: Self Motivation
+    deploy: false
+                  
+  - title: Serenity
+    title2: Serenity
+    title_uniq: serenity
+    default: serenity
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Se
+    alphabet_l3: Ser
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/moral-ethic/serenity
+    label: Serenity Moral Ethic Attribute Serenity
+    group: Serenity
+    deploy: false
+                  
+  - title: Sesame
+    title2: Sesame Farming
+    title_uniq: sesame-farming
+    default: sesame-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Se
+    alphabet_l3: Ses
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/sesame
+    label: Sesame Oilcrop Farming Sesame
+    group: Sesame Farming
+    deploy: false
+                  
+  - title: Shallot
+    title2: Shallot Farming
+    title_uniq: shallot-farming
+    default: shallot-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sh
+    alphabet_l3: Sha
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/shallot
+    label: Shallot Vegetable Crop Farming Shallot
+    group: Shallot Farming
+    deploy: false
+                  
+  - title: Shame Management
+    title2: Shame Management
+    title_uniq: shame-management
+    default: shame-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sh
+    alphabet_l3: Sha
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/emotion-management/shame-management
+    label: Shame Management Emotion Management Attribute Shame Management
+    group: Shame Management
+    deploy: false
+                  
+  - title: Sheep
+    title2: Sheep Farming
+    title_uniq: sheep-farming
+    default: sheep-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sh
+    alphabet_l3: She
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/livestock/sheep
+    label: Sheep Livestock Farming Sheep
+    group: Sheep Farming
+    deploy: false
+                  
+  - title: Shell
+    title2: Shell Farming
+    title_uniq: shell-farming
+    default: shell-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sh
+    alphabet_l3: She
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/molluscs/shell
+    label: Shell Molluscs Farming Shell
+    group: Shell Farming
+    deploy: false
+                  
+  - title: Shrimp
+    title2: Shrimp Farming
+    title_uniq: shrimp-farming
+    default: shrimp-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sh
+    alphabet_l3: Shr
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/crustacean/shrimp
+    label: Shrimp Crustacean Farming Shrimp
+    group: Shrimp Farming
+    deploy: false
+                  
+  - title: Sisal
+    title2: Sisal Farming
+    title_uniq: sisal-farming
+    default: sisal-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Si
+    alphabet_l3: Sis
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fibre-crop/sisal
+    label: Sisal Fibre Crop Farming Sisal
+    group: Sisal Farming
+    deploy: false
+                  
+  - title: Social Awareness
+    title2: Social Awareness
+    title_uniq: social-awareness
+    default: social-awareness
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: So
+    alphabet_l3: Soc
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/social-interrelation/social-awareness
+    label: Social Awareness Social Interrelation Attribute Social Awareness
+    group: Social Awareness
+    deploy: false
+                  
+  - title: Social Interrelation
+    title2: Social Interrelation
+    title_uniq: social-interrelation
+    default: social-interrelation
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: So
+    alphabet_l3: Soc
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/social-interrelation
+    label: Social Interrelation Attribute Social Interrelation Active Listening Conflict Management Negotiation Non-Verbal Communication Social Awareness Teamwork Verbal Communication Visual Communication Written Communication
+    group: Social Interrelation
+    deploy: true
+                  
+  - title: Sorghum
+    title2: Sorghum Farming
+    title_uniq: sorghum-farming
+    default: sorghum-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: So
+    alphabet_l3: Sor
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/cereal-crop/sorghum
+    label: Sorghum Cereal Crop Farming Sorghum
+    group: Sorghum Farming
+    deploy: false
+                  
+  - title: Soybean
+    title2: Soybean Farming
+    title_uniq: soybean-farming
+    default: soybean-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: So
+    alphabet_l3: Soy
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/soybean
+    label: Soybean Oilcrop Farming Soybean
+    group: Soybean Farming
+    deploy: false
+                  
+  - title: Spice Crop
+    title2: Spice Crop Farming
+    title_uniq: spice-crop-farming
+    default: spice-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sp
+    alphabet_l3: Spi
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/spice-crop
+    label: Spice Crop Farming Spice Crop Anise Badian Cardamon Chilly and Pepper Cinnamon Clove Fennel Ginger Mace Nutmeg Pimento Vanilla
+    group: Spice Crop Farming
+    deploy: true
+                  
+  - title: Spinach
+    title2: Spinach Farming
+    title_uniq: spinach-farming
+    default: spinach-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sp
+    alphabet_l3: Spi
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/spinach
+    label: Spinach Vegetable Crop Farming Spinach
+    group: Spinach Farming
+    deploy: false
+                  
+  - title: Squash
+    title2: Squash Farming
+    title_uniq: squash-farming
+    default: squash-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sq
+    alphabet_l3: Squ
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/squash
+    label: Squash Vegetable Crop Farming Squash
+    group: Squash Farming
+    deploy: false
+                  
+  - title: Stimulant Crop
+    title2: Stimulant Crop Farming
+    title_uniq: stimulant-crop-farming
+    default: stimulant-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: St
+    alphabet_l3: Sti
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/stimulant-crop
+    label: Stimulant Crop Farming Stimulant Crop Bean Coffee Mate Tea
+    group: Stimulant Crop Farming
+    deploy: true
+                  
+  - title: Strategic Thinking
+    title2: Strategic Thinking
+    title_uniq: strategic-thinking
+    default: strategic-thinking
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: St
+    alphabet_l3: Str
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/cognitive-aptitude/strategic-thinking
+    label: Strategic Thinking Cognitive Aptitude Attribute Strategic Thinking
+    group: Strategic Thinking
+    deploy: false
+                  
+  - title: Strawberry
+    title2: Strawberry Farming
+    title_uniq: strawberry-farming
+    default: strawberry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: St
+    alphabet_l3: Str
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/strawberry
+    label: Strawberry Fruit Crop Farming Strawberry
+    group: Strawberry Farming
+    deploy: false
+                  
+  - title: Stress Management
+    title2: Stress Management
+    title_uniq: stress-management
+    default: stress-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: St
+    alphabet_l3: Str
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/self-management/stress-management
+    label: Stress Management Self Management Attribute Stress Management
+    group: Stress Management
+    deploy: false
+                  
+  - title: Sturgeon
+    title2: Sturgeon Farming
+    title_uniq: sturgeon-farming
+    default: sturgeon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: St
+    alphabet_l3: Stu
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fish/sturgeon
+    label: Sturgeon Fish Farming Sturgeon
+    group: Sturgeon Farming
+    deploy: false
+                  
+  - title: Sugar Beet
+    title2: Sugar Beet Farming
+    title_uniq: sugar-beet-farming
+    default: sugar-beet-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Su
+    alphabet_l3: Sug
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/sugar-crop/sugar-beet
+    label: Sugar Beet Sugar Crop Farming Sugar Beet
+    group: Sugar Beet Farming
+    deploy: false
+                  
+  - title: Sugar Cane
+    title2: Sugar Cane Farming
+    title_uniq: sugar-cane-farming
+    default: sugar-cane-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Su
+    alphabet_l3: Sug
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/sugar-crop/sugar-cane
+    label: Sugar Cane Sugar Crop Farming Sugar Cane
+    group: Sugar Cane Farming
+    deploy: false
+                  
+  - title: Sugar Crop
+    title2: Sugar Crop Farming
+    title_uniq: sugar-crop-farming
+    default: sugar-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Su
+    alphabet_l3: Sug
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/sugar-crop
+    label: Sugar Crop Farming Sugar Crop Sugar Beet Sugar Cane
+    group: Sugar Crop Farming
+    deploy: true
+                  
+  - title: Sunflower
+    title2: Sunflower Farming
+    title_uniq: sunflower-farming
+    default: sunflower-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Su
+    alphabet_l3: Sun
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/sunflower
+    label: Sunflower Oilcrop Farming Sunflower
+    group: Sunflower Farming
+    deploy: false
+                  
+  - title: Swan
+    title2: Swan Farming
+    title_uniq: swan-farming
+    default: swan-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sw
+    alphabet_l3: Swa
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/poultry/swan
+    label: Swan Poultry Farming Swan
+    group: Swan Farming
+    deploy: false
+                  
+  - title: Swiftlet
+    title2: Swiftlet Farming
+    title_uniq: swiftlet-farming
+    default: swiftlet-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sw
+    alphabet_l3: Swi
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/poultry/swiftlet
+    label: Swiftlet Poultry Farming Swiftlet
+    group: Swiftlet Farming
+    deploy: false
+                  
+  - title: Tangerine
+    title2: Tangerine Farming
+    title_uniq: tangerine-farming
+    default: tangerine-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Ta
+    alphabet_l3: Tan
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/tangerine
+    label: Tangerine Fruit Crop Farming Tangerine
+    group: Tangerine Farming
+    deploy: false
+                  
+  - title: Tangerine
+    title2: Tangerine Farming
+    title_uniq: tangerine-farming
+    default: tangerine-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Ta
+    alphabet_l3: Tan
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/citrus-fruit/tangerine
+    label: Tangerine Citrus Fruit Farming Tangerine
+    group: Tangerine Farming
+    deploy: false
+                  
+  - title: Tea
+    title2: Tea Farming
+    title_uniq: tea-farming
+    default: tea-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Te
+    alphabet_l3: Tea
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/stimulant-crop/tea
+    label: Tea Stimulant Crop Farming Tea
+    group: Tea Farming
+    deploy: false
+                  
+  - title: Teamwork
+    title2: Teamwork
+    title_uniq: teamwork
+    default: teamwork
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Te
+    alphabet_l3: Tea
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/social-interrelation/teamwork
+    label: Teamwork Social Interrelation Attribute Teamwork
+    group: Teamwork
+    deploy: false
+                  
+  - title: Temperance
+    title2: Temperance
+    title_uniq: temperance
+    default: temperance
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Te
+    alphabet_l3: Tem
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/moral-ethic/temperance
+    label: Temperance Moral Ethic Attribute Temperance
+    group: Temperance
+    deploy: false
+                  
+  - title: Tilapia
+    title2: Tilapia Farming
+    title_uniq: tilapia-farming
+    default: tilapia-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Ti
+    alphabet_l3: Til
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fish/tilapia
+    label: Tilapia Fish Farming Tilapia
+    group: Tilapia Farming
+    deploy: false
+                  
+  - title: Time Management
+    title2: Time Management
+    title_uniq: time-management
+    default: time-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Ti
+    alphabet_l3: Tim
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/self-management/time-management
+    label: Time Management Self Management Attribute Time Management
+    group: Time Management
+    deploy: false
+                  
+  - title: Tinamou
+    title2: Tinamou Farming
+    title_uniq: tinamou-farming
+    default: tinamou-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Ti
+    alphabet_l3: Tin
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/poultry/tinamou
+    label: Tinamou Poultry Farming Tinamou
+    group: Tinamou Farming
+    deploy: false
+                  
+  - title: Tobacco
+    title2: Tobacco Farming
+    title_uniq: tobacco-farming
+    default: tobacco-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: To
+    alphabet_l3: Tob
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/other-crops/tobacco
+    label: Tobacco Other Crops Farming Tobacco
+    group: Tobacco Farming
+    deploy: false
+                  
+  - title: Tomato
+    title2: Tomato Farming
+    title_uniq: tomato-farming
+    default: tomato-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: To
+    alphabet_l3: Tom
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/tomato
+    label: Tomato Vegetable Crop Farming Tomato
+    group: Tomato Farming
+    deploy: false
+                  
+  - title: Tree Nut Crop
+    title2: Tree Nut Crop Farming
+    title_uniq: tree-nut-crop-farming
+    default: tree-nut-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Tr
+    alphabet_l3: Tre
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/tree-nut-crop
+    label: Tree Nut Crop Farming Tree Nut Crop Almond Brazil Cashew Chestnut Hazelnut Pistachio Walnut
+    group: Tree Nut Crop Farming
+    deploy: true
+                  
+  - title: Triticale
+    title2: Triticale Farming
+    title_uniq: triticale-farming
+    default: triticale-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Tr
+    alphabet_l3: Tri
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/cereal-crop/triticale
+    label: Triticale Cereal Crop Farming Triticale
+    group: Triticale Farming
+    deploy: false
+                  
+  - title: Trout
+    title2: Trout Farming
+    title_uniq: trout-farming
+    default: trout-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Tr
+    alphabet_l3: Tro
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fish/trout
+    label: Trout Fish Farming Trout
+    group: Trout Farming
+    deploy: false
+                  
+  - title: Truffle
+    title2: Truffle Farming
+    title_uniq: truffle-farming
+    default: truffle-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Tr
+    alphabet_l3: Tru
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/truffle
+    label: Truffle Vegetable Crop Farming Truffle
+    group: Truffle Farming
+    deploy: false
+                  
+  - title: Tung
+    title2: Tung Farming
+    title_uniq: tung-farming
+    default: tung-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Tu
+    alphabet_l3: Tun
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/oilcrop/tung
+    label: Tung Oilcrop Farming Tung
+    group: Tung Farming
+    deploy: false
+                  
+  - title: Turkey
+    title2: Turkey Farming
+    title_uniq: turkey-farming
+    default: turkey-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Tu
+    alphabet_l3: Tur
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/poultry/turkey
+    label: Turkey Poultry Farming Turkey
+    group: Turkey Farming
+    deploy: false
+                  
+  - title: Turnip
+    title2: Turnip Farming
+    title_uniq: turnip-farming
+    default: turnip-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Tu
+    alphabet_l3: Tur
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop/turnip
+    label: Turnip Vegetable Crop Farming Turnip
+    group: Turnip Farming
+    deploy: false
+                  
+  - title: Vanilla
+    title2: Vanilla Farming
+    title_uniq: vanilla-farming
+    default: vanilla-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: V
+    alphabet_l2: Va
+    alphabet_l3: Van
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/spice-crop/vanilla
+    label: Vanilla Spice Crop Farming Vanilla
+    group: Vanilla Farming
+    deploy: false
+                  
+  - title: Vegetable Crop
+    title2: Vegetable Crop Farming
+    title_uniq: vegetable-crop-farming
+    default: vegetable-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: V
+    alphabet_l2: Ve
+    alphabet_l3: Veg
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/vegetable-crop
+    label: Vegetable Crop Farming Vegetable Crop Artichoke Asparagus Bean Broccoli Cabbage Carrot Cauliflower Chicory Chilly and Pepper Cucumber Eggplant Garlic Gherkin Gourd Leek Lettuce Maize Mushroom Okra Onion Pea Pumpkin Shallot Spinach Squash Tomato Truffle Turnip
+    group: Vegetable Crop Farming
+    deploy: true
+                  
+  - title: Verbal Communication
+    title2: Verbal Communication
+    title_uniq: verbal-communication
+    default: verbal-communication
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: V
+    alphabet_l2: Ve
+    alphabet_l3: Ver
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/social-interrelation/verbal-communication
+    label: Verbal Communication Social Interrelation Attribute Verbal Communication
+    group: Verbal Communication
+    deploy: false
+                  
+  - title: Vetch
+    title2: Vetch Farming
+    title_uniq: vetch-farming
+    default: vetch-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: V
+    alphabet_l2: Ve
+    alphabet_l3: Vet
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/pulse-crop/vetch
+    label: Vetch Pulse Crop Farming Vetch
+    group: Vetch Farming
+    deploy: false
+                  
+  - title: Visual Communication
+    title2: Visual Communication
+    title_uniq: visual-communication
+    default: visual-communication
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: V
+    alphabet_l2: Vi
+    alphabet_l3: Vis
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/social-interrelation/visual-communication
+    label: Visual Communication Social Interrelation Attribute Visual Communication
+    group: Visual Communication
+    deploy: false
+                  
+  - title: Walnut
+    title2: Walnut Farming
+    title_uniq: walnut-farming
+    default: walnut-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: W
+    alphabet_l2: Wa
+    alphabet_l3: Wal
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/tree-nut-crop/walnut
+    label: Walnut Tree Nut Crop Farming Walnut
+    group: Walnut Farming
+    deploy: false
+                  
+  - title: Water Buffalo
+    title2: Water Buffalo Farming
+    title_uniq: water-buffalo-farming
+    default: water-buffalo-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: W
+    alphabet_l2: Wa
+    alphabet_l3: Wat
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/livestock/water-buffalo
+    label: Water Buffalo Livestock Farming Water Buffalo
+    group: Water Buffalo Farming
+    deploy: false
+                  
+  - title: Watermelon
+    title2: Watermelon Farming
+    title_uniq: watermelon-farming
+    default: watermelon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: W
+    alphabet_l2: Wa
+    alphabet_l3: Wat
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/fruit-crop/watermelon
+    label: Watermelon Fruit Crop Farming Watermelon
+    group: Watermelon Farming
+    deploy: false
+                  
+  - title: Wax
+    title2: Wax Farming
+    title_uniq: wax-farming
+    default: wax-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: W
+    alphabet_l2: Wa
+    alphabet_l3: Wax
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/other-crops/wax
+    label: Wax Other Crops Farming Wax
+    group: Wax Farming
+    deploy: false
+                  
+  - title: Wheat
+    title2: Wheat Farming
+    title_uniq: wheat-farming
+    default: wheat-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: W
+    alphabet_l2: Wh
+    alphabet_l3: Whe
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/cereal-crop/wheat
+    label: Wheat Cereal Crop Farming Wheat
+    group: Wheat Farming
+    deploy: false
+                  
+  - title: Work Ethic
+    title2: Work Ethic
+    title_uniq: work-ethic
+    default: work-ethic
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: W
+    alphabet_l2: Wo
+    alphabet_l3: Wor
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/work-ethic
+    label: Work Ethic Attribute Work Ethic Accountability Co-operation Consistency Fairness Integrity Openness Positivity Productivity Respect
+    group: Work Ethic
+    deploy: true
+                  
+  - title: Written Communication
+    title2: Written Communication
+    title_uniq: written-communication
+    default: written-communication
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: W
+    alphabet_l2: Wr
+    alphabet_l3: Wri
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/attribute/social-interrelation/written-communication
+    label: Written Communication Social Interrelation Attribute Written Communication
+    group: Written Communication
+    deploy: false
+                  
+  - title: Yak
+    title2: Yak Farming
+    title_uniq: yak-farming
+    default: yak-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: Y
+    alphabet_l2: Ya
+    alphabet_l3: Yak
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/livestock/yak
+    label: Yak Livestock Farming Yak
+    group: Yak Farming
+    deploy: false
+                  
+  - title: Yam
+    title2: Yam Farming
+    title_uniq: yam-farming
+    default: yam-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: Y
+    alphabet_l2: Ya
+    alphabet_l3: Yam
+    sub_title: A brief description
+    excerpt: This is a description of this article. When available, this message would change.
+    url: /en/resources/farming/root-and-tuber-crop/yam
+    label: Yam Root and Tuber Crop Farming Yam
+    group: Yam Farming
+    deploy: false
+                  

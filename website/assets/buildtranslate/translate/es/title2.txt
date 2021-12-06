@@ -1,0 +1,327 @@
+Habilidades de atributo
+Ética moral
+Honestidad
+Paciencia
+Gratitud
+Amabilidad
+Coraje
+Templanza
+Humildad
+Serenidad
+Ética de trabajo
+Integridad
+El respeto
+Cooperación
+Consistencia
+Positividad
+Responsabilidad
+Justicia
+Productividad
+Franqueza
+Autogestión
+Autoestima
+Auto confianza
+Autoeficacia
+Autodeterminación
+Autodisciplina
+Automotivación
+Autocontrol
+Resistencia
+Gestión del tiempo
+Manejo del estrés
+Gestión de cambios personales
+Cognición
+Atención
+Percepción
+Memoria
+Funciones ejecutivas
+Velocidad de procesamiento
+Habilidades motoras
+Habilidades lingüísticas
+Metacognición
+Aptitud cognitiva
+Habilidad de aprender
+Habilidad para organizarse
+Habilidad para planificar
+Resolución de problemas
+Toma de decisiones
+Pensamiento crítico
+Pensamiento estrategico
+Intuición
+Creatividad
+Manejo de emociones
+Control de la ira
+Manejo de la ansiedad
+Manejo del miedo
+Gestión de la felicidad
+Manejo de la tristeza
+Gestión del odio
+Gestión del amor
+Gestión de la vergüenza
+Gestión del arrepentimiento
+Gestión de la esperanza
+Gestión de la culpa
+Gestión de la desesperación
+Gestión de la soledad
+Gestión de la envidia
+Gestión del orgullo
+Interrelación social
+Comunicación verbal
+Comunicación no verbal
+Comunicación escrita
+Escucha activa
+Comunicación visual
+Trabajo en equipo
+Negociación
+Conciencia social
+Manejo de conflictos
+Administración
+Gestión
+Organización
+Liderazgo
+Gestión de personas
+Delegación
+Motivador
+Tutoría
+Vigilancia
+Habilidades vocacionales
+Agricultura
+Ganadería
+Cultivo de alpaca
+Cultivo de búfalos
+Cría de camellos
+Criar ganado
+Cría de burros
+Cría de cabras
+Cría de caballos
+Cultivo de llamas
+Cría de bueyes
+Cría de cerdos
+Cría de conejos
+Cría de renos
+Ganadería ovina
+Cría de búfalos de agua
+Cultivo de yaks
+Avicultura
+Cría de pollos
+Cría de patos
+Agricultura de emú
+Agricultura Francolin
+Cría de gansos
+Cría de gallinas de Guinea
+Cría de avestruces
+Cultivo de perdiz
+Cultivo de pavos reales
+Agricultura de faisán
+Cría de palomas
+Cría de codornices
+Cría de cisnes
+Cultivo de salanganas
+Agricultura de Tinamou
+Agricultura de pavo
+Piscicultura
+Cultivo de carpas
+Cría de bagre
+Cría de anguilas
+Cultivo de salmonetes
+Cultivo de percas
+Cultivo de salmón
+Cultivo de dorada
+Cría de esturión
+Cultivo de tilapia
+Cultivo de truchas
+Cultivo de crustáceos
+Cría de cangrejos
+Cultivo de cangrejos de río
+Cría de langosta
+Cultivo de langostinos
+Cultivo de camarón
+Cultivo de moluscos
+Agricultura de abulón
+Ark Farming
+Cultivo de almejas
+Cultivo de mejillones
+Cultivo de ostras
+Cultivo de vieiras
+Cultivo de conchas
+Cultivo de cereales
+Cultivo de cebada
+Cultivo de trigo sarraceno
+Cultivo de semillas de canario
+Cultivo de fonio
+Cultivo de maíz
+Cultivo de mijo
+Cultivo de avena
+Cultivo de quinua
+Cultivo de arroz
+Cultivo de centeno
+Cultivo de sorgo
+Agricultura de triticale
+Cultivo de trigo
+Cultivo de cítricos
+Cultivo de clementinas
+Cultivo de toronjas
+Cultivo de limón
+Cultivo de cal
+Cultivo de mandarina
+Cultivo de naranjas
+Agricultura Satsumas
+Cultivo de mandarinas
+Cultivo de cultivos de fibra
+Cultivo de agave
+Bast Farming
+Cultivo de lino
+Cultivo de cáñamo
+Cultivo de yute
+Agricultura de Kapok
+Agricultura de Manila
+Cultivo de ramio
+Cultivo de semillas de algodón
+Cultivo de sisal
+Cultivo de cultivos de frutas
+Cultivo de manzanas
+Cultivo de albaricoque
+Cultivo de aguacate
+Cultivo de banano
+Cultivo de arándanos
+Cultivo de algarrobos
+Cultivo de anacardos
+Cultivo de cerezas
+Cultivo de clementinas
+Cultivo de arándanos
+Cultivo de grosellas
+Cultivo de dátiles
+Cultivo de higos
+Cultivo de grosellas
+Cultivo de uva
+Cultivo de toronjas
+Cultivo de guayaba
+Cultivo de kiwi
+Cultivo de limón
+Cultivo de cal
+Cultivo de mandarina
+Cultivo de mango
+Cultivo de mangostán
+Cultivo de nectarinas
+Cultivo de naranjas
+Cultivo de papaya
+Cultivo de duraznos
+Cultivo de peras
+Cultivo de caqui
+Cultivo de piña
+Cultivo de plátano
+Cultivo de ciruela y lenguado
+Cultivo de membrillos
+Cultivo de frambuesas
+Agricultura Satsumas
+Cultivo de fresas
+Cultivo de mandarinas
+Cultivo de sandía
+Cultivo de cultivos oleaginosos
+Cultivo de ricino
+Cultivo de coco
+Cultivo de lino
+Cultivo de cacahuetes
+Cultivo de cáñamo
+Cultivo de jojoba
+Agricultura de Kapok
+Agricultura Karite
+Cultivo de melón
+Cultivo de mostaza
+Cultivo de palma aceitera
+Cultivo de olivos
+Cultivo de amapolas
+Agricultura de violación
+Cultivo de cártamo
+Cultivo de semillas de algodón
+Cultivo de sésamo
+Cultivo de soja
+Cultivo de girasoles
+Agricultura de Tung
+Cultivo de legumbres
+Cultivo de frijoles
+Cultivo de lentejas
+Cultivo de altramuces
+Cultivo de guisantes
+Agricultura de veza
+Cultivo de raíces y tubérculos
+Cultivo de mandioca
+Cultivo de cocoyam
+Cultivo de patatas
+Cultivo de ñame
+Cultivo de cultivos de azúcar
+Cultivo de remolacha azucarera
+Cultivo de caña de azúcar
+Cultivo de frutos secos
+Cultivo de almendras
+Agricultura de Brasil
+Cultivo de anacardos
+Cultivo de castañas
+Cultivo de avellanas
+Cultivo de pistachos
+Cultivo de nueces
+Cultivo de hortalizas
+Cultivo de alcachofas
+Cultivo de espárragos
+Cultivo de frijoles
+Cultivo de brócoli
+Cultivo de repollo
+Cultivo de zanahorias
+Cultivo de coliflor
+Cultivo de achicoria
+Cultivo de pimientos y pimientos fríos
+Cultivo de pepinos
+Cultivo de berenjenas
+Cultivo de ajo
+Cultivo de pepinillos
+Cultivo de calabazas
+Cultivo de puerros
+Cultivo de lechugas
+Cultivo de maíz
+Cultivo de hongos
+Cultivo de quimbombó
+Cultivo de cebollas
+Cultivo de guisantes
+Cultivo de calabazas
+Cultivo de chalotes
+Cultivo de espinacas
+Cultivo de calabazas
+Cultivo de tomate
+Cultivo de trufas
+Cultivo de nabos
+Cultivo de cultivos de especias
+Cultivo de anís
+Agricultura Badian
+Agricultura de cardamomo
+Cultivo de pimientos y pimientos fríos
+Cultivo de canela
+Cultivo de clavo
+Cultivo de hinojo
+Cultivo de jengibre
+Cultivo de mazas
+Cultivo de nuez moscada
+Cultivo de pimiento
+Cultivo de vainilla
+Cultivo de cultivos estimulantes
+Cultivo de frijoles
+Cultivo de café
+Cultivo de mate
+Cultivo de té
+Agricultura de otros cultivos
+Cultivo de citronela
+Cultivo de chicle
+Cultivo de lúpulo
+Cultivo de menta
+Cultivo de piretro
+Cultivo de tabaco
+Cultivo de cera
+La producción de alimentos
+Producción de productos de cereales
+Producción de productos de pulso
+Producción de frutos secos
+Producción de bebidas
+Producción de condimentos
+Producción de dulces
+Producción de pasta y fideos
+Producción de aditivos alimentarios
+Artesanía

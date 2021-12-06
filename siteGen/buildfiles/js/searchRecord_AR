@@ -1,0 +1,20 @@
+---
+permalink: /assets/js/searchRecord_AR.js
+---
+{% if site.searchRecord_AR == true %}
+const docs = [{% assign datafile_childless = site.data.datafile_childless.data %} {% if datafile_childless[0] %} {% assign datafile_childless_alphasort = datafile_childless | sort: 'title2.ar' %} {% assign searchRecord_AR = datafile_childless_alphasort | uniq: 'title_uniq' %} {% for item in searchRecord_AR %} {% if item.deploy.ar != site.development %}
+  {
+    id: {{ forloop.index0 }},
+    kind: "{{ item.kind.ar }}",
+    category: "{{ item.category.ar }}",
+    icon: "{{ item.icon.ar }}",
+    title2: "{{ item.title2.ar }}",
+    label: "{{ item.label.ar }}",
+    url: "{{ item.url.ar }}",
+    sub_title: "{{ item.sub_title.ar }}",
+    excerpt: "{{ item.excerpt.ar }}",
+  },{% endif %} {% endfor %} {% endif %}
+  {
+  }
+]
+{% endif %}

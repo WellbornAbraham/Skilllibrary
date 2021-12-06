@@ -1,0 +1,126 @@
+<!DOCTYPE HTML>
+<html lang="{{ page.lang }}" dir="{{ page.lang_dir }}">
+    <head>
+      <meta charset ="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>{{ page.title }} - {{ site.title[ page.lang] }}</title>
+      {% include stylesheet.html %}
+      {% include scripts/analytics.html %}
+    </head>
+    <body>
+      {% include svg.html %}
+    <div id="external-wrapper">
+        {% include header-2.html %}
+        <div id="inner-wrapper">
+              <div id="catalogue-page-wrapper">
+                <div id="catalogue-page-title-container">
+                  <h1>{{ site.data.word_translate.catalogue[ page.lang ] }}</h1>
+                  <div class="catalogue-page-title-navigation">
+                  <span><a href="/{{ page.lang }}/"><svg class=" icon icon-home"><use xlink:href="#icon-home"></use></svg></a> | <a href="{{ page.url }}">{{ site.data.word_translate.catalogue[ page.lang ] }}</a></span>
+                  </div>
+                </div>
+                <div id="catalogue-page-index-container" class="catalogue-page-index-container">
+                  {%- if page.lang == "en" -%}
+                  {%- assign languageAlphabets = site.data.languageAlphabets.en -%}
+                  {%- endif -%}
+                  {%- if page.lang == "fr" -%}
+                  {%- assign languageAlphabets = site.data.languageAlphabets.fr -%}
+                  {%- endif -%}
+                  {%- if page.lang == "ar" -%}
+                  {%- assign languageAlphabets = site.data.languageAlphabets.ar -%}
+                  {%- endif -%}
+                  {%- if page.lang == "es" -%}
+                  {%- assign languageAlphabets = site.data.languageAlphabets.es -%}
+                  {%- endif -%}
+                  {%- for item in languageAlphabets %}
+                    <li><a href="/{{ page.lang }}/catalogue/{{ item.alphabet.i }}/">{{ item.alphabet.i }}</a></li>
+                  {%- endfor %}
+                </div>
+{%- if page.catalogue == "default" %}
+      <div id="levels-page-card-container">
+      </div>
+{%- else if page.catalogue != "default" -%}
+{%- if page.catalogue == "alphabet" %}
+      <div id="levels-page-card-container">
+{%- if page.lang == "ar" -%}   	
+{%- assign catalogue_datafile = site.data.catalogue_datafile_AR.data -%}
+{%- endif -%}
+{%- if page.lang == "en" -%}   	
+{%- assign catalogue_datafile = site.data.catalogue_datafile_EN.data -%}
+{%- endif -%}
+{%- if page.lang == "es" -%}   	
+{%- assign catalogue_datafile = site.data.catalogue_datafile_ES.data -%}
+{%- endif -%}
+{%- if page.lang == "fr" -%}   	
+{%- assign catalogue_datafile = site.data.catalogue_datafile_FR.data -%}
+{%- endif -%}
+{%- if catalogue_datafile[0] %}
+  <p class="results-length">{{ site.data.word_translate.Directory[ page.lang ] }}: <strong style="text-transform: uppercase;"> {{ page.alphabet_l1 }} </strong></p>
+{%- for item in catalogue_datafile -%}
+{%- if item.alphabet_l1 == page.alphabet_l1i or item.alphabet_l1 == page.alphabet_l1ii or item.alphabet_l1 == page.alphabet_l1iii or item.alphabet_l1 == page.alphabet_l1iv or item.alphabet_l1 == page.alphabet_l1v or item.alphabet_l1 == page.alphabet_l1vi or item.alphabet_l1 == page.alphabet_l1vii or item.alphabet_l1 == page.alphabet_l1viii or item.alphabet_l1 == page.alphabet_l1ix or item.alphabet_l1 == page.alphabet_l1x -%}
+{%- if item.deploy != site.development %}
+			      <div class="levels-page-card levels-page-card-three-columns" onclick="location.href='{{ item.url }}/';">
+            		<div class="levels-page-card-icon">
+            			<a href="{{ item.url }}/"><svg class = "{{ item.icon }} icon"><use xlink:href="#{{ item.icon }}"></use></svg></a>
+            		</div>
+                 <div class="levels-page-card-description">
+                 	<h3 class="levels-page-card-title">
+                     	<a href= "{{ item.url }}/">{{ item.title | truncate: 22 }}</a>
+                     </h3>
+                     <sub class="levels-page-card-sub">
+                     	<i>{{ item.sub_title | truncate: 32 }}</i>
+                     </sub>
+                     <p>{{ item.excerpt | truncate: 80 }}</p>
+                 </div>
+        		</div>
+{%- endif -%}
+{%- endif -%}
+{%- endfor -%}
+{%- endif %}
+      </div>
+{%- else if page.catalogue == "all" %}
+      <div id="levels-page-card-container">
+{%- if page.lang == "ar" -%}   	
+{%- assign catalogue_datafile = site.data.catalogue_datafile_AR.data -%}
+{%- endif -%}
+{%- if page.lang == "en" -%}   	
+{%- assign catalogue_datafile = site.data.catalogue_datafile_EN.data -%}
+{%- endif -%}
+{%- if page.lang == "es" -%}   	
+{%- assign catalogue_datafile = site.data.catalogue_datafile_ES.data -%}
+{%- endif -%}
+{%- if page.lang == "fr" -%}   	
+{%- assign catalogue_datafile = site.data.catalogue_datafile_FR.data -%}
+{%- endif -%}
+{%- if catalogue_datafile[0] %}
+  <p class="results-length">Directory: <strong style="text-transform: uppercase;">{{ site.data.word_translate.All[ page.lang ] }}</strong></p>
+{%- for item in catalogue_datafile -%}
+{%- if item.deploy != site.development %}
+			      <div class="levels-page-card levels-page-card-three-columns" onclick="location.href='{{ item.url }}/';">
+            		<div class="levels-page-card-icon">
+            			<a href="{{ item.url }}/"><svg class = "{{ item.icon }} icon"><use xlink:href="#{{ item.icon }}"></use></svg></a>
+            		</div>
+                 <div class="levels-page-card-description">
+                 	<h3 class="levels-page-card-title">
+                     	<a href= "{{ item.url }}/">{{ item.title | truncate: 22 }}</a>
+                     </h3>
+                     <sub class="levels-page-card-sub">
+                     	<i>{{ item.sub_title | truncate: 32 }}</i>
+                     </sub>
+                     <p>{{ item.excerpt | truncate: 80 }}</p>
+                 </div>
+        		</div>
+{%- endif -%}
+{%- endfor -%}
+{%- endif %}
+      </div>
+{%- endif -%}
+{%- endif %}
+              </div>
+          </div>
+     </div>
+        {% include footer-2.html %}
+        {% include scripts/mobileMenu.html %}
+     </div>
+    </body>
+</html>

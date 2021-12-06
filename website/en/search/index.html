@@ -1,0 +1,352 @@
+<!DOCTYPE HTML>
+<html lang="en" dir="ltr">
+    <head>
+      <meta charset ="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Search -  Skill Library</title>
+      <link rel="stylesheet" href="/assets/style/latin.css">
+      <link rel="stylesheet" href="/assets/style/main.css">
+      <link rel="stylesheet" href="/assets/style/fonts.css">
+      
+    </head>
+
+    <body>
+      <svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-search" viewBox="0 0 30 32">
+<path d="M20.571 14.857q0-3.304-2.348-5.652t-5.652-2.348-5.652 2.348-2.348 5.652 2.348 5.652 5.652 2.348 5.652-2.348 2.348-5.652zM29.714 29.714q0 0.929-0.679 1.607t-1.607 0.679q-0.964 0-1.607-0.679l-6.125-6.107q-3.196 2.214-7.125 2.214-2.554 0-4.884-0.991t-4.018-2.679-2.679-4.018-0.991-4.884 0.991-4.884 2.679-4.018 4.018-2.679 4.884-0.991 4.884 0.991 4.018 2.679 2.679 4.018 0.991 4.884q0 3.929-2.214 7.125l6.125 6.125q0.661 0.661 0.661 1.607z"></path>
+</symbol>
+<symbol id="icon-close" viewBox="0 0 25 32">
+<path d="M23.179 23.607q0 0.714-0.5 1.214l-2.429 2.429q-0.5 0.5-1.214 0.5t-1.214-0.5l-5.25-5.25-5.25 5.25q-0.5 0.5-1.214 0.5t-1.214-0.5l-2.429-2.429q-0.5-0.5-0.5-1.214t0.5-1.214l5.25-5.25-5.25-5.25q-0.5-0.5-0.5-1.214t0.5-1.214l2.429-2.429q0.5-0.5 1.214-0.5t1.214 0.5l5.25 5.25 5.25-5.25q0.5-0.5 1.214-0.5t1.214 0.5l2.429 2.429q0.5 0.5 0.5 1.214t-0.5 1.214l-5.25 5.25 5.25 5.25q0.5 0.5 0.5 1.214z"></path>
+</symbol>
+<symbol id="icon-home" viewBox="0 0 30 32">
+<path d="M25.143 17.714v8.571q0 0.464-0.339 0.804t-0.804 0.339h-6.857v-6.857h-4.571v6.857h-6.857q-0.464 0-0.804-0.339t-0.339-0.804v-8.571q0-0.018 0.009-0.054t0.009-0.054l10.268-8.464 10.268 8.464q0.018 0.036 0.018 0.107zM29.125 16.482l-1.107 1.321q-0.143 0.161-0.375 0.196h-0.054q-0.232 0-0.375-0.125l-12.357-10.304-12.357 10.304q-0.214 0.143-0.429 0.125-0.232-0.036-0.375-0.196l-1.107-1.321q-0.143-0.179-0.125-0.42t0.196-0.384l12.839-10.696q0.571-0.464 1.357-0.464t1.357 0.464l4.357 3.643v-3.482q0-0.25 0.161-0.411t0.411-0.161h3.429q0.25 0 0.411 0.161t0.161 0.411v7.286l3.911 3.25q0.179 0.143 0.196 0.384t-0.125 0.42z"></path>
+</symbol>
+<symbol id="icon-menu" viewBox="0 0 32 32">
+<path d="M32 24v2.286q0 0.464-0.339 0.804t-0.804 0.339h-29.714q-0.464 0-0.804-0.339t-0.339-0.804v-2.286q0-0.464 0.339-0.804t0.804-0.339h29.714q0.464 0 0.804 0.339t0.339 0.804zM32 17.143v2.286q0 0.464-0.339 0.804t-0.804 0.339h-29.714q-0.464 0-0.804-0.339t-0.339-0.804v-2.286q0-0.464 0.339-0.804t0.804-0.339h29.714q0.464 0 0.804 0.339t0.339 0.804zM32 10.286v2.286q0 0.464-0.339 0.804t-0.804 0.339h-29.714q-0.464 0-0.804-0.339t-0.339-0.804v-2.286q0-0.464 0.339-0.804t0.804-0.339h29.714q0.464 0 0.804 0.339t0.339 0.804zM32 3.429v2.286q0 0.464-0.339 0.804t-0.804 0.339h-29.714q-0.464 0-0.804-0.339t-0.339-0.804v-2.286q0-0.464 0.339-0.804t0.804-0.339h29.714q0.464 0 0.804 0.339t0.339 0.804z"></path>
+</symbol>
+<symbol id="icon-file" viewBox="0 0 32 32">
+<path d="M26.214 6.786q0.5 0.5 0.857 1.357t0.357 1.571v20.571q0 0.714-0.5 1.214t-1.214 0.5h-24q-0.714 0-1.214-0.5t-0.5-1.214v-28.571q0-0.714 0.5-1.214t1.214-0.5h16q0.714 0 1.571 0.357t1.357 0.857zM18.286 2.429v6.714h6.714q-0.179-0.518-0.393-0.732l-5.589-5.589q-0.214-0.214-0.732-0.393zM25.143 29.714v-18.286h-7.429q-0.714 0-1.214-0.5t-0.5-1.214v-7.429h-13.714v27.429h22.857zM6.857 14.286q0-0.25 0.161-0.411t0.411-0.161h12.571q0.25 0 0.411 0.161t0.161 0.411v1.143q0 0.25-0.161 0.411t-0.411 0.161h-12.571q-0.25 0-0.411-0.161t-0.161-0.411v-1.143zM20 18.286q0.25 0 0.411 0.161t0.161 0.411v1.143q0 0.25-0.161 0.411t-0.411 0.161h-12.571q-0.25 0-0.411-0.161t-0.161-0.411v-1.143q0-0.25 0.161-0.411t0.411-0.161h12.571zM20 22.857q0.25 0 0.411 0.161t0.161 0.411v1.143q0 0.25-0.161 0.411t-0.411 0.161h-12.571q-0.25 0-0.411-0.161t-0.161-0.411v-1.143q0-0.25 0.161-0.411t0.411-0.161h12.571z"></path>
+</symbol>
+<symbol id="icon-folder" viewBox="0 0 30 32">
+<path d="M27.429 23.429v-12.571q0-0.714-0.5-1.214t-1.214-0.5h-12.571q-0.714 0-1.214-0.5t-0.5-1.214v-1.143q0-0.714-0.5-1.214t-1.214-0.5h-5.714q-0.714 0-1.214 0.5t-0.5 1.214v17.143q0 0.714 0.5 1.214t1.214 0.5h21.714q0.714 0 1.214-0.5t0.5-1.214zM29.714 10.857v12.571q0 1.643-1.179 2.821t-2.821 1.179h-21.714q-1.643 0-2.821-1.179t-1.179-2.821v-17.143q0-1.643 1.179-2.821t2.821-1.179h5.714q1.643 0 2.821 1.179t1.179 2.821v0.571h12q1.643 0 2.821 1.179t1.179 2.821z"></path>
+</symbol>
+</defs>
+</svg>
+    <div id="external-wrapper">
+      			<div id="header-2">
+                <div class="header-title-wrapper">
+                  <div class="header-pre-title">
+                    <h4 class="header-pre-title-content"> Wellborn Self-Explanatory</h4>
+                  </div>
+                    <div class="header-title-container">
+                      <div class="header-title-description">Wellborn Self-Explanatory</div>
+                      <h1 class="header-title"><a href="/en/">Skill Library</a></h1>
+                      <div class="header-title-bottom-border"></div>
+                    </div>
+                </div>
+                <div id="header-search-wrapper">
+                  <div class="header-search-bar">
+                    <form action="/en/search" method="get" id="header-search-bar-form" autocomplete="off">
+                      <input type="text" name="query" id="search-bar-input" placeholder="Search Skill Library" onkeyup="displayClearTextButton()">
+                      <a><svg class="icon icon-close" id="clear-text-button" onclick="clearText()"><use xlink:href="#icon-close"></use></svg></a>
+                      <script>
+                        function displayClearTextButton() {
+                          var inputText = document.getElementById("search-bar-input").value;
+                          if (inputText.length >= 0) {
+                            document.getElementById("clear-text-button").style.display = "block";
+                          }
+                        }
+                        function clearText() {
+                          document.getElementById("search-bar-input").value = "";
+                        }
+                      </script>
+                      <button type="submit" id="header-search-bar-button"><svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg></button>
+                      <input type="radio" name="type" id="search-filter-type-directory" class="search-type" value="directory" checked="true" style="display: none; visibility: hidden;">
+                      <input type="radio" name="cg" id="search-filter-category-all" class="search-category-button" value="all" checked="true" onchange="disableCategory()" style="display: none; visibility: hidden;">
+                      <div id="search-suggestion-container" class="header-search-bar-results-container"></div>
+                    </form>
+                  </div>
+                </div>
+                <div class="header-navigation-bar">
+                    <div class="header-navigation-link">
+                        <li class="header-navigation-link-list"><a href="/en/">Home</a></li>
+                        <li class="header-navigation-link-list"><a href="/en/resources/">Resources</a></li>
+                        <li class="header-navigation-link-list"><a href="/en/catalogue/">Catalogue</a></li>
+                    </div>
+                </div>
+                <div id="header-mobile-menu-icon" class="header-mobile-menu-icon">
+                  <a href="javascript:void(0);" onclick="headerMobileMenu()">
+                    <svg id="header-mobile-menu-icon-open" class="icon icon-menu header-mobile-menu-icon-open"><use xlink:href="#icon-menu"></use></svg>
+                    <svg id="header-mobile-menu-icon-close" class="icon icon-close header-mobile-menu-icon-close"><use xlink:href="#icon-close"></use></svg>
+                  </a>
+                </div>
+                <div class="header-mobile-navigation-bar">
+                    <div id="header-mobile-menu" class="header-mobile-navigation-link">
+                      <div class="header-mobile-navigation-link-container">
+                        <a href="/en/">Home</a></li>
+                        <a href="/en/resources/">Resources</a></li>
+                        <a href="/en/catalogue/">Catalogue</a></li>
+                      </div>
+                    </div>
+                </div>
+            </div>
+        <div id="inner-wrapper">
+        <div id="inner-wrapper">
+              <div id="search-page-wrapper">
+                <div id="search-page-title-container">
+                  <h1>Search</h1>
+                  <div class="search-page-title-navigation">
+                  <span><a href="/en/"><svg class=" icon icon-home"><use xlink:href="#icon-home"></use></svg></a> | <a href="/en/search/">Search</a></span>
+                  </div>
+                </div>
+                <div class="search-page-search-container">
+                  <form method="get" id="search-page-search-form" autocomplete="off">
+                    <input type="text" name="query" id="search-page-search-input" placeholder="e.g Fish Farming">
+                    <button type="submit" id="search-page-search-button"><svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg></button>
+                    
+                    <div class="search-page-search-filter type">
+                      
+                      <h6 class="search-filter-heading">Type</h6>
+                      
+                      <div class="search-filter-type">
+                        
+                        <label class="search-filter-type-directory-label" for="search-filter-type-directory" checked="true">
+                          <input type="radio" name="type" id="search-filter-type-directory" class="search-type" value="directory" checked="true">Directory
+                        </label><br>
+                      
+                        <label class="search-filter-type-file-label" for="search-filter-type-file">
+                          <input type="radio" name="type" id="search-filter-type-file" class="search-type" value="file">File
+                        </label><br>
+                      
+                        <label class="search-filter-type-both-label" for="search-filter-type-both">
+                          <input type="radio" name="type" id="search-filter-type-both" class="search-type" value="both">Both
+                        </label><br>
+                        
+                      </div>
+                      
+                    </div>
+                    
+                    <div class="search-page-search-filter category">
+                      
+                      <h6 class="search-filter-heading">Category</h6>
+                      
+                      <div class="search-filter-category">
+                      
+                        <label class="search-filter-category-all-label" for="search-filter-category-all" checked="true" onchange="disableCategory()">
+                          <input type="radio" name="cg" id="search-filter-category-all" class="search-category-button" value="all" checked="true" onchange="disableCategory()">All
+                        </label>
+                    
+                        <label class="search-filter-category-custom-label" for="search-filter-category-custom" onchange="enableCategory()">
+                          <input type="radio" name="cg" id="search-filter-category-custom" class="search-category-button" value="custom" onchange="enableCategory()">Custom
+                        </label><br>
+                        
+                        <label for="search-filter-category0">
+                          <input type="checkbox" name="cg0" id="search-filter-category0" class="search-category" value="Attribute Skills" checked="true" disabled>Attribute Skills
+                        </label>
+                      
+                        <label for="search-filter-category1">
+                          <input type="checkbox" name="cg1" id="search-filter-category1" class="search-category" value="Farming" checked="true" disabled>Farming
+                        </label>
+                      
+                        <label for="search-filter-category2">
+                          <input type="checkbox" name="cg2" id="search-filter-category2" class="search-category" value="Food Production" checked="true" disabled>Food Production
+                        </label>
+                      
+                        <label for="search-filter-category3">
+                          <input type="checkbox" name="cg3" id="search-filter-category3" class="search-category" value="Craft" checked="true" disabled>Craft
+                        </label>
+                      
+                      </div>
+                    </div>
+                    <script>
+                    var categoryLength = 4;
+                      var cgAll = document.getElementById("search-filter-category-all");
+                    function disableCategory() {
+                          var category = "search-filter-category";
+                          for (var x = 0; x < categoryLength; x++) {
+                            document.getElementById(''+ category + ''+ x +'').disabled = true;
+                            document.getElementById(''+ category + ''+ x +'').checked = true;
+                          } 
+                    };
+                    function enableCategory() {
+                          var category = "search-filter-category";
+                          for (var x = 0; x < categoryLength; x++) {
+                            document.getElementById(''+ category + ''+ x +'').disabled = false;
+                            document.getElementById(''+ category + ''+ x +'').checked = false;
+                          } 
+                    };
+                    </script>
+                  </form>
+                </div>
+                <div id="levels-page-card-container" class="search-page-search-results-container">
+                </div>
+              </div>
+          </div>
+          
+                        </div>
+                <div id="footer-2">
+                  <div class="footer-2-copyright">© <a href="/en/"> Skill Library</a><span class="footer-2-notice"> | All Rights Reserved </span> <span class="footer-2-navigation-link"> |<a href="/en/">Home</a>|<a href="/en/about/">About</a>|<a href="/en/contact/">Contact</a>|</span></div> <span class="footer-2-languages"><a href="/en/search/">English</a> <a href="/fr/search/">Français</a> <a href="/ar/search/">عربي</a> <a href="/es/search/">Español</a></span>
+                </div>
+
+<script>
+  window.onload = function(){
+    var clearTextButton = document.getElementById('clear-text-button');
+    var searchBarInput = document.getElementById('search-bar-input');
+    document.onclick = function(e){
+      if(e.target.id !== 'search-bar-input'){
+        clearTextButton.style.display = 'none';
+      }
+    };
+  };
+</script>
+        
+        <script>
+function headerMobileMenu() {
+  var x = document.getElementById("header-mobile-menu");
+  if (x.style.display == "block") {
+    x.style.display = "none";
+    var i = document.getElementById("header-mobile-menu-icon");
+    var y = i.getElementsByTagName("i")[0];
+    var z = i.getElementsByTagName("i")[1];
+    y.style.display = "block";
+    z.style.display = "none";
+  } else {
+    x.style.display = "block";
+    var i = document.getElementById("header-mobile-menu-icon");
+    var y = i.getElementsByTagName("i")[0];
+    var z = i.getElementsByTagName("i")[1];
+    y.style.display = "none";
+    z.style.display = "block";
+  }
+}
+</script>
+        
+          <script src= "/assets/js/searchRecord_EN.js" ></script>
+
+<script>
+// var startTime = performance.now();
+( function () {
+  function getQueryVariable(variable) {
+    var query = window.location.search.substring(1);
+    var vars = query.split('&');
+    for (var i = 0; i < vars.length; i ++) {
+      var pair = vars[i].split('=');
+      if (pair[0] === variable) {
+        return decodeURIComponent(pair[1].replace(/\+/g,'%20'));
+      }
+    }
+  }
+ var searchTermRaw = getQueryVariable('query');
+ var searchTermSpace = searchTermRaw.replace(/\s\s\s/g,' ');
+ var searchTermSpace1 = searchTermSpace.replace(/\s\s\s/g,' ');
+ var searchTermSpace2 = searchTermSpace1.replace(/\s\s/g,' ');
+ var searchTerm = searchTermSpace2;
+ var searchType = getQueryVariable('type');
+ var searchCategory = getQueryVariable('cg');
+  if (searchCategory == "custom") {
+    document.getElementById("search-filter-category-custom").disabled = false;
+    document.getElementById("search-filter-category-custom").checked = true;
+    enableCategory();
+  }
+  if (searchType == "directory") {
+    var searchTag = "directory";
+    document.getElementById("search-filter-type-directory").disabled = false;
+    document.getElementById("search-filter-type-directory").checked = true;
+  }
+  if (searchType == "file") {
+    var searchTag = "file";
+    document.getElementById("search-filter-type-file").disabled = false;
+    document.getElementById("search-filter-type-file").checked = true;
+  }
+  if (searchType == "both") {
+    var searchTag = "directory file";
+    document.getElementById("search-filter-type-both").disabled = false;
+    document.getElementById("search-filter-type-both").checked = true;
+  }
+  var categoryArray = [];
+  for (var x = 0; x < categoryLength; x++) {
+    var searchCategoryItem= getQueryVariable('cg'+x+'');
+    if (searchCategoryItem) {
+      document.getElementById('search-filter-category'+x+'').checked = true;
+      categoryArray.push(searchCategoryItem);
+    }
+  }
+  if (searchTerm) {
+    document.getElementById('search-page-search-input').setAttribute("value", searchTerm);
+    var searchTermArray;
+    var searchTermSplit;
+    var searchTermArrayJoin;
+    searchTermArrayJoin = searchTerm;
+    searchTermSplit  = searchTerm.split("");
+    if(searchTermSplit[0] == " ") {
+      searchTermArray = searchTerm.split("").reverse();
+      searchTermArray.pop();
+      searchTermArrayJoin = searchTermArray.reverse().join().replace(/\,/g,'');
+    }
+    if(searchTermArrayJoin[searchTermArrayJoin.length - 1] == " ") {
+      searchTermArray = searchTermArrayJoin.split("");
+      searchTermArray.pop();
+      searchTermArrayJoin = searchTermArray.join().replace(/\,/g,'');
+    }
+    var results = [];
+    
+    var searchTermNew = "\\b" + searchTermArrayJoin + "";
+    var searchTermReplace = searchTermNew.replace(/\s/g, '|\\b');
+    
+    var searchTermRegExp = new RegExp(searchTermReplace, "gi")
+    var categoryArrayReplace = categoryArray.toString().replace(/\,/g, '|');
+    var categoryArrayRegExp = new RegExp(categoryArrayReplace, "gi")
+    for (var x = 0; x < docs.length; x++) {
+      if (searchTag.indexOf(docs[x].tag) > -1) {
+        if (docs[x].category.match(categoryArrayRegExp)) {
+          var docsLabel = docs[x].label.toUpperCase();
+          if (docsLabel.match(searchTermRegExp)) {
+            var Numerator = (docs[x].label.match(searchTermRegExp).length) * 56;
+            var Denominator = searchTerm.split(" ").length;
+            var idsValue = ((Numerator + 1) / (Denominator + 1)) * 100;
+            results[results.length] = {
+              id: docs[x].id,
+              ids: idsValue,
+              tag: docs[x].tag,
+              category: docs[x].category,
+              icon: docs[x].icon,
+              title2: docs[x].title2,
+              label: docs[x].label,
+              url: docs[x].url,
+              sub_title: docs[x].sub_title,
+              excerpt: docs[x].excerpt
+            };
+          }
+        }
+      }
+    }
+    var resultArray = results.sort(function(a,b) { return b.ids - a.ids;});
+    var searchResults = document.getElementById('levels-page-card-container');
+    if (resultArray.length != 0) {
+      if (resultArray.length == 1) {
+      var appendString = '<p class="results-length"> ' + resultArray.length + ' match found</p>';
+      } else {
+      var appendString = '<p class="results-length"> ' + resultArray.length + ' matches found</p>';
+      }
+    for (var i = 0 ; i < resultArray.length; i ++) {
+    var item = resultArray[i];
+        if (item.title2.length <= 19) {
+           appendString += '<div class="levels-page-card levels-page-card-three-columns" onclick="location.href=\'' + item.url +'/\';"><div class="levels-page-card-icon"><a href=" ' +item.url + '/"><svg class = " ' + item.icon + ' icon"><use xlink:href="#' + item.icon + '"></use></svg></a></div><div class="levels-page-card-description"><h3 class="levels-page-card-title"><a href= " '+ item.url + '/">' + item.title2 + '</a></h3><sub class="levels-page-card-sub"><i>' + item.sub_title.substring(0,32) + '</i></sub><p>' + item.excerpt.substring(0,77) + '...</p></div></div>';
+        } else {
+        appendString += '<div class="levels-page-card levels-page-card-three-columns" onclick="location.href=\'' + item.url +'/\';"><div class="levels-page-card-icon"><a href=" ' +item.url + '/"><svg class = " ' + item.icon + ' icon"><use xlink:href="#' + item.icon + '"></use></svg></a></div><div class="levels-page-card-description"><h3 class="levels-page-card-title"><a href= " '+ item.url + '/">' + item.title2.substring(0,19) + '...</a></h3><sub class="levels-page-card-sub"><i>' + item.sub_title.substring(0,32) + '</i></sub><p>' + item.excerpt.substring(0,77) + '...</p></div></div>';
+        } 
+      }
+      searchResults.innerHTML = appendString;
+    } else {
+      searchResults.innerHTML = '<p class="results-length">No match found</p>';
+    }
+  }
+})();
+// var endTime = performance.now();
+// alert('Query took ' + (endTime - startTime) + 'ms');
+</script>
+        
+     </div>
+    </body>
+</html>

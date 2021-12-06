@@ -1,0 +1,59 @@
+---
+permalink: /assets/yml/datafileAR.yml
+---
+{% if site.datafileAR == true %}
+data:
+{% assign datafile = site.data.datafile.data %} {% if datafile[0] %} {% assign datafileAR = datafile %} {% for item in datafileAR %} {% if item.deploy.en != site.development %}
+  - title: {{ item.title.ar }}
+    title2: {{ item.title2.ar }}
+    default: {{ item.default.ar }}
+    kind: {{ item.kind.ar }}
+    icon: {{ item.icon.ar }}
+    sub_title: {{ item.sub_title.ar }}
+    excerpt: {{ item.excerpt.ar }}
+    url: {{ item.url.ar }}
+    label: {{ item.label.ar }}
+    group: {{ item.group.ar }}
+    deploy: {{ item.deploy.ar }}
+    children:
+    {% assign level1-unsorted = item.children %} {% if level1-unsorted[0] %} {% assign level1 = level1-unsorted %} {% for entry in level1 %} {% if entry.deploy.en != site.development %}
+      - title: {{ entry.title.ar }}
+        title2: {{ entry.title2.ar }}
+        default: {{ entry.default.ar }}
+        kind: {{ entry.kind.ar }}
+        icon: {{ entry.icon.ar }}
+        sub_title: {{ entry.sub_title.ar }}
+        excerpt: {{ entry.excerpt.ar }}
+        url: {{ entry.url.ar }}
+        label: {{ entry.label.ar }}
+        group: {{ entry.group.ar }}
+        deploy: {{ entry.deploy.ar }}
+        children: 
+        {% assign level2-unsorted = entry.children %} {% if level2-unsorted[0] %} {% assign level2 = level2-unsorted %} {% for subentry in level2 %} {% if subentry.deploy.en != site.development %}
+          - title: {{ subentry.title.ar }}
+            title2: {{ subentry.title2.ar }}
+            default: {{ subentry.default.ar }}
+            kind: {{ subentry.kind.ar }}
+            icon: {{ subentry.icon.ar }}
+            sub_title: {{ subentry.sub_title.ar }}
+            excerpt: {{ subentry.excerpt.ar }}
+            url: {{ subentry.url.ar }}
+            label: {{ subentry.label.ar }}
+            group: {{ subentry.group.ar }}
+            deploy: {{ subentry.deploy.ar }}
+            children: 
+            {% assign level3-unsorted = subentry.children %} {% if level3-unsorted[0] %} {% assign level3 = level3-unsorted | sort: 'title' %} {% for subsubentry in level3 %} {% if subsubentry.deploy.en != site.development %}
+              - title: {{ subsubentry.title.ar }}
+                title2: {{ subsubentry.title2.ar }}
+                default: {{ subsubentry.default.ar }}
+                kind: {{ subsubentry.kind.ar }}
+                icon: {{ subsubentry.icon.ar }}
+                sub_title: {{ subsubentry.sub_title.ar }}
+                excerpt: {{ subsubentry.excerpt.ar }}
+                url: {{ subsubentry.url.ar }}
+                label: {{ subsubentry.label.ar }}
+                group: {{ subsubentry.group.ar }}
+                deploy: {{ subsubentry.deploy.ar }}
+                children: 
+                {% endif %} {% endfor %} {% endif %} {% endif %} {% endfor %} {% endif %} {% endif %} {% endfor %} {% endif %} {% endif %} {% endfor %} {% endif %}
+{% endif %}

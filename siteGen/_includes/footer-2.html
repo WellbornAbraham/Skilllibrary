@@ -1,0 +1,6 @@
+                </div>
+                <div id="footer-2">
+                  <div class="footer-2-copyright">{% if page.lang != "ar" %}© {% endif %}<a href="/{{ page.lang }}/">{{ site.tnu2[ page.lang ] }} {{ site.title[ page.lang] }}</a><span class="footer-2-notice"> | {{ site.data.word_translate.all_rights_reserved[ page.lang ] }} </span> <span class="footer-2-navigation-link"> |<a href="/{{ page.lang }}/">{{ site.data.word_translate.home[ page.lang ] }}</a>|<a href="/{{ page.lang }}/about/">{{ site.data.word_translate.about[ page.lang ] }}</a>|<a href="/{{ page.lang }}/contact/">{{ site.data.word_translate.contact[ page.lang ] }}</a>{% if page.lang != "ar"%}|{% endif %}</span></div> <span class="footer-2-languages"><a href="/en/{{ page.url | slice: 4, 999999 }}">{{ site.data.word_translate.english }}</a> <a href="/fr/{{ page.url | slice: 4, 999999 }}">{{ site.data.word_translate.french }}</a> <a href="/ar/{{ page.url | slice: 4, 999999 }}">{{ site.data.word_translate.arabic }}</a> <a href="/es/{{ page.url | slice: 4, 999999 }}">{{ site.data.word_translate.spanish }}</a></span>
+                </div>
+
+{% include scripts/window-onload.html %}

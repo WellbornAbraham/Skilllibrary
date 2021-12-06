@@ -1,0 +1,11 @@
+---
+permalink: /assets/txt/audit.txt
+---
+{% if site.audit == true %}
+data:
+{% assign datafile_childless = site.data.datafile_childless.data %} {% if datafile_childless[0] %} {% assign audit = datafile_childless | uniq: 'title2' %} {% for item in audit %} {% if item.deploy.en != site.development %}
+  - title: {{ item.title }}
+    title2: {{ item.title2 }}
+    url: <a href="{{ item.url }}/">{{ item.url }}</a>
+                {% endif %} {% endfor %} {% endif %}
+{% endif %}

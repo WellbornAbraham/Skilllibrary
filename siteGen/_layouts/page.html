@@ -1,0 +1,126 @@
+<!DOCTYPE HTML>
+<html lang="{{ page.lang }}" dir="{{ page.lang_dir }}">
+    <head>
+      <meta charset ="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>{{ page.title }} - {{ site.title[ page.lang] }}</title>
+      {% include stylesheet.html %}
+      {% include scripts/analytics.html %}
+    </head>
+    <body>
+      {% include svg.html %}
+    <div id="external-wrapper">
+        {% include header-2.html %}
+  <div id="page">
+          <div id="sidebar-left">
+            {% include sidebar/left/about.html %}
+          </div>
+          <div id="content">
+        {{ content }}
+          </div>
+          <div id="sidebar-right">
+            {% include sidebar/right/about.html %}
+          </div>
+</div>
+        {% include footer-2.html %}
+        {% include scripts/mobileMenu.html %}
+     </div>
+<style>
+#page {
+    width: 100%;
+    padding: 60px 0 0px 0;
+    padding: 0;
+    display: block;
+    float: left;
+}
+
+#sidebar-left {
+  display: block;
+  float: left;
+  width: 18%;
+  padding: 6px;
+  box-sizing: border-box;
+}
+
+#content {
+  display: block;
+  float: left;
+  width: 60%;
+  padding: 2%;
+}
+
+#content h1:after {
+  content: "\f0c8";
+  padding-left: 5px;
+  font-size: 6px;
+  font-family: fontawesome;
+  color: var(--secondary-color);
+}
+
+#content h2:after {
+  content: "\f0c8";
+  padding-left: 4px;
+  font-size: 5px;
+  font-family: fontawesome;
+  color: var(--secondary-color);
+}
+
+#content h3:after {
+  content: "\f0c8";
+  padding-left: 3px;
+  font-size: 4px;
+  font-family: fontawesome;
+  color: var(--secondary-color);
+}
+
+#content h4:after {
+  content: "\f0c8";
+  padding-left: 2px;
+  font-size: 3px;
+  font-family: fontawesome;
+  color: var(--secondary-color);
+}
+
+#content h5:after {
+  content: "\f0c8";
+  padding-left: 1px;
+  font-size: 2px;
+  font-family: fontawesome;
+  color: var(--secondary-color);
+}
+
+#content h6:after {
+  content: "\f0c8";
+  padding-left: 1px;
+  font-size: 1px;
+  font-family: fontawesome;
+  color: var(--secondary-color);
+}
+
+
+#sidebar-right {
+  display: block;
+  float: left;
+  width: 18%;
+  margin: 0;
+  padding: 6px;
+  box-sizing: border-box;
+}
+
+.inject-right-sidebar {
+  display: block;
+  float: right;
+  width: 30%;
+  margin-right: calc(-2000% / 60);
+  padding: 6px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.h1.fa-square {
+  font-size: 12px;
+  color: var(--secondary-color);
+}
+</style>
+    </body>
+</html>

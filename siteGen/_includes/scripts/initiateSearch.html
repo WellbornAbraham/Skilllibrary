@@ -1,0 +1,75 @@
+      
+      <script src="/assets/js/searchDataMini-js.js"></script>
+      <script src="/assets/js/lunr-catalogue.js"></script>
+      
+<script>
+function initiateSearch() {
+  var searchInputTerm = document.getElementById("search-bar-input");
+  var searchInputTermValue = searchInputTerm.value + " ";
+  var splitSearchInputTerm = searchInputTermValue.split(" ");
+  for (var i = 0; i < splitSearchInputTerm.length -1; i++) {
+    if (splitSearchInputTerm[i].length >= 1) {
+      splitSearchInputTerm[i] = splitSearchInputTerm[i] + '* ';
+    } else {
+      splitSearchInputTerm[i] = splitSearchInputTerm[i] + ' ';
+    }
+  }
+  var searchTerm = splitSearchInputTerm.join(" ");
+  if (searchTerm.length >= 3) { 
+    var autocompleteDisplay = document.getElementById('search-suggestion-container');
+      if (1 == 1) {
+        autocompleteDisplay.style.display = "block";
+      }
+    var idx = lunr( function () {
+      this.field('label');
+      for (var key in window.store) {
+        this.add({
+          'id': key,
+          'label': window.store[key].label,
+        });
+      }
+    });
+    var results = idx.search(searchTerm);
+    displaySearchResults(results, window.store);
+  } else if (searchTerm.length < 3) {
+    var autocompleteDisplay = document.getElementById('search-suggestion-container');
+      if (1 == 1) {
+        autocompleteDisplay.style.display = "none";
+      }
+  }
+  function displaySearchResults(results, store) {
+    var searchResults = document.getElementById('search-suggestion-container');
+    if (results.length >= 4) {
+      var appendString = '';
+      for (var i = 0 ; i <= 3; i ++) {
+        var item = store[results[i].ref];
+        appendString +=  '<a href=" ' + item.url + ' "><i class=" ' + item.icon + ' "></i>' + item.title2 + '</a>';
+      }
+      searchResults.innerHTML = appendString;
+    } else if ( 1 > results.length < 4) {
+      var appendString = '';
+      for (var i = 0 ; i < results.length; i ++) {
+        var item = store[results[i].ref];
+        appendString +=  '<a href=" ' + item.url + ' "><i class=" ' + item.icon + ' "></i>' + item.title2 + '</a>';
+      }
+      searchResults.innerHTML = appendString;
+    } else {
+      searchResults.innerHTML = '';
+    }
+  }
+}
+</script>
+<script>
+  window.onload = function(){
+    var headerResultsContainer = document.getElementById('search-suggestion-container');
+    var headerSearchInput = document.getElementById('search-bar-input');
+    document.onclick = function(e){
+      if(e.target.id !== 'search-bar-input'){
+        headerResultsContainer.style.display = 'none';
+      }
+      if(e.target === headerSearchInput){
+        headerResultsContainer.style.display = 'block';
+      }
+    };
+  };
+</script>

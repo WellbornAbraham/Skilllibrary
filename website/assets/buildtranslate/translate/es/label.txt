@@ -1,0 +1,327 @@
+
+Coraje, Gratitud, Honestidad, Humildad, Bondad, Paciencia, Serenidad, Templanza
+Honestidad
+Paciencia
+Gratitud
+Amabilidad
+Coraje
+Templanza
+Humildad
+Serenidad
+Responsabilidad, Cooperación, Coherencia, Equidad, Integridad, Apertura, Positividad, Productividad, Respeto
+Integridad
+El respeto
+Cooperación
+Consistencia
+Positividad
+Responsabilidad
+Justicia
+Productividad
+Franqueza
+Gestión del cambio personal, Resilencia, Autoconfianza, Autocontrol, Autodeterminación, Autodisciplina, Autoeficacia, Autoestima, Auto Motivación, Gestión del estrés, Gestión del tiempo
+Autoestima
+Auto confianza
+Autoeficacia
+Autodeterminación
+Autodisciplina
+Automotivación
+Autocontrol
+Resistencia
+Gestión del tiempo
+Manejo del estrés
+Gestión de cambios personales
+Atención, Funciones ejecutivas, Habilidades del lenguaje, Memoria, Metacognición, Habilidades motoras, Percepción, Velocidad de procesamiento
+Atención
+Percepción
+Memoria
+Funciones ejecutivas
+Velocidad de procesamiento
+Habilidades motoras
+Habilidades lingüísticas
+Metacognición
+Capacidad para aprender, capacidad para organizar, capacidad para planificar, creatividad, pensamiento crítico, toma de decisiones, intuición, resolución de problemas, pensamiento estratégico, sabiduría
+Habilidad de aprender
+Habilidad para organizarse
+Habilidad para planificar
+Resolución de problemas
+Toma de decisiones
+Pensamiento crítico
+Pensamiento estrategico
+Intuición
+Creatividad
+Ira, Ansiedad, Desesperación, Envidia, Miedo, Culpabilidad, Felicidad, Odio, Esperanza, Soledad, amor, Orgullo, Arrepentimiento, Tristeza, Vergüenza
+Control de la ira
+Manejo de la ansiedad
+Manejo del miedo
+Gestión de la felicidad
+Manejo de la tristeza
+Gestión del odio
+Gestión del amor
+Gestión de la vergüenza
+Gestión del arrepentimiento
+Gestión de la esperanza
+Gestión de la culpa
+Gestión de la desesperación
+Gestión de la soledad
+Gestión de la envidia
+Gestión del orgullo
+Escucha activa, comunicación no verbal, comunicación verbal, comunicación visual, comunicación escrita, negociación, manejo de conflictos, conciencia social, trabajo en equipo
+Comunicación verbal
+Comunicación no verbal
+Comunicación escrita
+Escucha activa
+Comunicación visual
+Trabajo en equipo
+Negociación
+Conciencia social
+Manejo de conflictos
+Delegación, Liderazgo, Gestión, Tutoría, Seguimiento, Motivación, Organización, Gestión de Personas
+Gestión
+Organización
+Liderazgo
+Gestión de personas
+Delegación
+Motivador
+Tutoría
+Vigilancia
+
+
+Ganadería
+Ganadería de alpaca
+Ganadería Buffalo
+Ganadería de camellos
+Ganadería Ganadería
+Ganadería burro
+Ganadería caprina
+Ganadería de caballos
+Ganadería de llamas
+Ganadería Buey
+Ganadería porcina
+Ganadería de conejos
+Ganadería de renos
+Ganadería Ovina
+Ganadería de búfalos de agua
+Ganadería Yak
+Avicultura
+Avicultura de pollo
+Avicultura de patos
+Avicultura Emu
+Avicultura Francolin
+Avicultura de ganso
+Avicultura de gallinas de Guinea
+Avicultura de avestruz
+Avicultura de perdiz
+Avicultura de pavo real
+Avicultura de faisán
+Avicultura de palomas
+Avicultura de codorniz
+Avicultura de cisnes
+Avicultura Swiftlet
+Avicultura de Tinamou
+Avicultura de pavo
+Piscicultura
+Cría de peces de carpa
+Cultivo de bagre
+La cría de peces de anguila
+Piscicultura de salmonete
+La cría de peces de perca
+Cultivo de salmón
+Cultivo de peces de dorada
+Piscicultura de esturión
+Cultivo de peces de tilapia
+Piscicultura de truchas
+Cultivo de crustáceos
+Cultivo de cangrejos y crustáceos
+Cultivo de crustáceos cangrejos de río
+Cultivo de crustáceos de langosta
+Cultivo de crustáceos langostinos
+Cultivo de camarones y crustáceos
+Cultivo de moluscos
+Cultivo de moluscos de abulón
+Ark Moluscos Agricultura
+Cultivo de moluscos de almeja
+Cultivo de moluscos mejillones
+Cultivo de moluscos ostra
+Cultivo de moluscos de vieira
+Cultivo de moluscos de concha
+Cultivo de cereales
+Cultivo de cereales de cebada
+Cultivo de cereales de trigo sarraceno
+Cultivo de cereales con semillas de Canarias
+Cultivo de cereales Fonio
+Cultivo de cereales de maíz
+Cultivo de cereales de mijo
+Cultivo de cereales de avena
+Cultivo de cereales de quinua
+Cultivo de cereales de arroz
+Cultivo de cereales de centeno
+Cultivo de cereales de sorgo
+Cultivo de cereales triticale
+Cultivo de cereales de trigo
+Cultivo de cítricos
+Cultivo de cítricos de clementina
+Cultivo de frutas cítricas de pomelo
+Cultivo de cítricos de limón
+Cultivo de cítricos de lima
+Cultivo de cítricos mandarina
+Cultivo de cítricos de naranja
+Cultivo de cítricos Satsumas
+Cultivo de cítricos de mandarina
+Cultivo de cultivos de fibra
+Cultivo de cultivos de fibra de agave
+Cultivo de cultivos de fibra de bast
+Cultivo de cultivos de fibra de lino
+Cultivo de cultivos de fibra de cáñamo
+Cultivo de cultivos de fibra de yute
+Cultivo de cultivos de fibra de Kapok
+Cultivo de cultivos de fibra de Manila
+Cultivo de cultivos de fibra de ramio
+Cultivo de semillas de fibra de algodón
+Cultivo de cultivos de fibra de sisal
+Cultivo de cultivos de frutas
+Cultivo de cultivos de frutas de manzana
+Cultivo de cultivos de frutas de albaricoque
+Cultivo de frutas de aguacate
+Cultivo de cultivos de banano
+Cultivo de cultivos de arándanos
+Cultivo de cultivos de frutas de algarrobo
+Cultivo de cultivos de frutas de anacardo
+Cultivo de cultivos de cereza
+Cultivo de cultivos de frutas de clementina
+Cultivo de cultivos de frutas de arándano
+Cultivo de cultivos de grosellas
+Cultivo de cultivos de fruta de dátil
+Cultivo de frutas de higo
+Cultivo de cultivos de frutas de grosella espinosa
+Cultivo de cultivos de uva
+Cultivo de cultivos de frutas de pomelo
+Cultivo de frutas de guayaba
+Cultivo de cultivos de kiwi
+Cultivo de frutas de limón
+Cultivo de cultivos de frutas de limón
+Cultivo de cultivos de mandarina
+Cultivo de cultivos de frutas de mango
+Cultivo de cultivos de frutas de mangostán
+Cultivo de cultivos de frutas de nectarina
+Cultivo de cultivos de frutas de naranja
+Cultivo de cultivos de papaya
+Cultivo de cultivos de melocotón
+Cultivo de cultivos de frutas de pera
+Cultivo de frutas de caqui
+Cultivo de cultivos de frutas de piña
+Cultivo de cultivos de plátano
+Cultivo de ciruelas y lenguado
+Cultivo de cultivos de frutas de membrillo
+Cultivo de cultivos de frambuesa
+Cultivo de cultivos de frutas Satsumas
+Cultivo de cultivos de fresa
+Cultivo de cultivos de mandarina
+Cultivo de cultivos de frutas de sandía
+Cultivo de cultivos oleaginosos
+Cultivo de ricino
+Cultivo de cultivos de aceite de coco
+Cultivo de cultivos oleaginosos de lino
+Cultivo de cultivos oleaginosos de maní
+Cultivo de cultivos oleaginosos de cáñamo
+Cultivo de cultivos oleaginosos de jojoba
+Cultivo de cultivos oleaginosos de Kapok
+Cultivo de cultivos oleaginosos de karité
+Cultivo de cultivos oleaginosos de melón
+Cultivo de cultivos oleaginosos de mostaza
+Cultivo de cultivos oleaginosos de palma de aceite
+Cultivo de aceite de oliva
+Cultivo de cultivos oleaginosos de amapola
+Cultivo de colza
+Cultivo de cultivos oleaginosos de cártamo
+Cultivo de semillas oleaginosas de algodón
+Cultivo de cultivos oleaginosos de sésamo
+Cultivo de cultivos oleaginosos de soja
+Cultivo de cultivos oleaginosos de girasol
+Cultivo de cultivos oleaginosos de tung
+Cultivo de legumbres
+Cultivo de cultivos de frijoles
+Cultivo de cultivos de lentejas
+Cultivo de cultivos de pulso de lupino
+Cultivo de cultivos de guisantes
+Cultivo de cultivos de veza
+Cultivo de raíces y tubérculos
+Cultivo de tubérculos y raíces de yuca
+Cultivo de raíces y tubérculos de cocoyam
+Cultivo de tubérculos y raíces de papa
+Cultivo de tubérculos y raíces de ñame
+Cultivo de cultivos de azúcar
+Cultivo de cultivos de azúcar de remolacha azucarera
+Cultivo de cultivos de azúcar de caña de azúcar
+Cultivo de frutos secos
+Cultivo de cultivos de nueces de almendro
+Cultivo de frutos secos de Brasil
+Cultivo de cultivos de nueces de anacardo
+Cultivo de frutos secos de castaño
+Cultivo de frutos secos de avellana
+Cultivo de frutos secos de pistacho
+Cultivo de cultivos de nueces de nogal
+Cultivo de hortalizas
+Cultivo de hortalizas de alcachofa
+Cultivo de cultivos de hortalizas de espárragos
+Cultivo de hortalizas de frijoles
+Cultivo de hortalizas de brócoli
+Cultivo de hortalizas de col
+Cultivo de hortalizas de zanahoria
+Cultivo de hortalizas de coliflor
+Cultivo de hortalizas de achicoria
+Cultivo de hortalizas frías y pimientos
+Cultivo de hortalizas de pepino
+Cultivo de hortalizas de berenjena
+Cultivo de hortalizas de ajo
+Cultivo de hortalizas de pepinillo
+Cultivo de hortalizas de calabaza
+Cultivo de hortalizas de puerro
+Cultivo de hortalizas de lechuga
+Cultivo de hortalizas de maíz
+Cultivo de hortalizas de hongos
+Cultivo de hortalizas de quimbombó
+Cultivo de hortalizas de cebolla
+Cultivo de hortalizas de guisantes
+Cultivo de hortalizas de calabaza
+Cultivo de hortalizas de chalota
+Cultivo de cultivos de hortalizas de espinaca
+Cultivo de hortalizas de calabaza
+Cultivo de hortalizas de tomate
+Cultivo de hortalizas de trufa
+Cultivo de hortalizas de nabo
+Cultivo de cultivos de especias
+Cultivo de cultivos de anís y especias
+Cultivo de cultivos de especias Badian
+Cultivo de cultivos de especias de cardamomo
+Cultivo de cultivos de especias frías y pimientos
+Cultivo de cultivos de canela y especias
+Cultivo de cultivos de especias de clavo
+Cultivo de cultivos de especias de hinojo
+Cultivo de cultivos de especias de jengibre
+Cultivo de cultivos de especias de maza
+Cultivo de cultivos de especias de nuez moscada
+Cultivo de cultivos de especias de pimiento
+Cultivo de cultivos de vainilla y especias
+Cultivo de cultivos estimulantes
+Cultivo de cultivos estimulantes de frijoles
+Cultivo de cultivos estimulantes del café
+Cultivo de cultivos estimulantes del mate
+Cultivo de cultivos estimulantes del té
+Agricultura de otros cultivos
+Citronela Otros cultivos Cultivo
+Goma Otros cultivos Agricultura
+Hop Otros Cultivos Agricultura
+Menta Otros cultivos Cultivo
+Piretro Otros cultivos Agricultura
+Tabaco Otros cultivos Cultivo
+Cera Otros Cultivos Agricultura
+
+Producción de productos de cereales
+Producción de productos de pulso
+Producción de frutos secos
+Producción de bebidas
+Producción de condimentos
+Producción de dulces
+Producción de pasta y fideos
+Producción de aditivos alimentarios
+

@@ -1,0 +1,60 @@
+Force of Buoyancy Calculation
+
+F(b) = V(s) x D x g
+
+where:
+F(b) = Buoyancy Force
+V(s) = Submerged Volume
+D    = Fluid Density
+g    = Force of Gravity
+
+For sea water, the equation becomes
+
+F(b) = V(s) m3 x 1000 kg/m3 x 9.81 N/kg
+
+F(b) = V(s) x 9810 (N)
+
+If force of buoyancy is greater than the force of gravity on the object, the object will float.
+
+F(g) = M x g
+
+where:
+
+F(g) = Force of Gravity
+M    = Mass of Object
+g    = gravity
+
+
+Playground
+
+Seafloor surface sediment density = 1404.08 to 1641.84 g/m3 (kg/m3)
+
+Normal loose dry sand density = 1442 kg/m3
+
+Example:
+
+for 1m3 volume of seafloor sand
+
+F(b) = 1 x 9810 (N) = 9810 N
+
+F(g) = 1641.84 x 9.81 (N) = 16106.4504 N
+
+Ratio = 1 : 1.64184
+
+for 1 m3 iron (7800 kg/m3)
+
+F(b) = 
+
+F(g) = 7800 x 9.81 = 
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+---
+---
+
+/* variable inter font 100 - 900 */
+@font-face {
+  font-family: 'Inter';
+  src: url('../fonts/sans-serif/inter/Inter-VariableFont_slnt_wght.ttf'); /* IE9 Compat Modes */
+  src: local(''),
+       url('../fonts/sans-serif/inter/Inter-VariableFont_slnt_wght.ttf') format('truetype'), /* IE6-IE8 */
+}

@@ -1,0 +1,5 @@
+---
+permalink: /assets/buildtranslate/pre_translate/en/label.txt
+---
+{% if site.build_pretranslate_files == true %}{% assign datafile_childless = site.data.datafile_childless.data %}{% for item in datafile_childless %}{{ item.label.en }}
+{% endfor %}{% endif %}

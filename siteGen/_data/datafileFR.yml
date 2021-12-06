@@ -1,0 +1,4241 @@
+
+data:
+    
+  - title: Attribut
+    title2: Compétences d'attribut
+    default: attribute-skills
+    kind: directory
+    icon: icon-directory
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute
+    label: 
+    group: Compétences d'attribut
+    deploy: true
+    children:
+        
+      - title: Éthique morale
+        title2: Éthique morale
+        default: moral-ethic
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/attribute/moral-ethic
+        label: Courage, Gratitude, Honnêteté, Humilité, Gentillesse, Patience, Sérénité, Tempérance
+        group: Éthique morale
+        deploy: true
+        children: 
+            
+          - title: Courage
+            title2: Courage
+            default: courage
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/moral-ethic/courage
+            label: Courage
+            group: Moral Ethic
+            deploy: false
+            children: 
+                
+          - title: Reconnaissance
+            title2: Reconnaissance
+            default: gratitude
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/moral-ethic/gratitude
+            label: Reconnaissance
+            group: Moral Ethic
+            deploy: false
+            children: 
+                
+          - title: Honnêteté
+            title2: Honnêteté
+            default: honesty
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/moral-ethic/honesty
+            label: Honnêteté
+            group: Moral Ethic
+            deploy: false
+            children: 
+                
+          - title: Humilité
+            title2: Humilité
+            default: humility
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/moral-ethic/humility
+            label: Humilité
+            group: Moral Ethic
+            deploy: false
+            children: 
+                
+          - title: La gentillesse
+            title2: La gentillesse
+            default: kindness
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/moral-ethic/kindness
+            label: La gentillesse
+            group: Moral Ethic
+            deploy: false
+            children: 
+                
+          - title: Patience
+            title2: Patience
+            default: patience
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/moral-ethic/patience
+            label: Patience
+            group: Moral Ethic
+            deploy: false
+            children: 
+                
+          - title: Sérénité
+            title2: Sérénité
+            default: serenity
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/moral-ethic/serenity
+            label: Sérénité
+            group: Moral Ethic
+            deploy: false
+            children: 
+                
+          - title: Tempérance
+            title2: Tempérance
+            default: temperance
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/moral-ethic/temperance
+            label: Tempérance
+            group: Moral Ethic
+            deploy: false
+            children: 
+                   
+      - title: Éthique de travail
+        title2: Éthique de travail
+        default: work-ethic
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/attribute/work-ethic
+        label: Responsabilité, coopération, cohérence, équité, intégrité, ouverture, positivité, productivité, respect
+        group: Éthique de travail
+        deploy: true
+        children: 
+            
+          - title: Responsabilité
+            title2: Responsabilité
+            default: accountability
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/work-ethic/accountability
+            label: Responsabilité
+            group: Work Ethic
+            deploy: false
+            children: 
+                
+          - title: La coopération
+            title2: La coopération
+            default: co-operation
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/work-ethic/co-operation
+            label: La coopération
+            group: Work Ethic
+            deploy: false
+            children: 
+                
+          - title: Cohérence
+            title2: Cohérence
+            default: consistency
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/work-ethic/consistency
+            label: Cohérence
+            group: Work Ethic
+            deploy: false
+            children: 
+                
+          - title: Justice
+            title2: Justice
+            default: fairness
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/work-ethic/fairness
+            label: Justice
+            group: Work Ethic
+            deploy: false
+            children: 
+                
+          - title: Intégrité
+            title2: Intégrité
+            default: integrity
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/work-ethic/integrity
+            label: Intégrité
+            group: Work Ethic
+            deploy: false
+            children: 
+                
+          - title: Ouverture
+            title2: Ouverture
+            default: openness
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/work-ethic/openness
+            label: Ouverture
+            group: Work Ethic
+            deploy: false
+            children: 
+                
+          - title: Positivité
+            title2: Positivité
+            default: positivity
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/work-ethic/positivity
+            label: Positivité
+            group: Work Ethic
+            deploy: false
+            children: 
+                
+          - title: Productivité
+            title2: Productivité
+            default: productivity
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/work-ethic/productivity
+            label: Productivité
+            group: Work Ethic
+            deploy: false
+            children: 
+                
+          - title: Le respect
+            title2: Le respect
+            default: respect
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/work-ethic/respect
+            label: Le respect
+            group: Work Ethic
+            deploy: false
+            children: 
+                   
+      - title: Autogestion
+        title2: Autogestion
+        default: self-management
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/attribute/self-management
+        label: Gestion du changement personnel, Résilience, Confiance en soi, Maîtrise de soi, Autodétermination, Autodiscipline, Efficacité personnelle, Estime de soi, Motivation personnelle, Gestion du stress, Gestion du temps
+        group: Autogestion
+        deploy: true
+        children: 
+            
+          - title: Gestion du changement personnel
+            title2: Gestion du changement personnel
+            default: personal-change-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/self-management/personal-change-management
+            label: Gestion du changement personnel
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: Résilience
+            title2: Résilience
+            default: resilence
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/self-management/resilence
+            label: Résilience
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: Confiance en soi
+            title2: Confiance en soi
+            default: self-confidence
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/self-management/self-confidence
+            label: Confiance en soi
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: Maîtrise de soi
+            title2: Maîtrise de soi
+            default: self-control
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/self-management/self-control
+            label: Maîtrise de soi
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: Autodétermination
+            title2: Autodétermination
+            default: self-determination
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/self-management/self-determination
+            label: Autodétermination
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: Autodiscipline
+            title2: Autodiscipline
+            default: self-discipline
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/self-management/self-discipline
+            label: Autodiscipline
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: Auto-efficacité
+            title2: Auto-efficacité
+            default: self-efficacy
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/self-management/self-efficacy
+            label: Auto-efficacité
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: Amour propre
+            title2: Amour propre
+            default: self-esteem
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/self-management/self-esteem
+            label: Amour propre
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: Motivation personnelle
+            title2: Motivation personnelle
+            default: self-motivation
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/self-management/self-motivation
+            label: Motivation personnelle
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: La gestion du stress
+            title2: La gestion du stress
+            default: stress-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/self-management/stress-management
+            label: La gestion du stress
+            group: Self Management
+            deploy: false
+            children: 
+                
+          - title: Gestion du temps
+            title2: Gestion du temps
+            default: time-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/self-management/time-management
+            label: Gestion du temps
+            group: Self Management
+            deploy: false
+            children: 
+                   
+      - title: Cognition
+        title2: Cognition
+        default: cognition
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/attribute/cognition
+        label: Attention, fonctions exécutives, compétences linguistiques, mémoire, métacognition, motricité, perception, vitesse de traitement
+        group: Cognition
+        deploy: true
+        children: 
+            
+          - title: Attention
+            title2: Attention
+            default: attention
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/cognition/attention
+            label: Attention
+            group: Cognition
+            deploy: false
+            children: 
+                
+          - title: Fonctions executives
+            title2: Fonctions executives
+            default: executive-functions
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/cognition/executive-functions
+            label: Fonctions executives
+            group: Cognition
+            deploy: false
+            children: 
+                
+          - title: Compétences linguistiques
+            title2: Compétences linguistiques
+            default: language-skills
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/cognition/language-skills
+            label: Compétences linguistiques
+            group: Cognition
+            deploy: false
+            children: 
+                
+          - title: Mémoire
+            title2: Mémoire
+            default: memory
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/cognition/memory
+            label: Mémoire
+            group: Cognition
+            deploy: false
+            children: 
+                
+          - title: Métacognition
+            title2: Métacognition
+            default: metacognition
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/cognition/metacognition
+            label: Métacognition
+            group: Cognition
+            deploy: false
+            children: 
+                
+          - title: Motricité
+            title2: Motricité
+            default: motor-skills
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/cognition/motor-skills
+            label: Motricité
+            group: Cognition
+            deploy: false
+            children: 
+                
+          - title: la perception
+            title2: la perception
+            default: perception
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/cognition/perception
+            label: la perception
+            group: Cognition
+            deploy: false
+            children: 
+                
+          - title: Vitesse de traitement
+            title2: Vitesse de traitement
+            default: processing-speed
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/cognition/processing-speed
+            label: Vitesse de traitement
+            group: Cognition
+            deploy: false
+            children: 
+                   
+      - title: Aptitude cognitive
+        title2: Aptitude cognitive
+        default: cognitive-aptitude
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/attribute/cognitive-aptitude
+        label: Capacité d'apprentissage, capacité d'organisation, capacité de planification, créativité, pensée critique, prise de décision, intuition, résolution de problèmes, réflexion stratégique, sagesse
+        group: Aptitude cognitive
+        deploy: true
+        children: 
+            
+          - title: Faculté d'apprendre
+            title2: Faculté d'apprendre
+            default: ability-to-learn
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/cognitive-aptitude/ability-to-learn
+            label: Faculté d'apprendre
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                
+          - title: Capacité d'organisation
+            title2: Capacité d'organisation
+            default: ability-to-organize
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/cognitive-aptitude/ability-to-organize
+            label: Capacité d'organisation
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                
+          - title: Capacité à planifier
+            title2: Capacité à planifier
+            default: ability-to-plan
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/cognitive-aptitude/ability-to-plan
+            label: Capacité à planifier
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                
+          - title: La créativité
+            title2: La créativité
+            default: creativity
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/cognitive-aptitude/creativity
+            label: La créativité
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                
+          - title: Esprit critique
+            title2: Esprit critique
+            default: critical-thinking
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/cognitive-aptitude/critical-thinking
+            label: Esprit critique
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                
+          - title: La prise de décision
+            title2: La prise de décision
+            default: decision-making
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/cognitive-aptitude/decision-making
+            label: La prise de décision
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                
+          - title: Intuition
+            title2: Intuition
+            default: intuition
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/cognitive-aptitude/intuition
+            label: Intuition
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                
+          - title: Résolution de problème
+            title2: Résolution de problème
+            default: problem-solving
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/cognitive-aptitude/problem-solving
+            label: Résolution de problème
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                
+          - title: Réflexion stratégique
+            title2: Réflexion stratégique
+            default: strategic-thinking
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/cognitive-aptitude/strategic-thinking
+            label: Réflexion stratégique
+            group: Cognitive Aptitude
+            deploy: false
+            children: 
+                   
+      - title: Gestion des émotions
+        title2: Gestion des émotions
+        default: emotion-management
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/attribute/emotion-management
+        label: Colère, anxiété, désespoir, envie, peur, culpabilité, bonheur, haine, espoir, solitude, amour, fierté, regret, tristesse, honte
+        group: Gestion des émotions
+        deploy: true
+        children: 
+            
+          - title: Gestion de la colère
+            title2: Gestion de la colère
+            default: anger-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/emotion-management/anger-management
+            label: Gestion de la colère
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: Gestion de l'anxiété
+            title2: Gestion de l'anxiété
+            default: anxiety-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/emotion-management/anxiety-management
+            label: Gestion de l'anxiété
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: Gestion du désespoir
+            title2: Gestion du désespoir
+            default: despair-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/emotion-management/despair-management
+            label: Gestion du désespoir
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: Gestion de l'envie
+            title2: Gestion de l'envie
+            default: envy-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/emotion-management/envy-management
+            label: Gestion de l'envie
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: Gestion de la peur
+            title2: Gestion de la peur
+            default: fear-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/emotion-management/fear-management
+            label: Gestion de la peur
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: Gestion de la culpabilité
+            title2: Gestion de la culpabilité
+            default: guilt-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/emotion-management/guilt-management
+            label: Gestion de la culpabilité
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: Gestion du bonheur
+            title2: Gestion du bonheur
+            default: happiness-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/emotion-management/happiness-management
+            label: Gestion du bonheur
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: Gestion de la haine
+            title2: Gestion de la haine
+            default: hatred-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/emotion-management/hatred-management
+            label: Gestion de la haine
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: Gestion de l'espoir
+            title2: Gestion de l'espoir
+            default: hope-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/emotion-management/hope-management
+            label: Gestion de l'espoir
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: Gestion de la solitude
+            title2: Gestion de la solitude
+            default: loneliness-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/emotion-management/loneliness-management
+            label: Gestion de la solitude
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: Gestion de l'amour
+            title2: Gestion de l'amour
+            default: love-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/emotion-management/love-management
+            label: Gestion de l'amour
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: Gestion de la fierté
+            title2: Gestion de la fierté
+            default: pride-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/emotion-management/pride-management
+            label: Gestion de la fierté
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: Gestion des regrets
+            title2: Gestion des regrets
+            default: regret-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/emotion-management/regret-management
+            label: Gestion des regrets
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: Gestion de la tristesse
+            title2: Gestion de la tristesse
+            default: sadness-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/emotion-management/sadness-management
+            label: Gestion de la tristesse
+            group: Emotion Management
+            deploy: false
+            children: 
+                
+          - title: Gestion de la honte
+            title2: Gestion de la honte
+            default: shame-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/emotion-management/shame-management
+            label: Gestion de la honte
+            group: Emotion Management
+            deploy: false
+            children: 
+                   
+      - title: Interrelation sociale
+        title2: Interrelation sociale
+        default: social-interrelation
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/attribute/social-interrelation
+        label: Écoute active, Communication non verbale, Communication verbale, Communication visuelle, Communication écrite, Négociation, Gestion des conflits, Conscience sociale, Travail d'équipe
+        group: Interrelation sociale
+        deploy: true
+        children: 
+            
+          - title: Écoute active
+            title2: Écoute active
+            default: active-listening
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/social-interrelation/active-listening
+            label: Écoute active
+            group: Social Interrelation
+            deploy: false
+            children: 
+                
+          - title: La gestion des conflits
+            title2: La gestion des conflits
+            default: conflict-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/social-interrelation/conflict-management
+            label: La gestion des conflits
+            group: Social Interrelation
+            deploy: false
+            children: 
+                
+          - title: Négociation
+            title2: Négociation
+            default: negotiation
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/social-interrelation/negotiation
+            label: Négociation
+            group: Social Interrelation
+            deploy: false
+            children: 
+                
+          - title: La communication non verbale
+            title2: La communication non verbale
+            default: non-verbal-communication
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/social-interrelation/non-verbal-communication
+            label: La communication non verbale
+            group: Social Interrelation
+            deploy: false
+            children: 
+                
+          - title: Conscience sociale
+            title2: Conscience sociale
+            default: social-awareness
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/social-interrelation/social-awareness
+            label: Conscience sociale
+            group: Social Interrelation
+            deploy: false
+            children: 
+                
+          - title: Travail en équipe
+            title2: Travail en équipe
+            default: teamwork
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/social-interrelation/teamwork
+            label: Travail en équipe
+            group: Social Interrelation
+            deploy: false
+            children: 
+                
+          - title: Communication verbale
+            title2: Communication verbale
+            default: verbal-communication
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/social-interrelation/verbal-communication
+            label: Communication verbale
+            group: Social Interrelation
+            deploy: false
+            children: 
+                
+          - title: Communication visuelle
+            title2: Communication visuelle
+            default: visual-communication
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/social-interrelation/visual-communication
+            label: Communication visuelle
+            group: Social Interrelation
+            deploy: false
+            children: 
+                
+          - title: Communication écrite
+            title2: Communication écrite
+            default: written-communication
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/social-interrelation/written-communication
+            label: Communication écrite
+            group: Social Interrelation
+            deploy: false
+            children: 
+                   
+      - title: Administration
+        title2: Administration
+        default: administration
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/attribute/administration
+        label: Délégation, Leadership, Management, Mentorat, Suivi, Motivation, Organisation, Gestion des personnes
+        group: Administration
+        deploy: true
+        children: 
+            
+          - title: Délégation
+            title2: Délégation
+            default: delegation
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/administration/delegation
+            label: Délégation
+            group: Administration
+            deploy: false
+            children: 
+                
+          - title: Direction
+            title2: Direction
+            default: leadership
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/administration/leadership
+            label: Direction
+            group: Administration
+            deploy: false
+            children: 
+                
+          - title: La gestion
+            title2: La gestion
+            default: management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/administration/management
+            label: La gestion
+            group: Administration
+            deploy: false
+            children: 
+                
+          - title: Mentorat
+            title2: Mentorat
+            default: mentoring
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/administration/mentoring
+            label: Mentorat
+            group: Administration
+            deploy: false
+            children: 
+                
+          - title: Surveillance
+            title2: Surveillance
+            default: monitoring
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/administration/monitoring
+            label: Surveillance
+            group: Administration
+            deploy: false
+            children: 
+                
+          - title: Motivant
+            title2: Motivant
+            default: motivating
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/administration/motivating
+            label: Motivant
+            group: Administration
+            deploy: false
+            children: 
+                
+          - title: Organisation
+            title2: Organisation
+            default: organization
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/administration/organization
+            label: Organisation
+            group: Administration
+            deploy: false
+            children: 
+                
+          - title: Ressources humaines
+            title2: Ressources humaines
+            default: people-management
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/attribute/administration/people-management
+            label: Ressources humaines
+            group: Administration
+            deploy: false
+            children: 
+                      
+  - title: Agriculture
+    title2: Agriculture
+    default: farming
+    kind: directory
+    icon: icon-directory
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming
+    label: 
+    group: Agriculture
+    deploy: true
+    children:
+        
+      - title: Culture de céréales
+        title2: Culture de céréales
+        default: cereal-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/cereal-crop
+        label: Culture de céréales
+        group: Culture de céréales
+        deploy: true
+        children: 
+            
+          - title: Orge
+            title2: Culture de l'orge
+            default: barley-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/cereal-crop/barley
+            label: Culture de céréales d'orge
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Sarrasin
+            title2: La culture du sarrasin
+            default: buckwheat-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/cereal-crop/buckwheat
+            label: Culture de céréales de sarrasin
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Alpiste des Canaries
+            title2: Culture de graines à canaris
+            default: canary-seed-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/cereal-crop/canary-seed
+            label: Culture de céréales à l'alpiste des Canaries
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: le fonio
+            title2: Culture du fonio
+            default: fonio-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/cereal-crop/fonio
+            label: Culture Céréale Fonio
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Maïs
+            title2: Culture du maïs
+            default: maize-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/cereal-crop/maize
+            label: Culture de légumes de maïs
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Millet
+            title2: Culture du mil
+            default: millet-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/cereal-crop/millet
+            label: Culture de céréales de millet
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Avoine
+            title2: La culture de l'avoine
+            default: oat-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/cereal-crop/oat
+            label: Culture de céréales d'avoine
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: quinoa
+            title2: Culture de quinoa
+            default: quinoa-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/cereal-crop/quinoa
+            label: Culture de céréales de quinoa
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Riz
+            title2: Riziculture
+            default: rice-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/cereal-crop/rice
+            label: Culture de céréales de riz
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Seigle
+            title2: Culture du seigle
+            default: rye-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/cereal-crop/rye
+            label: Culture de céréales de seigle
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Sorgho
+            title2: Culture du sorgho
+            default: sorghum-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/cereal-crop/sorghum
+            label: Culture de céréales de sorgho
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Triticale
+            title2: Agriculture de triticale
+            default: triticale-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/cereal-crop/triticale
+            label: Culture de céréales au triticale
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Blé
+            title2: Culture du blé
+            default: wheat-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/cereal-crop/wheat
+            label: Culture de céréales de blé
+            group: Cereal Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: Agrumes
+        title2: La culture des agrumes
+        default: citrus-fruit-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/citrus-fruit
+        label: La culture des agrumes
+        group: La culture des agrumes
+        deploy: false
+        children: 
+            
+          - title: Clémentine
+            title2: Culture clémentine
+            default: clementine-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/citrus-fruit/clementine
+            label: Culture fruitière clémentine
+            group: Citrus Fruit Farming
+            deploy: false
+            children: 
+                
+          - title: Pamplemousse
+            title2: Culture de pamplemousse
+            default: grapefruit-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/citrus-fruit/grapefruit
+            label: Culture de fruits de pamplemousse
+            group: Citrus Fruit Farming
+            deploy: false
+            children: 
+                
+          - title: Citron
+            title2: La culture du citron
+            default: lemon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/citrus-fruit/lemon
+            label: Culture de fruits au citron
+            group: Citrus Fruit Farming
+            deploy: false
+            children: 
+                
+          - title: Chaux
+            title2: Culture de la chaux
+            default: lime-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/citrus-fruit/lime
+            label: Culture de fruits à la chaux
+            group: Citrus Fruit Farming
+            deploy: false
+            children: 
+                
+          - title: mandarin
+            title2: Culture de la mandarine
+            default: mandarin-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/citrus-fruit/mandarin
+            label: Culture de la mandarine
+            group: Citrus Fruit Farming
+            deploy: false
+            children: 
+                
+          - title: Orange
+            title2: Culture d'oranges
+            default: orange-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/citrus-fruit/orange
+            label: Culture de fruits orange
+            group: Citrus Fruit Farming
+            deploy: false
+            children: 
+                
+          - title: Satsumas
+            title2: Agriculture Satsumas
+            default: satsumas-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/citrus-fruit/satsumas
+            label: Culture fruitière de Satsumas
+            group: Citrus Fruit Farming
+            deploy: false
+            children: 
+                
+          - title: Mandarine
+            title2: Culture de mandarine
+            default: tangerine-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/citrus-fruit/tangerine
+            label: Culture de fruits de mandarine
+            group: Citrus Fruit Farming
+            deploy: false
+            children: 
+                   
+      - title: Crustacé
+        title2: Élevage de crustacés
+        default: crustacean-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/crustacean
+        label: Élevage de crustacés
+        group: Élevage de crustacés
+        deploy: true
+        children: 
+            
+          - title: Crabe
+            title2: Élevage de crabes
+            default: crab-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/crustacean/crab
+            label: Élevage de crustacés de crabe
+            group: Crustacean Farming
+            deploy: false
+            children: 
+                
+          - title: Écrevisse
+            title2: Élevage d'écrevisses
+            default: crayfish-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/crustacean/crayfish
+            label: Élevage de crustacés d'écrevisses
+            group: Crustacean Farming
+            deploy: false
+            children: 
+                
+          - title: Homard
+            title2: Élevage de homard
+            default: lobster-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/crustacean/lobster
+            label: Élevage de crustacés de homard
+            group: Crustacean Farming
+            deploy: false
+            children: 
+                
+          - title: Crevette
+            title2: Élevage de crevettes
+            default: prawn-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/crustacean/prawn
+            label: Élevage de crevettes et crustacés
+            group: Crustacean Farming
+            deploy: false
+            children: 
+                
+          - title: Crevette
+            title2: Élevage de crevettes
+            default: shrimp-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/crustacean/shrimp
+            label: Élevage de crevettes et crustacés
+            group: Crustacean Farming
+            deploy: false
+            children: 
+                   
+      - title: Culture de fibres
+        title2: Culture de fibres
+        default: fibre-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/fibre-crop
+        label: Culture de fibres
+        group: Culture de fibres
+        deploy: true
+        children: 
+            
+          - title: Agave
+            title2: Agriculture d'agave
+            default: agave-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fibre-crop/agave
+            label: Culture de la fibre d'agave
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Raphia
+            title2: Élevage de Bast
+            default: bast-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fibre-crop/bast
+            label: Culture de fibres libériennes
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Lin
+            title2: Culture du lin
+            default: flax-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fibre-crop/flax
+            label: Culture de lin oléagineux
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Chanvre
+            title2: Culture de chanvre
+            default: hemp-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fibre-crop/hemp
+            label: Culture oléagineuse de chanvre
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Jute
+            title2: Culture de jute
+            default: jute-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fibre-crop/jute
+            label: Culture de la fibre de jute
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Kapok
+            title2: Culture du kapok
+            default: kapok-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fibre-crop/kapok
+            label: Culture oléagineuse de kapok
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Manille
+            title2: Agriculture de Manille
+            default: manila-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fibre-crop/manila
+            label: Culture de fibres de Manille
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Ramie
+            title2: Culture de la ramie
+            default: ramie-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fibre-crop/ramie
+            label: Culture de fibres de ramie
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Coton Graine
+            title2: Culture du coton graine
+            default: seed-cotton-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fibre-crop/seed-cotton
+            label: Culture oléagineuse de coton graine
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Sisal
+            title2: Culture de sisal
+            default: sisal-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fibre-crop/sisal
+            label: Culture de fibres de sisal
+            group: Fibre Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: Poisson
+        title2: Aquaculture
+        default: fish-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/fish
+        label: Aquaculture
+        group: Aquaculture
+        deploy: true
+        children: 
+            
+          - title: Carpe
+            title2: Élevage de carpes
+            default: carp-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fish/carp
+            label: Carpe Pisciculture
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: Poisson-chat
+            title2: Élevage de poisson-chat
+            default: catfish-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fish/catfish
+            label: Pisciculture du poisson-chat
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: Anguille
+            title2: Élevage d'anguilles
+            default: eel-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fish/eel
+            label: La pisciculture à l'anguille
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: Mulet
+            title2: Élevage de mulets
+            default: mullet-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fish/mullet
+            label: La pisciculture de mulet
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: Perche
+            title2: Élevage de perches
+            default: perch-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fish/perch
+            label: La pisciculture de la perche
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: Saumon
+            title2: Élevage de saumon
+            default: salmon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fish/salmon
+            label: La pisciculture du saumon
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: Dorade
+            title2: Élevage de daurade
+            default: seabream-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fish/seabream
+            label: La pisciculture de la dorade
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: Esturgeon
+            title2: Élevage d'esturgeons
+            default: sturgeon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fish/sturgeon
+            label: Pisciculture de l'esturgeon
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: Tilapia
+            title2: Élevage de tilapia
+            default: tilapia-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fish/tilapia
+            label: Pisciculture du tilapia
+            group: Fish Farming
+            deploy: false
+            children: 
+                
+          - title: Truite
+            title2: Élevage de truites
+            default: trout-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fish/trout
+            label: La pisciculture de la truite
+            group: Fish Farming
+            deploy: false
+            children: 
+                   
+      - title: Culture fruitière
+        title2: Culture fruitière
+        default: fruit-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/fruit-crop
+        label: Culture fruitière
+        group: Culture fruitière
+        deploy: true
+        children: 
+            
+          - title: Pomme
+            title2: La culture des pommes
+            default: apple-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/apple
+            label: Culture de pommes fruitières
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Abricot
+            title2: Culture d'abricots
+            default: apricot-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/apricot
+            label: Culture de fruits d'abricot
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Avocat
+            title2: Culture d'avocats
+            default: avocado-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/avocado
+            label: Culture de fruits d'avocat
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Banane
+            title2: Culture de la banane
+            default: banana-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/banana
+            label: Culture de bananes
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Myrtille
+            title2: Culture de bleuets
+            default: blueberry-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/blueberry
+            label: Culture de myrtilles
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Caroube
+            title2: Culture de caroube
+            default: carob-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/carob
+            label: Culture de fruits de caroube
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Noix de cajou
+            title2: Culture de noix de cajou
+            default: cashewapple-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/cashewapple
+            label: Culture de fruits de cajou
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: cerise
+            title2: Culture de la cerise
+            default: cherry-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/cherry
+            label: Culture de cerises
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Clémentine
+            title2: Culture clémentine
+            default: clementine-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/clementine
+            label: Culture fruitière clémentine
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Canneberge
+            title2: Culture de canneberges
+            default: cranberry-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/cranberry
+            label: Culture de fruits de canneberge
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Groseille
+            title2: Culture de groseilles
+            default: currant-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/currant
+            label: Culture de fruits de groseille
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Date
+            title2: Date de l'agriculture
+            default: date-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/date
+            label: Date Fruit Culture Agriculture
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Figure
+            title2: Élevage de figues
+            default: fig-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/fig
+            label: Culture de figues
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Groseille à maquereau
+            title2: Culture de groseilles à maquereau
+            default: gooseberry-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/gooseberry
+            label: Culture de groseilles à maquereau
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Raisin
+            title2: Culture de la vigne
+            default: grape-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/grape
+            label: Culture de fruits de raisin
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Pamplemousse
+            title2: Culture de pamplemousse
+            default: grapefruit-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/grapefruit
+            label: Culture de fruits de pamplemousse
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Goyave
+            title2: Culture de la goyave
+            default: guava-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/guava
+            label: Culture de fruits de goyave
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: kiwi
+            title2: Culture de kiwis
+            default: kiwi-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/kiwi
+            label: Culture de kiwis
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Citron
+            title2: La culture du citron
+            default: lemon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/lemon
+            label: Culture de fruits au citron
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Chaux
+            title2: Culture de la chaux
+            default: lime-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/lime
+            label: Culture de fruits à la chaux
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: mandarin
+            title2: Culture de la mandarine
+            default: mandarin-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/mandarin
+            label: Culture de la mandarine
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Mangue
+            title2: Culture de la mangue
+            default: mango-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/mango
+            label: Culture de fruits à la mangue
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Mangoustan
+            title2: Culture de mangoustan
+            default: mangosteen-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/mangosteen
+            label: Culture de fruits de mangoustan
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Nectarine
+            title2: Culture de nectarines
+            default: nectarine-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/nectarine
+            label: Culture de fruits de nectarine
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Orange
+            title2: Culture d'oranges
+            default: orange-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/orange
+            label: Culture de fruits orange
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Papaye
+            title2: Culture de la papaye
+            default: papaya-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/papaya
+            label: Culture de la papaye
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Pêche
+            title2: Culture de la pêche
+            default: peach-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/peach
+            label: Culture de fruits de pêche
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Poire
+            title2: Culture de poires
+            default: pear-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/pear
+            label: Culture de poires
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Kaki
+            title2: Culture de kaki
+            default: persimmon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/persimmon
+            label: Culture de fruits de kaki
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Ananas
+            title2: Culture d'ananas
+            default: pineapple-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/pineapple
+            label: Culture de fruits d'ananas
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Banane plantain
+            title2: Culture de la banane plantain
+            default: plantain-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/plantain
+            label: Culture de fruits de banane plantain
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Prune et Sole
+            title2: Culture de la prune et de la sole
+            default: plum-and-sole-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/plum-and-sole
+            label: Culture de prunes et de soles
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Coing
+            title2: Culture de coings
+            default: quince-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/quince
+            label: Culture de fruits de coing
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Framboise
+            title2: Culture de la framboise
+            default: raspberry-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/raspberry
+            label: Culture de fruits de framboise
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Satsumas
+            title2: Agriculture Satsumas
+            default: satsumas-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/satsumas
+            label: Culture fruitière de Satsumas
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: fraise
+            title2: Culture de fraises
+            default: strawberry-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/strawberry
+            label: Culture de fraises
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Mandarine
+            title2: Culture de mandarine
+            default: tangerine-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/tangerine
+            label: Culture de fruits de mandarine
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Pastèque
+            title2: Culture de pastèques
+            default: watermelon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/fruit-crop/watermelon
+            label: Culture de fruits de pastèque
+            group: Fruit Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: Bétail
+        title2: L'élevage
+        default: livestock-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/livestock
+        label: L'élevage
+        group: L'élevage
+        deploy: true
+        children: 
+            
+          - title: Alpaga
+            title2: Élevage d'alpagas
+            default: alpaca-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/livestock/alpaca
+            label: Élevage d'alpagas
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: Buffle
+            title2: Élevage de bisons
+            default: buffalo-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/livestock/buffalo
+            label: Élevage de buffle
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: chameau
+            title2: Élevage de chameaux
+            default: camel-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/livestock/camel
+            label: L'élevage de chameaux
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: Bovins
+            title2: Élevage bovin
+            default: cattle-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/livestock/cattle
+            label: Élevage de bétail
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: Âne
+            title2: Élevage d'ânes
+            default: donkey-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/livestock/donkey
+            label: L'élevage d'ânes
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: Chèvre
+            title2: Élevage de chèvres
+            default: goat-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/livestock/goat
+            label: Élevage de chèvres
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: Cheval
+            title2: Élevage de chevaux
+            default: horse-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/livestock/horse
+            label: Élevage de chevaux
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: Lama
+            title2: Élevage de lamas
+            default: llama-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/livestock/llama
+            label: Élevage de lamas
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: Bœuf
+            title2: Élevage de bœufs
+            default: ox-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/livestock/ox
+            label: Élevage de bœufs
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: Cochon
+            title2: Élevage de porcs
+            default: pig-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/livestock/pig
+            label: Élevage de porcs
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: Lapin
+            title2: Élevage de lapins
+            default: rabbit-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/livestock/rabbit
+            label: Élevage de lapins
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: Renne
+            title2: Élevage de rennes
+            default: reindeer-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/livestock/reindeer
+            label: Élevage de rennes
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: Mouton
+            title2: Élevage de moutons
+            default: sheep-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/livestock/sheep
+            label: Élevage de moutons
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: Buffles d'eau
+            title2: Élevage de buffles d'eau
+            default: water-buffalo-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/livestock/water-buffalo
+            label: Élevage de buffle d'eau
+            group: Livestock Farming
+            deploy: false
+            children: 
+                
+          - title: Yak
+            title2: Élevage de yacks
+            default: yak-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/livestock/yak
+            label: Élevage de Yak
+            group: Livestock Farming
+            deploy: false
+            children: 
+                   
+      - title: Mollusques
+        title2: Élevage de mollusques
+        default: molluscs-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/molluscs
+        label: Élevage de mollusques
+        group: Élevage de mollusques
+        deploy: true
+        children: 
+            
+          - title: Ormeau
+            title2: Élevage d'ormeaux
+            default: abalone-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/molluscs/abalone
+            label: Élevage de mollusques d'ormeaux
+            group: Molluscs Farming
+            deploy: false
+            children: 
+                
+          - title: Arche
+            title2: Ferme de l'arche
+            default: ark-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/molluscs/ark
+            label: Arche Mollusques Élevage
+            group: Molluscs Farming
+            deploy: false
+            children: 
+                
+          - title: Palourde
+            title2: Élevage de palourdes
+            default: clam-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/molluscs/clam
+            label: Élevage de mollusques de palourdes
+            group: Molluscs Farming
+            deploy: false
+            children: 
+                
+          - title: Moule
+            title2: Élevage de moules
+            default: mussel-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/molluscs/mussel
+            label: Élevage de moules mollusques
+            group: Molluscs Farming
+            deploy: false
+            children: 
+                
+          - title: huître
+            title2: L'ostréiculture
+            default: oyster-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/molluscs/oyster
+            label: Élevage de mollusques d'huîtres
+            group: Molluscs Farming
+            deploy: false
+            children: 
+                
+          - title: Coquille
+            title2: Élevage de pétoncles
+            default: scallop-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/molluscs/scallop
+            label: Élevage de mollusques pétoncles
+            group: Molluscs Farming
+            deploy: false
+            children: 
+                
+          - title: Coquille
+            title2: Élevage de coquillages
+            default: shell-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/molluscs/shell
+            label: Élevage de coquillages
+            group: Molluscs Farming
+            deploy: false
+            children: 
+                   
+      - title: oléagineux
+        title2: Culture d'oléagineux
+        default: oilcrop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/oilcrop
+        label: Culture d'oléagineux
+        group: Culture d'oléagineux
+        deploy: true
+        children: 
+            
+          - title: Castor
+            title2: L'élevage du ricin
+            default: castor-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/castor
+            label: L'agriculture oléagineuse de ricin
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Noix de coco
+            title2: Culture de la noix de coco
+            default: coconut-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/coconut
+            label: Culture oléagineuse de noix de coco
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Lin
+            title2: Culture du lin
+            default: flax-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/flax
+            label: Culture de lin oléagineux
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Arachide
+            title2: Culture de l'arachide
+            default: groundnut-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/groundnut
+            label: Culture d'oléagineux d'arachide
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Chanvre
+            title2: Culture de chanvre
+            default: hemp-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/hemp
+            label: Culture oléagineuse de chanvre
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Jojoba
+            title2: Agriculture de jojoba
+            default: jojoba-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/jojoba
+            label: Culture oléagineuse de jojoba
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Kapok
+            title2: Culture du kapok
+            default: kapok-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/kapok
+            label: Culture oléagineuse de kapok
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Karité
+            title2: Agriculture de Karité
+            default: karite-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/karite
+            label: Culture oléagineuse de karité
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Melon
+            title2: Culture de melons
+            default: melon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/melon
+            label: Culture oléagineuse de melon
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Moutarde
+            title2: Culture de la moutarde
+            default: mustard-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/mustard
+            label: Culture de la moutarde oléagineuse
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Huile de palme
+            title2: Culture du palmier à huile
+            default: oil-palm-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/oil-palm
+            label: Culture de palmier à huile
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: olive
+            title2: L'oléiculture
+            default: olive-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/olive
+            label: La culture de l'huile d'olive
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Coquelicot
+            title2: La culture du pavot
+            default: poppy-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/poppy
+            label: Culture du pavot
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Râpé
+            title2: L'élevage de colza
+            default: rape-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/rape
+            label: L'agriculture de colza
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Carthame
+            title2: Culture de carthame
+            default: safflower-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/safflower
+            label: Culture oléagineuse de carthame
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Coton Graine
+            title2: Culture du coton graine
+            default: seed-cotton-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/seed-cotton
+            label: Culture oléagineuse de coton graine
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Sésame
+            title2: Culture de sésame
+            default: sesame-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/sesame
+            label: Culture oléagineuse de sésame
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Soja
+            title2: Culture de soja
+            default: soybean-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/soybean
+            label: Culture oléagineuse de soja
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Tournesol
+            title2: La culture du tournesol
+            default: sunflower-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/sunflower
+            label: Culture oléagineuse de tournesol
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                
+          - title: Tung
+            title2: Agriculture de Tung
+            default: tung-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/oilcrop/tung
+            label: L'agriculture oléagineuse de Tung
+            group: Oilcrop Farming
+            deploy: false
+            children: 
+                   
+      - title: Autres cultures
+        title2: Autres cultures
+        default: other-crops-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/other-crops
+        label: Autres cultures
+        group: Autres cultures
+        deploy: true
+        children: 
+            
+          - title: Citronelle
+            title2: Culture de la citronnelle
+            default: citronella-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/other-crops/citronella
+            label: Citronnelle Autres Cultures Agriculture
+            group: Other Crops Farming
+            deploy: false
+            children: 
+                
+          - title: Gencive
+            title2: Culture de la gomme
+            default: gum-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/other-crops/gum
+            label: Gomme Autres Cultures Agriculture
+            group: Other Crops Farming
+            deploy: false
+            children: 
+                
+          - title: Sauter
+            title2: Culture du houblon
+            default: hop-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/other-crops/hop
+            label: Houblon Autres Cultures Agriculture
+            group: Other Crops Farming
+            deploy: false
+            children: 
+                
+          - title: menthe
+            title2: Culture de la menthe
+            default: mint-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/other-crops/mint
+            label: Menthe Autres Cultures Agriculture
+            group: Other Crops Farming
+            deploy: false
+            children: 
+                
+          - title: Pyrèthre
+            title2: Culture de pyrèthre
+            default: pyrethrum-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/other-crops/pyrethrum
+            label: Pyrèthre Autres Cultures Agriculture
+            group: Other Crops Farming
+            deploy: false
+            children: 
+                
+          - title: le tabac
+            title2: La culture du tabac
+            default: tobacco-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/other-crops/tobacco
+            label: Tabac Autres Cultures Agriculture
+            group: Other Crops Farming
+            deploy: false
+            children: 
+                
+          - title: La cire
+            title2: L'agriculture de cire
+            default: wax-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/other-crops/wax
+            label: Cire Autres Cultures Agriculture
+            group: Other Crops Farming
+            deploy: false
+            children: 
+                   
+      - title: la volaille
+        title2: Élevage de volailles
+        default: poultry-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/poultry
+        label: Élevage de volailles
+        group: Élevage de volailles
+        deploy: true
+        children: 
+            
+          - title: Poulet
+            title2: Élevage de poulet
+            default: chicken-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/poultry/chicken
+            label: Élevage de volaille de poulet
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: Canard
+            title2: Élevage de canards
+            default: duck-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/poultry/duck
+            label: Élevage de volaille de canard
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: Émeu
+            title2: Émeu Agriculture
+            default: emu-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/poultry/emu
+            label: Émeu Élevage De Volailles
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: Francolin
+            title2: L'élevage Francolin
+            default: francolin-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/poultry/francolin
+            label: Élevage avicole Francolin
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: OIE
+            title2: Élevage d'oies
+            default: goose-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/poultry/goose
+            label: Élevage de volailles d'oie
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: Pintade
+            title2: Élevage de pintade
+            default: guinea-fowl-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/poultry/guinea-fowl
+            label: Élevage de volaille de pintade
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: Autruche
+            title2: Élevage d'autruches
+            default: ostrich-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/poultry/ostrich
+            label: Élevage de volaille d'autruche
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: Perdrix
+            title2: Élevage de perdrix
+            default: partridge-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/poultry/partridge
+            label: Élevage de volailles de perdrix
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: Paon
+            title2: Élevage de paons
+            default: peafowl-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/poultry/peafowl
+            label: Élevage de volailles de paons
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: Faisan
+            title2: Élevage de faisans
+            default: pheasant-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/poultry/pheasant
+            label: Élevage de volaille de faisan
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: Pigeon
+            title2: Élevage de pigeons
+            default: pigeon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/poultry/pigeon
+            label: Élevage de volailles pigeons
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: Caille
+            title2: Élevage de cailles
+            default: quail-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/poultry/quail
+            label: Caille Volaille Élevage
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: cygne
+            title2: Élevage de cygnes
+            default: swan-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/poultry/swan
+            label: Élevage de volailles de cygne
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: Swiftlet
+            title2: Élevage de martinets
+            default: swiftlet-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/poultry/swiftlet
+            label: Élevage de volailles Swiftlet
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: Tinamou
+            title2: L'agriculture de Tinamou
+            default: tinamou-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/poultry/tinamou
+            label: Élevage avicole de Tinamou
+            group: Poultry Farming
+            deploy: false
+            children: 
+                
+          - title: Turquie
+            title2: Élevage de dinde
+            default: turkey-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/poultry/turkey
+            label: Élevage de volaille de dinde
+            group: Poultry Farming
+            deploy: false
+            children: 
+                   
+      - title: Culture de légumineuses
+        title2: Culture de légumineuses
+        default: pulse-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/pulse-crop
+        label: Culture de légumineuses
+        group: Culture de légumineuses
+        deploy: true
+        children: 
+            
+          - title: Haricot
+            title2: Culture de haricots
+            default: bean-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/pulse-crop/bean
+            label: Cultures stimulantes de haricots
+            group: Pulse Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Lentille
+            title2: Culture de lentilles
+            default: lentil-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/pulse-crop/lentil
+            label: Culture de légumineuses à lentilles
+            group: Pulse Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Lupin
+            title2: Élevage de lupins
+            default: lupin-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/pulse-crop/lupin
+            label: Culture de légumineuses de lupin
+            group: Pulse Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Pois
+            title2: Culture de pois
+            default: pea-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/pulse-crop/pea
+            label: Culture de légumes de pois
+            group: Pulse Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Vesce
+            title2: L'élevage de la vesce
+            default: vetch-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/pulse-crop/vetch
+            label: L'agriculture de légumineuses à vesce
+            group: Pulse Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: Racines et tubercules
+        title2: Culture de racines et tubercules
+        default: root-and-tuber-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/root-and-tuber-crop
+        label: Culture de racines et tubercules
+        group: Culture de racines et tubercules
+        deploy: true
+        children: 
+            
+          - title: Manioc
+            title2: Culture du manioc
+            default: cassava-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/root-and-tuber-crop/cassava
+            label: Culture de racines et tubercules de manioc
+            group: Root and Tuber Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Cocoyam
+            title2: Culture du Cocoyam
+            default: cocoyam-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/root-and-tuber-crop/cocoyam
+            label: Culture de racines et tubercules de cocoyam
+            group: Root and Tuber Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Pomme de terre
+            title2: Culture de pommes de terre
+            default: potato-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/root-and-tuber-crop/potato
+            label: Culture de racines et tubercules de pommes de terre
+            group: Root and Tuber Crop Farming
+            deploy: false
+            children: 
+                
+          - title: patate douce
+            title2: Élevage d'igname
+            default: yam-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/root-and-tuber-crop/yam
+            label: Culture de racines d'ignames et de tubercules
+            group: Root and Tuber Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: Culture d'épices
+        title2: Culture d'épices
+        default: spice-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/spice-crop
+        label: Culture d'épices
+        group: Culture d'épices
+        deploy: true
+        children: 
+            
+          - title: Anis
+            title2: La culture de l'anis
+            default: anise-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/spice-crop/anise
+            label: Culture d'anis et d'épices
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Badiane
+            title2: L'agriculture badienne
+            default: badian-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/spice-crop/badian
+            label: Culture d'épices de Badiane
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Cardamome
+            title2: Culture de cardamome
+            default: cardamon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/spice-crop/cardamon
+            label: Culture d'épices à la cardamome
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Piment et poivre
+            title2: Culture du piment et du poivre
+            default: chilly-and-pepper-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/spice-crop/chilly-and-pepper
+            label: Culture d'épices au piment et au poivre
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Cannelle
+            title2: Culture de la cannelle
+            default: cinnamon-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/spice-crop/cinnamon
+            label: Culture d'épices à la cannelle
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Clou de girofle
+            title2: La culture du clou de girofle
+            default: clove-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/spice-crop/clove
+            label: Culture d'épices de clou de girofle
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Fenouil
+            title2: Culture de fenouil
+            default: fennel-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/spice-crop/fennel
+            label: Culture d'épices de fenouil
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Gingembre
+            title2: La culture du gingembre
+            default: ginger-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/spice-crop/ginger
+            label: Culture d'épices au gingembre
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: masse
+            title2: Culture de la masse
+            default: mace-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/spice-crop/mace
+            label: Culture d'épice de macis
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Noix de muscade
+            title2: Culture de noix de muscade
+            default: nutmeg-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/spice-crop/nutmeg
+            label: Culture de noix de muscade et d'épices
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Piment
+            title2: Culture du piment
+            default: pimento-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/spice-crop/pimento
+            label: Culture d'épices de piment
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Vanille
+            title2: La culture de la vanille
+            default: vanilla-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/spice-crop/vanilla
+            label: Culture d'épices à la vanille
+            group: Spice Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: Culture stimulante
+        title2: Cultures stimulantes
+        default: stimulant-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/stimulant-crop
+        label: Cultures stimulantes
+        group: Cultures stimulantes
+        deploy: true
+        children: 
+            
+          - title: Haricot
+            title2: Culture de haricots
+            default: bean-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/stimulant-crop/bean
+            label: Cultures stimulantes de haricots
+            group: Stimulant Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Café
+            title2: La culture du café
+            default: coffee-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/stimulant-crop/coffee
+            label: Culture de stimulants de café
+            group: Stimulant Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Camarade
+            title2: Élevage de maté
+            default: mate-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/stimulant-crop/mate
+            label: Culture de plantes stimulantes de maté
+            group: Stimulant Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Thé
+            title2: La culture du thé
+            default: tea-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/stimulant-crop/tea
+            label: Culture du thé stimulant l'agriculture
+            group: Stimulant Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: Récolte de sucre
+        title2: Culture sucrière
+        default: sugar-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/sugar-crop
+        label: Culture sucrière
+        group: Culture sucrière
+        deploy: true
+        children: 
+            
+          - title: Betterave à sucre
+            title2: Culture de betteraves sucrières
+            default: sugar-beet-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/sugar-crop/sugar-beet
+            label: Betteraves sucrières Cultures sucrières
+            group: Sugar Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Canne à sucre
+            title2: Culture de la canne à sucre
+            default: sugar-cane-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/sugar-crop/sugar-cane
+            label: Culture du sucre de canne à sucre
+            group: Sugar Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: Récolte de noix
+        title2: Culture de noix
+        default: tree-nut-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/tree-nut-crop
+        label: Culture de noix
+        group: Culture de noix
+        deploy: true
+        children: 
+            
+          - title: Amande
+            title2: Amandier
+            default: almond-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/tree-nut-crop/almond
+            label: Culture de noix d'amandier
+            group: Tree Nut Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Brésil
+            title2: Brésil Agriculture
+            default: brazil-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/tree-nut-crop/brazil
+            label: Culture de noix du Brésil
+            group: Tree Nut Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Anacardier
+            title2: La culture du cajou
+            default: cashew-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/tree-nut-crop/cashew
+            label: Culture de noix de cajou
+            group: Tree Nut Crop Farming
+            deploy: false
+            children: 
+                
+          - title: châtaigne
+            title2: La châtaigneraie
+            default: chestnut-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/tree-nut-crop/chestnut
+            label: Culture de noix de châtaignier
+            group: Tree Nut Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Noisette
+            title2: Culture de la noisette
+            default: hazelnut-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/tree-nut-crop/hazelnut
+            label: Culture de noix de noisetier
+            group: Tree Nut Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Pistache
+            title2: Culture de la pistache
+            default: pistachio-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/tree-nut-crop/pistachio
+            label: Culture de noix de pistachier
+            group: Tree Nut Crop Farming
+            deploy: false
+            children: 
+                
+          - title: noyer
+            title2: La culture de la noix
+            default: walnut-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/tree-nut-crop/walnut
+            label: Culture de noix de noyer
+            group: Tree Nut Crop Farming
+            deploy: false
+            children: 
+                   
+      - title: Culture de légumes
+        title2: Culture de légumes
+        default: vegetable-crop-farming
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/farming/vegetable-crop
+        label: Culture de légumes
+        group: Culture de légumes
+        deploy: true
+        children: 
+            
+          - title: Artichaut
+            title2: Culture d'artichauts
+            default: artichoke-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/artichoke
+            label: Culture de légumes d'artichaut
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Asperges
+            title2: Culture d'asperges
+            default: asparagus-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/asparagus
+            label: Culture de légumes d'asperges
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Haricot
+            title2: Culture de haricots
+            default: bean-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/bean
+            label: Cultures stimulantes de haricots
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Brocoli
+            title2: Culture de brocoli
+            default: broccoli-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/broccoli
+            label: Culture de légumes de brocoli
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Choux
+            title2: Culture du chou
+            default: cabbage-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/cabbage
+            label: Culture de légumes de chou
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Carotte
+            title2: Culture de carottes
+            default: carrot-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/carrot
+            label: Culture de légumes carottes
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Chou-fleur
+            title2: Culture du chou-fleur
+            default: cauliflower-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/cauliflower
+            label: Culture de légumes de chou-fleur
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Chicorée
+            title2: Culture de la chicorée
+            default: chicory-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/chicory
+            label: Culture de légumes de chicorée
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Piment et poivre
+            title2: Culture du piment et du poivre
+            default: chilly-and-pepper-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/chilly-and-pepper
+            label: Culture d'épices au piment et au poivre
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Concombre
+            title2: Culture du concombre
+            default: cucumber-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/cucumber
+            label: Culture de légumes de concombre
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Aubergine
+            title2: Culture d'aubergines
+            default: eggplant-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/eggplant
+            label: Culture de légumes d'aubergine
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Ail
+            title2: La culture de l'ail
+            default: garlic-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/garlic
+            label: Culture de légumes à l'ail
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Cornichon
+            title2: Élevage de cornichons
+            default: gherkin-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/gherkin
+            label: Culture de légumes de cornichon
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Gourde
+            title2: Culture de la courge
+            default: gourd-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/gourd
+            label: Culture de légumes de courge
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Poireau
+            title2: Culture du poireau
+            default: leek-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/leek
+            label: Poireau Culture Légumière
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Salade
+            title2: Culture de la laitue
+            default: lettuce-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/lettuce
+            label: Culture de légumes de laitue
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Maïs
+            title2: Culture du maïs
+            default: maize-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/maize
+            label: Culture de légumes de maïs
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Champignon
+            title2: Culture de champignons
+            default: mushroom-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/mushroom
+            label: Culture de légumes de champignons
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Gombo
+            title2: L'élevage du gombo
+            default: okra-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/okra
+            label: Culture de légumes de gombo
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Oignon
+            title2: Culture de l'oignon
+            default: onion-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/onion
+            label: Culture de légumes à l'oignon
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Pois
+            title2: Culture de pois
+            default: pea-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/pea
+            label: Culture de légumes de pois
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Citrouille
+            title2: Culture de citrouilles
+            default: pumpkin-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/pumpkin
+            label: Culture de légumes de citrouille
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Échalote
+            title2: Élevage d'échalotes
+            default: shallot-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/shallot
+            label: Culture de légumes à l'échalote
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Épinard
+            title2: Culture d'épinards
+            default: spinach-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/spinach
+            label: Culture de légumes d'épinards
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Squash
+            title2: Élevage de courges
+            default: squash-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/squash
+            label: Culture de légumes de courge
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Tomate
+            title2: Culture de tomates
+            default: tomato-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/tomato
+            label: Culture de légumes de tomate
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Truffe
+            title2: Culture de la truffe
+            default: truffle-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/truffle
+            label: Culture de légumes à la truffe
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                
+          - title: Navet
+            title2: La culture du navet
+            default: turnip-farming
+            kind: directory
+            icon: icon-directory
+            sub_title: Une brève description
+            excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+            url: /fr/resources/farming/vegetable-crop/turnip
+            label: Culture de légumes de navet
+            group: Vegetable Crop Farming
+            deploy: false
+            children: 
+                      
+  - title: Production alimentaire
+    title2: Production alimentaire
+    default: food-production
+    kind: directory
+    icon: icon-directory
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/food-production
+    label: 
+    group: Production alimentaire
+    deploy: true
+    children:
+        
+      - title: Boisson
+        title2: Production de boissons
+        default: beverage-production
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/food-production/beverage
+        label: Production de boissons
+        group: Production de boissons
+        deploy: true
+        children: 
+            
+      - title: Produit céréalier
+        title2: Production de produits céréaliers
+        default: cereal-product-production
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/food-production/cereal-product
+        label: Production de produits céréaliers
+        group: Production de produits céréaliers
+        deploy: true
+        children: 
+            
+      - title: Condiment
+        title2: Fabrication de condiments
+        default: condiment-production
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/food-production/condiment
+        label: Fabrication de condiments
+        group: Fabrication de condiments
+        deploy: true
+        children: 
+            
+      - title: Confection
+        title2: Fabrication de confiseries
+        default: confection-production
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/food-production/confection
+        label: Fabrication de confiseries
+        group: Fabrication de confiseries
+        deploy: 
+        children: 
+            
+      - title: Additif alimentaire
+        title2: Production d'additifs alimentaires
+        default: food-additive-production
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/food-production/food-additive
+        label: Production d'additifs alimentaires
+        group: Production d'additifs alimentaires
+        deploy: true
+        children: 
+            
+      - title: Produit de noix
+        title2: Production de produits à base de noix
+        default: nut-product-production
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/food-production/nut-product
+        label: Production de produits à base de noix
+        group: Production de produits à base de noix
+        deploy: true
+        children: 
+            
+      - title: Pâtes et nouilles
+        title2: Production de pâtes et de nouilles
+        default: pasta-and-noodle-production
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/food-production/pasta-and-noodle
+        label: Production de pâtes et de nouilles
+        group: Production de pâtes et de nouilles
+        deploy: true
+        children: 
+            
+      - title: Produit d'impulsion
+        title2: Production de légumineuses
+        default: pulse-product-production
+        kind: directory
+        icon: icon-directory
+        sub_title: Une brève description
+        excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+        url: /fr/resources/food-production/pulse-product
+        label: Production de légumineuses
+        group: Production de légumineuses
+        deploy: true
+        children: 
+               
+  - title: Artisanat
+    title2: Artisanat
+    default: craft
+    kind: directory
+    icon: icon-directory
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/craft
+    label: 
+    group: Artisanat
+    deploy: true
+    children:
+        

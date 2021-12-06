@@ -1,0 +1,5219 @@
+
+data:
+    
+  - title: Abricot
+    title2: Culture d'abricots
+    title_uniq: culture-d'abricots
+    default: cattle-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ab
+    alphabet_l3: Abr
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/livestock/cattle
+    label: Bovins Bétail Agriculture Bovins
+    group: Culture d'abricots
+    deploy: false
+                  
+  - title: Additif alimentaire
+    title2: Production d'additifs alimentaires
+    title_uniq: production-d'additifs-alimentaires
+    default: pulse-product-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ad
+    alphabet_l3: Add
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/food-production/pulse-product
+    label: Produit d'impulsion Production alimentaire Produit d'impulsion
+    group: Production d'additifs alimentaires
+    deploy: true
+                  
+  - title: Administration
+    title2: Administration
+    title_uniq: administration
+    default: written-communication
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ad
+    alphabet_l3: Adm
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/social-interrelation/written-communication
+    label: Communication écrite Interrelation sociale Attribut Communication écrite
+    group: Administration
+    deploy: false
+                  
+  - title: Agave
+    title2: Agriculture d'agave
+    title_uniq: agriculture-d'agave
+    default: plantain-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ag
+    alphabet_l3: Aga
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/plantain
+    label: Banane plantain Culture fruitière Agriculture Banane plantain
+    group: Agriculture d'agave
+    deploy: false
+                  
+  - title: Agriculture
+    title2: Agriculture
+    title_uniq: agriculture
+    default: farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ag
+    alphabet_l3: Agr
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming
+    label: Agriculture Agriculture Culture de céréales Orge Sarrasin Alpiste des Canaries le fonio Maïs Millet Avoine quinoa Riz Seigle Sorgho Triticale Blé Agrumes Clémentine Pamplemousse Citron Chaux mandarin Orange Satsumas Mandarine Crustacé Crabe Écrevisse Homard Crevette Crevette Culture de fibres Agave Raphia Lin Chanvre Jute Kapok Manille Ramie Coton Graine Sisal Poisson Carpe Poisson-chat Anguille Mulet Perche Saumon Dorade Esturgeon Tilapia Truite Culture fruitière Pomme Abricot Avocat Banane Myrtille Caroube Noix de cajou cerise Clémentine Canneberge Groseille Date Figure Groseille à maquereau Raisin Pamplemousse Goyave kiwi Citron Chaux mandarin Mangue Mangoustan Nectarine Orange Papaye Pêche Poire Kaki Ananas Banane plantain Prune et Sole Coing Framboise Satsumas fraise Mandarine Pastèque Bétail Alpaga Buffle chameau Bovins Âne Chèvre Cheval Lama Bœuf Cochon Lapin Renne Mouton Buffles d'eau Yak Mollusques Ormeau Arche Palourde Moule huître Coquille Coquille oléagineux Castor Noix de coco Lin Arachide Chanvre Jojoba Kapok Karité Melon Moutarde Huile de palme olive Coquelicot Râpé Carthame Coton Graine Sésame Soja Tournesol Tung Autres cultures Citronelle Gencive Sauter menthe Pyrèthre le tabac La cire la volaille Poulet Canard Émeu Francolin OIE Pintade Autruche Perdrix Paon Faisan Pigeon Caille cygne Swiftlet Tinamou Turquie Culture de légumineuses Haricot Lentille Lupin Pois Vesce Racines et tubercules Manioc Cocoyam Pomme de terre patate douce Culture d'épices Anis Badiane Cardamome Piment et poivre Cannelle Clou de girofle Fenouil Gingembre masse Noix de muscade Piment Vanille Culture stimulante Haricot Café Camarade Thé Récolte de sucre Betterave à sucre Canne à sucre Récolte de noix Amande Brésil Anacardier châtaigne Noisette Pistache noyer Culture de légumes Artichaut Asperges Haricot Brocoli Choux Carotte Chou-fleur Chicorée Piment et poivre Concombre Aubergine Ail Cornichon Gourde Poireau Salade Maïs Champignon Gombo Oignon Pois Citrouille Échalote Épinard Squash Tomate Truffe Navet
+    group: Agriculture
+    deploy: true
+                  
+  - title: Agrumes
+    title2: La culture des agrumes
+    title_uniq: la-culture-des-agrumes
+    default: mandarin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ag
+    alphabet_l3: Agr
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/mandarin
+    label: mandarin Culture fruitière Agriculture mandarin
+    group: La culture des agrumes
+    deploy: false
+                  
+  - title: Agrumes
+    title2: La culture des agrumes
+    title_uniq: la-culture-des-agrumes
+    default: mandarin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ag
+    alphabet_l3: Agr
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/citrus-fruit/mandarin
+    label: mandarin Agrumes Agriculture mandarin
+    group: La culture des agrumes
+    deploy: false
+                  
+  - title: Ail
+    title2: La culture de l'ail
+    title_uniq: la-culture-de-l'ail
+    default: coffee-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ai
+    alphabet_l3: Ail
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/stimulant-crop/coffee
+    label: Café Culture stimulante Agriculture Café
+    group: La culture de l'ail
+    deploy: false
+                  
+  - title: Alpaga
+    title2: Élevage d'alpagas
+    title_uniq: élevage-d'alpagas
+    default: barley-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Al
+    alphabet_l3: Alp
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/cereal-crop/barley
+    label: Orge Culture de céréales Agriculture Orge
+    group: Élevage d'alpagas
+    deploy: false
+                  
+  - title: Alpiste des Canaries
+    title2: Culture de graines à canaris
+    title_uniq: culture-de-graines-à-canaris
+    default: cranberry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Al
+    alphabet_l3: Alp
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/cranberry
+    label: Canneberge Culture fruitière Agriculture Canneberge
+    group: Culture de graines à canaris
+    deploy: false
+                  
+  - title: Amande
+    title2: Amandier
+    title_uniq: amandier
+    default: cassava-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Am
+    alphabet_l3: Ama
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/root-and-tuber-crop/cassava
+    label: Manioc Racines et tubercules Agriculture Manioc
+    group: Amandier
+    deploy: false
+                  
+  - title: Amour propre
+    title2: Amour propre
+    title_uniq: amour-propre
+    default: self-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Am
+    alphabet_l3: Amo
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/self-management
+    label: Autogestion Attribut Autogestion Gestion du changement personnel Résilience Confiance en soi Maîtrise de soi Autodétermination Autodiscipline Auto-efficacité Amour propre Motivation personnelle La gestion du stress Gestion du temps
+    group: Amour propre
+    deploy: true
+                  
+  - title: Anacardier
+    title2: La culture du cajou
+    title_uniq: la-culture-du-cajou
+    default: potato-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: An
+    alphabet_l3: Ana
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/root-and-tuber-crop/potato
+    label: Pomme de terre Racines et tubercules Agriculture Pomme de terre
+    group: La culture du cajou
+    deploy: false
+                  
+  - title: Ananas
+    title2: Culture d'ananas
+    title_uniq: culture-d'ananas
+    default: karite-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: An
+    alphabet_l3: Ana
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/karite
+    label: Karité oléagineux Agriculture Karité
+    group: Culture d'ananas
+    deploy: false
+                  
+  - title: Anguille
+    title2: Élevage d'anguilles
+    title_uniq: élevage-d'anguilles
+    default: manila-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: An
+    alphabet_l3: Ang
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fibre-crop/manila
+    label: Manille Culture de fibres Agriculture Manille
+    group: Élevage d'anguilles
+    deploy: false
+                  
+  - title: Anis
+    title2: La culture de l'anis
+    title_uniq: la-culture-de-l'anis
+    default: broccoli-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: An
+    alphabet_l3: Ani
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/broccoli
+    label: Brocoli Culture de légumes Agriculture Brocoli
+    group: La culture de l'anis
+    deploy: false
+                  
+  - title: Aptitude cognitive
+    title2: Aptitude cognitive
+    title_uniq: aptitude-cognitive
+    default: processing-speed
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ap
+    alphabet_l3: Apt
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognition/processing-speed
+    label: Vitesse de traitement Cognition Attribut Vitesse de traitement
+    group: Aptitude cognitive
+    deploy: false
+                  
+  - title: Arachide
+    title2: Culture de l'arachide
+    title_uniq: culture-de-l'arachide
+    default: other-crops-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ar
+    alphabet_l3: Ara
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/other-crops
+    label: Autres cultures Agriculture Autres cultures Citronelle Gencive Sauter menthe Pyrèthre le tabac La cire
+    group: Culture de l'arachide
+    deploy: true
+                  
+  - title: Arche
+    title2: Ferme de l'arche
+    title_uniq: ferme-de-l'arche
+    default: apple-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ar
+    alphabet_l3: Arc
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/apple
+    label: Pomme Culture fruitière Agriculture Pomme
+    group: Ferme de l'arche
+    deploy: false
+                  
+  - title: Artisanat
+    title2: Artisanat
+    title_uniq: artisanat
+    default: craft
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Ar
+    alphabet_l3: Art
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/craft
+    label: Artisanat Artisanat
+    group: Artisanat
+    deploy: true
+                  
+  - title: Asperges
+    title2: Culture d'asperges
+    title_uniq: culture-d'asperges
+    default: cinnamon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: As
+    alphabet_l3: Asp
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/spice-crop/cinnamon
+    label: Cannelle Culture d'épices Agriculture Cannelle
+    group: Culture d'asperges
+    deploy: false
+                  
+  - title: Attention
+    title2: Attention
+    title_uniq: attention
+    default: cognition
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: At
+    alphabet_l3: Att
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognition
+    label: Cognition Attribut Cognition Attention Fonctions executives Compétences linguistiques Mémoire Métacognition Motricité la perception Vitesse de traitement
+    group: Attention
+    deploy: true
+                  
+  - title: Auto-efficacité
+    title2: Auto-efficacité
+    title_uniq: auto-efficacité
+    default: resilence
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Au
+    alphabet_l3: Aut
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/self-management/resilence
+    label: Résilience Autogestion Attribut Résilience
+    group: Auto-efficacité
+    deploy: false
+                  
+  - title: Autodiscipline
+    title2: Autodiscipline
+    title_uniq: autodiscipline
+    default: self-control
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Au
+    alphabet_l3: Aut
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/self-management/self-control
+    label: Maîtrise de soi Autogestion Attribut Maîtrise de soi
+    group: Autodiscipline
+    deploy: false
+                  
+  - title: Autodétermination
+    title2: Autodétermination
+    title_uniq: autodétermination
+    default: self-confidence
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Au
+    alphabet_l3: Aut
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/self-management/self-confidence
+    label: Confiance en soi Autogestion Attribut Confiance en soi
+    group: Autodétermination
+    deploy: false
+                  
+  - title: Autogestion
+    title2: Autogestion
+    title_uniq: autogestion
+    default: respect
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Au
+    alphabet_l3: Aut
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/work-ethic/respect
+    label: Le respect Éthique de travail Attribut Le respect
+    group: Autogestion
+    deploy: false
+                  
+  - title: Autres cultures
+    title2: Autres cultures
+    title_uniq: autres-cultures
+    default: pea-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Au
+    alphabet_l3: Aut
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/pulse-crop/pea
+    label: Pois Culture de légumineuses Agriculture Pois
+    group: Autres cultures
+    deploy: false
+                  
+  - title: Autres cultures
+    title2: Autres cultures
+    title_uniq: autres-cultures
+    default: pea-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Au
+    alphabet_l3: Aut
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/pea
+    label: Pois Culture de légumes Agriculture Pois
+    group: Autres cultures
+    deploy: false
+                  
+  - title: Autruche
+    title2: Élevage d'autruches
+    title_uniq: élevage-d'autruches
+    default: crustacean-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Au
+    alphabet_l3: Aut
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/crustacean
+    label: Crustacé Agriculture Crustacé Crabe Écrevisse Homard Crevette Crevette
+    group: Élevage d'autruches
+    deploy: true
+                  
+  - title: Avocat
+    title2: Culture d'avocats
+    title_uniq: culture-d'avocats
+    default: donkey-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Av
+    alphabet_l3: Avo
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/livestock/donkey
+    label: Âne Bétail Agriculture Âne
+    group: Culture d'avocats
+    deploy: false
+                  
+  - title: Avoine
+    title2: La culture de l'avoine
+    title_uniq: la-culture-de-l'avoine
+    default: gooseberry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: A
+    alphabet_l2: Av
+    alphabet_l3: Avo
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/gooseberry
+    label: Groseille à maquereau Culture fruitière Agriculture Groseille à maquereau
+    group: La culture de l'avoine
+    deploy: false
+                  
+  - title: Badiane
+    title2: L'agriculture badienne
+    title_uniq: l'agriculture-badienne
+    default: cabbage-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Ba
+    alphabet_l3: Bad
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/cabbage
+    label: Choux Culture de légumes Agriculture Choux
+    group: L'agriculture badienne
+    deploy: false
+                  
+  - title: Banane
+    title2: Culture de la banane
+    title_uniq: culture-de-la-banane
+    default: goat-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Ba
+    alphabet_l3: Ban
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/livestock/goat
+    label: Chèvre Bétail Agriculture Chèvre
+    group: Culture de la banane
+    deploy: false
+                  
+  - title: Banane plantain
+    title2: Culture de la banane plantain
+    title_uniq: culture-de-la-banane-plantain
+    default: melon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Ba
+    alphabet_l3: Ban
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/melon
+    label: Melon oléagineux Agriculture Melon
+    group: Culture de la banane plantain
+    deploy: false
+                  
+  - title: Blé
+    title2: Culture du blé
+    title_uniq: culture-du-blé
+    default: lime-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Bl
+    alphabet_l3: Blé
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/lime
+    label: Chaux Culture fruitière Agriculture Chaux
+    group: Culture du blé
+    deploy: false
+                  
+  - title: Blé
+    title2: Culture du blé
+    title_uniq: culture-du-blé
+    default: lime-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Bl
+    alphabet_l3: Blé
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/citrus-fruit/lime
+    label: Chaux Agrumes Agriculture Chaux
+    group: Culture du blé
+    deploy: false
+                  
+  - title: Boisson
+    title2: Production de boissons
+    title_uniq: production-de-boissons
+    default: confection-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Bo
+    alphabet_l3: Boi
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/food-production/confection
+    label: Confection Production alimentaire Confection
+    group: Production de boissons
+    deploy: 
+                  
+  - title: Bovins
+    title2: Élevage bovin
+    title_uniq: élevage-bovin
+    default: fonio-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Bo
+    alphabet_l3: Bov
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/cereal-crop/fonio
+    label: le fonio Culture de céréales Agriculture le fonio
+    group: Élevage bovin
+    deploy: false
+                  
+  - title: Brocoli
+    title2: Culture de brocoli
+    title_uniq: culture-de-brocoli
+    default: fennel-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Br
+    alphabet_l3: Bro
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/spice-crop/fennel
+    label: Fenouil Culture d'épices Agriculture Fenouil
+    group: Culture de brocoli
+    deploy: false
+                  
+  - title: Brésil
+    title2: Brésil Agriculture
+    title_uniq: brésil-agriculture
+    default: cocoyam-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Br
+    alphabet_l3: Bré
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/root-and-tuber-crop/cocoyam
+    label: Cocoyam Racines et tubercules Agriculture Cocoyam
+    group: Brésil Agriculture
+    deploy: false
+                  
+  - title: Buffle
+    title2: Élevage de bisons
+    title_uniq: élevage-de-bisons
+    default: buckwheat-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Bu
+    alphabet_l3: Buf
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/cereal-crop/buckwheat
+    label: Sarrasin Culture de céréales Agriculture Sarrasin
+    group: Élevage de bisons
+    deploy: false
+                  
+  - title: Buffles d'eau
+    title2: Élevage de buffles d'eau
+    title_uniq: élevage-de-buffles-d'eau
+    default: citrus-fruit-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Bu
+    alphabet_l3: Buf
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/citrus-fruit
+    label: Agrumes Agriculture Agrumes Clémentine Pamplemousse Citron Chaux mandarin Orange Satsumas Mandarine
+    group: Élevage de buffles d'eau
+    deploy: false
+                  
+  - title: Bétail
+    title2: L'élevage
+    title_uniq: l'élevage
+    default: cereal-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Bé
+    alphabet_l3: Bét
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/cereal-crop
+    label: Culture de céréales Agriculture Culture de céréales Orge Sarrasin Alpiste des Canaries le fonio Maïs Millet Avoine quinoa Riz Seigle Sorgho Triticale Blé
+    group: L'élevage
+    deploy: true
+                  
+  - title: Bœuf
+    title2: Élevage de bœufs
+    title_uniq: élevage-de-bœufs
+    default: rice-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: B
+    alphabet_l2: Bœ
+    alphabet_l3: Bœu
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/cereal-crop/rice
+    label: Riz Culture de céréales Agriculture Riz
+    group: Élevage de bœufs
+    deploy: false
+                  
+  - title: Café
+    title2: La culture du café
+    title_uniq: la-culture-du-café
+    default: mushroom-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Caf
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/mushroom
+    label: Champignon Culture de légumes Agriculture Champignon
+    group: La culture du café
+    deploy: false
+                  
+  - title: Caille
+    title2: Élevage de cailles
+    title_uniq: élevage-de-cailles
+    default: shrimp-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Cai
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/crustacean/shrimp
+    label: Crevette Crustacé Agriculture Crevette Crevette
+    group: Élevage de cailles
+    deploy: false
+                  
+  - title: Camarade
+    title2: Élevage de maté
+    title_uniq: élevage-de-maté
+    default: okra-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Cam
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/okra
+    label: Gombo Culture de légumes Agriculture Gombo
+    group: Élevage de maté
+    deploy: false
+                  
+  - title: Canne à sucre
+    title2: Culture de la canne à sucre
+    title_uniq: culture-de-la-canne-à-sucre
+    default: vetch-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Can
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/pulse-crop/vetch
+    label: Vesce Culture de légumineuses Agriculture Vesce
+    group: Culture de la canne à sucre
+    deploy: false
+                  
+  - title: Canneberge
+    title2: Culture de canneberges
+    title_uniq: culture-de-canneberges
+    default: reindeer-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Can
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/livestock/reindeer
+    label: Renne Bétail Agriculture Renne
+    group: Culture de canneberges
+    deploy: false
+                  
+  - title: Cannelle
+    title2: Culture de la cannelle
+    title_uniq: culture-de-la-cannelle
+    default: chicory-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Can
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/chicory
+    label: Chicorée Culture de légumes Agriculture Chicorée
+    group: Culture de la cannelle
+    deploy: false
+                  
+  - title: Capacité d'organisation
+    title2: Capacité d'organisation
+    title_uniq: capacité-d'organisation
+    default: ability-to-learn
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Cap
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognitive-aptitude/ability-to-learn
+    label: Faculté d'apprendre Aptitude cognitive Attribut Faculté d'apprendre
+    group: Capacité d'organisation
+    deploy: false
+                  
+  - title: Capacité à planifier
+    title2: Capacité à planifier
+    title_uniq: capacité-à-planifier
+    default: ability-to-organize
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Cap
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognitive-aptitude/ability-to-organize
+    label: Capacité d'organisation Aptitude cognitive Attribut Capacité d'organisation
+    group: Capacité à planifier
+    deploy: false
+                  
+  - title: Cardamome
+    title2: Culture de cardamome
+    title_uniq: culture-de-cardamome
+    default: carrot-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Car
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/carrot
+    label: Carotte Culture de légumes Agriculture Carotte
+    group: Culture de cardamome
+    deploy: false
+                  
+  - title: Carotte
+    title2: Culture de carottes
+    title_uniq: culture-de-carottes
+    default: mace-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Car
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/spice-crop/mace
+    label: masse Culture d'épices Agriculture masse
+    group: Culture de carottes
+    deploy: false
+                  
+  - title: Caroube
+    title2: Culture de caroube
+    title_uniq: culture-de-caroube
+    default: llama-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Car
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/livestock/llama
+    label: Lama Bétail Agriculture Lama
+    group: Culture de caroube
+    deploy: false
+                  
+  - title: Carpe
+    title2: Élevage de carpes
+    title_uniq: élevage-de-carpes
+    default: jute-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Car
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fibre-crop/jute
+    label: Jute Culture de fibres Agriculture Jute
+    group: Élevage de carpes
+    deploy: false
+                  
+  - title: Carthame
+    title2: Culture de carthame
+    title_uniq: culture-de-carthame
+    default: emu-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Car
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/poultry/emu
+    label: Émeu la volaille Agriculture Émeu
+    group: Culture de carthame
+    deploy: false
+                  
+  - title: Castor
+    title2: L'élevage du ricin
+    title_uniq: l'élevage-du-ricin
+    default: soybean-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ca
+    alphabet_l3: Cas
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/soybean
+    label: Soja oléagineux Agriculture Soja
+    group: L'élevage du ricin
+    deploy: false
+                  
+  - title: Champignon
+    title2: Culture de champignons
+    title_uniq: culture-de-champignons
+    default: tree-nut-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ch
+    alphabet_l3: Cha
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/tree-nut-crop
+    label: Récolte de noix Agriculture Récolte de noix Amande Brésil Anacardier châtaigne Noisette Pistache noyer
+    group: Culture de champignons
+    deploy: true
+                  
+  - title: Chanvre
+    title2: Culture de chanvre
+    title_uniq: culture-de-chanvre
+    default: raspberry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ch
+    alphabet_l3: Cha
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/raspberry
+    label: Framboise Culture fruitière Agriculture Framboise
+    group: Culture de chanvre
+    deploy: false
+                  
+  - title: Chanvre
+    title2: Culture de chanvre
+    title_uniq: culture-de-chanvre
+    default: citronella-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ch
+    alphabet_l3: Cha
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/other-crops/citronella
+    label: Citronelle Autres cultures Agriculture Citronelle
+    group: Culture de chanvre
+    deploy: false
+                  
+  - title: Chaux
+    title2: Culture de la chaux
+    title_uniq: culture-de-la-chaux
+    default: orange-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ch
+    alphabet_l3: Cha
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/orange
+    label: Orange Culture fruitière Agriculture Orange
+    group: Culture de la chaux
+    deploy: false
+                  
+  - title: Chaux
+    title2: Culture de la chaux
+    title_uniq: culture-de-la-chaux
+    default: scallop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ch
+    alphabet_l3: Cha
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/molluscs/scallop
+    label: Coquille Mollusques Agriculture Coquille Coquille
+    group: Culture de la chaux
+    deploy: false
+                  
+  - title: Chaux
+    title2: Culture de la chaux
+    title_uniq: culture-de-la-chaux
+    default: orange-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ch
+    alphabet_l3: Cha
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/citrus-fruit/orange
+    label: Orange Agrumes Agriculture Orange
+    group: Culture de la chaux
+    deploy: false
+                  
+  - title: Cheval
+    title2: Élevage de chevaux
+    title_uniq: élevage-de-chevaux
+    default: oat-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ch
+    alphabet_l3: Che
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/cereal-crop/oat
+    label: Avoine Culture de céréales Agriculture Avoine
+    group: Élevage de chevaux
+    deploy: false
+                  
+  - title: Chicorée
+    title2: Culture de la chicorée
+    title_uniq: culture-de-la-chicorée
+    default: pimento-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ch
+    alphabet_l3: Chi
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/spice-crop/pimento
+    label: Piment Culture d'épices Agriculture Piment
+    group: Culture de la chicorée
+    deploy: false
+                  
+  - title: Chou-fleur
+    title2: Culture du chou-fleur
+    title_uniq: culture-du-chou-fleur
+    default: nutmeg-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ch
+    alphabet_l3: Cho
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/spice-crop/nutmeg
+    label: Noix de muscade Culture d'épices Agriculture Noix de muscade
+    group: Culture du chou-fleur
+    deploy: false
+                  
+  - title: Choux
+    title2: Culture du chou
+    title_uniq: culture-du-chou
+    default: ginger-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ch
+    alphabet_l3: Cho
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/spice-crop/ginger
+    label: Gingembre Culture d'épices Agriculture Gingembre
+    group: Culture du chou
+    deploy: false
+                  
+  - title: Chèvre
+    title2: Élevage de chèvres
+    title_uniq: élevage-de-chèvres
+    default: millet-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ch
+    alphabet_l3: Chè
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/cereal-crop/millet
+    label: Millet Culture de céréales Agriculture Millet
+    group: Élevage de chèvres
+    deploy: false
+                  
+  - title: Citron
+    title2: La culture du citron
+    title_uniq: la-culture-du-citron
+    default: nectarine-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ci
+    alphabet_l3: Cit
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/nectarine
+    label: Nectarine Culture fruitière Agriculture Nectarine
+    group: La culture du citron
+    deploy: false
+                  
+  - title: Citron
+    title2: La culture du citron
+    title_uniq: la-culture-du-citron
+    default: oyster-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ci
+    alphabet_l3: Cit
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/molluscs/oyster
+    label: huître Mollusques Agriculture huître
+    group: La culture du citron
+    deploy: false
+                  
+  - title: Citronelle
+    title2: Culture de la citronnelle
+    title_uniq: culture-de-la-citronnelle
+    default: pumpkin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ci
+    alphabet_l3: Cit
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/pumpkin
+    label: Citrouille Culture de légumes Agriculture Citrouille
+    group: Culture de la citronnelle
+    deploy: false
+                  
+  - title: Citrouille
+    title2: Culture de citrouilles
+    title_uniq: culture-de-citrouilles
+    default: chestnut-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Ci
+    alphabet_l3: Cit
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/tree-nut-crop/chestnut
+    label: châtaigne Récolte de noix Agriculture châtaigne
+    group: Culture de citrouilles
+    deploy: false
+                  
+  - title: Clou de girofle
+    title2: La culture du clou de girofle
+    title_uniq: la-culture-du-clou-de-girofle
+    default: chilly-and-pepper-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cl
+    alphabet_l3: Clo
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/spice-crop/chilly-and-pepper
+    label: Piment et poivre Culture d'épices Agriculture Piment et poivre
+    group: La culture du clou de girofle
+    deploy: false
+                  
+  - title: Clou de girofle
+    title2: La culture du clou de girofle
+    title_uniq: la-culture-du-clou-de-girofle
+    default: chilly-and-pepper-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cl
+    alphabet_l3: Clo
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/chilly-and-pepper
+    label: Piment et poivre Culture de légumes Agriculture Piment et poivre
+    group: La culture du clou de girofle
+    deploy: false
+                  
+  - title: Clémentine
+    title2: Culture clémentine
+    title_uniq: culture-clémentine
+    default: rabbit-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cl
+    alphabet_l3: Clé
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/livestock/rabbit
+    label: Lapin Bétail Agriculture Lapin
+    group: Culture clémentine
+    deploy: false
+                  
+  - title: Clémentine
+    title2: Culture clémentine
+    title_uniq: culture-clémentine
+    default: mango-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cl
+    alphabet_l3: Clé
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/mango
+    label: Mangue Culture fruitière Agriculture Mangue
+    group: Culture clémentine
+    deploy: false
+                  
+  - title: Cochon
+    title2: Élevage de porcs
+    title_uniq: élevage-de-porcs
+    default: rye-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Coc
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/cereal-crop/rye
+    label: Seigle Culture de céréales Agriculture Seigle
+    group: Élevage de porcs
+    deploy: false
+                  
+  - title: Cocoyam
+    title2: Culture du Cocoyam
+    title_uniq: culture-du-cocoyam
+    default: pulse-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Coc
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/pulse-crop
+    label: Culture de légumineuses Agriculture Culture de légumineuses Haricot Lentille Lupin Pois Vesce
+    group: Culture du Cocoyam
+    deploy: true
+                  
+  - title: Cognition
+    title2: Cognition
+    title_uniq: cognition
+    default: time-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Cog
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/self-management/time-management
+    label: Gestion du temps Autogestion Attribut Gestion du temps
+    group: Cognition
+    deploy: false
+                  
+  - title: Cohérence
+    title2: Cohérence
+    title_uniq: cohérence
+    default: consistency
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Coh
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/work-ethic/consistency
+    label: Cohérence Éthique de travail Attribut Cohérence
+    group: Cohérence
+    deploy: false
+                  
+  - title: Coing
+    title2: Culture de coings
+    title_uniq: culture-de-coings
+    default: oil-palm-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Coi
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/oil-palm
+    label: Huile de palme oléagineux Agriculture Huile de palme
+    group: Culture de coings
+    deploy: false
+                  
+  - title: Communication verbale
+    title2: Communication verbale
+    title_uniq: communication-verbale
+    default: social-interrelation
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Com
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/social-interrelation
+    label: Interrelation sociale Attribut Interrelation sociale Écoute active La gestion des conflits Négociation La communication non verbale Conscience sociale Travail en équipe Communication verbale Communication visuelle Communication écrite
+    group: Communication verbale
+    deploy: true
+                  
+  - title: Communication visuelle
+    title2: Communication visuelle
+    title_uniq: communication-visuelle
+    default: non-verbal-communication
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Com
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/social-interrelation/non-verbal-communication
+    label: La communication non verbale Interrelation sociale Attribut La communication non verbale
+    group: Communication visuelle
+    deploy: false
+                  
+  - title: Communication écrite
+    title2: Communication écrite
+    title_uniq: communication-écrite
+    default: conflict-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Com
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/social-interrelation/conflict-management
+    label: La gestion des conflits Interrelation sociale Attribut La gestion des conflits
+    group: Communication écrite
+    deploy: false
+                  
+  - title: Compétences linguistiques
+    title2: Compétences linguistiques
+    title_uniq: compétences-linguistiques
+    default: motor-skills
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Com
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognition/motor-skills
+    label: Motricité Cognition Attribut Motricité
+    group: Compétences linguistiques
+    deploy: false
+                  
+  - title: Concombre
+    title2: Culture du concombre
+    title_uniq: culture-du-concombre
+    default: stimulant-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Con
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/stimulant-crop
+    label: Culture stimulante Agriculture Culture stimulante Haricot Café Camarade Thé
+    group: Culture du concombre
+    deploy: true
+                  
+  - title: Condiment
+    title2: Fabrication de condiments
+    title_uniq: fabrication-de-condiments
+    default: food-additive-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Con
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/food-production/food-additive
+    label: Additif alimentaire Production alimentaire Additif alimentaire
+    group: Fabrication de condiments
+    deploy: true
+                  
+  - title: Confection
+    title2: Fabrication de confiseries
+    title_uniq: fabrication-de-confiseries
+    default: nut-product-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Con
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/food-production/nut-product
+    label: Produit de noix Production alimentaire Produit de noix
+    group: Fabrication de confiseries
+    deploy: true
+                  
+  - title: Confiance en soi
+    title2: Confiance en soi
+    title_uniq: confiance-en-soi
+    default: personal-change-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Con
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/self-management/personal-change-management
+    label: Gestion du changement personnel Autogestion Attribut Gestion du changement personnel
+    group: Confiance en soi
+    deploy: false
+                  
+  - title: Conscience sociale
+    title2: Conscience sociale
+    title_uniq: conscience-sociale
+    default: verbal-communication
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Con
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/social-interrelation/verbal-communication
+    label: Communication verbale Interrelation sociale Attribut Communication verbale
+    group: Conscience sociale
+    deploy: false
+                  
+  - title: Coquelicot
+    title2: La culture du pavot
+    title_uniq: la-culture-du-pavot
+    default: chicken-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Coq
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/poultry/chicken
+    label: Poulet la volaille Agriculture Poulet
+    group: La culture du pavot
+    deploy: false
+                  
+  - title: Coquille
+    title2: Élevage de pétoncles
+    title_uniq: élevage-de-pétoncles
+    default: blueberry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Coq
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/blueberry
+    label: Myrtille Culture fruitière Agriculture Myrtille
+    group: Élevage de pétoncles
+    deploy: false
+                  
+  - title: Coquille
+    title2: Élevage de coquillages
+    title_uniq: élevage-de-coquillages
+    default: carob-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Coq
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/carob
+    label: Caroube Culture fruitière Agriculture Caroube
+    group: Élevage de coquillages
+    deploy: false
+                  
+  - title: Cornichon
+    title2: Élevage de cornichons
+    title_uniq: élevage-de-cornichons
+    default: mate-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Cor
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/stimulant-crop/mate
+    label: Camarade Culture stimulante Agriculture Camarade
+    group: Élevage de cornichons
+    deploy: false
+                  
+  - title: Coton Graine
+    title2: Culture du coton graine
+    title_uniq: culture-du-coton-graine
+    default: francolin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Cot
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/poultry/francolin
+    label: Francolin la volaille Agriculture Francolin
+    group: Culture du coton graine
+    deploy: false
+                  
+  - title: Coton Graine
+    title2: Culture du coton graine
+    title_uniq: culture-du-coton-graine
+    default: livestock-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Cot
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/livestock
+    label: Bétail Agriculture Bétail Alpaga Buffle chameau Bovins Âne Chèvre Cheval Lama Bœuf Cochon Lapin Renne Mouton Buffles d'eau Yak
+    group: Culture du coton graine
+    deploy: true
+                  
+  - title: Courage
+    title2: Courage
+    title_uniq: courage
+    default: humility
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Co
+    alphabet_l3: Cou
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/moral-ethic/humility
+    label: Humilité Éthique morale Attribut Humilité
+    group: Courage
+    deploy: false
+                  
+  - title: Crabe
+    title2: Élevage de crabes
+    title_uniq: élevage-de-crabes
+    default: perch-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cr
+    alphabet_l3: Cra
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fish/perch
+    label: Perche Poisson Agriculture Perche
+    group: Élevage de crabes
+    deploy: false
+                  
+  - title: Crevette
+    title2: Élevage de crevettes
+    title_uniq: élevage-de-crevettes
+    default: tilapia-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cr
+    alphabet_l3: Cre
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fish/tilapia
+    label: Tilapia Poisson Agriculture Tilapia
+    group: Élevage de crevettes
+    deploy: false
+                  
+  - title: Crevette
+    title2: Élevage de crevettes
+    title_uniq: élevage-de-crevettes
+    default: sturgeon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cr
+    alphabet_l3: Cre
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fish/sturgeon
+    label: Esturgeon Poisson Agriculture Esturgeon
+    group: Élevage de crevettes
+    deploy: false
+                  
+  - title: Crustacé
+    title2: Élevage de crustacés
+    title_uniq: élevage-de-crustacés
+    default: mullet-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cr
+    alphabet_l3: Cru
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fish/mullet
+    label: Mulet Poisson Agriculture Mulet
+    group: Élevage de crustacés
+    deploy: false
+                  
+  - title: Culture d'épices
+    title2: Culture d'épices
+    title_uniq: culture-d'épices
+    default: bean-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cu
+    alphabet_l3: Cul
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/bean
+    label: Haricot Culture de légumes Agriculture Haricot
+    group: Culture d'épices
+    deploy: false
+                  
+  - title: Culture d'épices
+    title2: Culture d'épices
+    title_uniq: culture-d'épices
+    default: bean-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cu
+    alphabet_l3: Cul
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/pulse-crop/bean
+    label: Haricot Culture de légumineuses Agriculture Haricot
+    group: Culture d'épices
+    deploy: false
+                  
+  - title: Culture d'épices
+    title2: Culture d'épices
+    title_uniq: culture-d'épices
+    default: bean-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cu
+    alphabet_l3: Cul
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/stimulant-crop/bean
+    label: Haricot Culture stimulante Agriculture Haricot
+    group: Culture d'épices
+    deploy: false
+                  
+  - title: Culture de céréales
+    title2: Culture de céréales
+    title_uniq: culture-de-céréales
+    default: cashewapple-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cu
+    alphabet_l3: Cul
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/cashewapple
+    label: Noix de cajou Culture fruitière Agriculture Noix de cajou
+    group: Culture de céréales
+    deploy: false
+                  
+  - title: Culture de fibres
+    title2: Culture de fibres
+    title_uniq: culture-de-fibres
+    default: pineapple-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cu
+    alphabet_l3: Cul
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/pineapple
+    label: Ananas Culture fruitière Agriculture Ananas
+    group: Culture de fibres
+    deploy: false
+                  
+  - title: Culture de légumes
+    title2: Culture de légumes
+    title_uniq: culture-de-légumes
+    default: cardamon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cu
+    alphabet_l3: Cul
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/spice-crop/cardamon
+    label: Cardamome Culture d'épices Agriculture Cardamome
+    group: Culture de légumes
+    deploy: false
+                  
+  - title: Culture de légumineuses
+    title2: Culture de légumineuses
+    title_uniq: culture-de-légumineuses
+    default: peafowl-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cu
+    alphabet_l3: Cul
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/poultry/peafowl
+    label: Paon la volaille Agriculture Paon
+    group: Culture de légumineuses
+    deploy: false
+                  
+  - title: Culture fruitière
+    title2: Culture fruitière
+    title_uniq: culture-fruitière
+    default: buffalo-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cu
+    alphabet_l3: Cul
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/livestock/buffalo
+    label: Buffle Bétail Agriculture Buffle
+    group: Culture fruitière
+    deploy: false
+                  
+  - title: Culture stimulante
+    title2: Cultures stimulantes
+    title_uniq: cultures-stimulantes
+    default: lettuce-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: C
+    alphabet_l2: Cu
+    alphabet_l3: Cul
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/lettuce
+    label: Salade Culture de légumes Agriculture Salade
+    group: Cultures stimulantes
+    deploy: false
+                  
+  - title: Date
+    title2: Date de l'agriculture
+    title_uniq: date-de-l'agriculture
+    default: water-buffalo-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: D
+    alphabet_l2: Da
+    alphabet_l3: Dat
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/livestock/water-buffalo
+    label: Buffles d'eau Bétail Agriculture Buffles d'eau
+    group: Date de l'agriculture
+    deploy: false
+                  
+  - title: Direction
+    title2: Direction
+    title_uniq: direction
+    default: leadership
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: D
+    alphabet_l2: Di
+    alphabet_l3: Dir
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/administration/leadership
+    label: Direction Administration Attribut Direction
+    group: Direction
+    deploy: false
+                  
+  - title: Dorade
+    title2: Élevage de daurade
+    title_uniq: élevage-de-daurade
+    default: fish-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: D
+    alphabet_l2: Do
+    alphabet_l3: Dor
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fish
+    label: Poisson Agriculture Poisson Carpe Poisson-chat Anguille Mulet Perche Saumon Dorade Esturgeon Tilapia Truite
+    group: Élevage de daurade
+    deploy: true
+                  
+  - title: Délégation
+    title2: Délégation
+    title_uniq: délégation
+    default: mentoring
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: D
+    alphabet_l2: Dé
+    alphabet_l3: Dél
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/administration/mentoring
+    label: Mentorat Administration Attribut Mentorat
+    group: Délégation
+    deploy: false
+                  
+  - title: Esprit critique
+    title2: Esprit critique
+    title_uniq: esprit-critique
+    default: critical-thinking
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: E
+    alphabet_l2: Es
+    alphabet_l3: Esp
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognitive-aptitude/critical-thinking
+    label: Esprit critique Aptitude cognitive Attribut Esprit critique
+    group: Esprit critique
+    deploy: false
+                  
+  - title: Esturgeon
+    title2: Élevage d'esturgeons
+    title_uniq: élevage-d'esturgeons
+    default: carp-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: E
+    alphabet_l2: Es
+    alphabet_l3: Est
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fish/carp
+    label: Carpe Poisson Agriculture Carpe
+    group: Élevage d'esturgeons
+    deploy: false
+                  
+  - title: Faculté d'apprendre
+    title2: Faculté d'apprendre
+    title_uniq: faculté-d'apprendre
+    default: cognitive-aptitude
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fa
+    alphabet_l3: Fac
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognitive-aptitude
+    label: Aptitude cognitive Attribut Aptitude cognitive Faculté d'apprendre Capacité d'organisation Capacité à planifier La créativité Esprit critique La prise de décision Intuition Résolution de problème Réflexion stratégique
+    group: Faculté d'apprendre
+    deploy: true
+                  
+  - title: Faisan
+    title2: Élevage de faisans
+    title_uniq: élevage-de-faisans
+    default: lobster-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fa
+    alphabet_l3: Fai
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/crustacean/lobster
+    label: Homard Crustacé Agriculture Homard
+    group: Élevage de faisans
+    deploy: false
+                  
+  - title: Fenouil
+    title2: Culture de fenouil
+    title_uniq: culture-de-fenouil
+    default: cucumber-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fe
+    alphabet_l3: Fen
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/cucumber
+    label: Concombre Culture de légumes Agriculture Concombre
+    group: Culture de fenouil
+    deploy: false
+                  
+  - title: Figure
+    title2: Élevage de figues
+    title_uniq: élevage-de-figues
+    default: yak-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fi
+    alphabet_l3: Fig
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/livestock/yak
+    label: Yak Bétail Agriculture Yak
+    group: Élevage de figues
+    deploy: false
+                  
+  - title: Fonctions executives
+    title2: Fonctions executives
+    title_uniq: fonctions-executives
+    default: language-skills
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fo
+    alphabet_l3: Fon
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognition/language-skills
+    label: Compétences linguistiques Cognition Attribut Compétences linguistiques
+    group: Fonctions executives
+    deploy: false
+                  
+  - title: Framboise
+    title2: Culture de la framboise
+    title_uniq: culture-de-la-framboise
+    default: olive-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: F
+    alphabet_l2: Fr
+    alphabet_l3: Fra
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/olive
+    label: olive oléagineux Agriculture olive
+    group: Culture de la framboise
+    deploy: false
+                  
+  - title: Gencive
+    title2: Culture de la gomme
+    title_uniq: culture-de-la-gomme
+    default: shallot-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Gen
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/shallot
+    label: Échalote Culture de légumes Agriculture Échalote
+    group: Culture de la gomme
+    deploy: false
+                  
+  - title: Gestion de l'amour
+    title2: Gestion de l'amour
+    title_uniq: gestion-de-l'amour
+    default: guilt-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/emotion-management/guilt-management
+    label: Gestion de la culpabilité Gestion des émotions Attribut Gestion de la culpabilité
+    group: Gestion de l'amour
+    deploy: false
+                  
+  - title: Gestion de l'anxiété
+    title2: Gestion de l'anxiété
+    title_uniq: gestion-de-l'anxiété
+    default: anger-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/emotion-management/anger-management
+    label: Gestion de la colère Gestion des émotions Attribut Gestion de la colère
+    group: Gestion de l'anxiété
+    deploy: false
+                  
+  - title: Gestion de l'envie
+    title2: Gestion de l'envie
+    title_uniq: gestion-de-l'envie
+    default: regret-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/emotion-management/regret-management
+    label: Gestion des regrets Gestion des émotions Attribut Gestion des regrets
+    group: Gestion de l'envie
+    deploy: false
+                  
+  - title: Gestion de l'espoir
+    title2: Gestion de l'espoir
+    title_uniq: gestion-de-l'espoir
+    default: hope-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/emotion-management/hope-management
+    label: Gestion de l'espoir Gestion des émotions Attribut Gestion de l'espoir
+    group: Gestion de l'espoir
+    deploy: false
+                  
+  - title: Gestion de la colère
+    title2: Gestion de la colère
+    title_uniq: gestion-de-la-colère
+    default: emotion-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/emotion-management
+    label: Gestion des émotions Attribut Gestion des émotions Gestion de la colère Gestion de l'anxiété Gestion du désespoir Gestion de l'envie Gestion de la peur Gestion de la culpabilité Gestion du bonheur Gestion de la haine Gestion de l'espoir Gestion de la solitude Gestion de l'amour Gestion de la fierté Gestion des regrets Gestion de la tristesse Gestion de la honte
+    group: Gestion de la colère
+    deploy: true
+                  
+  - title: Gestion de la culpabilité
+    title2: Gestion de la culpabilité
+    title_uniq: gestion-de-la-culpabilité
+    default: loneliness-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/emotion-management/loneliness-management
+    label: Gestion de la solitude Gestion des émotions Attribut Gestion de la solitude
+    group: Gestion de la culpabilité
+    deploy: false
+                  
+  - title: Gestion de la fierté
+    title2: Gestion de la fierté
+    title_uniq: gestion-de-la-fierté
+    default: sadness-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/emotion-management/sadness-management
+    label: Gestion de la tristesse Gestion des émotions Attribut Gestion de la tristesse
+    group: Gestion de la fierté
+    deploy: false
+                  
+  - title: Gestion de la haine
+    title2: Gestion de la haine
+    title_uniq: gestion-de-la-haine
+    default: fear-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/emotion-management/fear-management
+    label: Gestion de la peur Gestion des émotions Attribut Gestion de la peur
+    group: Gestion de la haine
+    deploy: false
+                  
+  - title: Gestion de la honte
+    title2: Gestion de la honte
+    title_uniq: gestion-de-la-honte
+    default: happiness-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/emotion-management/happiness-management
+    label: Gestion du bonheur Gestion des émotions Attribut Gestion du bonheur
+    group: Gestion de la honte
+    deploy: false
+                  
+  - title: Gestion de la peur
+    title2: Gestion de la peur
+    title_uniq: gestion-de-la-peur
+    default: anxiety-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/emotion-management/anxiety-management
+    label: Gestion de l'anxiété Gestion des émotions Attribut Gestion de l'anxiété
+    group: Gestion de la peur
+    deploy: false
+                  
+  - title: Gestion de la solitude
+    title2: Gestion de la solitude
+    title_uniq: gestion-de-la-solitude
+    default: pride-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/emotion-management/pride-management
+    label: Gestion de la fierté Gestion des émotions Attribut Gestion de la fierté
+    group: Gestion de la solitude
+    deploy: false
+                  
+  - title: Gestion de la tristesse
+    title2: Gestion de la tristesse
+    title_uniq: gestion-de-la-tristesse
+    default: envy-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/emotion-management/envy-management
+    label: Gestion de l'envie Gestion des émotions Attribut Gestion de l'envie
+    group: Gestion de la tristesse
+    deploy: false
+                  
+  - title: Gestion des regrets
+    title2: Gestion des regrets
+    title_uniq: gestion-des-regrets
+    default: hatred-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/emotion-management/hatred-management
+    label: Gestion de la haine Gestion des émotions Attribut Gestion de la haine
+    group: Gestion des regrets
+    deploy: false
+                  
+  - title: Gestion des émotions
+    title2: Gestion des émotions
+    title_uniq: gestion-des-émotions
+    default: strategic-thinking
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognitive-aptitude/strategic-thinking
+    label: Réflexion stratégique Aptitude cognitive Attribut Réflexion stratégique
+    group: Gestion des émotions
+    deploy: false
+                  
+  - title: Gestion du bonheur
+    title2: Gestion du bonheur
+    title_uniq: gestion-du-bonheur
+    default: despair-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/emotion-management/despair-management
+    label: Gestion du désespoir Gestion des émotions Attribut Gestion du désespoir
+    group: Gestion du bonheur
+    deploy: false
+                  
+  - title: Gestion du changement personnel
+    title2: Gestion du changement personnel
+    title_uniq: gestion-du-changement-personnel
+    default: stress-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/self-management/stress-management
+    label: La gestion du stress Autogestion Attribut La gestion du stress
+    group: Gestion du changement personnel
+    deploy: false
+                  
+  - title: Gestion du désespoir
+    title2: Gestion du désespoir
+    title_uniq: gestion-du-désespoir
+    default: love-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/emotion-management/love-management
+    label: Gestion de l'amour Gestion des émotions Attribut Gestion de l'amour
+    group: Gestion du désespoir
+    deploy: false
+                  
+  - title: Gestion du temps
+    title2: Gestion du temps
+    title_uniq: gestion-du-temps
+    default: self-esteem
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Ge
+    alphabet_l3: Ges
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/self-management/self-esteem
+    label: Amour propre Autogestion Attribut Amour propre
+    group: Gestion du temps
+    deploy: false
+                  
+  - title: Gingembre
+    title2: La culture du gingembre
+    title_uniq: la-culture-du-gingembre
+    default: eggplant-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Gi
+    alphabet_l3: Gin
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/eggplant
+    label: Aubergine Culture de légumes Agriculture Aubergine
+    group: La culture du gingembre
+    deploy: false
+                  
+  - title: Gombo
+    title2: L'élevage du gombo
+    title_uniq: l'élevage-du-gombo
+    default: almond-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Go
+    alphabet_l3: Gom
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/tree-nut-crop/almond
+    label: Amande Récolte de noix Agriculture Amande
+    group: L'élevage du gombo
+    deploy: false
+                  
+  - title: Gourde
+    title2: Culture de la courge
+    title_uniq: culture-de-la-courge
+    default: tea-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Go
+    alphabet_l3: Gou
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/stimulant-crop/tea
+    label: Thé Culture stimulante Agriculture Thé
+    group: Culture de la courge
+    deploy: false
+                  
+  - title: Goyave
+    title2: Culture de la goyave
+    title_uniq: culture-de-la-goyave
+    default: clam-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Go
+    alphabet_l3: Goy
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/molluscs/clam
+    label: Palourde Mollusques Agriculture Palourde
+    group: Culture de la goyave
+    deploy: false
+                  
+  - title: Groseille
+    title2: Culture de groseilles
+    title_uniq: culture-de-groseilles
+    default: sheep-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Gr
+    alphabet_l3: Gro
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/livestock/sheep
+    label: Mouton Bétail Agriculture Mouton
+    group: Culture de groseilles
+    deploy: false
+                  
+  - title: Groseille à maquereau
+    title2: Culture de groseilles à maquereau
+    title_uniq: culture-de-groseilles-à-maquereau
+    default: molluscs-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: G
+    alphabet_l2: Gr
+    alphabet_l3: Gro
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/molluscs
+    label: Mollusques Agriculture Mollusques Ormeau Arche Palourde Moule huître Coquille Coquille
+    group: Culture de groseilles à maquereau
+    deploy: true
+                  
+  - title: Haricot
+    title2: Culture de haricots
+    title_uniq: culture-de-haricots
+    default: pheasant-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: Ha
+    alphabet_l3: Har
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/poultry/pheasant
+    label: Faisan la volaille Agriculture Faisan
+    group: Culture de haricots
+    deploy: false
+                  
+  - title: Haricot
+    title2: Culture de haricots
+    title_uniq: culture-de-haricots
+    default: maize-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: Ha
+    alphabet_l3: Har
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/cereal-crop/maize
+    label: Maïs Culture de céréales Agriculture Maïs
+    group: Culture de haricots
+    deploy: false
+                  
+  - title: Haricot
+    title2: Culture de haricots
+    title_uniq: culture-de-haricots
+    default: maize-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: Ha
+    alphabet_l3: Har
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/maize
+    label: Maïs Culture de légumes Agriculture Maïs
+    group: Culture de haricots
+    deploy: false
+                  
+  - title: Haricot
+    title2: Culture de haricots
+    title_uniq: culture-de-haricots
+    default: clove-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: Ha
+    alphabet_l3: Har
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/spice-crop/clove
+    label: Clou de girofle Culture d'épices Agriculture Clou de girofle
+    group: Culture de haricots
+    deploy: false
+                  
+  - title: Homard
+    title2: Élevage de homard
+    title_uniq: élevage-de-homard
+    default: seabream-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: Ho
+    alphabet_l3: Hom
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fish/seabream
+    label: Dorade Poisson Agriculture Dorade
+    group: Élevage de homard
+    deploy: false
+                  
+  - title: Honnêteté
+    title2: Honnêteté
+    title_uniq: honnêteté
+    default: moral-ethic
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: Ho
+    alphabet_l3: Hon
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/moral-ethic
+    label: Éthique morale Attribut Éthique morale Courage Reconnaissance Honnêteté Humilité La gentillesse Patience Sérénité Tempérance
+    group: Honnêteté
+    deploy: true
+                  
+  - title: Huile de palme
+    title2: Culture du palmier à huile
+    title_uniq: culture-du-palmier-à-huile
+    default: wax-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: Hu
+    alphabet_l3: Hui
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/other-crops/wax
+    label: La cire Autres cultures Agriculture La cire
+    group: Culture du palmier à huile
+    deploy: false
+                  
+  - title: Humilité
+    title2: Humilité
+    title_uniq: humilité
+    default: patience
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: H
+    alphabet_l2: Hu
+    alphabet_l3: Hum
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/moral-ethic/patience
+    label: Patience Éthique morale Attribut Patience
+    group: Humilité
+    deploy: false
+                  
+  - title: Interrelation sociale
+    title2: Interrelation sociale
+    title_uniq: interrelation-sociale
+    default: shame-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: I
+    alphabet_l2: In
+    alphabet_l3: Int
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/emotion-management/shame-management
+    label: Gestion de la honte Gestion des émotions Attribut Gestion de la honte
+    group: Interrelation sociale
+    deploy: false
+                  
+  - title: Intuition
+    title2: Intuition
+    title_uniq: intuition
+    default: intuition
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: I
+    alphabet_l2: In
+    alphabet_l3: Int
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognitive-aptitude/intuition
+    label: Intuition Aptitude cognitive Attribut Intuition
+    group: Intuition
+    deploy: false
+                  
+  - title: Intégrité
+    title2: Intégrité
+    title_uniq: intégrité
+    default: work-ethic
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: I
+    alphabet_l2: In
+    alphabet_l3: Int
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/work-ethic
+    label: Éthique de travail Attribut Éthique de travail Responsabilité La coopération Cohérence Justice Intégrité Ouverture Positivité Productivité Le respect
+    group: Intégrité
+    deploy: true
+                  
+  - title: Jojoba
+    title2: Agriculture de jojoba
+    title_uniq: agriculture-de-jojoba
+    default: gum-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: J
+    alphabet_l2: Jo
+    alphabet_l3: Joj
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/other-crops/gum
+    label: Gencive Autres cultures Agriculture Gencive
+    group: Agriculture de jojoba
+    deploy: false
+                  
+  - title: Justice
+    title2: Justice
+    title_uniq: justice
+    default: openness
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: J
+    alphabet_l2: Ju
+    alphabet_l3: Jus
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/work-ethic/openness
+    label: Ouverture Éthique de travail Attribut Ouverture
+    group: Justice
+    deploy: false
+                  
+  - title: Jute
+    title2: Culture de jute
+    title_uniq: culture-de-jute
+    default: satsumas-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: J
+    alphabet_l2: Ju
+    alphabet_l3: Jut
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/citrus-fruit/satsumas
+    label: Satsumas Agrumes Agriculture Satsumas
+    group: Culture de jute
+    deploy: false
+                  
+  - title: Jute
+    title2: Culture de jute
+    title_uniq: culture-de-jute
+    default: satsumas-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: J
+    alphabet_l2: Ju
+    alphabet_l3: Jut
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/satsumas
+    label: Satsumas Culture fruitière Agriculture Satsumas
+    group: Culture de jute
+    deploy: false
+                  
+  - title: Kaki
+    title2: Culture de kaki
+    title_uniq: culture-de-kaki
+    default: kapok-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: K
+    alphabet_l2: Ka
+    alphabet_l3: Kak
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fibre-crop/kapok
+    label: Kapok Culture de fibres Agriculture Kapok
+    group: Culture de kaki
+    deploy: false
+                  
+  - title: Kaki
+    title2: Culture de kaki
+    title_uniq: culture-de-kaki
+    default: kapok-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: K
+    alphabet_l2: Ka
+    alphabet_l3: Kak
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/kapok
+    label: Kapok oléagineux Agriculture Kapok
+    group: Culture de kaki
+    deploy: false
+                  
+  - title: Kapok
+    title2: Culture du kapok
+    title_uniq: culture-du-kapok
+    default: strawberry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: K
+    alphabet_l2: Ka
+    alphabet_l3: Kap
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/strawberry
+    label: fraise Culture fruitière Agriculture fraise
+    group: Culture du kapok
+    deploy: false
+                  
+  - title: Kapok
+    title2: Culture du kapok
+    title_uniq: culture-du-kapok
+    default: hop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: K
+    alphabet_l2: Ka
+    alphabet_l3: Kap
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/other-crops/hop
+    label: Sauter Autres cultures Agriculture Sauter
+    group: Culture du kapok
+    deploy: false
+                  
+  - title: Karité
+    title2: Agriculture de Karité
+    title_uniq: agriculture-de-karité
+    default: mint-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: K
+    alphabet_l2: Ka
+    alphabet_l3: Kar
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/other-crops/mint
+    label: menthe Autres cultures Agriculture menthe
+    group: Agriculture de Karité
+    deploy: false
+                  
+  - title: La cire
+    title2: L'agriculture de cire
+    title_uniq: l'agriculture-de-cire
+    default: turnip-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: La
+    alphabet_l3: La 
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/turnip
+    label: Navet Culture de légumes Agriculture Navet
+    group: L'agriculture de cire
+    deploy: false
+                  
+  - title: La communication non verbale
+    title2: La communication non verbale
+    title_uniq: la-communication-non-verbale
+    default: active-listening
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: La
+    alphabet_l3: La 
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/social-interrelation/active-listening
+    label: Écoute active Interrelation sociale Attribut Écoute active
+    group: La communication non verbale
+    deploy: false
+                  
+  - title: La coopération
+    title2: La coopération
+    title_uniq: la-coopération
+    default: co-operation
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: La
+    alphabet_l3: La 
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/work-ethic/co-operation
+    label: La coopération Éthique de travail Attribut La coopération
+    group: La coopération
+    deploy: false
+                  
+  - title: La créativité
+    title2: La créativité
+    title_uniq: la-créativité
+    default: problem-solving
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: La
+    alphabet_l3: La 
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognitive-aptitude/problem-solving
+    label: Résolution de problème Aptitude cognitive Attribut Résolution de problème
+    group: La créativité
+    deploy: false
+                  
+  - title: La gentillesse
+    title2: La gentillesse
+    title_uniq: la-gentillesse
+    default: honesty
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: La
+    alphabet_l3: La 
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/moral-ethic/honesty
+    label: Honnêteté Éthique morale Attribut Honnêteté
+    group: La gentillesse
+    deploy: false
+                  
+  - title: La gestion
+    title2: La gestion
+    title_uniq: la-gestion
+    default: administration
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: La
+    alphabet_l3: La 
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/administration
+    label: Administration Attribut Administration Délégation Direction La gestion Mentorat Surveillance Motivant Organisation Ressources humaines
+    group: La gestion
+    deploy: true
+                  
+  - title: La gestion des conflits
+    title2: La gestion des conflits
+    title_uniq: la-gestion-des-conflits
+    default: visual-communication
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: La
+    alphabet_l3: La 
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/social-interrelation/visual-communication
+    label: Communication visuelle Interrelation sociale Attribut Communication visuelle
+    group: La gestion des conflits
+    deploy: false
+                  
+  - title: La gestion du stress
+    title2: La gestion du stress
+    title_uniq: la-gestion-du-stress
+    default: self-motivation
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: La
+    alphabet_l3: La 
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/self-management/self-motivation
+    label: Motivation personnelle Autogestion Attribut Motivation personnelle
+    group: La gestion du stress
+    deploy: false
+                  
+  - title: La prise de décision
+    title2: La prise de décision
+    title_uniq: la-prise-de-décision
+    default: creativity
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: La
+    alphabet_l3: La 
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognitive-aptitude/creativity
+    label: La créativité Aptitude cognitive Attribut La créativité
+    group: La prise de décision
+    deploy: false
+                  
+  - title: Lama
+    title2: Élevage de lamas
+    title_uniq: élevage-de-lamas
+    default: quinoa-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: La
+    alphabet_l3: Lam
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/cereal-crop/quinoa
+    label: quinoa Culture de céréales Agriculture quinoa
+    group: Élevage de lamas
+    deploy: false
+                  
+  - title: Lapin
+    title2: Élevage de lapins
+    title_uniq: élevage-de-lapins
+    default: sorghum-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: La
+    alphabet_l3: Lap
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/cereal-crop/sorghum
+    label: Sorgho Culture de céréales Agriculture Sorgho
+    group: Élevage de lapins
+    deploy: false
+                  
+  - title: Le respect
+    title2: Le respect
+    title_uniq: le-respect
+    default: accountability
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Le
+    alphabet_l3: Le 
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/work-ethic/accountability
+    label: Responsabilité Éthique de travail Attribut Responsabilité
+    group: Le respect
+    deploy: false
+                  
+  - title: Lentille
+    title2: Culture de lentilles
+    title_uniq: culture-de-lentilles
+    default: pigeon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Le
+    alphabet_l3: Len
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/poultry/pigeon
+    label: Pigeon la volaille Agriculture Pigeon
+    group: Culture de lentilles
+    deploy: false
+                  
+  - title: Lin
+    title2: Culture du lin
+    title_uniq: culture-du-lin
+    default: quince-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Li
+    alphabet_l3: Lin
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/quince
+    label: Coing Culture fruitière Agriculture Coing
+    group: Culture du lin
+    deploy: false
+                  
+  - title: Lin
+    title2: Culture du lin
+    title_uniq: culture-du-lin
+    default: tung-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Li
+    alphabet_l3: Lin
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/tung
+    label: Tung oléagineux Agriculture Tung
+    group: Culture du lin
+    deploy: false
+                  
+  - title: Lupin
+    title2: Élevage de lupins
+    title_uniq: élevage-de-lupins
+    default: quail-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: L
+    alphabet_l2: Lu
+    alphabet_l3: Lup
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/poultry/quail
+    label: Caille la volaille Agriculture Caille
+    group: Élevage de lupins
+    deploy: false
+                  
+  - title: Mandarine
+    title2: Culture de mandarine
+    title_uniq: culture-de-mandarine
+    default: safflower-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Man
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/safflower
+    label: Carthame oléagineux Agriculture Carthame
+    group: Culture de mandarine
+    deploy: false
+                  
+  - title: Mandarine
+    title2: Culture de mandarine
+    title_uniq: culture-de-mandarine
+    default: persimmon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Man
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/persimmon
+    label: Kaki Culture fruitière Agriculture Kaki
+    group: Culture de mandarine
+    deploy: false
+                  
+  - title: Mangoustan
+    title2: Culture de mangoustan
+    title_uniq: culture-de-mangoustan
+    default: castor-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Man
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/castor
+    label: Castor oléagineux Agriculture Castor
+    group: Culture de mangoustan
+    deploy: false
+                  
+  - title: Mangue
+    title2: Culture de la mangue
+    title_uniq: culture-de-la-mangue
+    default: oilcrop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Man
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop
+    label: oléagineux Agriculture oléagineux Castor Noix de coco Lin Arachide Chanvre Jojoba Kapok Karité Melon Moutarde Huile de palme olive Coquelicot Râpé Carthame Coton Graine Sésame Soja Tournesol Tung
+    group: Culture de la mangue
+    deploy: true
+                  
+  - title: Manille
+    title2: Agriculture de Manille
+    title_uniq: agriculture-de-manille
+    default: tangerine-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Man
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/tangerine
+    label: Mandarine Culture fruitière Agriculture Mandarine
+    group: Agriculture de Manille
+    deploy: false
+                  
+  - title: Manille
+    title2: Agriculture de Manille
+    title_uniq: agriculture-de-manille
+    default: tangerine-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Man
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/citrus-fruit/tangerine
+    label: Mandarine Agrumes Agriculture Mandarine
+    group: Agriculture de Manille
+    deploy: false
+                  
+  - title: Manioc
+    title2: Culture du manioc
+    title_uniq: culture-du-manioc
+    default: turkey-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Man
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/poultry/turkey
+    label: Turquie la volaille Agriculture Turquie
+    group: Culture du manioc
+    deploy: false
+                  
+  - title: Maîtrise de soi
+    title2: Maîtrise de soi
+    title_uniq: maîtrise-de-soi
+    default: self-discipline
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Maî
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/self-management/self-discipline
+    label: Autodiscipline Autogestion Attribut Autodiscipline
+    group: Maîtrise de soi
+    deploy: false
+                  
+  - title: Maïs
+    title2: Culture de maïs
+    title_uniq: culture-de-maïs
+    default: date-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Maï
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/date
+    label: Date Culture fruitière Agriculture Date
+    group: Culture de maïs
+    deploy: false
+                  
+  - title: Maïs
+    title2: Culture du maïs
+    title_uniq: culture-du-maïs
+    default: sugar-cane-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Ma
+    alphabet_l3: Maï
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/sugar-crop/sugar-cane
+    label: Canne à sucre Récolte de sucre Agriculture Canne à sucre
+    group: Culture du maïs
+    deploy: false
+                  
+  - title: Melon
+    title2: Culture de melons
+    title_uniq: culture-de-melons
+    default: pyrethrum-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Me
+    alphabet_l3: Mel
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/other-crops/pyrethrum
+    label: Pyrèthre Autres cultures Agriculture Pyrèthre
+    group: Culture de melons
+    deploy: false
+                  
+  - title: Mentorat
+    title2: Mentorat
+    title_uniq: mentorat
+    default: motivating
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Me
+    alphabet_l3: Men
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/administration/motivating
+    label: Motivant Administration Attribut Motivant
+    group: Mentorat
+    deploy: false
+                  
+  - title: Millet
+    title2: Culture du mil
+    title_uniq: culture-du-mil
+    default: fig-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mi
+    alphabet_l3: Mil
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/fig
+    label: Figure Culture fruitière Agriculture Figure
+    group: Culture du mil
+    deploy: false
+                  
+  - title: Mollusques
+    title2: Élevage de mollusques
+    title_uniq: élevage-de-mollusques
+    default: trout-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mo
+    alphabet_l3: Mol
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fish/trout
+    label: Truite Poisson Agriculture Truite
+    group: Élevage de mollusques
+    deploy: false
+                  
+  - title: Motivant
+    title2: Motivant
+    title_uniq: motivant
+    default: monitoring
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mo
+    alphabet_l3: Mot
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/administration/monitoring
+    label: Surveillance Administration Attribut Surveillance
+    group: Motivant
+    deploy: false
+                  
+  - title: Motivation personnelle
+    title2: Motivation personnelle
+    title_uniq: motivation-personnelle
+    default: self-determination
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mo
+    alphabet_l3: Mot
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/self-management/self-determination
+    label: Autodétermination Autogestion Attribut Autodétermination
+    group: Motivation personnelle
+    deploy: false
+                  
+  - title: Motricité
+    title2: Motricité
+    title_uniq: motricité
+    default: metacognition
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mo
+    alphabet_l3: Mot
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognition/metacognition
+    label: Métacognition Cognition Attribut Métacognition
+    group: Motricité
+    deploy: false
+                  
+  - title: Moule
+    title2: Élevage de moules
+    title_uniq: élevage-de-moules
+    default: avocado-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mo
+    alphabet_l3: Mou
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/avocado
+    label: Avocat Culture fruitière Agriculture Avocat
+    group: Élevage de moules
+    deploy: false
+                  
+  - title: Moutarde
+    title2: Culture de la moutarde
+    title_uniq: culture-de-la-moutarde
+    default: tobacco-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mo
+    alphabet_l3: Mou
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/other-crops/tobacco
+    label: le tabac Autres cultures Agriculture le tabac
+    group: Culture de la moutarde
+    deploy: false
+                  
+  - title: Mouton
+    title2: Élevage de moutons
+    title_uniq: élevage-de-moutons
+    default: wheat-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mo
+    alphabet_l3: Mou
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/cereal-crop/wheat
+    label: Blé Culture de céréales Agriculture Blé
+    group: Élevage de moutons
+    deploy: false
+                  
+  - title: Mulet
+    title2: Élevage de mulets
+    title_uniq: élevage-de-mulets
+    default: ramie-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mu
+    alphabet_l3: Mul
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fibre-crop/ramie
+    label: Ramie Culture de fibres Agriculture Ramie
+    group: Élevage de mulets
+    deploy: false
+                  
+  - title: Myrtille
+    title2: Culture de bleuets
+    title_uniq: culture-de-bleuets
+    default: horse-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: My
+    alphabet_l3: Myr
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/livestock/horse
+    label: Cheval Bétail Agriculture Cheval
+    group: Culture de bleuets
+    deploy: false
+                  
+  - title: Mémoire
+    title2: Mémoire
+    title_uniq: mémoire
+    default: executive-functions
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mé
+    alphabet_l3: Mém
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognition/executive-functions
+    label: Fonctions executives Cognition Attribut Fonctions executives
+    group: Mémoire
+    deploy: false
+                  
+  - title: Métacognition
+    title2: Métacognition
+    title_uniq: métacognition
+    default: perception
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: M
+    alphabet_l2: Mé
+    alphabet_l3: Mét
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognition/perception
+    label: la perception Cognition Attribut la perception
+    group: Métacognition
+    deploy: false
+                  
+  - title: Navet
+    title2: La culture du navet
+    title_uniq: la-culture-du-navet
+    default: asparagus-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: N
+    alphabet_l2: Na
+    alphabet_l3: Nav
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/asparagus
+    label: Asperges Culture de légumes Agriculture Asperges
+    group: La culture du navet
+    deploy: false
+                  
+  - title: Nectarine
+    title2: Culture de nectarines
+    title_uniq: culture-de-nectarines
+    default: coconut-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: N
+    alphabet_l2: Ne
+    alphabet_l3: Nec
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/coconut
+    label: Noix de coco oléagineux Agriculture Noix de coco
+    group: Culture de nectarines
+    deploy: false
+                  
+  - title: Noisette
+    title2: Culture de la noisette
+    title_uniq: culture-de-la-noisette
+    default: spice-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: N
+    alphabet_l2: No
+    alphabet_l3: Noi
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/spice-crop
+    label: Culture d'épices Agriculture Culture d'épices Anis Badiane Cardamome Piment et poivre Cannelle Clou de girofle Fenouil Gingembre masse Noix de muscade Piment Vanille
+    group: Culture de la noisette
+    deploy: true
+                  
+  - title: Noix de cajou
+    title2: Culture de noix de cajou
+    title_uniq: culture-de-noix-de-cajou
+    default: ox-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: N
+    alphabet_l2: No
+    alphabet_l3: Noi
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/livestock/ox
+    label: Bœuf Bétail Agriculture Bœuf
+    group: Culture de noix de cajou
+    deploy: false
+                  
+  - title: Noix de coco
+    title2: Culture de la noix de coco
+    title_uniq: culture-de-la-noix-de-coco
+    default: sunflower-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: N
+    alphabet_l2: No
+    alphabet_l3: Noi
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/sunflower
+    label: Tournesol oléagineux Agriculture Tournesol
+    group: Culture de la noix de coco
+    deploy: false
+                  
+  - title: Noix de muscade
+    title2: Culture de noix de muscade
+    title_uniq: culture-de-noix-de-muscade
+    default: gherkin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: N
+    alphabet_l2: No
+    alphabet_l3: Noi
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/gherkin
+    label: Cornichon Culture de légumes Agriculture Cornichon
+    group: Culture de noix de muscade
+    deploy: false
+                  
+  - title: Négociation
+    title2: Négociation
+    title_uniq: négociation
+    default: teamwork
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: N
+    alphabet_l2: Né
+    alphabet_l3: Nég
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/social-interrelation/teamwork
+    label: Travail en équipe Interrelation sociale Attribut Travail en équipe
+    group: Négociation
+    deploy: false
+                  
+  - title: Oignon
+    title2: Culture de l'oignon
+    title_uniq: culture-de-l'oignon
+    default: brazil-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Oi
+    alphabet_l3: Oig
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/tree-nut-crop/brazil
+    label: Brésil Récolte de noix Agriculture Brésil
+    group: Culture de l'oignon
+    deploy: false
+                  
+  - title: Orange
+    title2: Culture d'oranges
+    title_uniq: culture-d'oranges
+    default: flax-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Or
+    alphabet_l3: Ora
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/flax
+    label: Lin oléagineux Agriculture Lin
+    group: Culture d'oranges
+    deploy: false
+                  
+  - title: Orange
+    title2: Culture d'oranges
+    title_uniq: culture-d'oranges
+    default: flax-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Or
+    alphabet_l3: Ora
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fibre-crop/flax
+    label: Lin Culture de fibres Agriculture Lin
+    group: Culture d'oranges
+    deploy: false
+                  
+  - title: Orange
+    title2: Culture d'oranges
+    title_uniq: culture-d'oranges
+    default: peach-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Or
+    alphabet_l3: Ora
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/peach
+    label: Pêche Culture fruitière Agriculture Pêche
+    group: Culture d'oranges
+    deploy: false
+                  
+  - title: Organisation
+    title2: Organisation
+    title_uniq: organisation
+    default: delegation
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Or
+    alphabet_l3: Org
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/administration/delegation
+    label: Délégation Administration Attribut Délégation
+    group: Organisation
+    deploy: false
+                  
+  - title: Orge
+    title2: Culture de l'orge
+    title_uniq: culture-de-l'orge
+    default: cherry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Or
+    alphabet_l3: Org
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/cherry
+    label: cerise Culture fruitière Agriculture cerise
+    group: Culture de l'orge
+    deploy: false
+                  
+  - title: Ormeau
+    title2: Élevage d'ormeaux
+    title_uniq: élevage-d'ormeaux
+    default: fruit-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Or
+    alphabet_l3: Orm
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop
+    label: Culture fruitière Agriculture Culture fruitière Pomme Abricot Avocat Banane Myrtille Caroube Noix de cajou cerise Clémentine Canneberge Groseille Date Figure Groseille à maquereau Raisin Pamplemousse Goyave kiwi Citron Chaux mandarin Mangue Mangoustan Nectarine Orange Papaye Pêche Poire Kaki Ananas Banane plantain Prune et Sole Coing Framboise Satsumas fraise Mandarine Pastèque
+    group: Élevage d'ormeaux
+    deploy: true
+                  
+  - title: Ouverture
+    title2: Ouverture
+    title_uniq: ouverture
+    default: productivity
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: O
+    alphabet_l2: Ou
+    alphabet_l3: Ouv
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/work-ethic/productivity
+    label: Productivité Éthique de travail Attribut Productivité
+    group: Ouverture
+    deploy: false
+                  
+  - title: Palourde
+    title2: Élevage de palourdes
+    title_uniq: élevage-de-palourdes
+    default: apricot-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pa
+    alphabet_l3: Pal
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/apricot
+    label: Abricot Culture fruitière Agriculture Abricot
+    group: Élevage de palourdes
+    deploy: false
+                  
+  - title: Pamplemousse
+    title2: Culture de pamplemousse
+    title_uniq: culture-de-pamplemousse
+    default: mangosteen-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pa
+    alphabet_l3: Pam
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/mangosteen
+    label: Mangoustan Culture fruitière Agriculture Mangoustan
+    group: Culture de pamplemousse
+    deploy: false
+                  
+  - title: Pamplemousse
+    title2: Culture de pamplemousse
+    title_uniq: culture-de-pamplemousse
+    default: ark-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pa
+    alphabet_l3: Pam
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/molluscs/ark
+    label: Arche Mollusques Agriculture Arche
+    group: Culture de pamplemousse
+    deploy: false
+                  
+  - title: Paon
+    title2: Élevage de paons
+    title_uniq: élevage-de-paons
+    default: crayfish-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pa
+    alphabet_l3: Pao
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/crustacean/crayfish
+    label: Écrevisse Crustacé Agriculture Écrevisse
+    group: Élevage de paons
+    deploy: false
+                  
+  - title: Papaye
+    title2: Culture de la papaye
+    title_uniq: culture-de-la-papaye
+    default: groundnut-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pa
+    alphabet_l3: Pap
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/groundnut
+    label: Arachide oléagineux Agriculture Arachide
+    group: Culture de la papaye
+    deploy: false
+                  
+  - title: Pastèque
+    title2: Culture de pastèques
+    title_uniq: culture-de-pastèques
+    default: seed-cotton-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pa
+    alphabet_l3: Pas
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/seed-cotton
+    label: Coton Graine oléagineux Agriculture Coton Graine
+    group: Culture de pastèques
+    deploy: false
+                  
+  - title: Pastèque
+    title2: Culture de pastèques
+    title_uniq: culture-de-pastèques
+    default: seed-cotton-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pa
+    alphabet_l3: Pas
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fibre-crop/seed-cotton
+    label: Coton Graine Culture de fibres Agriculture Coton Graine
+    group: Culture de pastèques
+    deploy: false
+                  
+  - title: Patience
+    title2: Patience
+    title_uniq: patience
+    default: courage
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pa
+    alphabet_l3: Pat
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/moral-ethic/courage
+    label: Courage Éthique morale Attribut Courage
+    group: Patience
+    deploy: false
+                  
+  - title: Perdrix
+    title2: Élevage de perdrix
+    title_uniq: élevage-de-perdrix
+    default: crab-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pe
+    alphabet_l3: Per
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/crustacean/crab
+    label: Crabe Crustacé Agriculture Crabe
+    group: Élevage de perdrix
+    deploy: false
+                  
+  - title: Pigeon
+    title2: Élevage de pigeons
+    title_uniq: élevage-de-pigeons
+    default: prawn-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pi
+    alphabet_l3: Pig
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/crustacean/prawn
+    label: Crevette Crustacé Agriculture Crevette Crevette
+    group: Élevage de pigeons
+    deploy: false
+                  
+  - title: Piment
+    title2: Culture du piment
+    title_uniq: culture-du-piment
+    default: gourd-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pi
+    alphabet_l3: Pim
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/gourd
+    label: Gourde Culture de légumes Agriculture Gourde
+    group: Culture du piment
+    deploy: false
+                  
+  - title: Piment et poivre
+    title2: Culture du piment et du poivre
+    title_uniq: culture-du-piment-et-du-poivre
+    default: vanilla-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pi
+    alphabet_l3: Pim
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/spice-crop/vanilla
+    label: Vanille Culture d'épices Agriculture Vanille
+    group: Culture du piment et du poivre
+    deploy: false
+                  
+  - title: Piment et poivre
+    title2: Culture du piment et du poivre
+    title_uniq: culture-du-piment-et-du-poivre
+    default: cauliflower-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pi
+    alphabet_l3: Pim
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/cauliflower
+    label: Chou-fleur Culture de légumes Agriculture Chou-fleur
+    group: Culture du piment et du poivre
+    deploy: false
+                  
+  - title: Pistache
+    title2: Culture de la pistache
+    title_uniq: culture-de-la-pistache
+    default: anise-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pi
+    alphabet_l3: Pis
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/spice-crop/anise
+    label: Anis Culture d'épices Agriculture Anis
+    group: Culture de la pistache
+    deploy: false
+                  
+  - title: Poire
+    title2: Culture de poires
+    title_uniq: culture-de-poires
+    default: jojoba-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Po
+    alphabet_l3: Poi
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/jojoba
+    label: Jojoba oléagineux Agriculture Jojoba
+    group: Culture de poires
+    deploy: false
+                  
+  - title: Poireau
+    title2: Culture du poireau
+    title_uniq: culture-du-poireau
+    default: sugar-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Po
+    alphabet_l3: Poi
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/sugar-crop
+    label: Récolte de sucre Agriculture Récolte de sucre Betterave à sucre Canne à sucre
+    group: Culture du poireau
+    deploy: true
+                  
+  - title: Pois
+    title2: Culture de pois
+    title_uniq: culture-de-pois
+    default: swan-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Po
+    alphabet_l3: Poi
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/poultry/swan
+    label: cygne la volaille Agriculture cygne
+    group: Culture de pois
+    deploy: false
+                  
+  - title: Pois
+    title2: Culture de pois
+    title_uniq: culture-de-pois
+    default: cashew-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Po
+    alphabet_l3: Poi
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/tree-nut-crop/cashew
+    label: Anacardier Récolte de noix Agriculture Anacardier
+    group: Culture de pois
+    deploy: false
+                  
+  - title: Pomme
+    title2: La culture des pommes
+    title_uniq: la-culture-des-pommes
+    default: camel-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Po
+    alphabet_l3: Pom
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/livestock/camel
+    label: chameau Bétail Agriculture chameau
+    group: La culture des pommes
+    deploy: false
+                  
+  - title: Positivité
+    title2: Positivité
+    title_uniq: positivité
+    default: fairness
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Po
+    alphabet_l3: Pos
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/work-ethic/fairness
+    label: Justice Éthique de travail Attribut Justice
+    group: Positivité
+    deploy: false
+                  
+  - title: Production alimentaire
+    title2: Production alimentaire
+    title_uniq: production-alimentaire
+    default: food-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pr
+    alphabet_l3: Pro
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/food-production
+    label: Production alimentaire Production alimentaire Boisson Produit céréalier Condiment Confection Additif alimentaire Produit de noix Pâtes et nouilles Produit d'impulsion
+    group: Production alimentaire
+    deploy: true
+                  
+  - title: Productivité
+    title2: Productivité
+    title_uniq: productivité
+    default: positivity
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pr
+    alphabet_l3: Pro
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/work-ethic/positivity
+    label: Positivité Éthique de travail Attribut Positivité
+    group: Productivité
+    deploy: false
+                  
+  - title: Produit céréalier
+    title2: Production de produits céréaliers
+    title_uniq: production-de-produits-céréaliers
+    default: beverage-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pr
+    alphabet_l3: Pro
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/food-production/beverage
+    label: Boisson Production alimentaire Boisson
+    group: Production de produits céréaliers
+    deploy: true
+                  
+  - title: Produit d'impulsion
+    title2: Production de légumineuses
+    title_uniq: production-de-légumineuses
+    default: cereal-product-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pr
+    alphabet_l3: Pro
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/food-production/cereal-product
+    label: Produit céréalier Production alimentaire Produit céréalier
+    group: Production de légumineuses
+    deploy: true
+                  
+  - title: Produit de noix
+    title2: Production de produits à base de noix
+    title_uniq: production-de-produits-à-base-de-noix
+    default: condiment-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pr
+    alphabet_l3: Pro
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/food-production/condiment
+    label: Condiment Production alimentaire Condiment
+    group: Production de produits à base de noix
+    deploy: true
+                  
+  - title: Professionnel
+    title2: Compétences professionnelles
+    title_uniq: compétences-professionnelles
+    default: people-management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pr
+    alphabet_l3: Pro
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/administration/people-management
+    label: Ressources humaines Administration Attribut Ressources humaines
+    group: Compétences professionnelles
+    deploy: false
+                  
+  - title: Prune et Sole
+    title2: Culture de la prune et de la sole
+    title_uniq: culture-de-la-prune-et-de-la-sole
+    default: mustard-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pr
+    alphabet_l3: Pru
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/mustard
+    label: Moutarde oléagineux Agriculture Moutarde
+    group: Culture de la prune et de la sole
+    deploy: false
+                  
+  - title: Pyrèthre
+    title2: Culture de pyrèthre
+    title_uniq: culture-de-pyrèthre
+    default: tomato-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Py
+    alphabet_l3: Pyr
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/tomato
+    label: Tomate Culture de légumes Agriculture Tomate
+    group: Culture de pyrèthre
+    deploy: false
+                  
+  - title: Pâtes et nouilles
+    title2: Production de pâtes et de nouilles
+    title_uniq: production-de-pâtes-et-de-nouilles
+    default: pasta-and-noodle-production
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pâ
+    alphabet_l3: Pât
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/food-production/pasta-and-noodle
+    label: Pâtes et nouilles Production alimentaire Pâtes et nouilles
+    group: Production de pâtes et de nouilles
+    deploy: true
+                  
+  - title: Pêche
+    title2: Culture de la pêche
+    title_uniq: culture-de-la-pêche
+    default: hemp-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pê
+    alphabet_l3: Pêc
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/hemp
+    label: Chanvre oléagineux Agriculture Chanvre
+    group: Culture de la pêche
+    deploy: false
+                  
+  - title: Pêche
+    title2: Culture de la pêche
+    title_uniq: culture-de-la-pêche
+    default: hemp-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: P
+    alphabet_l2: Pê
+    alphabet_l3: Pêc
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fibre-crop/hemp
+    label: Chanvre Culture de fibres Agriculture Chanvre
+    group: Culture de la pêche
+    deploy: false
+                  
+  - title: Racines et tubercules
+    title2: Culture de racines et tubercules
+    title_uniq: culture-de-racines-et-tubercules
+    default: tinamou-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ra
+    alphabet_l3: Rac
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/poultry/tinamou
+    label: Tinamou la volaille Agriculture Tinamou
+    group: Culture de racines et tubercules
+    deploy: false
+                  
+  - title: Raisin
+    title2: Culture de la vigne
+    title_uniq: culture-de-la-vigne
+    default: abalone-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ra
+    alphabet_l3: Rai
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/molluscs/abalone
+    label: Ormeau Mollusques Agriculture Ormeau
+    group: Culture de la vigne
+    deploy: false
+                  
+  - title: Ramie
+    title2: Culture de la ramie
+    title_uniq: culture-de-la-ramie
+    default: watermelon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ra
+    alphabet_l3: Ram
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/watermelon
+    label: Pastèque Culture fruitière Agriculture Pastèque
+    group: Culture de la ramie
+    deploy: false
+                  
+  - title: Raphia
+    title2: Élevage de Bast
+    title_uniq: élevage-de-bast
+    default: plum-and-sole-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ra
+    alphabet_l3: Rap
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/plum-and-sole
+    label: Prune et Sole Culture fruitière Agriculture Prune et Sole
+    group: Élevage de Bast
+    deploy: false
+                  
+  - title: Reconnaissance
+    title2: Reconnaissance
+    title_uniq: reconnaissance
+    default: gratitude
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Re
+    alphabet_l3: Rec
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/moral-ethic/gratitude
+    label: Reconnaissance Éthique morale Attribut Reconnaissance
+    group: Reconnaissance
+    deploy: false
+                  
+  - title: Renne
+    title2: Élevage de rennes
+    title_uniq: élevage-de-rennes
+    default: triticale-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Re
+    alphabet_l3: Ren
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/cereal-crop/triticale
+    label: Triticale Culture de céréales Agriculture Triticale
+    group: Élevage de rennes
+    deploy: false
+                  
+  - title: Responsabilité
+    title2: Responsabilité
+    title_uniq: responsabilité
+    default: integrity
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Re
+    alphabet_l3: Res
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/work-ethic/integrity
+    label: Intégrité Éthique de travail Attribut Intégrité
+    group: Responsabilité
+    deploy: false
+                  
+  - title: Ressources humaines
+    title2: Ressources humaines
+    title_uniq: ressources-humaines
+    default: management
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Re
+    alphabet_l3: Res
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/administration/management
+    label: La gestion Administration Attribut La gestion
+    group: Ressources humaines
+    deploy: false
+                  
+  - title: Riz
+    title2: Riziculture
+    title_uniq: riziculture
+    default: grapefruit-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ri
+    alphabet_l3: Riz
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/grapefruit
+    label: Pamplemousse Culture fruitière Agriculture Pamplemousse
+    group: Riziculture
+    deploy: false
+                  
+  - title: Riz
+    title2: Riziculture
+    title_uniq: riziculture
+    default: grapefruit-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ri
+    alphabet_l3: Riz
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/citrus-fruit/grapefruit
+    label: Pamplemousse Agrumes Agriculture Pamplemousse
+    group: Riziculture
+    deploy: false
+                  
+  - title: Râpé
+    title2: L'élevage de colza
+    title_uniq: l'élevage-de-colza
+    default: duck-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Râ
+    alphabet_l3: Râp
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/poultry/duck
+    label: Canard la volaille Agriculture Canard
+    group: L'élevage de colza
+    deploy: false
+                  
+  - title: Récolte de noix
+    title2: Culture de noix
+    title_uniq: culture-de-noix
+    default: root-and-tuber-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ré
+    alphabet_l3: Réc
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/root-and-tuber-crop
+    label: Racines et tubercules Agriculture Racines et tubercules Manioc Cocoyam Pomme de terre patate douce
+    group: Culture de noix
+    deploy: true
+                  
+  - title: Récolte de sucre
+    title2: Culture sucrière
+    title_uniq: culture-sucrière
+    default: lupin-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ré
+    alphabet_l3: Réc
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/pulse-crop/lupin
+    label: Lupin Culture de légumineuses Agriculture Lupin
+    group: Culture sucrière
+    deploy: false
+                  
+  - title: Réflexion stratégique
+    title2: Réflexion stratégique
+    title_uniq: réflexion-stratégique
+    default: decision-making
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ré
+    alphabet_l3: Réf
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognitive-aptitude/decision-making
+    label: La prise de décision Aptitude cognitive Attribut La prise de décision
+    group: Réflexion stratégique
+    deploy: false
+                  
+  - title: Résilience
+    title2: Résilience
+    title_uniq: résilience
+    default: self-efficacy
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ré
+    alphabet_l3: Rés
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/self-management/self-efficacy
+    label: Auto-efficacité Autogestion Attribut Auto-efficacité
+    group: Résilience
+    deploy: false
+                  
+  - title: Résolution de problème
+    title2: Résolution de problème
+    title_uniq: résolution-de-problème
+    default: ability-to-plan
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: R
+    alphabet_l2: Ré
+    alphabet_l3: Rés
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognitive-aptitude/ability-to-plan
+    label: Capacité à planifier Aptitude cognitive Attribut Capacité à planifier
+    group: Résolution de problème
+    deploy: false
+                  
+  - title: Salade
+    title2: Culture de la laitue
+    title_uniq: culture-de-la-laitue
+    default: sugar-beet-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sa
+    alphabet_l3: Sal
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/sugar-crop/sugar-beet
+    label: Betterave à sucre Récolte de sucre Agriculture Betterave à sucre
+    group: Culture de la laitue
+    deploy: false
+                  
+  - title: Sarrasin
+    title2: La culture du sarrasin
+    title_uniq: la-culture-du-sarrasin
+    default: clementine-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sa
+    alphabet_l3: Sar
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/clementine
+    label: Clémentine Culture fruitière Agriculture Clémentine
+    group: La culture du sarrasin
+    deploy: false
+                  
+  - title: Sarrasin
+    title2: La culture du sarrasin
+    title_uniq: la-culture-du-sarrasin
+    default: clementine-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sa
+    alphabet_l3: Sar
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/citrus-fruit/clementine
+    label: Clémentine Agrumes Agriculture Clémentine
+    group: La culture du sarrasin
+    deploy: false
+                  
+  - title: Satsumas
+    title2: Agriculture Satsumas
+    title_uniq: agriculture-satsumas
+    default: poppy-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sa
+    alphabet_l3: Sat
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/poppy
+    label: Coquelicot oléagineux Agriculture Coquelicot
+    group: Agriculture Satsumas
+    deploy: false
+                  
+  - title: Satsumas
+    title2: Agriculture Satsumas
+    title_uniq: agriculture-satsumas
+    default: pear-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sa
+    alphabet_l3: Sat
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/pear
+    label: Poire Culture fruitière Agriculture Poire
+    group: Agriculture Satsumas
+    deploy: false
+                  
+  - title: Saumon
+    title2: Élevage de saumon
+    title_uniq: élevage-de-saumon
+    default: sisal-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sa
+    alphabet_l3: Sau
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fibre-crop/sisal
+    label: Sisal Culture de fibres Agriculture Sisal
+    group: Élevage de saumon
+    deploy: false
+                  
+  - title: Sauter
+    title2: Culture du houblon
+    title_uniq: culture-du-houblon
+    default: spinach-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sa
+    alphabet_l3: Sau
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/spinach
+    label: Épinard Culture de légumes Agriculture Épinard
+    group: Culture du houblon
+    deploy: false
+                  
+  - title: Seigle
+    title2: Culture du seigle
+    title_uniq: culture-du-seigle
+    default: guava-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Se
+    alphabet_l3: Sei
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/guava
+    label: Goyave Culture fruitière Agriculture Goyave
+    group: Culture du seigle
+    deploy: false
+                  
+  - title: Sisal
+    title2: Culture de sisal
+    title_uniq: culture-de-sisal
+    default: alpaca-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Si
+    alphabet_l3: Sis
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/livestock/alpaca
+    label: Alpaga Bétail Agriculture Alpaga
+    group: Culture de sisal
+    deploy: false
+                  
+  - title: Soja
+    title2: Culture de soja
+    title_uniq: culture-de-soja
+    default: guinea-fowl-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: So
+    alphabet_l3: Soj
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/poultry/guinea-fowl
+    label: Pintade la volaille Agriculture Pintade
+    group: Culture de soja
+    deploy: false
+                  
+  - title: Sorgho
+    title2: Culture du sorgho
+    title_uniq: culture-du-sorgho
+    default: kiwi-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: So
+    alphabet_l3: Sor
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/kiwi
+    label: kiwi Culture fruitière Agriculture kiwi
+    group: Culture du sorgho
+    deploy: false
+                  
+  - title: Squash
+    title2: Élevage de courges
+    title_uniq: élevage-de-courges
+    default: walnut-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sq
+    alphabet_l3: Squ
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/tree-nut-crop/walnut
+    label: noyer Récolte de noix Agriculture noyer
+    group: Élevage de courges
+    deploy: false
+                  
+  - title: Surveillance
+    title2: Surveillance
+    title_uniq: surveillance
+    default: organization
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Su
+    alphabet_l3: Sur
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/administration/organization
+    label: Organisation Administration Attribut Organisation
+    group: Surveillance
+    deploy: false
+                  
+  - title: Swiftlet
+    title2: Élevage de martinets
+    title_uniq: élevage-de-martinets
+    default: agave-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sw
+    alphabet_l3: Swi
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fibre-crop/agave
+    label: Agave Culture de fibres Agriculture Agave
+    group: Élevage de martinets
+    deploy: false
+                  
+  - title: Sérénité
+    title2: Sérénité
+    title_uniq: sérénité
+    default: serenity
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sé
+    alphabet_l3: Sér
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/moral-ethic/serenity
+    label: Sérénité Éthique morale Attribut Sérénité
+    group: Sérénité
+    deploy: false
+                  
+  - title: Sésame
+    title2: Culture de sésame
+    title_uniq: culture-de-sésame
+    default: goose-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: S
+    alphabet_l2: Sé
+    alphabet_l3: Sés
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/poultry/goose
+    label: OIE la volaille Agriculture OIE
+    group: Culture de sésame
+    deploy: false
+                  
+  - title: Tempérance
+    title2: Tempérance
+    title_uniq: tempérance
+    default: kindness
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Te
+    alphabet_l3: Tem
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/moral-ethic/kindness
+    label: La gentillesse Éthique morale Attribut La gentillesse
+    group: Tempérance
+    deploy: false
+                  
+  - title: Thé
+    title2: La culture du thé
+    title_uniq: la-culture-du-thé
+    default: onion-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Th
+    alphabet_l3: Thé
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/onion
+    label: Oignon Culture de légumes Agriculture Oignon
+    group: La culture du thé
+    deploy: false
+                  
+  - title: Tilapia
+    title2: Élevage de tilapia
+    title_uniq: élevage-de-tilapia
+    default: catfish-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Ti
+    alphabet_l3: Til
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fish/catfish
+    label: Poisson-chat Poisson Agriculture Poisson-chat
+    group: Élevage de tilapia
+    deploy: false
+                  
+  - title: Tinamou
+    title2: L'agriculture de Tinamou
+    title_uniq: l'agriculture-de-tinamou
+    default: bast-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Ti
+    alphabet_l3: Tin
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fibre-crop/bast
+    label: Raphia Culture de fibres Agriculture Raphia
+    group: L'agriculture de Tinamou
+    deploy: false
+                  
+  - title: Tomate
+    title2: Culture de tomates
+    title_uniq: culture-de-tomates
+    default: vegetable-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: To
+    alphabet_l3: Tom
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop
+    label: Culture de légumes Agriculture Culture de légumes Artichaut Asperges Haricot Brocoli Choux Carotte Chou-fleur Chicorée Piment et poivre Concombre Aubergine Ail Cornichon Gourde Poireau Salade Maïs Champignon Gombo Oignon Pois Citrouille Échalote Épinard Squash Tomate Truffe Navet
+    group: Culture de tomates
+    deploy: true
+                  
+  - title: Tournesol
+    title2: La culture du tournesol
+    title_uniq: la-culture-du-tournesol
+    default: ostrich-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: To
+    alphabet_l3: Tou
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/poultry/ostrich
+    label: Autruche la volaille Agriculture Autruche
+    group: La culture du tournesol
+    deploy: false
+                  
+  - title: Travail en équipe
+    title2: Travail en équipe
+    title_uniq: travail-en-équipe
+    default: social-awareness
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Tr
+    alphabet_l3: Tra
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/social-interrelation/social-awareness
+    label: Conscience sociale Interrelation sociale Attribut Conscience sociale
+    group: Travail en équipe
+    deploy: false
+                  
+  - title: Triticale
+    title2: Agriculture de triticale
+    title_uniq: agriculture-de-triticale
+    default: lemon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Tr
+    alphabet_l3: Tri
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/citrus-fruit/lemon
+    label: Citron Agrumes Agriculture Citron
+    group: Agriculture de triticale
+    deploy: false
+                  
+  - title: Triticale
+    title2: Agriculture de triticale
+    title_uniq: agriculture-de-triticale
+    default: lemon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Tr
+    alphabet_l3: Tri
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/lemon
+    label: Citron Culture fruitière Agriculture Citron
+    group: Agriculture de triticale
+    deploy: false
+                  
+  - title: Truffe
+    title2: Culture de la truffe
+    title_uniq: culture-de-la-truffe
+    default: artichoke-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Tr
+    alphabet_l3: Tru
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/artichoke
+    label: Artichaut Culture de légumes Agriculture Artichaut
+    group: Culture de la truffe
+    deploy: false
+                  
+  - title: Truite
+    title2: Élevage de truites
+    title_uniq: élevage-de-truites
+    default: eel-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Tr
+    alphabet_l3: Tru
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fish/eel
+    label: Anguille Poisson Agriculture Anguille
+    group: Élevage de truites
+    deploy: false
+                  
+  - title: Tung
+    title2: Agriculture de Tung
+    title_uniq: agriculture-de-tung
+    default: partridge-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: T
+    alphabet_l2: Tu
+    alphabet_l3: Tun
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/poultry/partridge
+    label: Perdrix la volaille Agriculture Perdrix
+    group: Agriculture de Tung
+    deploy: false
+                  
+  - title: Vanille
+    title2: La culture de la vanille
+    title_uniq: la-culture-de-la-vanille
+    default: leek-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: V
+    alphabet_l2: Va
+    alphabet_l3: Van
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/leek
+    label: Poireau Culture de légumes Agriculture Poireau
+    group: La culture de la vanille
+    deploy: false
+                  
+  - title: Vesce
+    title2: L'élevage de la vesce
+    title_uniq: l'élevage-de-la-vesce
+    default: swiftlet-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: V
+    alphabet_l2: Ve
+    alphabet_l3: Ves
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/poultry/swiftlet
+    label: Swiftlet la volaille Agriculture Swiftlet
+    group: L'élevage de la vesce
+    deploy: false
+                  
+  - title: Vitesse de traitement
+    title2: Vitesse de traitement
+    title_uniq: vitesse-de-traitement
+    default: memory
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: V
+    alphabet_l2: Vi
+    alphabet_l3: Vit
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognition/memory
+    label: Mémoire Cognition Attribut Mémoire
+    group: Vitesse de traitement
+    deploy: false
+                  
+  - title: cerise
+    title2: Culture de la cerise
+    title_uniq: culture-de-la-cerise
+    default: pig-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: c
+    alphabet_l2: ce
+    alphabet_l3: cer
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/livestock/pig
+    label: Cochon Bétail Agriculture Cochon
+    group: Culture de la cerise
+    deploy: false
+                  
+  - title: chameau
+    title2: Élevage de chameaux
+    title_uniq: élevage-de-chameaux
+    default: canary-seed-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: c
+    alphabet_l2: ch
+    alphabet_l3: cha
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/cereal-crop/canary-seed
+    label: Alpiste des Canaries Culture de céréales Agriculture Alpiste des Canaries
+    group: Élevage de chameaux
+    deploy: false
+                  
+  - title: châtaigne
+    title2: La châtaigneraie
+    title_uniq: la-châtaigneraie
+    default: yam-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: c
+    alphabet_l2: ch
+    alphabet_l3: châ
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/root-and-tuber-crop/yam
+    label: patate douce Racines et tubercules Agriculture patate douce
+    group: La châtaigneraie
+    deploy: false
+                  
+  - title: cygne
+    title2: Élevage de cygnes
+    title_uniq: élevage-de-cygnes
+    default: fibre-crop-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: c
+    alphabet_l2: cy
+    alphabet_l3: cyg
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fibre-crop
+    label: Culture de fibres Agriculture Culture de fibres Agave Raphia Lin Chanvre Jute Kapok Manille Ramie Coton Graine Sisal
+    group: Élevage de cygnes
+    deploy: true
+                  
+  - title: fraise
+    title2: Culture de fraises
+    title_uniq: culture-de-fraises
+    default: rape-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: f
+    alphabet_l2: fr
+    alphabet_l3: fra
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/rape
+    label: Râpé oléagineux Agriculture Râpé
+    group: Culture de fraises
+    deploy: false
+                  
+  - title: huître
+    title2: L'ostréiculture
+    title_uniq: l'ostréiculture
+    default: banana-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: h
+    alphabet_l2: hu
+    alphabet_l3: huî
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/banana
+    label: Banane Culture fruitière Agriculture Banane
+    group: L'ostréiculture
+    deploy: false
+                  
+  - title: kiwi
+    title2: Culture de kiwis
+    title_uniq: culture-de-kiwis
+    default: mussel-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: k
+    alphabet_l2: ki
+    alphabet_l3: kiw
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/molluscs/mussel
+    label: Moule Mollusques Agriculture Moule
+    group: Culture de kiwis
+    deploy: false
+                  
+  - title: la perception
+    title2: la perception
+    title_uniq: la-perception
+    default: attention
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: l
+    alphabet_l2: la
+    alphabet_l3: la 
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/cognition/attention
+    label: Attention Cognition Attribut Attention
+    group: la perception
+    deploy: false
+                  
+  - title: le fonio
+    title2: Culture du fonio
+    title_uniq: culture-du-fonio
+    default: currant-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: l
+    alphabet_l2: le
+    alphabet_l3: le 
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/currant
+    label: Groseille Culture fruitière Agriculture Groseille
+    group: Culture du fonio
+    deploy: false
+                  
+  - title: le tabac
+    title2: La culture du tabac
+    title_uniq: la-culture-du-tabac
+    default: truffle-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: l
+    alphabet_l2: le
+    alphabet_l3: le 
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/truffle
+    label: Truffe Culture de légumes Agriculture Truffe
+    group: La culture du tabac
+    deploy: false
+                  
+  - title: mandarin
+    title2: Culture de la mandarine
+    title_uniq: culture-de-la-mandarine
+    default: shell-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: m
+    alphabet_l2: ma
+    alphabet_l3: man
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/molluscs/shell
+    label: Coquille Mollusques Agriculture Coquille Coquille
+    group: Culture de la mandarine
+    deploy: false
+                  
+  - title: mandarin
+    title2: Culture de la mandarine
+    title_uniq: culture-de-la-mandarine
+    default: papaya-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: m
+    alphabet_l2: ma
+    alphabet_l3: man
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/papaya
+    label: Papaye Culture fruitière Agriculture Papaye
+    group: Culture de la mandarine
+    deploy: false
+                  
+  - title: masse
+    title2: Culture de la masse
+    title_uniq: culture-de-la-masse
+    default: garlic-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: m
+    alphabet_l2: ma
+    alphabet_l3: mas
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/garlic
+    label: Ail Culture de légumes Agriculture Ail
+    group: Culture de la masse
+    deploy: false
+                  
+  - title: menthe
+    title2: Culture de la menthe
+    title_uniq: culture-de-la-menthe
+    default: squash-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: m
+    alphabet_l2: me
+    alphabet_l3: men
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/vegetable-crop/squash
+    label: Squash Culture de légumes Agriculture Squash
+    group: Culture de la menthe
+    deploy: false
+                  
+  - title: noyer
+    title2: La culture de la noix
+    title_uniq: la-culture-de-la-noix
+    default: badian-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: n
+    alphabet_l2: no
+    alphabet_l3: noy
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/spice-crop/badian
+    label: Badiane Culture d'épices Agriculture Badiane
+    group: La culture de la noix
+    deploy: false
+                  
+  - title: olive
+    title2: L'oléiculture
+    title_uniq: l'oléiculture
+    default: poultry-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: o
+    alphabet_l2: ol
+    alphabet_l3: oli
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/poultry
+    label: la volaille Agriculture la volaille Poulet Canard Émeu Francolin OIE Pintade Autruche Perdrix Paon Faisan Pigeon Caille cygne Swiftlet Tinamou Turquie
+    group: L'oléiculture
+    deploy: true
+                  
+  - title: oléagineux
+    title2: Culture d'oléagineux
+    title_uniq: culture-d'oléagineux
+    default: sesame-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: o
+    alphabet_l2: ol
+    alphabet_l3: olé
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/oilcrop/sesame
+    label: Sésame oléagineux Agriculture Sésame
+    group: Culture d'oléagineux
+    deploy: false
+                  
+  - title: patate douce
+    title2: Élevage d'igname
+    title_uniq: élevage-d'igname
+    default: lentil-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: p
+    alphabet_l2: pa
+    alphabet_l3: pat
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/pulse-crop/lentil
+    label: Lentille Culture de légumineuses Agriculture Lentille
+    group: Élevage d'igname
+    deploy: false
+                  
+  - title: quinoa
+    title2: Culture de quinoa
+    title_uniq: culture-de-quinoa
+    default: grape-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: q
+    alphabet_l2: qu
+    alphabet_l3: qui
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fruit-crop/grape
+    label: Raisin Culture fruitière Agriculture Raisin
+    group: Culture de quinoa
+    deploy: false
+                  
+  - title: Échalote
+    title2: Élevage d'échalotes
+    title_uniq: élevage-d'échalotes
+    default: hazelnut-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: É
+    alphabet_l2: Éc
+    alphabet_l3: Éch
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/tree-nut-crop/hazelnut
+    label: Noisette Récolte de noix Agriculture Noisette
+    group: Élevage d'échalotes
+    deploy: false
+                  
+  - title: Écoute active
+    title2: Écoute active
+    title_uniq: écoute-active
+    default: negotiation
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: É
+    alphabet_l2: Éc
+    alphabet_l3: Éco
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/social-interrelation/negotiation
+    label: Négociation Interrelation sociale Attribut Négociation
+    group: Écoute active
+    deploy: false
+                  
+  - title: Écrevisse
+    title2: Élevage d'écrevisses
+    title_uniq: élevage-d'écrevisses
+    default: salmon-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: É
+    alphabet_l2: Éc
+    alphabet_l3: Écr
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/fish/salmon
+    label: Saumon Poisson Agriculture Saumon
+    group: Élevage d'écrevisses
+    deploy: false
+                  
+  - title: Épinard
+    title2: Culture d'épinards
+    title_uniq: culture-d'épinards
+    default: pistachio-farming
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: É
+    alphabet_l2: Ép
+    alphabet_l3: Épi
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/farming/tree-nut-crop/pistachio
+    label: Pistache Récolte de noix Agriculture Pistache
+    group: Culture d'épinards
+    deploy: false
+                  
+  - title: Éthique de travail
+    title2: Éthique de travail
+    title_uniq: éthique-de-travail
+    default: temperance
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: É
+    alphabet_l2: Ét
+    alphabet_l3: Éth
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute/moral-ethic/temperance
+    label: Tempérance Éthique morale Attribut Tempérance
+    group: Éthique de travail
+    deploy: false
+                  
+  - title: Éthique morale
+    title2: Éthique morale
+    title_uniq: éthique-morale
+    default: attribute-skills
+    kind: directory
+    icon: icon-directory
+    alphabet_l1: É
+    alphabet_l2: Ét
+    alphabet_l3: Éth
+    sub_title: Une brève description
+    excerpt: Ceci est une description de cet article. Lorsqu'il est disponible, ce message change.
+    url: /fr/resources/attribute
+    label: Attribut Attribut Éthique morale Courage Reconnaissance Honnêteté Humilité La gentillesse Patience Sérénité Tempérance Éthique de travail Responsabilité La coopération Cohérence Justice Intégrité Ouverture Positivité Productivité Le respect Autogestion Gestion du changement personnel Résilience Confiance en soi Maîtrise de soi Autodétermination Autodiscipline Auto-efficacité Amour propre Motivation personnelle La gestion du stress Gestion du temps Cognition Attention Fonctions executives Compétences linguistiques Mémoire Métacognition Motricité la perception Vitesse de traitement Aptitude cognitive Faculté d'apprendre Capacité d'organisation Capacité à planifier La créativité Esprit critique La prise de décision Intuition Résolution de problème Réflexion stratégique Gestion des émotions Gestion de la colère Gestion de l'anxiété Gestion du désespoir Gestion de l'envie Gestion de la peur Gestion de la culpabilité Gestion du bonheur Gestion de la haine Gestion de l'espoir Gestion de la solitude Gestion de l'amour Gestion de la fierté Gestion des regrets Gestion de la tristesse Gestion de la honte Interrelation sociale Écoute active La gestion des conflits Négociation La communication non verbale Conscience sociale Travail en équipe Communication verbale Communication visuelle Communication écrite Administration Délégation Direction La gestion Mentorat Surveillance Motivant Organisation Ressources humaines
+    group: Éthique morale
+    deploy: true
+                  

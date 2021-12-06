@@ -1,0 +1,75 @@
+/* Latin Default */
+:root {
+  --serif-font: 'Noto Sans', sans-serif;
+  --sans-serif-font: 'Noto Sans', sans-serif;
+  --left: left;
+  --right: right;
+  --size-1px: 1px;
+  --size-2px: 2px;
+  --size-3px: 3px;
+  --size-4px: 4px;
+  --size-5px: 5px;
+  --size-6px: 6px;
+  --size-7px: 7px;
+  --size-8px: 8px;
+  --size-9px: 9px;
+  --size-10px: 10px;
+  --size-11px: 11px;
+  --size-12px: 12px;
+  --size-13px: 13px;
+  --size-14px: 14px;
+  --size-15px: 15px;
+  --size-16px: 16px;
+  --size-17px: 17px;
+  --size-18px: 18px;
+  --size-19px: 19px;
+  --size-20px: 20px;
+  --size-21px: 21px;
+  --size-22px: 22px;
+  --size-23px: 23px;
+  --size-24px: 24px;
+  --size-25px: 25px;
+  --size-26px: 26px;
+  --size-27px: 27px;
+  --size-28px: 28px;
+  --size-29px: 29px;
+  --size-30px: 30px;
+  --size-31px: 31px;
+  --size-32px: 32px;
+  --size-33px: 33px;
+  --size-34px: 34px;
+  --size-35px: 35px;
+  --size-36px: 36px;
+  --size-37px: 37px;
+  --size-38px: 38px;
+  --size-39px: 39px;
+  --size-40px: 40px;
+  --size-41px: 41px;
+  --size-42px: 42px;
+  --size-43px: 43px;
+  --size-44px: 44px;
+  --size-45px: 45px;
+  --size-46px: 46px;
+  --size-47px: 47px;
+  --size-48px: 48px;
+  --size-49px: 49px;
+  --size-50px: 50px;
+  --size-51px: 51px;
+  --size-52px: 52px;
+  --size-53px: 53px;
+  --size-54px: 54px;
+  --size-55px: 55px;
+  --size-56px: 56px;
+  --size-57px: 57px;
+  --size-58px: 58px;
+  --size-59px: 59px;
+  --size-60px: 60px;
+  --size-61px: 61px;
+  --size-62px: 62px;
+  --size-63px: 63px;
+  --size-64px: 64px;
+}
+
+* {
+  line-height: 1.4;
+}

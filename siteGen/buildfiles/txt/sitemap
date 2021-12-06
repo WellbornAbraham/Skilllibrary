@@ -1,0 +1,12 @@
+---
+permalink: /sitemap.txt
+---
+{% if site.sitemap == true %}
+{{ site.url2 }}/
+{{ site.url2 }}/about/
+{{ site.url2 }}/contact/
+{{ site.url2 }}/catalogue/
+{{ site.url2 }}/search/{% assign datafile_childless = site.data.datafile_childless.data %} {% if datafile_childless[0] %} {% assign sitemap = datafile_childless | uniq: 'title2' %} {% for item in sitemap %} {% if item.deploy.en != site.development %}
+{{ site.url2 }}{{ item.url }}/{% endif %} {% endfor %} {% endif %}
+{{ site.url2 }}/Jesus-is-the-CHRIST/
+{% endif %}

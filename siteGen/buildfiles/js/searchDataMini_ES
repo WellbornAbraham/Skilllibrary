@@ -1,0 +1,15 @@
+---
+permalink: /assets/js/searchDataMini_ES.js
+---
+{% if site.searchDataMini_ES == true %}
+window.store = { {% assign datafile_childless = site.data.datafile_childless.data %} {% if datafile_childless[0] %} {% assign datafile_childless_alphasort = datafile_childless | sort: 'title2.es' %} {% assign searchDataMini_ES = datafile_childless_alphasort | uniq: 'title_uniq' %} {% for item in searchDataMini_ES %} {% if item.deploy.es != site.development %}
+  "{{ item.url.es }}": {
+    "title2": "{{ item.title2.es }}",
+    "label": "{{ item.label.es }}",
+    "url": "{{ item.url.es }}",
+    "icon": "{{ item.icon.es }}",
+  },{% endif %} {% endfor %} {% endif %}
+  "": {
+  }
+};
+{% endif %}

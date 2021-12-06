@@ -1,0 +1,18 @@
+---
+permalink: /assets/js/searchData_AR.js
+---
+{% if site.searchData_AR == true %}
+window.store = { {% assign datafile_childless = site.data.datafile_childless.data %} {% if datafile_childless[0] %} {% assign datafile_childless_alphasort = datafile_childless | sort: 'title2.ar' %} {% assign searchData_AR = datafile_childless_alphasort | uniq: 'title_uniq' %} {% for item in searchData_AR %} {% if item.deploy.ar != site.development %}
+  "{{ item.url.ar }}": {
+    "title2": "{{ item.title2.ar }}",
+    "sub_title": "{{ item.sub_title.ar }}",
+    "label": "{{ item.label.ar }}",
+    "url": "{{ item.url.ar }}",
+    "excerpt": "{{ item.excerpt.ar }}",
+    "icon": "{{ item.icon.ar }}",
+    "group": "{{ item.group.ar }}"
+  },{% endif %} {% endfor %} {% endif %}
+  "": {
+  }
+};
+{% endif %}

@@ -1,0 +1,130 @@
+<!DOCTYPE HTML>
+<html lang="{{ page.lang }}" dir="{{ page.lang_dir }}">
+    <head>
+      <meta charset ="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>{{ site.title[ page.lang] }}</title>
+      {% include stylesheet.html %}
+      {% include scripts/analytics.html %}
+    </head>
+    <body>
+      {% include svg.html %}
+      <div id="external-wrapper">
+      <img src="/assets/images/background.jpg" class="home-page-background"/>
+       <div id="home-page-content-wrapper">
+            <div class="home-page-content-container">
+              <div class="home-page-title-content">
+                <h4 class="home-page-pre-title">{{ site.pre_title[ page.lang ] }}</h4>
+                <h1 class="home-page-title">{{ site.title[ page.lang ] }}</h1>
+                <p class="home-page-text">{{ site.data.word_translate.Undergoing_Development[ page.lang ] }}</p>
+                <div class="home-page-title-bottom-border"></div>
+              </div>
+              <div class="home-page-search">
+                <form action="/{{ page.lang }}/search" method="get" id="home-page-search-form" autocomplete="off">
+                  <input type="text" name="query" id="search-bar-input" placeholder="{{ site.data.word_translate.eg[ page.lang ] }} {{ site.data.word_translate.fish_farming[ page.lang ] }}" onkeyup="initiateSearch(); displayClearTextButton()">
+                  <a><svg class="icon icon-close" id="clear-text-button" onclick="clearText()"><use xlink:href="#icon-close"></use></svg></a>
+                  <script>
+                    function displayClearTextButton() {
+                      var inputText = document.getElementById("search-bar-input").value;
+                      if (inputText.length >= 0) {
+                        document.getElementById("clear-text-button").style.display = "block";
+                      }
+                    }
+                    function clearText() {
+                      document.getElementById("search-bar-input").value = "";
+                    }
+                  </script>
+                  <button type="submit" id="home-page-search-button"><svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg></button>
+                  <input type="radio" name="type" id="search-filter-type-directory" class="search-type" value="directory" checked="true" style="display: none; visibility: hidden;">
+                  <input type="radio" name="cg" id="search-filter-category-all" class="search-category-button" value="all" checked="true" onchange="disableCategory()" style="display: none; visibility: hidden;">
+                  <div id="search-suggestion-container" class="home-page-search-results-container"></div>
+                </form>
+              </div>
+              <div class="home-page-bottom-snippet">
+                <h6><span class="first"><a href="/en/" {% if page.lang == "ar" %} style="font-family: 'Noto Sans', sans-serif;"{% endif %}>{{ site.data.word_translate.english }}</a></span><span class="middle"><a href="/fr/" {% if page.lang == "ar" %} style="font-family: 'Noto Sans', sans-serif;"{% endif %}>{{ site.data.word_translate.french }}</a></span><span class="middle"><a href="/ar/" {% if page.lang != "ar" %} style="font-family: 'Noto Sans Arabic', sans-serif;"{% endif %}>{{ site.data.word_translate.arabic }}</a></span><span class="last"><a href="/es/" {% if page.lang == "ar" %} style="font-family: 'Noto Sans', sans-serif;"{% endif %}>{{ site.data.word_translate.spanish }}</a></span></h6>
+              </div>
+            </div>
+    	 {% include header-1.html %}
+        </div>
+      </div>
+      <script src="/assets/js/searchRecord_{{ site.data.language_codes.uppercase[ page.lang ] }}.js"></script>
+<script>
+function initiateSearch() {
+  var searchInput = document.getElementById("search-bar-input").value;
+  var searchTermRaw = (" " + searchInput + " ").replace(/\s+/g,' ');
+ searchTermRaw = searchTermRaw.split("");
+ searchTermRaw.pop();
+ searchTermRaw = searchTermRaw.reverse();
+ searchTermRaw.pop();
+ searchTermRaw = searchTermRaw.reverse().join("");
+ {%- if page.lang != "ar" %}
+ var searchTerm = searchTermRaw.normalize('NFD').replace(/([\u0300-\u036f]|[^0-9a-zA-Z\s])/g, '');
+ {%- else if page.lang == "ar" -%}
+ var searchTerm = searchTermRaw;
+ {%- endif %}
+  if (searchTerm.length > 2) {
+    document.getElementById("search-suggestion-container").style.display = "block";
+    {%- if page.lang_dir == "ltr" %}
+    var searchTermRegExp = new RegExp((("\\b" + searchTerm + "").replace(/\s/g, '|\\b')), "gi");
+    {%- else if page.lang_dir == "rtl" %}
+    var searchTermRegExp = new RegExp((("" + searchTerm + "").replace(/\s/g, '|')), "gi");
+    {%- endif %}
+    var results = [];
+    for (var x = 0; x < docs.length; x++) {
+      if (docs[x].kind == "directory") {
+          var docsLabel = docs[x].label.normalize('NFD').replace(/([\u0300-\u036f]|[^0-9a-zA-Z\s])/g, '').replace(/\s+/g,' ');
+          if (docsLabel.match(searchTermRegExp)) {
+            var Numerator = (docsLabel.match(searchTermRegExp).length) * 56;
+            var Denominator = searchTerm.split(" ").length;
+            var idsValue = ((Numerator + 1) / (Denominator + 1)) * 100;
+            results[results.length] = {
+              id: docs[x].id,
+              ids: idsValue,
+              kind: docs[x].kind,
+              icon: docs[x].icon,
+              title2: docs[x].title2,
+              label: docs[x].label,
+              url: docs[x].url
+            };
+          }
+      }
+    }
+    var resultArray = results.sort(function(a,b) { return b.ids - a.ids;});
+    var searchResults = document.getElementById('search-suggestion-container');
+    if (resultArray.length >= 8) {
+      var appendString = '';
+      for (var i = 0 ; i <= 7; i ++) {
+        var item = resultArray[i];
+        appendString +=  '<a href=" ' + item.url + ' "><svg class="icon ' + item.icon + ' "><use xlink:href="#' + item.icon + '"></use></svg>' + item.title2 + '</a>';
+      }
+      searchResults.innerHTML = appendString;
+    } else if ( 1 > resultArray.length < 8) {
+      var appendString = '';
+      for (var i = 0 ; i < resultArray.length; i ++) {
+        var item = resultArray[i];
+        appendString +=  '<a href=" ' + item.url + ' "><svg class="icon ' + item.icon + ' "><use xlink:href="#' + item.icon + '"></use></svg>' + item.title2 + '</a>';
+      }
+      searchResults.innerHTML = appendString;
+    } else {
+      searchResults.innerHTML = '';
+    }
+  } else if (searchTerm.length <= 2) {
+    document.getElementById("search-suggestion-container").style.display = "none";
+  }
+}
+</script>
+<script>
+  window.onload = function(){
+    var clearTextButton = document.getElementById('clear-text-button');
+    var searchBarInput = document.getElementById('search-bar-input');
+    var searchSuggestionContainer = document.getElementById("search-suggestion-container");
+    document.onclick = function(e){
+      if(e.target.id !== 'search-bar-input'){
+        clearTextButton.style.display = 'none';
+        searchSuggestionContainer.style.display = 'none';
+      }
+    };
+  };
+</script>
+    </body>
+</html>

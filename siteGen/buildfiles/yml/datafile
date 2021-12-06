@@ -1,0 +1,235 @@
+---
+permalink: /assets/yml/datafile.yml
+---
+{% if site.datafile == true %}
+data:
+{% assign datafile = site.data.datafile.data %} {% if datafile[0] %} {% for item in datafile %}{% if item.deploy.en != site.development %}
+  - title:
+        en: {{ item.title.en }}
+        fr: {{ site.data.fr_translate.title[ item.default.en ] }}
+        ar: {{ site.data.ar_translate.title[ item.default.en ] }}
+        es: {{ site.data.es_translate.title[ item.default.en ] }}
+    title2:
+        en: {{ item.title2.en }}
+        fr: {{ site.data.fr_translate.title2[ item.default.en ] }}
+        ar: {{ site.data.ar_translate.title2[ item.default.en ] }}
+        es: {{ site.data.es_translate.title2[ item.default.en ] }}
+    default:
+        en: {{ item.title2.en | slugify: "pretty" }}
+        fr: {{ item.default.en }}
+        ar: {{ item.default.en }}
+        es: {{ item.default.en }}
+    kind:
+        en: folder
+        fr: folder
+        ar: folder
+        es: folder
+    icon:
+        en: {{ item.icon.en }}
+        fr: {{ item.icon.en }}
+        ar: {{ item.icon.en }}
+        es: {{ item.icon.en }}
+    sub_title:
+        en: {{ item.sub_title.en }}
+        fr: {{ item.sub_title.fr }}
+        ar: {{ item.sub_title.ar }}
+        es: {{ item.sub_title.es }}
+    excerpt:
+        en: {{ item.excerpt.en }}
+        fr: {{ site.data.fr_translate.excerpt[ item.default.en ] }}
+        ar: {{ site.data.ar_translate.excerpt[ item.default.en ] }}
+        es: {{ site.data.es_translate.excerpt[ item.default.en ] }}
+    url:
+        en: /en/resources/{{ item.title.en | slugify: "pretty" }}
+        fr: /fr/resources/{{ item.title.en | slugify: "pretty" }}
+        ar: /ar/resources/{{ item.title.en | slugify: "pretty" }}
+        es: /es/resources/{{ item.title.en | slugify: "pretty" }}
+    label:
+        en: {{ item.label.en }}
+        fr: {{ site.data.fr_translate.label[ item.default.en ] }}
+        ar: {{ site.data.ar_translate.label[ item.default.en ] }}
+        es: {{ site.data.es_translate.label[ item.default.en ] }}
+    group:
+        en: {{ item.title2.en }}
+        fr: {{ site.data.fr_translate.title2[ item.default.en ] }}
+        ar: {{ site.data.ar_translate.title2[ item.default.en ] }}
+        es: {{ site.data.es_translate.title2[ item.default.en ] }}
+    deploy:
+        en: {{ item.deploy.en }}
+        fr: {{ item.deploy.en }}
+        ar: {{ item.deploy.en }}
+        es: {{ item.deploy.en }}
+    children: 
+        {% assign level2-unsorted = item.children %} {% if level2-unsorted[0] %} {% assign level2 = level2-unsorted %} {% for entry in level2 %} {% if entry.deploy.en != site.development %}
+      - title:
+            en: {{ entry.title.en }}
+            fr: {{ site.data.fr_translate.title[ entry.default.en ] }}
+            ar: {{ site.data.ar_translate.title[ entry.default.en ] }}
+            es: {{ site.data.es_translate.title[ entry.default.en ] }}
+        title2:
+            en: {{ entry.title2.en }}
+            fr: {{ site.data.fr_translate.title2[ entry.default.en ] }}
+            ar: {{ site.data.ar_translate.title2[ entry.default.en ] }}
+            es: {{ site.data.es_translate.title2[ entry.default.en ] }}
+        default:
+            en: {{ entry.title2.en | slugify: "pretty" }}
+            fr: {{ entry.default.en }}
+            ar: {{ entry.default.en }}
+            es: {{ entry.default.en }}
+        kind:
+            en: folder
+            fr: folder
+            ar: folder
+            es: folder
+        icon:
+            en: {{ entry.icon.en }}
+            fr: {{ entry.icon.en }}
+            ar: {{ entry.icon.en }}
+            es: {{ entry.icon.en }}
+        sub_title:
+            en: {{ entry.sub_title.en }}
+            fr: {{ site.data.fr_translate.sub_title[ entry.default.en ] }}
+            ar: {{ site.data.ar_translate.sub_title[ entry.default.en ] }}
+            es: {{ site.data.es_translate.sub_title[ entry.default.en ] }}
+        excerpt:
+            en: {{ entry.excerpt.en }}
+            fr: {{ site.data.fr_translate.excerpt[ entry.default.en ] }}
+            ar: {{ site.data.ar_translate.excerpt[ entry.default.en ] }}
+            es: {{ site.data.es_translate.excerpt[ entry.default.en ] }}
+        url:
+            en: /en/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}
+            fr: /fr/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}
+            ar: /ar/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}
+            es: /es/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}
+        label:
+            en: {{ entry.label.en }}
+            fr: {{ site.data.fr_translate.label[ entry.default.en ] }}
+            ar: {{ site.data.ar_translate.label[ entry.default.en ] }}
+            es: {{ site.data.es_translate.label[ entry.default.en ] }}
+        group:
+            en: {{ entry.title2.en }}
+            fr: {{ site.data.fr_translate.title2[ entry.default.en ] }}
+            ar: {{ site.data.ar_translate.title2[ entry.default.en ] }}
+            es: {{ site.data.es_translate.title2[ entry.default.en ] }}
+        deploy:
+            en: {{ entry.deploy.en }}
+            fr: {{ entry.deploy.en }}
+            ar: {{ entry.deploy.en }}
+            es: {{ entry.deploy.en }}
+        children: 
+            {% assign level3-unsorted = entry.children %} {% if level3-unsorted[0] %} {% assign level3 = level3-unsorted | sort: 'title' %} {% for subentry in level3 %} {% if subentry.deploy.en != site.development %}
+          - title:
+                en: {{ subentry.title.en }}
+                fr: {{ site.data.fr_translate.title[ subentry.default.en ] }}
+                ar: {{ site.data.ar_translate.title[ subentry.default.en ] }}
+                es: {{ site.data.es_translate.title[ subentry.default.en ] }}
+            title2:
+                en: {{ subentry.title2.en }}
+                fr: {{ site.data.fr_translate.title2[ subentry.default.en ] }}
+                ar: {{ site.data.ar_translate.title2[ subentry.default.en ] }}
+                es: {{ site.data.es_translate.title2[ subentry.default.en ] }}
+            default:
+                en: {{ subentry.title2.en | slugify: "pretty" }}
+                fr: {{ subentry.default.en }}
+                ar: {{ subentry.default.en }}
+                es: {{ subentry.default.en }}
+            kind:
+                en: folder
+                fr: folder
+                ar: folder
+                es: folder
+            icon:
+                en: {{ item.icon.en }}
+                fr: {{ item.icon.en }}
+                ar: {{ item.icon.en }}
+                es: {{ item.icon.en }}
+            sub_title:
+                en: {{ subentry.sub_title.en }}
+                fr: {{ site.data.fr_translate.sub_title[ subentry.default.en ] }}
+                ar: {{ site.data.ar_translate.sub_title[ subentry.default.en ] }}
+                es: {{ site.data.es_translate.sub_title[ subentry.default.en ] }}
+            excerpt:
+                en: {{ subentry.excerpt.en }}
+                fr: {{ site.data.fr_translate.excerpt[ subentry.default.en ] }}
+                ar: {{ site.data.ar_translate.excerpt[ subentry.default.en ] }}
+                es: {{ site.data.es_translate.excerpt[ subentry.default.en ] }}
+            url:
+                en: /en/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}/{{ subentry.title.en | slugify: "pretty" }}
+                fr: /fr/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}/{{ subentry.title.en | slugify: "pretty" }}
+                ar: /ar/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}/{{ subentry.title.en | slugify: "pretty" }}
+                es: /es/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}/{{ subentry.title.en | slugify: "pretty" }}
+            label:
+                en: {{ subentry.label.en }}
+                fr: {{ site.data.fr_translate.label[ subentry.default.en ] }}
+                ar: {{ site.data.ar_translate.label[ subentry.default.en ] }}
+                es: {{ site.data.es_translate.label[ subentry.default.en ] }}
+            group:
+                en: {{ entry.title2.en }}
+                fr: {{ entry.title2.en }}
+                ar: {{ entry.title2.en }}
+                es: {{ entry.title2.en }}
+            deploy:
+                en: {{ subentry.deploy.en }}
+                fr: {{ subentry.deploy.en }}
+                ar: {{ subentry.deploy.en }}
+                es: {{ subentry.deploy.en }}
+            children: 
+                {% assign level4-unsorted = subentry.children %} {% if level4-unsorted[0] %} {% assign level4 = level4-unsorted | sort: 'title' %} {% for subsubentry in level4 %} {% if subsubentry.deploy.en != site.development %}
+              - title:
+                    en: {{ subsubentry.title.en }}
+                    fr: {{ site.data.fr_translate.title[ subsubentry.default.en ] }}
+                    ar: {{ site.data.ar_translate.title[ subsubentry.default.en ] }}
+                    es: {{ site.data.es_translate.title[ subsubentry.default.en ] }}
+                title2:
+                    en: {{ subsubentry.title2.en }}
+                    fr: {{ site.data.fr_translate.title2[ subsubentry.default.en ] }}
+                    ar: {{ site.data.ar_translate.title2[ subsubentry.default.en ] }}
+                    es: {{ site.data.es_translate.title2[ subsubentry.default.en ] }}
+                default:
+                    en: {{ subsubentry.title2.en | slugify: "pretty" }}
+                    fr: {{ subsubentry.default.en }}
+                    ar: {{ subsubentry.default.en }}
+                    es: {{ subsubentry.default.en }}
+                kind:
+                    en: folder
+                    fr: folder
+                    ar: folder
+                    es: folder
+                icon:
+                    en: {{ item.icon.en }}
+                    fr: {{ item.icon.en }}
+                    ar: {{ item.icon.en }}
+                    es: {{ item.icon.en }}
+                sub_title:
+                    en: {{ subsubentry.sub_title.en }}
+                    fr: {{ site.data.fr_translate.sub_title[ subsubentry.default.en ] }}
+                    ar: {{ site.data.ar_translate.sub_title[ subsubentry.default.en ] }}
+                    es: {{ site.data.es_translate.sub_title[ subsubentry.default.en ] }}
+                excerpt:
+                    en: {{ subsubentry.excerpt.en }}
+                    fr: {{ site.data.fr_translate.excerpt[ subsubentry.default.en ] }}
+                    ar: {{ site.data.ar_translate.excerpt[ subsubentry.default.en ] }}
+                    es: {{ site.data.es_translate.excerpt[ subsubentry.default.en ] }}
+                url:
+                    en: /en/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}/{{ subentry.title.en | slugify: "pretty" }}/{{ subsubentry.title.en | slugify: "pretty" }}
+                    fr: /fr/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}/{{ subentry.title.en | slugify: "pretty" }}/{{ subsubentry.title.en | slugify: "pretty" }}
+                    ar: /ar/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}/{{ subentry.title.en | slugify: "pretty" }}/{{ subsubentry.title.en | slugify: "pretty" }}
+                    es: /es/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}/{{ subentry.title.en | slugify: "pretty" }}/{{ subsubentry.title.en | slugify: "pretty" }}
+                label:
+                    en: {{ subsubentry.label.en }}
+                    fr: {{ site.data.fr_translate.label[ subsubentry.default.en ] }}
+                    ar: {{ site.data.ar_translate.label[ subsubentry.default.en ] }}
+                    es: {{ site.data.es_translate.label[ subsubentry.default.en ] }}
+                group:
+                    en: {{ subentry.title2.en }}
+                    fr: {{ subentry.title2.en }}
+                    ar: {{ subentry.title2.en }}
+                    es: {{ subentry.title2.en }}
+                deploy:
+                    en: {{ subsubentry.deploy.en }}
+                    fr: {{ subsubentry.deploy.en }}
+                    ar: {{ subsubentry.deploy.en }}
+                    es: {{ subsubentry.deploy.en }}
+                children: 
+                {% endif %} {% endfor %} {% endif %} {% endif %} {% endfor %} {% endif %} {% endif %} {% endfor %} {% endif %} {% endif %} {% endfor %} {% endif %}
+{% endif %}

@@ -1,0 +1,18 @@
+---
+permalink: /assets/js/searchData_FR.js
+---
+{% if site.searchData_FR == true %}
+window.store = { {% assign datafile_childless = site.data.datafile_childless.data %} {% if datafile_childless[0] %} {% assign datafile_childless_alphasort = datafile_childless | sort: 'title2.fr' %} {% assign searchData_FR = datafile_childless_alphasort | uniq: 'title_uniq' %} {% for item in searchData_FR %} {% if item.deploy.fr != site.development %}
+  "{{ item.url.fr }}": {
+    "title2": "{{ item.title2.fr }}",
+    "sub_title": "{{ item.sub_title.fr }}",
+    "label": "{{ item.label.fr }}",
+    "url": "{{ item.url.fr }}",
+    "excerpt": "{{ item.excerpt.fr }}",
+    "icon": "{{ item.icon.fr }}",
+    "group": "{{ item.group.fr }}"
+  },{% endif %} {% endfor %} {% endif %}
+  "": {
+  }
+};
+{% endif %}

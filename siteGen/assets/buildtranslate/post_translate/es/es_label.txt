@@ -1,0 +1,328 @@
+label:
+  attribute-skills: Coraje, Gratitud, Honestidad, Humildad, Bondad, Paciencia, Serenidad, Templanza
+  moral-ethic: Honestidad
+  courage: Paciencia
+  gratitude: Gratitud
+  honesty: Amabilidad
+  humility: Coraje
+  kindness: Templanza
+  patience: Humildad
+  serenity: Serenidad
+  temperance: Responsabilidad, Cooperación, Coherencia, Equidad, Integridad, Apertura, Positividad, Productividad, Respeto
+  work-ethic: Integridad
+  accountability: El respeto
+  co-operation: Cooperación
+  consistency: Consistencia
+  fairness: Positividad
+  integrity: Responsabilidad
+  openness: Justicia
+  positivity: Productividad
+  productivity: Franqueza
+  respect: Gestión del cambio personal, Resilencia, Autoconfianza, Autocontrol, Autodeterminación, Autodisciplina, Autoeficacia, Autoestima, Auto Motivación, Gestión del estrés, Gestión del tiempo
+  self-management: Autoestima
+  personal-change-management: Auto confianza
+  resilence: Autoeficacia
+  self-confidence: Autodeterminación
+  self-control: Autodisciplina
+  self-determination: Automotivación
+  self-discipline: Autocontrol
+  self-efficacy: Resistencia
+  self-esteem: Gestión del tiempo
+  self-motivation: Manejo del estrés
+  stress-management: Gestión de cambios personales
+  time-management: Atención, Funciones ejecutivas, Habilidades del lenguaje, Memoria, Metacognición, Habilidades motoras, Percepción, Velocidad de procesamiento
+  cognition: Atención
+  attention: Percepción
+  executive-functions: Memoria
+  language-skills: Funciones ejecutivas
+  memory: Velocidad de procesamiento
+  metacognition: Habilidades motoras
+  motor-skills: Habilidades lingüísticas
+  perception: Metacognición
+  processing-speed: Capacidad para aprender, capacidad para organizar, capacidad para planificar, creatividad, pensamiento crítico, toma de decisiones, intuición, resolución de problemas, pensamiento estratégico, sabiduría
+  cognitive-aptitude: Habilidad de aprender
+  ability-to-learn: Habilidad para organizarse
+  ability-to-organize: Habilidad para planificar
+  ability-to-plan: Resolución de problemas
+  creativity: Toma de decisiones
+  critical-thinking: Pensamiento crítico
+  decision-making: Pensamiento estrategico
+  intuition: Intuición
+  problem-solving: Creatividad
+  strategic-thinking: Ira, Ansiedad, Desesperación, Envidia, Miedo, Culpabilidad, Felicidad, Odio, Esperanza, Soledad, amor, Orgullo, Arrepentimiento, Tristeza, Vergüenza
+  emotion-management: Control de la ira
+  anger-management: Manejo de la ansiedad
+  anxiety-management: Manejo del miedo
+  despair-management: Gestión de la felicidad
+  envy-management: Manejo de la tristeza
+  fear-management: Gestión del odio
+  guilt-management: Gestión del amor
+  happiness-management: Gestión de la vergüenza
+  hatred-management: Gestión del arrepentimiento
+  hope-management: Gestión de la esperanza
+  loneliness-management: Gestión de la culpa
+  love-management: Gestión de la desesperación
+  pride-management: Gestión de la soledad
+  regret-management: Gestión de la envidia
+  sadness-management: Gestión del orgullo
+  shame-management: Escucha activa, comunicación no verbal, comunicación verbal, comunicación visual, comunicación escrita, negociación, manejo de conflictos, conciencia social, trabajo en equipo
+  social-interrelation: Comunicación verbal
+  active-listening: Comunicación no verbal
+  conflict-management: Comunicación escrita
+  negotiation: Escucha activa
+  non-verbal-communication: Comunicación visual
+  social-awareness: Trabajo en equipo
+  teamwork: Negociación
+  verbal-communication: Conciencia social
+  visual-communication: Manejo de conflictos
+  written-communication: Delegación, Liderazgo, Gestión, Tutoría, Seguimiento, Motivación, Organización, Gestión de Personas
+  administration: Gestión
+  delegation: Organización
+  leadership: Liderazgo
+  management: Gestión de personas
+  mentoring: Delegación
+  monitoring: Motivador
+  motivating: Tutoría
+  organization: Vigilancia
+  people-management: 
+  farming: 
+  cereal-crop-farming: Ganadería
+  barley-farming: Ganadería de alpaca
+  buckwheat-farming: Ganadería Buffalo
+  canary-seed-farming: Ganadería de camellos
+  fonio-farming: Ganadería Ganadería
+  maize-farming: Ganadería burro
+  millet-farming: Ganadería caprina
+  oat-farming: Ganadería de caballos
+  quinoa-farming: Ganadería de llamas
+  rice-farming: Ganadería Buey
+  rye-farming: Ganadería porcina
+  sorghum-farming: Ganadería de conejos
+  triticale-farming: Ganadería de renos
+  wheat-farming: Ganadería Ovina
+  citrus-fruit-farming: Ganadería de búfalos de agua
+  clementine-farming: Ganadería Yak
+  grapefruit-farming: Avicultura
+  lemon-farming: Avicultura de pollo
+  lime-farming: Avicultura de patos
+  mandarin-farming: Avicultura Emu
+  orange-farming: Avicultura Francolin
+  satsumas-farming: Avicultura de ganso
+  tangerine-farming: Avicultura de gallinas de Guinea
+  crustacean-farming: Avicultura de avestruz
+  crab-farming: Avicultura de perdiz
+  crayfish-farming: Avicultura de pavo real
+  lobster-farming: Avicultura de faisán
+  prawn-farming: Avicultura de palomas
+  shrimp-farming: Avicultura de codorniz
+  fibre-crop-farming: Avicultura de cisnes
+  agave-farming: Avicultura Swiftlet
+  bast-farming: Avicultura de Tinamou
+  flax-farming: Avicultura de pavo
+  hemp-farming: Piscicultura
+  jute-farming: Cría de peces de carpa
+  kapok-farming: Cultivo de bagre
+  manila-farming: La cría de peces de anguila
+  ramie-farming: Piscicultura de salmonete
+  seed-cotton-farming: La cría de peces de perca
+  sisal-farming: Cultivo de salmón
+  fish-farming: Cultivo de peces de dorada
+  carp-farming: Piscicultura de esturión
+  catfish-farming: Cultivo de peces de tilapia
+  eel-farming: Piscicultura de truchas
+  mullet-farming: Cultivo de crustáceos
+  perch-farming: Cultivo de cangrejos y crustáceos
+  salmon-farming: Cultivo de crustáceos cangrejos de río
+  seabream-farming: Cultivo de crustáceos de langosta
+  sturgeon-farming: Cultivo de crustáceos langostinos
+  tilapia-farming: Cultivo de camarones y crustáceos
+  trout-farming: Cultivo de moluscos
+  fruit-crop-farming: Cultivo de moluscos de abulón
+  apple-farming: Ark Moluscos Agricultura
+  apricot-farming: Cultivo de moluscos de almeja
+  avocado-farming: Cultivo de moluscos mejillones
+  banana-farming: Cultivo de moluscos ostra
+  blueberry-farming: Cultivo de moluscos de vieira
+  carob-farming: Cultivo de moluscos de concha
+  cashewapple-farming: Cultivo de cereales
+  cherry-farming: Cultivo de cereales de cebada
+  clementine-farming: Cultivo de cereales de trigo sarraceno
+  cranberry-farming: Cultivo de cereales con semillas de Canarias
+  currant-farming: Cultivo de cereales Fonio
+  date-farming: Cultivo de cereales de maíz
+  fig-farming: Cultivo de cereales de mijo
+  gooseberry-farming: Cultivo de cereales de avena
+  grape-farming: Cultivo de cereales de quinua
+  grapefruit-farming: Cultivo de cereales de arroz
+  guava-farming: Cultivo de cereales de centeno
+  kiwi-farming: Cultivo de cereales de sorgo
+  lemon-farming: Cultivo de cereales triticale
+  lime-farming: Cultivo de cereales de trigo
+  mandarin-farming: Cultivo de cítricos
+  mango-farming: Cultivo de cítricos de clementina
+  mangosteen-farming: Cultivo de frutas cítricas de pomelo
+  nectarine-farming: Cultivo de cítricos de limón
+  orange-farming: Cultivo de cítricos de lima
+  papaya-farming: Cultivo de cítricos mandarina
+  peach-farming: Cultivo de cítricos de naranja
+  pear-farming: Cultivo de cítricos Satsumas
+  persimmon-farming: Cultivo de cítricos de mandarina
+  pineapple-farming: Cultivo de cultivos de fibra
+  plantain-farming: Cultivo de cultivos de fibra de agave
+  plum-and-sole-farming: Cultivo de cultivos de fibra de bast
+  quince-farming: Cultivo de cultivos de fibra de lino
+  raspberry-farming: Cultivo de cultivos de fibra de cáñamo
+  satsumas-farming: Cultivo de cultivos de fibra de yute
+  strawberry-farming: Cultivo de cultivos de fibra de Kapok
+  tangerine-farming: Cultivo de cultivos de fibra de Manila
+  watermelon-farming: Cultivo de cultivos de fibra de ramio
+  livestock-farming: Cultivo de semillas de fibra de algodón
+  alpaca-farming: Cultivo de cultivos de fibra de sisal
+  buffalo-farming: Cultivo de cultivos de frutas
+  camel-farming: Cultivo de cultivos de frutas de manzana
+  cattle-farming: Cultivo de cultivos de frutas de albaricoque
+  donkey-farming: Cultivo de frutas de aguacate
+  goat-farming: Cultivo de cultivos de banano
+  horse-farming: Cultivo de cultivos de arándanos
+  llama-farming: Cultivo de cultivos de frutas de algarrobo
+  ox-farming: Cultivo de cultivos de frutas de anacardo
+  pig-farming: Cultivo de cultivos de cereza
+  rabbit-farming: Cultivo de cultivos de frutas de clementina
+  reindeer-farming: Cultivo de cultivos de frutas de arándano
+  sheep-farming: Cultivo de cultivos de grosellas
+  water-buffalo-farming: Cultivo de cultivos de fruta de dátil
+  yak-farming: Cultivo de frutas de higo
+  molluscs-farming: Cultivo de cultivos de frutas de grosella espinosa
+  abalone-farming: Cultivo de cultivos de uva
+  ark-farming: Cultivo de cultivos de frutas de pomelo
+  clam-farming: Cultivo de frutas de guayaba
+  mussel-farming: Cultivo de cultivos de kiwi
+  oyster-farming: Cultivo de frutas de limón
+  scallop-farming: Cultivo de cultivos de frutas de limón
+  shell-farming: Cultivo de cultivos de mandarina
+  oilcrop-farming: Cultivo de cultivos de frutas de mango
+  castor-farming: Cultivo de cultivos de frutas de mangostán
+  coconut-farming: Cultivo de cultivos de frutas de nectarina
+  flax-farming: Cultivo de cultivos de frutas de naranja
+  groundnut-farming: Cultivo de cultivos de papaya
+  hemp-farming: Cultivo de cultivos de melocotón
+  jojoba-farming: Cultivo de cultivos de frutas de pera
+  kapok-farming: Cultivo de frutas de caqui
+  karite-farming: Cultivo de cultivos de frutas de piña
+  melon-farming: Cultivo de cultivos de plátano
+  mustard-farming: Cultivo de ciruelas y lenguado
+  oil-palm-farming: Cultivo de cultivos de frutas de membrillo
+  olive-farming: Cultivo de cultivos de frambuesa
+  poppy-farming: Cultivo de cultivos de frutas Satsumas
+  rape-farming: Cultivo de cultivos de fresa
+  safflower-farming: Cultivo de cultivos de mandarina
+  seed-cotton-farming: Cultivo de cultivos de frutas de sandía
+  sesame-farming: Cultivo de cultivos oleaginosos
+  soybean-farming: Cultivo de ricino
+  sunflower-farming: Cultivo de cultivos de aceite de coco
+  tung-farming: Cultivo de cultivos oleaginosos de lino
+  other-crops-farming: Cultivo de cultivos oleaginosos de maní
+  citronella-farming: Cultivo de cultivos oleaginosos de cáñamo
+  gum-farming: Cultivo de cultivos oleaginosos de jojoba
+  hop-farming: Cultivo de cultivos oleaginosos de Kapok
+  mint-farming: Cultivo de cultivos oleaginosos de karité
+  pyrethrum-farming: Cultivo de cultivos oleaginosos de melón
+  tobacco-farming: Cultivo de cultivos oleaginosos de mostaza
+  wax-farming: Cultivo de cultivos oleaginosos de palma de aceite
+  poultry-farming: Cultivo de aceite de oliva
+  chicken-farming: Cultivo de cultivos oleaginosos de amapola
+  duck-farming: Cultivo de colza
+  emu-farming: Cultivo de cultivos oleaginosos de cártamo
+  francolin-farming: Cultivo de semillas oleaginosas de algodón
+  goose-farming: Cultivo de cultivos oleaginosos de sésamo
+  guinea-fowl-farming: Cultivo de cultivos oleaginosos de soja
+  ostrich-farming: Cultivo de cultivos oleaginosos de girasol
+  partridge-farming: Cultivo de cultivos oleaginosos de tung
+  peafowl-farming: Cultivo de legumbres
+  pheasant-farming: Cultivo de cultivos de frijoles
+  pigeon-farming: Cultivo de cultivos de lentejas
+  quail-farming: Cultivo de cultivos de pulso de lupino
+  swan-farming: Cultivo de cultivos de guisantes
+  swiftlet-farming: Cultivo de cultivos de veza
+  tinamou-farming: Cultivo de raíces y tubérculos
+  turkey-farming: Cultivo de tubérculos y raíces de yuca
+  pulse-crop-farming: Cultivo de raíces y tubérculos de cocoyam
+  bean-farming: Cultivo de tubérculos y raíces de papa
+  lentil-farming: Cultivo de tubérculos y raíces de ñame
+  lupin-farming: Cultivo de cultivos de azúcar
+  pea-farming: Cultivo de cultivos de azúcar de remolacha azucarera
+  vetch-farming: Cultivo de cultivos de azúcar de caña de azúcar
+  root-and-tuber-crop-farming: Cultivo de frutos secos
+  cassava-farming: Cultivo de cultivos de nueces de almendro
+  cocoyam-farming: Cultivo de frutos secos de Brasil
+  potato-farming: Cultivo de cultivos de nueces de anacardo
+  yam-farming: Cultivo de frutos secos de castaño
+  spice-crop-farming: Cultivo de frutos secos de avellana
+  anise-farming: Cultivo de frutos secos de pistacho
+  badian-farming: Cultivo de cultivos de nueces de nogal
+  cardamon-farming: Cultivo de hortalizas
+  chilly-and-pepper-farming: Cultivo de hortalizas de alcachofa
+  cinnamon-farming: Cultivo de cultivos de hortalizas de espárragos
+  clove-farming: Cultivo de hortalizas de frijoles
+  fennel-farming: Cultivo de hortalizas de brócoli
+  ginger-farming: Cultivo de hortalizas de col
+  mace-farming: Cultivo de hortalizas de zanahoria
+  nutmeg-farming: Cultivo de hortalizas de coliflor
+  pimento-farming: Cultivo de hortalizas de achicoria
+  vanilla-farming: Cultivo de hortalizas frías y pimientos
+  stimulant-crop-farming: Cultivo de hortalizas de pepino
+  bean-farming: Cultivo de hortalizas de berenjena
+  coffee-farming: Cultivo de hortalizas de ajo
+  mate-farming: Cultivo de hortalizas de pepinillo
+  tea-farming: Cultivo de hortalizas de calabaza
+  sugar-crop-farming: Cultivo de hortalizas de puerro
+  sugar-beet-farming: Cultivo de hortalizas de lechuga
+  sugar-cane-farming: Cultivo de hortalizas de maíz
+  tree-nut-crop-farming: Cultivo de hortalizas de hongos
+  almond-farming: Cultivo de hortalizas de quimbombó
+  brazil-farming: Cultivo de hortalizas de cebolla
+  cashew-farming: Cultivo de hortalizas de guisantes
+  chestnut-farming: Cultivo de hortalizas de calabaza
+  hazelnut-farming: Cultivo de hortalizas de chalota
+  pistachio-farming: Cultivo de cultivos de hortalizas de espinaca
+  walnut-farming: Cultivo de hortalizas de calabaza
+  vegetable-crop-farming: Cultivo de hortalizas de tomate
+  artichoke-farming: Cultivo de hortalizas de trufa
+  asparagus-farming: Cultivo de hortalizas de nabo
+  bean-farming: Cultivo de cultivos de especias
+  broccoli-farming: Cultivo de cultivos de anís y especias
+  cabbage-farming: Cultivo de cultivos de especias Badian
+  carrot-farming: Cultivo de cultivos de especias de cardamomo
+  cauliflower-farming: Cultivo de cultivos de especias frías y pimientos
+  chicory-farming: Cultivo de cultivos de canela y especias
+  chilly-and-pepper-farming: Cultivo de cultivos de especias de clavo
+  cucumber-farming: Cultivo de cultivos de especias de hinojo
+  eggplant-farming: Cultivo de cultivos de especias de jengibre
+  garlic-farming: Cultivo de cultivos de especias de maza
+  gherkin-farming: Cultivo de cultivos de especias de nuez moscada
+  gourd-farming: Cultivo de cultivos de especias de pimiento
+  leek-farming: Cultivo de cultivos de vainilla y especias
+  lettuce-farming: Cultivo de cultivos estimulantes
+  maize-farming: Cultivo de cultivos estimulantes de frijoles
+  mushroom-farming: Cultivo de cultivos estimulantes del café
+  okra-farming: Cultivo de cultivos estimulantes del mate
+  onion-farming: Cultivo de cultivos estimulantes del té
+  pea-farming: Agricultura de otros cultivos
+  pumpkin-farming: Citronela Otros cultivos Cultivo
+  shallot-farming: Goma Otros cultivos Agricultura
+  spinach-farming: Hop Otros Cultivos Agricultura
+  squash-farming: Menta Otros cultivos Cultivo
+  tomato-farming: Piretro Otros cultivos Agricultura
+  truffle-farming: Tabaco Otros cultivos Cultivo
+  turnip-farming: Cera Otros Cultivos Agricultura
+  food-production: 
+  beverage-production: Producción de productos de cereales
+  cereal-product-production: Producción de productos de pulso
+  condiment-production: Producción de frutos secos
+  confection-production: Producción de bebidas
+  food-additive-production: Producción de condimentos
+  nut-product-production: Producción de dulces
+  pasta-and-noodle-production: Producción de pasta y fideos
+  pulse-product-production: Producción de aditivos alimentarios
+  craft: 
+ 

@@ -1,0 +1,243 @@
+<!DOCTYPE HTML>
+<html lang="es" dir="ltr">
+    <head>
+      <meta charset ="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Cultivo de yute -  Habilidad Biblioteca</title>
+      <link rel="stylesheet" href="/assets/style/latin.css">
+      <link rel="stylesheet" href="/assets/style/main.css">
+      <link rel="stylesheet" href="/assets/style/fonts.css">
+      
+    </head>
+
+    <body>
+      <svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon-search" viewBox="0 0 30 32">
+<path d="M20.571 14.857q0-3.304-2.348-5.652t-5.652-2.348-5.652 2.348-2.348 5.652 2.348 5.652 5.652 2.348 5.652-2.348 2.348-5.652zM29.714 29.714q0 0.929-0.679 1.607t-1.607 0.679q-0.964 0-1.607-0.679l-6.125-6.107q-3.196 2.214-7.125 2.214-2.554 0-4.884-0.991t-4.018-2.679-2.679-4.018-0.991-4.884 0.991-4.884 2.679-4.018 4.018-2.679 4.884-0.991 4.884 0.991 4.018 2.679 2.679 4.018 0.991 4.884q0 3.929-2.214 7.125l6.125 6.125q0.661 0.661 0.661 1.607z"></path>
+</symbol>
+<symbol id="icon-close" viewBox="0 0 25 32">
+<path d="M23.179 23.607q0 0.714-0.5 1.214l-2.429 2.429q-0.5 0.5-1.214 0.5t-1.214-0.5l-5.25-5.25-5.25 5.25q-0.5 0.5-1.214 0.5t-1.214-0.5l-2.429-2.429q-0.5-0.5-0.5-1.214t0.5-1.214l5.25-5.25-5.25-5.25q-0.5-0.5-0.5-1.214t0.5-1.214l2.429-2.429q0.5-0.5 1.214-0.5t1.214 0.5l5.25 5.25 5.25-5.25q0.5-0.5 1.214-0.5t1.214 0.5l2.429 2.429q0.5 0.5 0.5 1.214t-0.5 1.214l-5.25 5.25 5.25 5.25q0.5 0.5 0.5 1.214z"></path>
+</symbol>
+<symbol id="icon-home" viewBox="0 0 30 32">
+<path d="M25.143 17.714v8.571q0 0.464-0.339 0.804t-0.804 0.339h-6.857v-6.857h-4.571v6.857h-6.857q-0.464 0-0.804-0.339t-0.339-0.804v-8.571q0-0.018 0.009-0.054t0.009-0.054l10.268-8.464 10.268 8.464q0.018 0.036 0.018 0.107zM29.125 16.482l-1.107 1.321q-0.143 0.161-0.375 0.196h-0.054q-0.232 0-0.375-0.125l-12.357-10.304-12.357 10.304q-0.214 0.143-0.429 0.125-0.232-0.036-0.375-0.196l-1.107-1.321q-0.143-0.179-0.125-0.42t0.196-0.384l12.839-10.696q0.571-0.464 1.357-0.464t1.357 0.464l4.357 3.643v-3.482q0-0.25 0.161-0.411t0.411-0.161h3.429q0.25 0 0.411 0.161t0.161 0.411v7.286l3.911 3.25q0.179 0.143 0.196 0.384t-0.125 0.42z"></path>
+</symbol>
+<symbol id="icon-menu" viewBox="0 0 32 32">
+<path d="M32 24v2.286q0 0.464-0.339 0.804t-0.804 0.339h-29.714q-0.464 0-0.804-0.339t-0.339-0.804v-2.286q0-0.464 0.339-0.804t0.804-0.339h29.714q0.464 0 0.804 0.339t0.339 0.804zM32 17.143v2.286q0 0.464-0.339 0.804t-0.804 0.339h-29.714q-0.464 0-0.804-0.339t-0.339-0.804v-2.286q0-0.464 0.339-0.804t0.804-0.339h29.714q0.464 0 0.804 0.339t0.339 0.804zM32 10.286v2.286q0 0.464-0.339 0.804t-0.804 0.339h-29.714q-0.464 0-0.804-0.339t-0.339-0.804v-2.286q0-0.464 0.339-0.804t0.804-0.339h29.714q0.464 0 0.804 0.339t0.339 0.804zM32 3.429v2.286q0 0.464-0.339 0.804t-0.804 0.339h-29.714q-0.464 0-0.804-0.339t-0.339-0.804v-2.286q0-0.464 0.339-0.804t0.804-0.339h29.714q0.464 0 0.804 0.339t0.339 0.804z"></path>
+</symbol>
+<symbol id="icon-file" viewBox="0 0 32 32">
+<path d="M26.214 6.786q0.5 0.5 0.857 1.357t0.357 1.571v20.571q0 0.714-0.5 1.214t-1.214 0.5h-24q-0.714 0-1.214-0.5t-0.5-1.214v-28.571q0-0.714 0.5-1.214t1.214-0.5h16q0.714 0 1.571 0.357t1.357 0.857zM18.286 2.429v6.714h6.714q-0.179-0.518-0.393-0.732l-5.589-5.589q-0.214-0.214-0.732-0.393zM25.143 29.714v-18.286h-7.429q-0.714 0-1.214-0.5t-0.5-1.214v-7.429h-13.714v27.429h22.857zM6.857 14.286q0-0.25 0.161-0.411t0.411-0.161h12.571q0.25 0 0.411 0.161t0.161 0.411v1.143q0 0.25-0.161 0.411t-0.411 0.161h-12.571q-0.25 0-0.411-0.161t-0.161-0.411v-1.143zM20 18.286q0.25 0 0.411 0.161t0.161 0.411v1.143q0 0.25-0.161 0.411t-0.411 0.161h-12.571q-0.25 0-0.411-0.161t-0.161-0.411v-1.143q0-0.25 0.161-0.411t0.411-0.161h12.571zM20 22.857q0.25 0 0.411 0.161t0.161 0.411v1.143q0 0.25-0.161 0.411t-0.411 0.161h-12.571q-0.25 0-0.411-0.161t-0.161-0.411v-1.143q0-0.25 0.161-0.411t0.411-0.161h12.571z"></path>
+</symbol>
+<symbol id="icon-folder" viewBox="0 0 30 32">
+<path d="M27.429 23.429v-12.571q0-0.714-0.5-1.214t-1.214-0.5h-12.571q-0.714 0-1.214-0.5t-0.5-1.214v-1.143q0-0.714-0.5-1.214t-1.214-0.5h-5.714q-0.714 0-1.214 0.5t-0.5 1.214v17.143q0 0.714 0.5 1.214t1.214 0.5h21.714q0.714 0 1.214-0.5t0.5-1.214zM29.714 10.857v12.571q0 1.643-1.179 2.821t-2.821 1.179h-21.714q-1.643 0-2.821-1.179t-1.179-2.821v-17.143q0-1.643 1.179-2.821t2.821-1.179h5.714q1.643 0 2.821 1.179t1.179 2.821v0.571h12q1.643 0 2.821 1.179t1.179 2.821z"></path>
+</symbol>
+</defs>
+</svg>
+    <div id="external-wrapper">
+      
+        			<div id="header-2">
+                <div class="header-title-wrapper">
+                  <div class="header-pre-title">
+                    <h4 class="header-pre-title-content"> Wellborn Auto-Explicativo</h4>
+                  </div>
+                    <div class="header-title-container">
+                      <div class="header-title-description">Wellborn Auto-Explicativo</div>
+                      <h1 class="header-title"><a href="/es/">Habilidad Biblioteca</a></h1>
+                      <div class="header-title-bottom-border"></div>
+                    </div>
+                </div>
+                <div id="header-search-wrapper">
+                  <div class="header-search-bar">
+                    <form action="/es/search" method="get" id="header-search-bar-form" autocomplete="off">
+                      <input type="text" name="query" id="search-bar-input" placeholder="Búsqueda Habilidad Biblioteca" onkeyup="displayClearTextButton()">
+                      <a><svg class="icon icon-close" id="clear-text-button" onclick="clearText()"><use xlink:href="#icon-close"></use></svg></a>
+                      <script>
+                        function displayClearTextButton() {
+                          var inputText = document.getElementById("search-bar-input").value;
+                          if (inputText.length >= 0) {
+                            document.getElementById("clear-text-button").style.display = "block";
+                          }
+                        }
+                        function clearText() {
+                          document.getElementById("search-bar-input").value = "";
+                        }
+                      </script>
+                      <button type="submit" id="header-search-bar-button"><svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg></button>
+                      <input type="radio" name="type" id="search-filter-type-directory" class="search-type" value="directory" checked="true" style="display: none; visibility: hidden;">
+                      <input type="radio" name="cg" id="search-filter-category-all" class="search-category-button" value="all" checked="true" onchange="disableCategory()" style="display: none; visibility: hidden;">
+                      <div id="search-suggestion-container" class="header-search-bar-results-container"></div>
+                    </form>
+                  </div>
+                </div>
+                <div class="header-navigation-bar">
+                    <div class="header-navigation-link">
+                        <li class="header-navigation-link-list"><a href="/es/">Hogar</a></li>
+                        <li class="header-navigation-link-list"><a href="/es/resources/">Recursos</a></li>
+                        <li class="header-navigation-link-list"><a href="/es/catalogue/">Catálogo</a></li>
+                    </div>
+                </div>
+                <div id="header-mobile-menu-icon" class="header-mobile-menu-icon">
+                  <a href="javascript:void(0);" onclick="headerMobileMenu()">
+                    <svg id="header-mobile-menu-icon-open" class="icon icon-menu header-mobile-menu-icon-open"><use xlink:href="#icon-menu"></use></svg>
+                    <svg id="header-mobile-menu-icon-close" class="icon icon-close header-mobile-menu-icon-close"><use xlink:href="#icon-close"></use></svg>
+                  </a>
+                </div>
+                <div class="header-mobile-navigation-bar">
+                    <div id="header-mobile-menu" class="header-mobile-navigation-link">
+                      <div class="header-mobile-navigation-link-container">
+                        <a href="/es/">Hogar</a></li>
+                        <a href="/es/resources/">Recursos</a></li>
+                        <a href="/es/catalogue/">Catálogo</a></li>
+                      </div>
+                    </div>
+                </div>
+            </div>
+        <div id="inner-wrapper">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div id="levels-page-title-container">
+        			<h1>Cultivo de yute <span class="levels-page-title-sub"></span></h1>
+              <div class="levels-page-title-navigation">
+                <span><a href="/es/"><svg class=" icon icon-home"><use xlink:href="#icon-home"></use></svg></a> | <a href="/es/resources/">Recursos</a> | <a href="/es/resources/farming/">Agricultura</a> | <a href="/es/resources/farming/fibre-crop/">Cultivo de fibra</a> | <a href="/es/resources/farming/fibre-crop/jute/">Yute</a></span>
+              </div>
+        	</div>
+
+        	<div id="levels-page-card-container">
+        		
+
+
+
+          </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+                        <div class="bottom-snippet">
+                    <h6><a href="/es/catalogue/">Catálogo</a></h6>
+                </div>
+
+                        </div>
+                <div id="footer-2">
+                  <div class="footer-2-copyright">© <a href="/es/"> Habilidad Biblioteca</a><span class="footer-2-notice"> | Reservados todos los derechos </span> <span class="footer-2-navigation-link"> |<a href="/es/">Hogar</a>|<a href="/es/about/">Sobre</a>|<a href="/es/contact/">Contacto</a>|</span></div> <span class="footer-2-languages"><a href="/en/resources/farming/fibre-crop/jute/">English</a> <a href="/fr/resources/farming/fibre-crop/jute/">Français</a> <a href="/ar/resources/farming/fibre-crop/jute/">عربي</a> <a href="/es/resources/farming/fibre-crop/jute/">Español</a></span>
+                </div>
+
+<script>
+  window.onload = function(){
+    var clearTextButton = document.getElementById('clear-text-button');
+    var searchBarInput = document.getElementById('search-bar-input');
+    document.onclick = function(e){
+      if(e.target.id !== 'search-bar-input'){
+        clearTextButton.style.display = 'none';
+      }
+    };
+  };
+</script>
+        
+        <script>
+function headerMobileMenu() {
+  var x = document.getElementById("header-mobile-menu");
+  if (x.style.display == "block") {
+    x.style.display = "none";
+    var i = document.getElementById("header-mobile-menu-icon");
+    var y = i.getElementsByTagName("i")[0];
+    var z = i.getElementsByTagName("i")[1];
+    y.style.display = "block";
+    z.style.display = "none";
+  } else {
+    x.style.display = "block";
+    var i = document.getElementById("header-mobile-menu-icon");
+    var y = i.getElementsByTagName("i")[0];
+    var z = i.getElementsByTagName("i")[1];
+    y.style.display = "none";
+    z.style.display = "block";
+  }
+}
+</script>
+                
+    </div>
+    </body>
+</html>

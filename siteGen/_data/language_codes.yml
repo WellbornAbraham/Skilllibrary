@@ -1,0 +1,18 @@
+
+lowercase:
+  en: en
+  fr: fr
+  ar: ar
+  es: es
+  
+normal:
+  en: En
+  fr: Fr
+  ar: Ar
+  es: Es
+  
+uppercase:
+  en: EN
+  fr: FR
+  ar: AR
+  es: ES

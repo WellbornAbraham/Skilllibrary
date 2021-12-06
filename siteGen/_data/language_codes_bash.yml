@@ -1,0 +1,26 @@
+
+lang:
+
+  - code:
+      normal: En
+      lowercase: en
+      uppercase: EN
+      output: true
+      
+  - code:
+      normal: Fr
+      lowercase: fr
+      uppercase: FR
+      output: true
+      
+  - code:
+      normal: Ar
+      lowercase: ar
+      uppercase: AR
+      output: true
+      
+  - code:
+      normal: Es
+      lowercase: es
+      uppercase: ES
+      output: true

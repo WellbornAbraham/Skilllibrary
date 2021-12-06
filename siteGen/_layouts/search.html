@@ -1,0 +1,200 @@
+<!DOCTYPE HTML>
+<html lang="{{ page.lang }}" dir="{{ page.lang_dir }}">
+    <head>
+      <meta charset ="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>{{ page.title }} - {{ site.title[ page.lang] }}</title>
+      {% include stylesheet.html %}
+      {% include scripts/analytics.html %}
+    </head>
+    <body>
+      {% include svg.html %}
+    <div id="external-wrapper">
+      {% include header-2.html %}
+        <div id="inner-wrapper">
+              <div id="search-page-wrapper">
+                <div id="search-page-title-container">
+                  <h1>{{ site.data.word_translate.search[ page.lang ] }}</h1>
+                  <div class="search-page-title-navigation">
+                  <span><a href="/{{ page.lang }}/"><svg class=" icon icon-home"><use xlink:href="#icon-home"></use></svg></a> | <a href="{{ page.url }}">{{ site.data.word_translate.search[ page.lang ] }}</a></span>
+                  </div>
+                </div>
+                <div class="search-page-search-container">
+                  <form method="get" id="search-page-search-form" autocomplete="off">
+                    <input type="text" name="query" id="search-page-search-input" placeholder="{{ site.data.word_translate.eg[ page.lang ] }} {{ site.data.word_translate.fish_farming[ page.lang ] }}">
+                    <button type="submit" id="search-page-search-button"><svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg></button>
+                    <div class="search-page-search-filter type">
+                      <h6 class="search-filter-heading">{{ site.data.word_translate.Type[ page.lang ] }}</h6>
+                      <div class="search-filter-type">
+                        <label class="search-filter-type-directory-label" for="search-filter-type-directory" checked="true">
+                          <input type="radio" name="type" id="search-filter-type-directory" class="search-type" value="directory" checked="true">{{ site.data.word_translate.Directory[ page.lang ] }}
+                        </label><br>
+                        <label class="search-filter-type-file-label" for="search-filter-type-file">
+                          <input type="radio" name="type" id="search-filter-type-file" class="search-type" value="file">{{ site.data.word_translate.File[ page.lang ] }}
+                        </label><br>
+                        <label class="search-filter-type-both-label" for="search-filter-type-both">
+                          <input type="radio" name="type" id="search-filter-type-both" class="search-type" value="both">{{ site.data.word_translate.Both[ page.lang ] }}
+                        </label><br>
+                      </div>
+                    </div>
+                    <div class="search-page-search-filter category">
+                      <h6 class="search-filter-heading">{{ site.data.word_translate.Category[ page.lang ] }}</h6>
+                      <div class="search-filter-category">
+                        <label class="search-filter-category-all-label" for="search-filter-category-all" checked="true" onchange="disableCategory()">
+                          <input type="radio" name="cg" id="search-filter-category-all" class="search-category-button" value="all" checked="true" onchange="disableCategory()">{{ site.data.word_translate.All[ page.lang ] }}
+                        </label>
+                        <label class="search-filter-category-custom-label" for="search-filter-category-custom" onchange="enableCategory()">
+                          <input type="radio" name="cg" id="search-filter-category-custom" class="search-category-button" value="custom" onchange="enableCategory()">{{ site.data.word_translate.Custom[ page.lang ] }}
+                        </label><br>{% assign datafile = site.data.datafile.data %} {% if datafile[0] %} {% assign datafile_childless = datafile %} {% for item in datafile_childless %} {% if item.deploy.en != site.development %}
+                        <label for="search-filter-category{{ forloop.index0 }}">
+                          <input type="checkbox" name="cg{{ forloop.index0 }}" id="search-filter-category{{ forloop.index0 }}" class="search-category" value="{{ item.title2[page.lang] }}" checked="true" disabled>{{ item.title2[page.lang] }}
+                        </label>{% endif %} {% endfor %} {% endif %}
+                      </div>
+                    </div>
+                    <script>
+                    var categoryLength = {% assign datafile = site.data.datafile.data %}{% if datafile[0] %}{% assign datafile_childless = datafile %}{% for item in datafile_childless %}{% if item.deploy.en != site.development %}{% if item.title2.en == item.title2.en %}{{ forloop.length }}{% break %}{% endif %}{% endif %}{% endfor %}{%-endif %};
+                      var cgAll = document.getElementById("search-filter-category-all");
+                    function disableCategory() {
+                          var category = "search-filter-category";
+                          for (var x = 0; x < categoryLength; x++) {
+                            document.getElementById(''+ category + ''+ x +'').disabled = true;
+                            document.getElementById(''+ category + ''+ x +'').checked = true;
+                          } 
+                    };
+                    function enableCategory() {
+                          var category = "search-filter-category";
+                          for (var x = 0; x < categoryLength; x++) {
+                            document.getElementById(''+ category + ''+ x +'').disabled = false;
+                            document.getElementById(''+ category + ''+ x +'').checked = false;
+                          } 
+                    };
+                    </script>
+                  </form>
+                </div>
+                <div id="levels-page-card-container" class="search-page-search-results-container">
+                </div>
+              </div>
+          </div>
+        {% include footer-2.html %}
+        {% include scripts/mobileMenu.html %}
+          <script src= "/assets/js/searchRecord_{{ site.data.language_codes.uppercase[ page.lang ] }}.js" ></script>
+<script>
+// var startTime = performance.now();
+( function () {
+  function getQueryVariable(variable) {
+    var query = window.location.search.substring(1);
+    var vars = query.split('&');
+    for (var i = 0; i < vars.length; i ++) {
+      var pair = vars[i].split('=');
+      if (pair[0] === variable) {
+        return decodeURIComponent(pair[1].replace(/\+/g,'%20'));
+      }
+    }
+  }
+ var searchInput = getQueryVariable('query')
+ var searchTermRaw = (" " + searchInput + " ").replace(/\s+/g,' ');
+ searchTermRaw = searchTermRaw.split("");
+ searchTermRaw.pop();
+ searchTermRaw = searchTermRaw.reverse();
+ searchTermRaw.pop();
+ searchTermRaw = searchTermRaw.reverse().join("");
+ {% if page.lang != "ar" %}var searchTerm = searchTermRaw.normalize('NFD').replace(/([\u0300-\u036f]|[^0-9a-zA-Z\s])/g, '');{% else if page.lang == "ar" %}var searchTerm = searchTermRaw;{% endif %}
+ var searchType = getQueryVariable('type');
+ var searchCategory = getQueryVariable('cg');
+  if (searchCategory == "custom") {
+    document.getElementById("search-filter-category-custom").disabled = false;
+    document.getElementById("search-filter-category-custom").checked = true;
+    enableCategory();
+  }
+  if (searchType == "directory") {
+    var searchTag = "directory";
+    document.getElementById("search-filter-type-directory").disabled = false;
+    document.getElementById("search-filter-type-directory").checked = true;
+  }
+  if (searchType == "file") {
+    var searchTag = "file";
+    document.getElementById("search-filter-type-file").disabled = false;
+    document.getElementById("search-filter-type-file").checked = true;
+  }
+  if (searchType == "both") {
+    var searchTag = "directory file";
+    document.getElementById("search-filter-type-both").disabled = false;
+    document.getElementById("search-filter-type-both").checked = true;
+  }
+  var categoryArray = [];
+  for (var x = 0; x < categoryLength; x++) {
+    var searchCategoryItem= getQueryVariable('cg'+x+'');
+    if (searchCategoryItem) {
+      document.getElementById('search-filter-category'+x+'').checked = true;
+      categoryArray.push(searchCategoryItem);
+    } else if (searchCategory == "custom" && !searchCategoryItem) {
+      categoryArray.push("null");
+    }
+  }
+  if (searchInput) {
+    document.getElementById('search-page-search-input').setAttribute("value", searchTermRaw);
+  }
+  if (searchTerm) {
+    {% if page.lang_dir == "ltr" %}var searchTermRegExp = new RegExp((("\\b" + searchTerm + "").replace(/\s/g, '|\\b')), "gi");{% else if page.lang_dir == "rtl" %}var searchTermRegExp = new RegExp((("" + searchTerm + "").replace(/\s/g, '|')), "gi");{% endif %}
+    var categoryArrayRegExp = new RegExp((categoryArray.toString().replace(/\,/g, '|')), "gi");
+    var results = [];
+    for (var x = 0; x < docs.length; x++) {
+      if (searchTag.indexOf(docs[x].kind) > -1) {
+        if (docs[x].category.match(categoryArrayRegExp)) {
+          {% if page.lang != "ar" %}var docsLabel = docs[x].label.normalize('NFD').replace(/([\u0300-\u036f]|[^0-9a-zA-Z\s])/g, '').replace(/\s+/g,' ');{% else if page.lang == "ar" %}var docsLabel = docs[x].label.replace(/\s+/g,' ');{% endif %}
+          if (docsLabel.match(searchTermRegExp)) {
+            var Numerator = (docsLabel.match(searchTermRegExp).length) * 56;
+            var Denominator = searchTerm.split(" ").length;
+            var idsValue = ((Numerator + 1) / (Denominator + 1)) * 100;
+            results[results.length] = {
+              id: docs[x].id,
+              ids: idsValue,
+              kind: docs[x].kind,
+              category: docs[x].category,
+              icon: docs[x].icon,
+              title2: docs[x].title2,
+              label: docs[x].label,
+              url: docs[x].url,
+              sub_title: docs[x].sub_title,
+              excerpt: docs[x].excerpt
+            };
+          }
+        }
+      }
+    }
+    var resultArray = results.sort(function(a,b) { return b.ids - a.ids;});
+    var searchResults = document.getElementById('levels-page-card-container');
+    if (resultArray.length != 0) {
+      if (resultArray.length == 1) {
+      var appendString = '<p class="results-length">{% if page.lang != "ar" %}' + resultArray.length + ' {% endif %}{{ site.data.word_translate.result_found[ page.lang ] }}</p>';
+      } else {
+      var appendString = '<p class="results-length">{% if page.lang != "ar" %}' + resultArray.length + ' {% endif %}{{ site.data.word_translate.results_found[ page.lang ] }}</p>';
+      }
+    for (var i = 0 ; i < resultArray.length; i ++) {
+    var item = resultArray[i];
+        if (item.title2.length <= 19) {
+          if (item.kind == "directory") {
+            appendString += '<div class="levels-page-card levels-page-card-three-columns directory" onclick="location.href=\'' + item.url +'/\';"><div class="levels-page-card-icon"><a href=" ' +item.url + '/"><svg class = " ' + item.icon + ' icon"><use xlink:href="#' + item.icon + '"></use></svg></a></div><div class="levels-page-card-description"><h3 class="levels-page-card-title"><a href= " '+ item.url + '/">' + item.title2 + '</a></h3><sub class="levels-page-card-sub"><i>' + item.sub_title.substring(0,32) + '</i></sub><p>' + item.excerpt.substring(0,77) + '...</p></div></div>';
+          } else if (item.kind == "file") {
+            appendString += '<div class="levels-page-card levels-page-card-three-columns file"><div class="levels-page-card-file" onclick="location.href=\'' + item.url +'/\';"><div class="levels-page-card-icon"><a href=" ' +item.url + '/"><svg class = " ' + item.icon + ' icon"><use xlink:href="#' + item.icon + '"></use></svg></a></div><div class="levels-page-card-description"><h3 class="levels-page-card-title"><a href= " '+ item.url + '/">' + item.title2 + '</a></h3><sub class="levels-page-card-sub"><i>' + item.sub_title.substring(0,32) + '</i></sub><p>' + item.excerpt.substring(0,77) + '...</p></div></div></div>';
+          }
+        } else {
+          if (item.kind == "directory") {
+            appendString += '<div class="levels-page-card levels-page-card-three-columns directory" onclick="location.href=\'' + item.url +'/\';"><div class="levels-page-card-icon"><a href=" ' +item.url + '/"><svg class = " ' + item.icon + ' icon"><use xlink:href="#' + item.icon + '"></use></svg></a></div><div class="levels-page-card-description"><h3 class="levels-page-card-title"><a href= " '+ item.url + '/">' + item.title2.substring(0,19) + '...</a></h3><sub class="levels-page-card-sub"><i>' + item.sub_title.substring(0,32) + '</i></sub><p>' + item.excerpt.substring(0,77) + '...</p></div></div>';
+          } else if (item.kind == "file") {
+            appendString += '<div class="levels-page-card levels-page-card-three-columns file"><div class="levels-page-card-file" onclick="location.href=\'' + item.url +'/\';"><div class="levels-page-card-icon"><a href=" ' +item.url + '/"><svg class = " ' + item.icon + ' icon"><use xlink:href="#' + item.icon + '"></use></svg></a></div><div class="levels-page-card-description"><h3 class="levels-page-card-title"><a href= " '+ item.url + '/">' + item.title2.substring(0,19) + '...</a></h3><sub class="levels-page-card-sub"><i>' + item.sub_title.substring(0,32) + '</i></sub><p>' + item.excerpt.substring(0,77) + '...</p></div></div></div>';
+          }
+        } 
+      }
+      searchResults.innerHTML = appendString;
+    } else {
+      searchResults.innerHTML = '<p class="results-length">{{ site.data.word_translate.No_result_found[ page.lang ] }}</p>';
+    }
+  }
+})();
+// var endTime = performance.now();
+// alert('Query took ' + (endTime - startTime) + 'ms');
+</script>
+     </div>
+    </body>
+</html>

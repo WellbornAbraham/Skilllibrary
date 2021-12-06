@@ -1,0 +1,19 @@
+---
+permalink: /assets/js/catalogueData_EN.js
+---
+{% if site.catalogueData_EN == true %}
+window.store = { {% assign datafile_childless = site.data.datafile_childless.data %} {% if datafile_childless[0] %} {% assign datafile_childless_alphasort = datafile_childless | sort: 'title2.en' %} {% assign catalogueData_EN = datafile_childless_alphasort | uniq: 'title_uniq' %} {% for item in catalogueData_EN %} {% if item.kind.en == "directory" %} {% if item.deploy.en != site.development %}
+  "{{ item.url.en }}": {
+    "title2": "{{ item.title2.en }}",
+    "sub_title": "{{ item.sub_title.en }}",
+    "url": "{{ item.url.en }}",
+    "excerpt": "{{ item.excerpt.en }}",
+    "icon": "{{ item.icon.en }}",
+    "alphabet_l1": "{{ item.title.en | slice: 0, 1 }}",
+    "alphabet_l2": "{{ item.title.en | slice: 0, 2 }}",
+    "alphabet_l3": "{{ item.title.en | slice: 0, 3 }}"
+  },{% endif %} {% endif %} {% endfor %} {% endif %}
+  "": {
+  }
+};
+{% endif %}

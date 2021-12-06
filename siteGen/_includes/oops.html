@@ -1,0 +1,32 @@
+<div class="oops-page-container">
+  <div class="oops-page-content">
+    <h1><span class="oops-page-border-bottom-color" style="font-family: 'Noto Sans', sans-serif; {% if page.lang == "ar" %}border: none;{% endif %}">?</span></h1>
+    <p><strong><span class="secondary-color" style="font-family: 'Noto Sans', sans-serif;">{{ page.title }}</span> {{ site.data.word_translate.is_not_available_at_the_moment[ page.lang ] }}</strong></p>
+    <p>{{ site.data.word_translate.Kindly_check_back_later[ page.lang ] }}</p>
+        {{ page.nav }}
+{%- assign datafile-unsorted = site.data.datafile.data -%}
+{%- if datafile-unsorted[0] -%}
+{%- assign datafile = datafile-unsorted -%}
+{%- for item in datafile -%}
+
+{%- assign level1 = item.children -%}
+
+{%- for entry in level1 -%}
+        		
+{%- assign level2 = entry.children -%}
+
+{%- for subentry in level2 -%}
+
+{%- if subentry.title.en == page.title %}
+			<div class="oops-page-navigation"><span><a href="/{{ page.lang }}/"><svg class=" icon icon-home"><use xlink:href="#icon-home"></use></svg></a> | <a href="/{{ page.lang }}/resources/">{{ site.data.word_translate.resources[ page.lang ] }}</a> | <a href="{{ item.url[ page.lang ] }}/">{{ item.title2[ page.lang ] }}</a> | <a href="{{ entry.url }}/">{{ entry.title[ page.lang ] }}</a> | <a href="{{ subentry.url[ page.lang ] }}/">{{ subentry.title[ page.lang ] }}</a></span></div>
+{%- endif -%}
+
+{%- endfor -%}
+
+{%- endfor -%}
+
+{%- endfor -%}
+
+{%- endif %}
+  </div>
+</div>

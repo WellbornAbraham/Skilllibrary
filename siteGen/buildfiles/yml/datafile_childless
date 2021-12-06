@@ -1,0 +1,255 @@
+---
+permalink: /assets/yml/datafile_childless.yml
+---
+{% if site.datafile_childless == true %}
+data:
+{% assign datafile = site.data.datafile.data %} {% if datafile[0] %} {% assign datafile_childless = datafile %} {% for item in datafile_childless %} {% if item.deploy.en != site.development %}
+  - title:
+        en: {{ item.title.en }}
+        fr: {{ site.data.fr_translate.title[ item.default.en ] }}
+        ar: {{ site.data.ar_translate.title[ item.default.en ] }}
+        es: {{ site.data.es_translate.title[ item.default.en ] }}
+    title2:
+        en: {{ item.title2.en }}
+        fr: {{ site.data.fr_translate.title2[ item.default.en ] }}
+        ar: {{ site.data.ar_translate.title2[ item.default.en ] }}
+        es: {{ site.data.es_translate.title2[ item.default.en ] }}
+    title_uniq: {{ item.title2.en | slugify: "pretty" }}
+    default:
+        en: {{ item.title2.en | slugify: "pretty" }}
+        fr: {{ item.default.en }}
+        ar: {{ item.default.en }}
+        es: {{ item.default.en }}
+    kind:
+        en: directory
+        fr: directory
+        ar: directory
+        es: directory
+    icon:
+        en: {{ item.icon.en }}
+        fr: {{ item.icon.en }}
+        ar: {{ item.icon.en }}
+        es: {{ item.icon.en }}
+    sub_title:
+        en: {{ item.sub_title.en }}
+        fr: {{ item.sub_title.fr }}
+        ar: {{ item.sub_title.ar }}
+        es: {{ item.sub_title.es }}
+    excerpt:
+        en: {{ item.excerpt.en }}
+        fr: {{ site.data.fr_translate.excerpt[ item.default.en ] }}
+        ar: {{ site.data.ar_translate.excerpt[ item.default.en ] }}
+        es: {{ site.data.es_translate.excerpt[ item.default.en ] }}
+    url:
+        en: /en/resources/{{ item.title.en | slugify: "pretty" }}
+        fr: /fr/resources/{{ item.title.en | slugify: "pretty" }}
+        ar: /ar/resources/{{ item.title.en | slugify: "pretty" }}
+        es: /es/resources/{{ item.title.en | slugify: "pretty" }}
+    category:
+        en: {{ item.title2.en }}
+        fr: {{ site.data.fr_translate.title2[ item.default.en ] }}
+        ar: {{ site.data.ar_translate.title2[ item.default.en ] }}
+        es: {{ site.data.es_translate.title2[ item.default.en ] }}
+    label:
+        en: {{ item.title.en }}{% assign datafile = site.data.datafile.data %}{% if datafile[0] %}{% assign datafile_childless = datafile %}{% for itemTemp in datafile_childless %}{% if itemTemp.deploy.en != site.development %}{% if itemTemp.title.en == item.title.en %} {{ itemTemp.title.en }}{% assign level1-unsorted = itemTemp.children %}{% if level1-unsorted[0] %}{% assign level1 = level1-unsorted %}{% for entryTemp in level1 %}{% if entryTemp.deploy.en != site.development %} {{ entryTemp.title.en }}{% assign level2-unsorted = entryTemp.children %}{% if level2-unsorted[0] %}{% assign level2 = level2-unsorted %}{% for subentryTemp in level2 %}{% if subentryTemp.deploy.en != site.development %} {{ subentryTemp.title.en }}{% assign level3-unsorted = subentryTemp.children %}{% if level3-unsorted[0] %}{% assign level3 = level3-unsorted %}{% for subsubentryTemp in level3 %}{% if subsubentryTemp.deploy.en != site.development %} {{ subsubentryTemp.title.en }}{% endif %}{% endfor %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}
+        fr: {{ item.title.fr }}{% assign datafile = site.data.datafile.data %}{% if datafile[0] %}{% assign datafile_childless = datafile %}{% for itemTemp in datafile_childless %}{% if itemTemp.deploy.fr != site.development %}{% if itemTemp.title.fr == item.title.fr %} {{ itemTemp.title.fr }}{% assign level1-unsorted = itemTemp.children %}{% if level1-unsorted[0] %}{% assign level1 = level1-unsorted %}{% for entryTemp in level1 %}{% if entryTemp.deploy.fr != site.development %} {{ entryTemp.title.fr }}{% assign level2-unsorted = entryTemp.children %}{% if level2-unsorted[0] %}{% assign level2 = level2-unsorted %}{% for subentryTemp in level2 %}{% if subentryTemp.deploy.fr != site.development %} {{ subentryTemp.title.fr }}{% assign level3-unsorted = subentryTemp.children %}{% if level3-unsorted[0] %}{% assign level3 = level3-unsorted %}{% for subsubentryTemp in level3 %}{% if subsubentryTemp.deploy.fr != site.development %} {{ subsubentryTemp.title.fr }}{% endif %}{% endfor %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}
+        ar: {{ item.title.ar }}{% assign datafile = site.data.datafile.data %}{% if datafile[0] %}{% assign datafile_childless = datafile %}{% for itemTemp in datafile_childless %}{% if itemTemp.deploy.ar != site.development %}{% if itemTemp.title.ar == item.title.ar %} {{ itemTemp.title.ar }}{% assign level1-unsorted = itemTemp.children %}{% if level1-unsorted[0] %}{% assign level1 = level1-unsorted %}{% for entryTemp in level1 %}{% if entryTemp.deploy.ar != site.development %} {{ entryTemp.title.ar }}{% assign level2-unsorted = entryTemp.children %}{% if level2-unsorted[0] %}{% assign level2 = level2-unsorted %}{% for subentryTemp in level2 %}{% if subentryTemp.deploy.ar != site.development %} {{ subentryTemp.title.ar }}{% assign level3-unsorted = subentryTemp.children %}{% if level3-unsorted[0] %}{% assign level3 = level3-unsorted %}{% for subsubentryTemp in level3 %}{% if subsubentryTemp.deploy.ar != site.development %} {{ subsubentryTemp.title.ar }}{% endif %}{% endfor %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}
+        es: {{ item.title.es }}{% assign datafile = site.data.datafile.data %}{% if datafile[0] %}{% assign datafile_childless = datafile %}{% for itemTemp in datafile_childless %}{% if itemTemp.deploy.es != site.development %}{% if itemTemp.title.es == item.title.es %} {{ itemTemp.title.es }}{% assign level1-unsorted = itemTemp.children %}{% if level1-unsorted[0] %}{% assign level1 = level1-unsorted %}{% for entryTemp in level1 %}{% if entryTemp.deploy.es != site.development %} {{ entryTemp.title.es }}{% assign level2-unsorted = entryTemp.children %}{% if level2-unsorted[0] %}{% assign level2 = level2-unsorted %}{% for subentryTemp in level2 %}{% if subentryTemp.deploy.es != site.development %} {{ subentryTemp.title.es }}{% assign level3-unsorted = subentryTemp.children %}{% if level3-unsorted[0] %}{% assign level3 = level3-unsorted %}{% for subsubentryTemp in level3 %}{% if subsubentryTemp.deploy.es != site.development %} {{ subsubentryTemp.title.es }}{% endif %}{% endfor %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}
+    group:
+        en: {{ item.title2.en }}
+        fr: {{ site.data.fr_translate.title2[ item.default.en ] }}
+        ar: {{ site.data.ar_translate.title2[ item.default.en ] }}
+        es: {{ site.data.es_translate.title2[ item.default.en ] }}
+    deploy:
+        en: {{ item.deploy.en }}
+        fr: {{ item.deploy.en }}
+        ar: {{ item.deploy.en }}
+        es: {{ item.deploy.en }}
+    {% assign level1-unsorted = item.children %} {% if level1-unsorted[0] %} {% assign level1 = level1-unsorted %} {% for entry in level1 %} {% if entry.deploy.en != site.development %}
+  - title:
+        en: {{ entry.title.en }}
+        fr: {{ site.data.fr_translate.title[ entry.default.en ] }}
+        ar: {{ site.data.ar_translate.title[ entry.default.en ] }}
+        es: {{ site.data.es_translate.title[ entry.default.en ] }}
+    title2:
+        en: {{ entry.title2.en }}
+        fr: {{ site.data.fr_translate.title2[ entry.default.en ] }}
+        ar: {{ site.data.ar_translate.title2[ entry.default.en ] }}
+        es: {{ site.data.es_translate.title2[ entry.default.en ] }}
+    title_uniq: {{ entry.title2.en | slugify: "pretty" }}
+    default:
+        en: {{ entry.title2.en | slugify: "pretty" }}
+        fr: {{ entry.default.en }}
+        ar: {{ entry.default.en }}
+        es: {{ entry.default.en }}
+    kind:
+        en: directory
+        fr: directory
+        ar: directory
+        es: directory
+    icon:
+        en: {{ entry.icon.en }}
+        fr: {{ entry.icon.en }}
+        ar: {{ entry.icon.en }}
+        es: {{ entry.icon.en }}
+    sub_title:
+        en: {{ entry.sub_title.en }}
+        fr: {{ entry.sub_title.fr }}
+        ar: {{ entry.sub_title.ar }}
+        es: {{ entry.sub_title.es }}
+    excerpt:
+        en: {{ entry.excerpt.en }}
+        fr: {{ site.data.fr_translate.excerpt[ entry.default.en ] }}
+        ar: {{ site.data.ar_translate.excerpt[ entry.default.en ] }}
+        es: {{ site.data.es_translate.excerpt[ entry.default.en ] }}
+    url:
+        en: /en/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}
+        fr: /fr/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}
+        ar: /ar/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}
+        es: /es/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}
+    category:
+        en: {{ item.title2.en }}
+        fr: {{ site.data.fr_translate.title2[ item.default.en ] }}
+        ar: {{ site.data.ar_translate.title2[ item.default.en ] }}
+        es: {{ site.data.es_translate.title2[ item.default.en ] }}
+    label:
+        en: {{ entry.title.en }} {{ item.title.en }}{% assign datafile = site.data.datafile.data %}{% if datafile[0] %}{% assign datafile_childless = datafile %}{% for itemTemp in datafile_childless %}{% if itemTemp.deploy.en != site.development %}{% if itemTemp.title.en == item.title.en %}{% assign level1-unsorted = itemTemp.children %}{% if level1-unsorted[0] %}{% assign level1 = level1-unsorted %}{% for entryTemp in level1 %}{% if entryTemp.deploy.en != site.development %}{% if entryTemp.title.en == entry.title.en %} {{ entryTemp.title.en }}{% assign level2-unsorted = entryTemp.children %}{% if level2-unsorted[0] %}{% assign level2 = level2-unsorted %}{% for subentryTemp in level2 %}{% if subentryTemp.deploy.en != site.development %} {{ subentryTemp.title.en }}{% assign level3-unsorted = subentryTemp.children %}{% if level3-unsorted[0] %}{% assign level3 = level3-unsorted %}{% for subsubentryTemp in level3 %}{% if subsubentryTemp.deploy.en != site.development %} {{ subsubentryTemp.title.en }}{% endif %}{% endfor %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}
+        fr: {{ entry.title.fr }} {{ item.title.fr }}{% assign datafile = site.data.datafile.data %}{% if datafile[0] %}{% assign datafile_childless = datafile %}{% for itemTemp in datafile_childless %}{% if itemTemp.deploy.fr != site.development %}{% if itemTemp.title.fr == item.title.fr %}{% assign level1-unsorted = itemTemp.children %}{% if level1-unsorted[0] %}{% assign level1 = level1-unsorted %}{% for entryTemp in level1 %}{% if entryTemp.deploy.fr != site.development %}{% if entryTemp.title.fr == entry.title.fr %} {{ entryTemp.title.fr }}{% assign level2-unsorted = entryTemp.children %}{% if level2-unsorted[0] %}{% assign level2 = level2-unsorted %}{% for subentryTemp in level2 %}{% if subentryTemp.deploy.fr != site.development %} {{ subentryTemp.title.fr }}{% assign level3-unsorted = subentryTemp.children %}{% if level3-unsorted[0] %}{% assign level3 = level3-unsorted %}{% for subsubentryTemp in level3 %}{% if subsubentryTemp.deploy.fr != site.development %} {{ subsubentryTemp.title.fr }}{% endif %}{% endfor %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}
+        ar: {{ entry.title.ar }} {{ item.title.ar }}{% assign datafile = site.data.datafile.data %}{% if datafile[0] %}{% assign datafile_childless = datafile %}{% for itemTemp in datafile_childless %}{% if itemTemp.deploy.ar != site.development %}{% if itemTemp.title.ar == item.title.ar %}{% assign level1-unsorted = itemTemp.children %}{% if level1-unsorted[0] %}{% assign level1 = level1-unsorted %}{% for entryTemp in level1 %}{% if entryTemp.deploy.ar != site.development %}{% if entryTemp.title.ar == entry.title.ar %} {{ entryTemp.title.ar }}{% assign level2-unsorted = entryTemp.children %}{% if level2-unsorted[0] %}{% assign level2 = level2-unsorted %}{% for subentryTemp in level2 %}{% if subentryTemp.deploy.ar != site.development %} {{ subentryTemp.title.ar }}{% assign level3-unsorted = subentryTemp.children %}{% if level3-unsorted[0] %}{% assign level3 = level3-unsorted %}{% for subsubentryTemp in level3 %}{% if subsubentryTemp.deploy.ar != site.development %} {{ subsubentryTemp.title.ar }}{% endif %}{% endfor %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}
+        es: {{ entry.title.es }} {{ item.title.es }}{% assign datafile = site.data.datafile.data %}{% if datafile[0] %}{% assign datafile_childless = datafile %}{% for itemTemp in datafile_childless %}{% if itemTemp.deploy.es != site.development %}{% if itemTemp.title.es == item.title.es %}{% assign level1-unsorted = itemTemp.children %}{% if level1-unsorted[0] %}{% assign level1 = level1-unsorted %}{% for entryTemp in level1 %}{% if entryTemp.deploy.es != site.development %}{% if entryTemp.title.es == entry.title.es %} {{ entryTemp.title.es }}{% assign level2-unsorted = entryTemp.children %}{% if level2-unsorted[0] %}{% assign level2 = level2-unsorted %}{% for subentryTemp in level2 %}{% if subentryTemp.deploy.es != site.development %} {{ subentryTemp.title.es }}{% assign level3-unsorted = subentryTemp.children %}{% if level3-unsorted[0] %}{% assign level3 = level3-unsorted %}{% for subsubentryTemp in level3 %}{% if subsubentryTemp.deploy.es != site.development %} {{ subsubentryTemp.title.es }}{% endif %}{% endfor %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}
+    group:
+        en: {{ entry.title2.en }}
+        fr: {{ site.data.fr_translate.title2[ entry.default.en ] }}
+        ar: {{ site.data.ar_translate.title2[ entry.default.en ] }}
+        es: {{ site.data.es_translate.title2[ entry.default.en ] }}
+    deploy:
+        en: {{ entry.deploy.en }}
+        fr: {{ entry.deploy.en }}
+        ar: {{ entry.deploy.en }}
+        es: {{ entry.deploy.en }}
+        {% assign level2-unsorted = entry.children %} {% if level2-unsorted[0] %} {% assign level2 = level2-unsorted %} {% for subentry in level2 %} {% if subentry.deploy.en != site.development %}
+  - title:
+        en: {{ subentry.title.en }}
+        fr: {{ site.data.fr_translate.title[ subentry.default.en ] }}
+        ar: {{ site.data.ar_translate.title[ subentry.default.en ] }}
+        es: {{ site.data.es_translate.title[ subentry.default.en ] }}
+    title2:
+        en: {{ subentry.title2.en }}
+        fr: {{ site.data.fr_translate.title2[ subentry.default.en ] }}
+        ar: {{ site.data.ar_translate.title2[ subentry.default.en ] }}
+        es: {{ site.data.es_translate.title2[ subentry.default.en ] }}
+    title_uniq: {{ subentry.title2.en | slugify: "pretty" }}
+    default:
+        en: {{ subentry.title2.en | slugify: "pretty" }}
+        fr: {{ subentry.default.en }}
+        ar: {{ subentry.default.en }}
+        es: {{ subentry.default.en }}
+    kind:
+        en: directory
+        fr: directory
+        ar: directory
+        es: directory
+    icon:
+        en: {{ subentry.icon.en }}
+        fr: {{ subentry.icon.en }}
+        ar: {{ subentry.icon.en }}
+        es: {{ subentry.icon.en }}
+    sub_title:
+        en: {{ subentry.sub_title.en }}
+        fr: {{ subentry.sub_title.fr }}
+        ar: {{ subentry.sub_title.ar }}
+        es: {{ subentry.sub_title.es }}
+    excerpt:
+        en: {{ subentry.excerpt.en }}
+        fr: {{ site.data.fr_translate.excerpt[ subentry.default.en ] }}
+        ar: {{ site.data.ar_translate.excerpt[ subentry.default.en ] }}
+        es: {{ site.data.es_translate.excerpt[ subentry.default.en ] }}
+    url:
+        en: /en/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}/{{ subentry.title.en | slugify: "pretty" }}
+        fr: /fr/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}/{{ subentry.title.en | slugify: "pretty" }}
+        ar: /ar/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}/{{ subentry.title.en | slugify: "pretty" }}
+        es: /es/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}/{{ subentry.title.en | slugify: "pretty" }}
+    category:
+        en: {{ item.title2.en }}
+        fr: {{ site.data.fr_translate.title2[ item.default.en ] }}
+        ar: {{ site.data.ar_translate.title2[ item.default.en ] }}
+        es: {{ site.data.es_translate.title2[ item.default.en ] }}
+    label:
+        en: {{ subentry.title.en }} {{ entry.title.en }} {{ item.title.en }}{% assign datafile = site.data.datafile.data %}{% if datafile[0] %}{% assign datafile_childless = datafile %}{% for itemTemp in datafile_childless %}{% if itemTemp.deploy.en != site.development %}{% if itemTemp.title.en == item.title.en %}{% assign level1-unsorted = itemTemp.children %}{% if level1-unsorted[0] %}{% assign level1 = level1-unsorted %}{% for entryTemp in level1 %}{% if entryTemp.deploy.en != site.development %}{% if entryTemp.title.en == entry.title.en %}{% assign level2-unsorted = entryTemp.children %}{% if level2-unsorted[0] %}{% assign level2 = level2-unsorted %}{% for subentryTemp in level2 %}{% if subentryTemp.deploy.en != site.development %}{% if subentryTemp.title.en == subentry.title.en %} {{ subentryTemp.title.en }}{% assign level3-unsorted = subentryTemp.children %}{% if level3-unsorted[0] %}{% assign level3 = level3-unsorted %}{% for subsubentryTemp in level3 %}{% if subsubentryTemp.deploy.en != site.development %} {{ subsubentryTemp.title.en }}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}
+        fr: {{ subentry.title.fr }} {{ entry.title.fr }} {{ item.title.fr }}{% assign datafile = site.data.datafile.data %}{% if datafile[0] %}{% assign datafile_childless = datafile %}{% for itemTemp in datafile_childless %}{% if itemTemp.deploy.fr != site.development %}{% if itemTemp.title.fr == item.title.fr %}{% assign level1-unsorted = itemTemp.children %}{% if level1-unsorted[0] %}{% assign level1 = level1-unsorted %}{% for entryTemp in level1 %}{% if entryTemp.deploy.fr != site.development %}{% if entryTemp.title.fr == entry.title.fr %}{% assign level2-unsorted = entryTemp.children %}{% if level2-unsorted[0] %}{% assign level2 = level2-unsorted %}{% for subentryTemp in level2 %}{% if subentryTemp.deploy.fr != site.development %}{% if subentryTemp.title.fr == subentry.title.fr %} {{ subentryTemp.title.fr }}{% assign level3-unsorted = subentryTemp.children %}{% if level3-unsorted[0] %}{% assign level3 = level3-unsorted %}{% for subsubentryTemp in level3 %}{% if subsubentryTemp.deploy.fr != site.development %} {{ subsubentryTemp.title.fr }}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}
+        ar: {{ subentry.title.ar }} {{ entry.title.ar }} {{ item.title.ar }}{% assign datafile = site.data.datafile.data %}{% if datafile[0] %}{% assign datafile_childless = datafile %}{% for itemTemp in datafile_childless %}{% if itemTemp.deploy.ar != site.development %}{% if itemTemp.title.ar == item.title.ar %}{% assign level1-unsorted = itemTemp.children %}{% if level1-unsorted[0] %}{% assign level1 = level1-unsorted %}{% for entryTemp in level1 %}{% if entryTemp.deploy.ar != site.development %}{% if entryTemp.title.ar == entry.title.ar %}{% assign level2-unsorted = entryTemp.children %}{% if level2-unsorted[0] %}{% assign level2 = level2-unsorted %}{% for subentryTemp in level2 %}{% if subentryTemp.deploy.ar != site.development %}{% if subentryTemp.title.ar == subentry.title.ar %} {{ subentryTemp.title.ar }}{% assign level3-unsorted = subentryTemp.children %}{% if level3-unsorted[0] %}{% assign level3 = level3-unsorted %}{% for subsubentryTemp in level3 %}{% if subsubentryTemp.deploy.ar != site.development %} {{ subsubentryTemp.title.ar }}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}
+        es: {{ subentry.title.es }} {{ entry.title.es }} {{ item.title.es }}{% assign datafile = site.data.datafile.data %}{% if datafile[0] %}{% assign datafile_childless = datafile %}{% for itemTemp in datafile_childless %}{% if itemTemp.deploy.es != site.development %}{% if itemTemp.title.es == item.title.es %}{% assign level1-unsorted = itemTemp.children %}{% if level1-unsorted[0] %}{% assign level1 = level1-unsorted %}{% for entryTemp in level1 %}{% if entryTemp.deploy.es != site.development %}{% if entryTemp.title.es == entry.title.es %}{% assign level2-unsorted = entryTemp.children %}{% if level2-unsorted[0] %}{% assign level2 = level2-unsorted %}{% for subentryTemp in level2 %}{% if subentryTemp.deploy.es != site.development %}{% if subentryTemp.title.es == subentry.title.es %} {{ subentryTemp.title.es }}{% assign level3-unsorted = subentryTemp.children %}{% if level3-unsorted[0] %}{% assign level3 = level3-unsorted %}{% for subsubentryTemp in level3 %}{% if subsubentryTemp.deploy.es != site.development %} {{ subsubentryTemp.title.es }}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}
+    group:
+        en: {{ subentry.title2.en }}
+        fr: {{ site.data.fr_translate.title2[ subentry.default.en ] }}
+        ar: {{ site.data.ar_translate.title2[ subentry.default.en ] }}
+        es: {{ site.data.es_translate.title2[ subentry.default.en ] }}
+    deploy:
+        en: {{ subentry.deploy.en }}
+        fr: {{ subentry.deploy.en }}
+        ar: {{ subentry.deploy.en }}
+        es: {{ subentry.deploy.en }}
+            {% assign level3-unsorted = subentry.children %} {% if level3-unsorted[0] %} {% assign level3 = level3-unsorted %} {% for subsubentry in level3 %} {% if subsubentry.deploy.en != site.development %}
+  - title:
+        en: {{ subsubentry.title.en }}
+        fr: {{ site.data.fr_translate.title[ subsubentry.default.en ] }}
+        ar: {{ site.data.ar_translate.title[ subsubentry.default.en ] }}
+        es: {{ site.data.es_translate.title[ subsubentry.default.en ] }}
+    title2:
+        en: {{ subsubentry.title2.en }}
+        fr: {{ site.data.fr_translate.title2[ subsubentry.default.en ] }}
+        ar: {{ site.data.ar_translate.title2[ subsubentry.default.en ] }}
+        es: {{ site.data.es_translate.title2[ subsubentry.default.en ] }}
+    title_uniq: {{ subsubentry.title2.en | slugify: "pretty" }}
+    default:
+        en: {{ subsubentry.title2.en | slugify: "pretty" }}
+        fr: {{ subsubentry.default.en }}
+        ar: {{ subsubentry.default.en }}
+        es: {{ subsubentry.default.en }}
+    kind:
+        en: directory
+        fr: directory
+        ar: directory
+        es: directory
+    icon:
+        en: {{ subsubentry.icon.en }}
+        fr: {{ subsubentry.icon.en }}
+        ar: {{ subsubentry.icon.en }}
+        es: {{ subsubentry.icon.en }}
+    sub_title:
+        en: {{ subsubentry.sub_title.en }}
+        fr: {{ subsubentry.sub_title.fr }}
+        ar: {{ subsubentry.sub_title.ar }}
+        es: {{ subsubentry.sub_title.es }}
+    excerpt:
+        en: {{ subsubentry.excerpt.en }}
+        fr: {{ site.data.fr_translate.excerpt[ subsubentry.default.en ] }}
+        ar: {{ site.data.ar_translate.excerpt[ subsubentry.default.en ] }}
+        es: {{ site.data.es_translate.excerpt[ subsubentry.default.en ] }}
+    url:
+        en: /en/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}/{{ subentry.title.en | slugify: "pretty" }}/{{ subsubentry.title.en | slugify: "pretty" }}
+        fr: /fr/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}/{{ subentry.title.en | slugify: "pretty" }}/{{ subsubentry.title.en | slugify: "pretty" }}
+        ar: /ar/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}/{{ subentry.title.en | slugify: "pretty" }}/{{ subsubentry.title.en | slugify: "pretty" }}
+        es: /es/resources/{{ item.title.en | slugify: "pretty" }}/{{ entry.title.en | slugify: "pretty" }}/{{ subentry.title.en | slugify: "pretty" }}/{{ subsubentry.title.en | slugify: "pretty" }}
+    category:
+        en: {{ item.title2.en }}
+        fr: {{ site.data.fr_translate.title2[ item.default.en ] }}
+        ar: {{ site.data.ar_translate.title2[ item.default.en ] }}
+        es: {{ site.data.es_translate.title2[ item.default.en ] }}
+    label:
+        en: {{ subsubentry.title.en }} {{ subentry.title.en }} {{ entry.title.en }} {{ item.title.en }}{% assign datafile = site.data.datafile.data %}{% if datafile[0] %}{% assign datafile_childless = datafile %}{% for itemTemp in datafile_childless %}{% if itemTemp.deploy.en != site.development %}{% if itemTemp.title.en == item.title.en %}{% assign level1-unsorted = itemTemp.children %}{% if level1-unsorted[0] %}{% assign level1 = level1-unsorted %}{% for entryTemp in level1 %}{% if entryTemp.deploy.en != site.development %}{% if entryTemp.title.en == entry.title.en %}{% assign level2-unsorted = entryTemp.children %}{% if level2-unsorted[0] %}{% assign level2 = level2-unsorted %}{% for subentryTemp in level2 %}{% if subentryTemp.deploy.en != site.development %}{% if subentryTemp.title.en == subentry.title.en %}{% assign level3-unsorted = subentryTemp.children %}{% if level3-unsorted[0] %}{% assign level3 = level3-unsorted %}{% for subsubentryTemp in level3 %}{% if subsubentryTemp.deploy.en != site.development %}{% if subsubentryTemp.title.en == subsubentry.title.en %} {{ subsubentryTemp.title.en }}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}
+        fr: {{ subsubentry.title.fr }} {{ subentry.title.fr }} {{ entry.title.fr }} {{ item.title.fr }}{% assign datafile = site.data.datafile.data %}{% if datafile[0] %}{% assign datafile_childless = datafile %}{% for itemTemp in datafile_childless %}{% if itemTemp.deploy.fr != site.development %}{% if itemTemp.title.fr == item.title.fr %}{% assign level1-unsorted = itemTemp.children %}{% if level1-unsorted[0] %}{% assign level1 = level1-unsorted %}{% for entryTemp in level1 %}{% if entryTemp.deploy.fr != site.development %}{% if entryTemp.title.fr == entry.title.fr %}{% assign level2-unsorted = entryTemp.children %}{% if level2-unsorted[0] %}{% assign level2 = level2-unsorted %}{% for subentryTemp in level2 %}{% if subentryTemp.deploy.fr != site.development %}{% if subentryTemp.title.fr == subentry.title.fr %}{% assign level3-unsorted = subentryTemp.children %}{% if level3-unsorted[0] %}{% assign level3 = level3-unsorted %}{% for subsubentryTemp in level3 %}{% if subsubentryTemp.deploy.fr != site.development %}{% if subsubentryTemp.title.fr == subsubentry.title.fr %} {{ subsubentryTemp.title.fr }}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}
+        ar: {{ subsubentry.title.ar }} {{ subentry.title.ar }} {{ entry.title.ar }} {{ item.title.ar }}{% assign datafile = site.data.datafile.data %}{% if datafile[0] %}{% assign datafile_childless = datafile %}{% for itemTemp in datafile_childless %}{% if itemTemp.deploy.ar != site.development %}{% if itemTemp.title.ar == item.title.ar %}{% assign level1-unsorted = itemTemp.children %}{% if level1-unsorted[0] %}{% assign level1 = level1-unsorted %}{% for entryTemp in level1 %}{% if entryTemp.deploy.ar != site.development %}{% if entryTemp.title.ar == entry.title.ar %}{% assign level2-unsorted = entryTemp.children %}{% if level2-unsorted[0] %}{% assign level2 = level2-unsorted %}{% for subentryTemp in level2 %}{% if subentryTemp.deploy.ar != site.development %}{% if subentryTemp.title.ar == subentry.title.ar %}{% assign level3-unsorted = subentryTemp.children %}{% if level3-unsorted[0] %}{% assign level3 = level3-unsorted %}{% for subsubentryTemp in level3 %}{% if subsubentryTemp.deploy.ar != site.development %}{% if subsubentryTemp.title.ar == subsubentry.title.ar %} {{ subsubentryTemp.title.ar }}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}
+        es: {{ subsubentry.title.es }} {{ subentry.title.es }} {{ entry.title.es }} {{ item.title.es }}{% assign datafile = site.data.datafile.data %}{% if datafile[0] %}{% assign datafile_childless = datafile %}{% for itemTemp in datafile_childless %}{% if itemTemp.deploy.es != site.development %}{% if itemTemp.title.es == item.title.es %}{% assign level1-unsorted = itemTemp.children %}{% if level1-unsorted[0] %}{% assign level1 = level1-unsorted %}{% for entryTemp in level1 %}{% if entryTemp.deploy.es != site.development %}{% if entryTemp.title.es == entry.title.es %}{% assign level2-unsorted = entryTemp.children %}{% if level2-unsorted[0] %}{% assign level2 = level2-unsorted %}{% for subentryTemp in level2 %}{% if subentryTemp.deploy.es != site.development %}{% if subentryTemp.title.es == subentry.title.es %}{% assign level3-unsorted = subentryTemp.children %}{% if level3-unsorted[0] %}{% assign level3 = level3-unsorted %}{% for subsubentryTemp in level3 %}{% if subsubentryTemp.deploy.es != site.development %}{% if subsubentryTemp.title.es == subsubentry.title.es %} {{ subsubentryTemp.title.es }}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}{% endif %}{% endif %}{% endfor %}{% endif %}
+    group:
+        en: {{ subsubentry.title2.en }}
+        fr: {{ site.data.fr_translate.title2[ subsubentry.default.en ] }}
+        ar: {{ site.data.ar_translate.title2[ subsubentry.default.en ] }}
+        es: {{ site.data.es_translate.title2[ subsubentry.default.en ] }}
+    deploy:
+        en: {{ subsubentry.deploy.en }}
+        fr: {{ subsubentry.deploy.en }}
+        ar: {{ subsubentry.deploy.en }}
+        es: {{ subsubentry.deploy.en }}
+                {% endif %} {% endfor %} {% endif %} {% endif %} {% endfor %} {% endif %} {% endif %} {% endfor %} {% endif %} {% endif %} {% endfor %} {% endif %}
+{% endif %}

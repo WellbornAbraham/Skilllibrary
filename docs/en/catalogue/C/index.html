@@ -881,13 +881,13 @@ function headerMobileSearch() {
   }
 }
 
-( function () {
+window.onresize = function (){
   var x = document.getElementById("header-mobile-search-icon");
   if (x.style.display == "none") {
   var y = document.getElementById("header-search-wrapper");
   y.style.display == "block";
   }
-}());
+}
 </script>
      </div>
     </body>

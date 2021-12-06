@@ -90,6 +90,8 @@ a { text-decoration: none; }
 .header-title-country { float: var(--left); font-size: var(--size-10px); font-weight: bold; color: var(--secondary-color); }
 
 /*==== Header Search Bar ====*/
+#header-search-wrapper { display: block; }
+
 .header-search-bar { display: block; width: 25%; float: var(--right); box-sizing: border-box; padding: 5px 0 0 12px; }
 
 .header-search-bar form { width: 100%; margin: 0; background-color: #222; background-color: var(--rgba-dark-color); display: block; float: var(--left); }

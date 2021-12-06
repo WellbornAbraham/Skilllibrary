@@ -1,7 +1,7 @@
 /* Latin Default */
 :root {
-  --serif-font: 'Noto Sans', sans-serif;
-  --sans-serif-font: 'Noto Sans', sans-serif;
+  --serif-font: 'Noto Sans', 'Noto Sans Arabic', sans-serif;
+  --sans-serif-font: 'Noto Sans', 'Noto Sans Arabic', sans-serif;
   --left: left;
   --right: right;
   --size-1px: 1px;

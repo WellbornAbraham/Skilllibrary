@@ -3,13 +3,12 @@
     <head>
       <meta charset ="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>ذاكرة -  مكتبة مهارة</title>
+      <title>ذاكرة - مكتبة مهارة</title>
       <link rel="stylesheet" href="/assets/style/arabic.css">
       <link rel="stylesheet" href="/assets/style/main.css">
       <link rel="stylesheet" href="/assets/style/fonts.css">
       
     </head>
-
     <body>
       <svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
@@ -28,13 +27,12 @@
 <symbol id="icon-file" viewBox="0 0 32 32">
 <path d="M26.214 6.786q0.5 0.5 0.857 1.357t0.357 1.571v20.571q0 0.714-0.5 1.214t-1.214 0.5h-24q-0.714 0-1.214-0.5t-0.5-1.214v-28.571q0-0.714 0.5-1.214t1.214-0.5h16q0.714 0 1.571 0.357t1.357 0.857zM18.286 2.429v6.714h6.714q-0.179-0.518-0.393-0.732l-5.589-5.589q-0.214-0.214-0.732-0.393zM25.143 29.714v-18.286h-7.429q-0.714 0-1.214-0.5t-0.5-1.214v-7.429h-13.714v27.429h22.857zM6.857 14.286q0-0.25 0.161-0.411t0.411-0.161h12.571q0.25 0 0.411 0.161t0.161 0.411v1.143q0 0.25-0.161 0.411t-0.411 0.161h-12.571q-0.25 0-0.411-0.161t-0.161-0.411v-1.143zM20 18.286q0.25 0 0.411 0.161t0.161 0.411v1.143q0 0.25-0.161 0.411t-0.411 0.161h-12.571q-0.25 0-0.411-0.161t-0.161-0.411v-1.143q0-0.25 0.161-0.411t0.411-0.161h12.571zM20 22.857q0.25 0 0.411 0.161t0.161 0.411v1.143q0 0.25-0.161 0.411t-0.411 0.161h-12.571q-0.25 0-0.411-0.161t-0.161-0.411v-1.143q0-0.25 0.161-0.411t0.411-0.161h12.571z"></path>
 </symbol>
-<symbol id="icon-folder" viewBox="0 0 30 32">
+<symbol id="icon-directory" viewBox="0 0 30 32">
 <path d="M27.429 23.429v-12.571q0-0.714-0.5-1.214t-1.214-0.5h-12.571q-0.714 0-1.214-0.5t-0.5-1.214v-1.143q0-0.714-0.5-1.214t-1.214-0.5h-5.714q-0.714 0-1.214 0.5t-0.5 1.214v17.143q0 0.714 0.5 1.214t1.214 0.5h21.714q0.714 0 1.214-0.5t0.5-1.214zM29.714 10.857v12.571q0 1.643-1.179 2.821t-2.821 1.179h-21.714q-1.643 0-2.821-1.179t-1.179-2.821v-17.143q0-1.643 1.179-2.821t2.821-1.179h5.714q1.643 0 2.821 1.179t1.179 2.821v0.571h12q1.643 0 2.821 1.179t1.179 2.821z"></path>
 </symbol>
 </defs>
 </svg>
     <div id="external-wrapper">
-      
         			<div id="header-2">
                 <div class="header-title-wrapper">
                   <div class="header-pre-title">
@@ -45,6 +43,18 @@
                       <h1 class="header-title"><a href="/ar/">مكتبة مهارة</a></h1>
                       <div class="header-title-bottom-border"></div>
                     </div>
+                </div>
+                <div id="header-mobile-menu-icon" class="header-mobile-menu-icon">
+                  <a href="javascript:void(0);" onclick="headerMobileMenu()">
+                    <svg id="header-mobile-menu-icon-open" class="icon icon-menu header-mobile-menu-icon-open"><use xlink:href="#icon-menu"></use></svg>
+                    <svg id="header-mobile-menu-icon-close" class="icon icon-close header-mobile-menu-icon-close"><use xlink:href="#icon-close"></use></svg>
+                  </a>
+                </div>
+                <div id="header-mobile-search-icon" class="header-mobile-search-icon">
+                  <a href="javascript:void(0);" onclick="headerMobileSearch()">
+                    <svg id="header-mobile-search-icon-open" class="icon icon-search header-mobile-search-icon-open"><use xlink:href="#icon-search"></use></svg>
+                    <svg id="header-mobile-search-icon-close" class="icon icon-close header-mobile-search-icon-close"><use xlink:href="#icon-close"></use></svg>
+                  </a>
                 </div>
                 <div id="header-search-wrapper">
                   <div class="header-search-bar">
@@ -76,12 +86,6 @@
                         <li class="header-navigation-link-list"><a href="/ar/catalogue/">فهرس</a></li>
                     </div>
                 </div>
-                <div id="header-mobile-menu-icon" class="header-mobile-menu-icon">
-                  <a href="javascript:void(0);" onclick="headerMobileMenu()">
-                    <svg id="header-mobile-menu-icon-open" class="icon icon-menu header-mobile-menu-icon-open"><use xlink:href="#icon-menu"></use></svg>
-                    <svg id="header-mobile-menu-icon-close" class="icon icon-close header-mobile-menu-icon-close"><use xlink:href="#icon-close"></use></svg>
-                  </a>
-                </div>
                 <div class="header-mobile-navigation-bar">
                     <div id="header-mobile-menu" class="header-mobile-navigation-link">
                       <div class="header-mobile-navigation-link-container">
@@ -93,89 +97,17 @@
                 </div>
             </div>
         <div id="inner-wrapper">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
           <div id="levels-page-title-container">
         			<h1>ذاكرة <span class="levels-page-title-sub"></span></h1>
               <div class="levels-page-title-navigation">
                 <span><a href="/ar/"><svg class=" icon icon-home"><use xlink:href="#icon-home"></use></svg></a> | <a href="/ar/resources/">موارد</a> | <a href="/ar/resources/attribute/">مهارات السمة</a> | <a href="/ar/resources/attribute/cognition/">معرفة</a> | <a href="/ar/resources/attribute/cognition/memory/">ذاكرة</a></span>
               </div>
         	</div>
-
         	<div id="levels-page-card-container">
-        		
-
-
-
           </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
                         <div class="bottom-snippet">
                     <h6><a href="/ar/catalogue/">فهرس</a></h6>
                 </div>
-
                         </div>
                 <div id="footer-2">
                   <div class="footer-2-copyright"><a href="/ar/"> مكتبة مهارة</a><span class="footer-2-notice"> | كل الحقوق محفوظة </span> <span class="footer-2-navigation-link"> |<a href="/ar/">الصفحة الرئيسية</a>|<a href="/ar/about/">عن</a>|<a href="/ar/contact/">اتصل</a></span></div> <span class="footer-2-languages"><a href="/en/resources/attribute/cognition/memory/">English</a> <a href="/fr/resources/attribute/cognition/memory/">Français</a> <a href="/ar/resources/attribute/cognition/memory/">عربي</a> <a href="/es/resources/attribute/cognition/memory/">Español</a></span>
@@ -192,28 +124,46 @@
     };
   };
 </script>
-        
         <script>
 function headerMobileMenu() {
   var x = document.getElementById("header-mobile-menu");
   if (x.style.display == "block") {
     x.style.display = "none";
     var i = document.getElementById("header-mobile-menu-icon");
-    var y = i.getElementsByTagName("i")[0];
-    var z = i.getElementsByTagName("i")[1];
+    var y = i.getElementsByTagName("svg")[0];
+    var z = i.getElementsByTagName("svg")[1];
     y.style.display = "block";
     z.style.display = "none";
   } else {
     x.style.display = "block";
     var i = document.getElementById("header-mobile-menu-icon");
-    var y = i.getElementsByTagName("i")[0];
-    var z = i.getElementsByTagName("i")[1];
+    var y = i.getElementsByTagName("svg")[0];
+    var z = i.getElementsByTagName("svg")[1];
+    y.style.display = "none";
+    z.style.display = "block"; 
+  }
+}
+</script>
+<script>
+function headerMobileSearch() {
+  var x = document.getElementById("header-search-wrapper");
+  if (x.style.display == "block") {
+    x.style.display = "none";
+    var i = document.getElementById("header-mobile-search-icon");
+    var y = i.getElementsByTagName("svg")[0];
+    var z = i.getElementsByTagName("svg")[1];
+    y.style.display = "block";
+    z.style.display = "none";
+  } else {
+    x.style.display = "block";
+    var i = document.getElementById("header-mobile-search-icon");
+    var y = i.getElementsByTagName("svg")[0];
+    var z = i.getElementsByTagName("svg")[1];
     y.style.display = "none";
     z.style.display = "block";
   }
 }
 </script>
-                
     </div>
     </body>
 </html>

@@ -3,13 +3,12 @@
     <head>
       <meta charset ="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Search -  Skill Library</title>
+      <title>Search - Skill Library</title>
       <link rel="stylesheet" href="/assets/style/latin.css">
       <link rel="stylesheet" href="/assets/style/main.css">
       <link rel="stylesheet" href="/assets/style/fonts.css">
       
     </head>
-
     <body>
       <svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
@@ -28,7 +27,7 @@
 <symbol id="icon-file" viewBox="0 0 32 32">
 <path d="M26.214 6.786q0.5 0.5 0.857 1.357t0.357 1.571v20.571q0 0.714-0.5 1.214t-1.214 0.5h-24q-0.714 0-1.214-0.5t-0.5-1.214v-28.571q0-0.714 0.5-1.214t1.214-0.5h16q0.714 0 1.571 0.357t1.357 0.857zM18.286 2.429v6.714h6.714q-0.179-0.518-0.393-0.732l-5.589-5.589q-0.214-0.214-0.732-0.393zM25.143 29.714v-18.286h-7.429q-0.714 0-1.214-0.5t-0.5-1.214v-7.429h-13.714v27.429h22.857zM6.857 14.286q0-0.25 0.161-0.411t0.411-0.161h12.571q0.25 0 0.411 0.161t0.161 0.411v1.143q0 0.25-0.161 0.411t-0.411 0.161h-12.571q-0.25 0-0.411-0.161t-0.161-0.411v-1.143zM20 18.286q0.25 0 0.411 0.161t0.161 0.411v1.143q0 0.25-0.161 0.411t-0.411 0.161h-12.571q-0.25 0-0.411-0.161t-0.161-0.411v-1.143q0-0.25 0.161-0.411t0.411-0.161h12.571zM20 22.857q0.25 0 0.411 0.161t0.161 0.411v1.143q0 0.25-0.161 0.411t-0.411 0.161h-12.571q-0.25 0-0.411-0.161t-0.161-0.411v-1.143q0-0.25 0.161-0.411t0.411-0.161h12.571z"></path>
 </symbol>
-<symbol id="icon-folder" viewBox="0 0 30 32">
+<symbol id="icon-directory" viewBox="0 0 30 32">
 <path d="M27.429 23.429v-12.571q0-0.714-0.5-1.214t-1.214-0.5h-12.571q-0.714 0-1.214-0.5t-0.5-1.214v-1.143q0-0.714-0.5-1.214t-1.214-0.5h-5.714q-0.714 0-1.214 0.5t-0.5 1.214v17.143q0 0.714 0.5 1.214t1.214 0.5h21.714q0.714 0 1.214-0.5t0.5-1.214zM29.714 10.857v12.571q0 1.643-1.179 2.821t-2.821 1.179h-21.714q-1.643 0-2.821-1.179t-1.179-2.821v-17.143q0-1.643 1.179-2.821t2.821-1.179h5.714q1.643 0 2.821 1.179t1.179 2.821v0.571h12q1.643 0 2.821 1.179t1.179 2.821z"></path>
 </symbol>
 </defs>
@@ -44,6 +43,18 @@
                       <h1 class="header-title"><a href="/en/">Skill Library</a></h1>
                       <div class="header-title-bottom-border"></div>
                     </div>
+                </div>
+                <div id="header-mobile-menu-icon" class="header-mobile-menu-icon">
+                  <a href="javascript:void(0);" onclick="headerMobileMenu()">
+                    <svg id="header-mobile-menu-icon-open" class="icon icon-menu header-mobile-menu-icon-open"><use xlink:href="#icon-menu"></use></svg>
+                    <svg id="header-mobile-menu-icon-close" class="icon icon-close header-mobile-menu-icon-close"><use xlink:href="#icon-close"></use></svg>
+                  </a>
+                </div>
+                <div id="header-mobile-search-icon" class="header-mobile-search-icon" style="display: none; visibility: hidden;">
+                  <a href="javascript:void(0);" onclick="headerMobileSearch()">
+                    <svg id="header-mobile-search-icon-open" class="icon icon-search header-mobile-search-icon-open"><use xlink:href="#icon-search"></use></svg>
+                    <svg id="header-mobile-search-icon-close" class="icon icon-close header-mobile-search-icon-close"><use xlink:href="#icon-close"></use></svg>
+                  </a>
                 </div>
                 <div id="header-search-wrapper">
                   <div class="header-search-bar">
@@ -75,12 +86,6 @@
                         <li class="header-navigation-link-list"><a href="/en/catalogue/">Catalogue</a></li>
                     </div>
                 </div>
-                <div id="header-mobile-menu-icon" class="header-mobile-menu-icon">
-                  <a href="javascript:void(0);" onclick="headerMobileMenu()">
-                    <svg id="header-mobile-menu-icon-open" class="icon icon-menu header-mobile-menu-icon-open"><use xlink:href="#icon-menu"></use></svg>
-                    <svg id="header-mobile-menu-icon-close" class="icon icon-close header-mobile-menu-icon-close"><use xlink:href="#icon-close"></use></svg>
-                  </a>
-                </div>
                 <div class="header-mobile-navigation-bar">
                     <div id="header-mobile-menu" class="header-mobile-navigation-link">
                       <div class="header-mobile-navigation-link-container">
@@ -104,59 +109,41 @@
                   <form method="get" id="search-page-search-form" autocomplete="off">
                     <input type="text" name="query" id="search-page-search-input" placeholder="e.g Fish Farming">
                     <button type="submit" id="search-page-search-button"><svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg></button>
-                    
                     <div class="search-page-search-filter type">
-                      
                       <h6 class="search-filter-heading">Type</h6>
-                      
                       <div class="search-filter-type">
-                        
                         <label class="search-filter-type-directory-label" for="search-filter-type-directory" checked="true">
                           <input type="radio" name="type" id="search-filter-type-directory" class="search-type" value="directory" checked="true">Directory
                         </label><br>
-                      
                         <label class="search-filter-type-file-label" for="search-filter-type-file">
                           <input type="radio" name="type" id="search-filter-type-file" class="search-type" value="file">File
                         </label><br>
-                      
                         <label class="search-filter-type-both-label" for="search-filter-type-both">
                           <input type="radio" name="type" id="search-filter-type-both" class="search-type" value="both">Both
                         </label><br>
-                        
                       </div>
-                      
                     </div>
-                    
                     <div class="search-page-search-filter category">
-                      
                       <h6 class="search-filter-heading">Category</h6>
-                      
                       <div class="search-filter-category">
-                      
                         <label class="search-filter-category-all-label" for="search-filter-category-all" checked="true" onchange="disableCategory()">
                           <input type="radio" name="cg" id="search-filter-category-all" class="search-category-button" value="all" checked="true" onchange="disableCategory()">All
                         </label>
-                    
                         <label class="search-filter-category-custom-label" for="search-filter-category-custom" onchange="enableCategory()">
                           <input type="radio" name="cg" id="search-filter-category-custom" class="search-category-button" value="custom" onchange="enableCategory()">Custom
-                        </label><br>
-                        
+                        </label><br>    
                         <label for="search-filter-category0">
                           <input type="checkbox" name="cg0" id="search-filter-category0" class="search-category" value="Attribute Skills" checked="true" disabled>Attribute Skills
-                        </label>
-                      
+                        </label>  
                         <label for="search-filter-category1">
                           <input type="checkbox" name="cg1" id="search-filter-category1" class="search-category" value="Farming" checked="true" disabled>Farming
-                        </label>
-                      
+                        </label>  
                         <label for="search-filter-category2">
                           <input type="checkbox" name="cg2" id="search-filter-category2" class="search-category" value="Food Production" checked="true" disabled>Food Production
-                        </label>
-                      
+                        </label>  
                         <label for="search-filter-category3">
                           <input type="checkbox" name="cg3" id="search-filter-category3" class="search-category" value="Craft" checked="true" disabled>Craft
-                        </label>
-                      
+                        </label>  
                       </div>
                     </div>
                     <script>
@@ -183,7 +170,6 @@
                 </div>
               </div>
           </div>
-          
                         </div>
                 <div id="footer-2">
                   <div class="footer-2-copyright">© <a href="/en/"> Skill Library</a><span class="footer-2-notice"> | All Rights Reserved </span> <span class="footer-2-navigation-link"> |<a href="/en/">Home</a>|<a href="/en/about/">About</a>|<a href="/en/contact/">Contact</a>|</span></div> <span class="footer-2-languages"><a href="/en/search/">English</a> <a href="/fr/search/">Français</a> <a href="/ar/search/">عربي</a> <a href="/es/search/">Español</a></span>
@@ -200,30 +186,47 @@
     };
   };
 </script>
-        
         <script>
 function headerMobileMenu() {
   var x = document.getElementById("header-mobile-menu");
   if (x.style.display == "block") {
     x.style.display = "none";
     var i = document.getElementById("header-mobile-menu-icon");
-    var y = i.getElementsByTagName("i")[0];
-    var z = i.getElementsByTagName("i")[1];
+    var y = i.getElementsByTagName("svg")[0];
+    var z = i.getElementsByTagName("svg")[1];
     y.style.display = "block";
     z.style.display = "none";
   } else {
     x.style.display = "block";
     var i = document.getElementById("header-mobile-menu-icon");
-    var y = i.getElementsByTagName("i")[0];
-    var z = i.getElementsByTagName("i")[1];
+    var y = i.getElementsByTagName("svg")[0];
+    var z = i.getElementsByTagName("svg")[1];
+    y.style.display = "none";
+    z.style.display = "block"; 
+  }
+}
+</script>
+<script>
+function headerMobileSearch() {
+  var x = document.getElementById("header-search-wrapper");
+  if (x.style.display == "block") {
+    x.style.display = "none";
+    var i = document.getElementById("header-mobile-search-icon");
+    var y = i.getElementsByTagName("svg")[0];
+    var z = i.getElementsByTagName("svg")[1];
+    y.style.display = "block";
+    z.style.display = "none";
+  } else {
+    x.style.display = "block";
+    var i = document.getElementById("header-mobile-search-icon");
+    var y = i.getElementsByTagName("svg")[0];
+    var z = i.getElementsByTagName("svg")[1];
     y.style.display = "none";
     z.style.display = "block";
   }
 }
 </script>
-        
           <script src= "/assets/js/searchRecord_EN.js" ></script>
-
 <script>
 // var startTime = performance.now();
 ( function () {
@@ -237,11 +240,14 @@ function headerMobileMenu() {
       }
     }
   }
- var searchTermRaw = getQueryVariable('query');
- var searchTermSpace = searchTermRaw.replace(/\s\s\s/g,' ');
- var searchTermSpace1 = searchTermSpace.replace(/\s\s\s/g,' ');
- var searchTermSpace2 = searchTermSpace1.replace(/\s\s/g,' ');
- var searchTerm = searchTermSpace2;
+ var searchInput = getQueryVariable('query')
+ var searchTermRaw = (" " + searchInput + " ").replace(/\s+/g,' ');
+ searchTermRaw = searchTermRaw.split("");
+ searchTermRaw.pop();
+ searchTermRaw = searchTermRaw.reverse();
+ searchTermRaw.pop();
+ searchTermRaw = searchTermRaw.reverse().join("");
+ var searchTerm = searchTermRaw.normalize('NFD').replace(/([\u0300-\u036f]|[^0-9a-zA-Z\s])/g, '');
  var searchType = getQueryVariable('type');
  var searchCategory = getQueryVariable('cg');
   if (searchCategory == "custom") {
@@ -270,45 +276,29 @@ function headerMobileMenu() {
     if (searchCategoryItem) {
       document.getElementById('search-filter-category'+x+'').checked = true;
       categoryArray.push(searchCategoryItem);
+    } else if (searchCategory == "custom" && !searchCategoryItem) {
+      categoryArray.push("null");
     }
   }
+  if (searchInput) {
+    document.getElementById('search-page-search-input').setAttribute("value", searchTermRaw);
+  }
   if (searchTerm) {
-    document.getElementById('search-page-search-input').setAttribute("value", searchTerm);
-    var searchTermArray;
-    var searchTermSplit;
-    var searchTermArrayJoin;
-    searchTermArrayJoin = searchTerm;
-    searchTermSplit  = searchTerm.split("");
-    if(searchTermSplit[0] == " ") {
-      searchTermArray = searchTerm.split("").reverse();
-      searchTermArray.pop();
-      searchTermArrayJoin = searchTermArray.reverse().join().replace(/\,/g,'');
-    }
-    if(searchTermArrayJoin[searchTermArrayJoin.length - 1] == " ") {
-      searchTermArray = searchTermArrayJoin.split("");
-      searchTermArray.pop();
-      searchTermArrayJoin = searchTermArray.join().replace(/\,/g,'');
-    }
+    var searchTermRegExp = new RegExp((("\\b" + searchTerm + "").replace(/\s/g, '|\\b')), "gi");
+    var categoryArrayRegExp = new RegExp((categoryArray.toString().replace(/\,/g, '|')), "gi");
     var results = [];
-    
-    var searchTermNew = "\\b" + searchTermArrayJoin + "";
-    var searchTermReplace = searchTermNew.replace(/\s/g, '|\\b');
-    
-    var searchTermRegExp = new RegExp(searchTermReplace, "gi")
-    var categoryArrayReplace = categoryArray.toString().replace(/\,/g, '|');
-    var categoryArrayRegExp = new RegExp(categoryArrayReplace, "gi")
     for (var x = 0; x < docs.length; x++) {
-      if (searchTag.indexOf(docs[x].tag) > -1) {
+      if (searchTag.indexOf(docs[x].kind) > -1) {
         if (docs[x].category.match(categoryArrayRegExp)) {
-          var docsLabel = docs[x].label.toUpperCase();
+          var docsLabel = docs[x].label.normalize('NFD').replace(/([\u0300-\u036f]|[^0-9a-zA-Z\s])/g, '').replace(/\s+/g,' ');
           if (docsLabel.match(searchTermRegExp)) {
-            var Numerator = (docs[x].label.match(searchTermRegExp).length) * 56;
+            var Numerator = (docsLabel.match(searchTermRegExp).length) * 56;
             var Denominator = searchTerm.split(" ").length;
             var idsValue = ((Numerator + 1) / (Denominator + 1)) * 100;
             results[results.length] = {
               id: docs[x].id,
               ids: idsValue,
-              tag: docs[x].tag,
+              kind: docs[x].kind,
               category: docs[x].category,
               icon: docs[x].icon,
               title2: docs[x].title2,
@@ -325,28 +315,35 @@ function headerMobileMenu() {
     var searchResults = document.getElementById('levels-page-card-container');
     if (resultArray.length != 0) {
       if (resultArray.length == 1) {
-      var appendString = '<p class="results-length"> ' + resultArray.length + ' match found</p>';
+      var appendString = '<p class="results-length">' + resultArray.length + ' result found</p>';
       } else {
-      var appendString = '<p class="results-length"> ' + resultArray.length + ' matches found</p>';
+      var appendString = '<p class="results-length">' + resultArray.length + ' results found</p>';
       }
     for (var i = 0 ; i < resultArray.length; i ++) {
     var item = resultArray[i];
         if (item.title2.length <= 19) {
-           appendString += '<div class="levels-page-card levels-page-card-three-columns" onclick="location.href=\'' + item.url +'/\';"><div class="levels-page-card-icon"><a href=" ' +item.url + '/"><svg class = " ' + item.icon + ' icon"><use xlink:href="#' + item.icon + '"></use></svg></a></div><div class="levels-page-card-description"><h3 class="levels-page-card-title"><a href= " '+ item.url + '/">' + item.title2 + '</a></h3><sub class="levels-page-card-sub"><i>' + item.sub_title.substring(0,32) + '</i></sub><p>' + item.excerpt.substring(0,77) + '...</p></div></div>';
+          if (item.kind == "directory") {
+            appendString += '<div class="levels-page-card levels-page-card-three-columns directory" onclick="location.href=\'' + item.url +'/\';"><div class="levels-page-card-icon"><a href=" ' +item.url + '/"><svg class = " ' + item.icon + ' icon"><use xlink:href="#' + item.icon + '"></use></svg></a></div><div class="levels-page-card-description"><h3 class="levels-page-card-title"><a href= " '+ item.url + '/">' + item.title2 + '</a></h3><sub class="levels-page-card-sub"><i>' + item.sub_title.substring(0,32) + '</i></sub><p>' + item.excerpt.substring(0,77) + '...</p></div></div>';
+          } else if (item.kind == "file") {
+            appendString += '<div class="levels-page-card levels-page-card-three-columns file"><div class="levels-page-card-file" onclick="location.href=\'' + item.url +'/\';"><div class="levels-page-card-icon"><a href=" ' +item.url + '/"><svg class = " ' + item.icon + ' icon"><use xlink:href="#' + item.icon + '"></use></svg></a></div><div class="levels-page-card-description"><h3 class="levels-page-card-title"><a href= " '+ item.url + '/">' + item.title2 + '</a></h3><sub class="levels-page-card-sub"><i>' + item.sub_title.substring(0,32) + '</i></sub><p>' + item.excerpt.substring(0,77) + '...</p></div></div></div>';
+          }
         } else {
-        appendString += '<div class="levels-page-card levels-page-card-three-columns" onclick="location.href=\'' + item.url +'/\';"><div class="levels-page-card-icon"><a href=" ' +item.url + '/"><svg class = " ' + item.icon + ' icon"><use xlink:href="#' + item.icon + '"></use></svg></a></div><div class="levels-page-card-description"><h3 class="levels-page-card-title"><a href= " '+ item.url + '/">' + item.title2.substring(0,19) + '...</a></h3><sub class="levels-page-card-sub"><i>' + item.sub_title.substring(0,32) + '</i></sub><p>' + item.excerpt.substring(0,77) + '...</p></div></div>';
+          if (item.kind == "directory") {
+            appendString += '<div class="levels-page-card levels-page-card-three-columns directory" onclick="location.href=\'' + item.url +'/\';"><div class="levels-page-card-icon"><a href=" ' +item.url + '/"><svg class = " ' + item.icon + ' icon"><use xlink:href="#' + item.icon + '"></use></svg></a></div><div class="levels-page-card-description"><h3 class="levels-page-card-title"><a href= " '+ item.url + '/">' + item.title2.substring(0,19) + '...</a></h3><sub class="levels-page-card-sub"><i>' + item.sub_title.substring(0,32) + '</i></sub><p>' + item.excerpt.substring(0,77) + '...</p></div></div>';
+          } else if (item.kind == "file") {
+            appendString += '<div class="levels-page-card levels-page-card-three-columns file"><div class="levels-page-card-file" onclick="location.href=\'' + item.url +'/\';"><div class="levels-page-card-icon"><a href=" ' +item.url + '/"><svg class = " ' + item.icon + ' icon"><use xlink:href="#' + item.icon + '"></use></svg></a></div><div class="levels-page-card-description"><h3 class="levels-page-card-title"><a href= " '+ item.url + '/">' + item.title2.substring(0,19) + '...</a></h3><sub class="levels-page-card-sub"><i>' + item.sub_title.substring(0,32) + '</i></sub><p>' + item.excerpt.substring(0,77) + '...</p></div></div></div>';
+          }
         } 
       }
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<p class="results-length">No match found</p>';
+      searchResults.innerHTML = '<p class="results-length">No result found</p>';
     }
   }
 })();
 // var endTime = performance.now();
 // alert('Query took ' + (endTime - startTime) + 'ms');
 </script>
-        
      </div>
     </body>
 </html>

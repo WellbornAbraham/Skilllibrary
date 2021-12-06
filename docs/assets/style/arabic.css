@@ -1,7 +1,7 @@
 /* Arabic Default */
 :root {
-  --serif-font: 'Noto Sans Arabic', sans-serif;
-  --sans-serif-font: 'Noto Sans Arabic', sans-serif;
+  --serif-font: 'Noto Sans Arabic', 'Noto Sans', sans-serif;
+  --sans-serif-font: 'Noto Sans Arabic', 'Noto Sans', sans-serif;
   --left: right;
   --right: left;
   --size-1px: calc(1px + 2px);

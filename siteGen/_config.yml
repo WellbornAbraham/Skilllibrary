@@ -78,8 +78,9 @@ build_pretranslate_files: false     #requires datafile_childless.yml
 
 # What files and folders should be processed
 include:
-  - _headers
-
+  # - _headers
+  - .nojekyll
+  
 # What files and folders shouldn't be processed
 exclude:
   #- _en/resources/

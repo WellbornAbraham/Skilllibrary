@@ -5,8 +5,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Coffee Farming - Skill Library</title>
       <link rel="stylesheet" href="/assets/style/latin.css">
-      <link rel="stylesheet" href="/assets/style/main.css">
-      <link rel="stylesheet" href="/assets/style/fonts.css">
+      <link rel="stylesheet" href="/assets/style/skilllibrary.css">
       
     </head>
     <body>
@@ -110,7 +109,7 @@
                 </div>
                         </div>
                 <div id="footer-2">
-                  <div class="footer-2-copyright">© <a href="/en/"> Skill Library</a><span class="footer-2-notice"> | All Rights Reserved </span> <span class="footer-2-navigation-link"> |<a href="/en/">Home</a>|<a href="/en/about/">About</a>|<a href="/en/contact/">Contact</a>|</span></div> <span class="footer-2-languages"><a href="/en/resources/farming/stimulant-crop/coffee/">English</a> <a href="/fr/resources/farming/stimulant-crop/coffee/">Français</a> <a href="/ar/resources/farming/stimulant-crop/coffee/">عربي</a> <a href="/es/resources/farming/stimulant-crop/coffee/">Español</a></span>
+                  <div class="footer-2-copyright">© <a href="/en/"> Skill Library</a><span class="footer-2-notice"> | All Rights Reserved </span> <span class="footer-2-navigation-link"> |<a href="/en/">Home</a>|<a href="/en/about/">About</a>|<a href="/en/contact/">Contact</a>|</span></div> <span class="footer-2-languages"><a href="/en/resources/farming/stimulant-crop/coffee/">English</a> <a href="/fr/resources/farming/stimulant-crop/coffee/">Français</a> <a href="/ar/resources/farming/stimulant-crop/coffee/">العربية</a> <a href="/es/resources/farming/stimulant-crop/coffee/">Español</a></span>
                 </div>
 
 <script>
@@ -143,8 +142,7 @@ function headerMobileMenu() {
     z.style.display = "block"; 
   }
 }
-</script>
-<script>
+
 function headerMobileSearch() {
   var x = document.getElementById("header-search-wrapper");
   if (x.style.display == "block") {
@@ -164,11 +162,13 @@ function headerMobileSearch() {
   }
 }
 
-window.onresize = function (){
-  var x = document.getElementById("header-mobile-search-icon");
-  if (x.style.display == "none") {
-  var y = document.getElementById("header-search-wrapper");
-  y.style.display == "block";
+window.onresize = function displaySearchBar() {
+  var w = document.getElementById("header-mobile-search-icon").getElementsByTagName("svg")[0];
+  var x = document.getElementById("header-search-wrapper");
+  if (window.innerWidth > "767" && x.style.display == "none") {
+    x.style.display = "block";
+  } else if (window.innerWidth <= "767" && w.style.display == "block" && x.style.display == "block") {
+    x.style.display = "none";
   }
 }
 </script>

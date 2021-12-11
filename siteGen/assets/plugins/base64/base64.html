@@ -1,0 +1,16 @@
+<script>
+function base64convert (files) {
+  console.clear()
+  const reader = new FileReader()
+  reader.onload = (e) => {
+    console.log(e.target.result);
+    alert(e.target.result);
+    document.write(e.target.result);
+  }
+  reader.readAsDataURL(files[0])
+}
+</script>
+
+<input type="file" onchange="base64convert(this.files)">
+
+

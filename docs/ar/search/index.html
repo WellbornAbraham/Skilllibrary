@@ -5,8 +5,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>البحث - مكتبة مهارة</title>
       <link rel="stylesheet" href="/assets/style/arabic.css">
-      <link rel="stylesheet" href="/assets/style/main.css">
-      <link rel="stylesheet" href="/assets/style/fonts.css">
+      <link rel="stylesheet" href="/assets/style/skilllibrary.css">
       
     </head>
     <body>
@@ -82,7 +81,7 @@
                 <div class="header-navigation-bar">
                     <div class="header-navigation-link">
                         <li class="header-navigation-link-list"><a href="/ar/">الصفحة الرئيسية</a></li>
-                        <li class="header-navigation-link-list"><a href="/ar/resources/">موارد</a></li>
+                        <li class="header-navigation-link-list"><a href="/ar/resources/">الموارد</a></li>
                         <li class="header-navigation-link-list"><a href="/ar/catalogue/">فهرس</a></li>
                     </div>
                 </div>
@@ -90,7 +89,7 @@
                     <div id="header-mobile-menu" class="header-mobile-navigation-link">
                       <div class="header-mobile-navigation-link-container">
                         <a href="/ar/">الصفحة الرئيسية</a></li>
-                        <a href="/ar/resources/">موارد</a></li>
+                        <a href="/ar/resources/">الموارد</a></li>
                         <a href="/ar/catalogue/">فهرس</a></li>
                       </div>
                     </div>
@@ -107,13 +106,13 @@
                 </div>
                 <div class="search-page-search-container">
                   <form method="get" id="search-page-search-form" autocomplete="off">
-                    <input type="text" name="query" id="search-page-search-input" placeholder="على سبيل المثال تربية الأسماك">
+                    <input type="text" name="query" id="search-page-search-input" placeholder="مثلا تربية الأسماك">
                     <button type="submit" id="search-page-search-button"><svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg></button>
                     <div class="search-page-search-filter type">
-                      <h6 class="search-filter-heading">نوع</h6>
+                      <h6 class="search-filter-heading">النوع</h6>
                       <div class="search-filter-type">
                         <label class="search-filter-type-directory-label" for="search-filter-type-directory" checked="true">
-                          <input type="radio" name="type" id="search-filter-type-directory" class="search-type" value="directory" checked="true">المجموعة
+                          <input type="radio" name="type" id="search-filter-type-directory" class="search-type" value="directory" checked="true">مجلد
                         </label><br>
                         <label class="search-filter-type-file-label" for="search-filter-type-file">
                           <input type="radio" name="type" id="search-filter-type-file" class="search-type" value="file">ملف
@@ -127,10 +126,10 @@
                       <h6 class="search-filter-heading">الفئة</h6>
                       <div class="search-filter-category">
                         <label class="search-filter-category-all-label" for="search-filter-category-all" checked="true" onchange="disableCategory()">
-                          <input type="radio" name="cg" id="search-filter-category-all" class="search-category-button" value="all" checked="true" onchange="disableCategory()">كل شيء
+                          <input type="radio" name="cg" id="search-filter-category-all" class="search-category-button" value="all" checked="true" onchange="disableCategory()">الكل
                         </label>
                         <label class="search-filter-category-custom-label" for="search-filter-category-custom" onchange="enableCategory()">
-                          <input type="radio" name="cg" id="search-filter-category-custom" class="search-category-button" value="custom" onchange="enableCategory()">اختر
+                          <input type="radio" name="cg" id="search-filter-category-custom" class="search-category-button" value="custom" onchange="enableCategory()">تخصيص
                         </label><br>    
                         <label for="search-filter-category0">
                           <input type="checkbox" name="cg0" id="search-filter-category0" class="search-category" value="مهارات السمة" checked="true" disabled>مهارات السمة
@@ -172,7 +171,7 @@
           </div>
                         </div>
                 <div id="footer-2">
-                  <div class="footer-2-copyright"><a href="/ar/"> مكتبة مهارة</a><span class="footer-2-notice"> | كل الحقوق محفوظة </span> <span class="footer-2-navigation-link"> |<a href="/ar/">الصفحة الرئيسية</a>|<a href="/ar/about/">عن</a>|<a href="/ar/contact/">اتصل</a></span></div> <span class="footer-2-languages"><a href="/en/search/">English</a> <a href="/fr/search/">Français</a> <a href="/ar/search/">عربي</a> <a href="/es/search/">Español</a></span>
+                  <div class="footer-2-copyright"><a href="/ar/"> مكتبة مهارة</a><span class="footer-2-notice"> | جميع الحقوق محفوظة </span> <span class="footer-2-navigation-link"> |<a href="/ar/">الصفحة الرئيسية</a>|<a href="/ar/about/">عن الشركة</a>|<a href="/ar/contact/">اتصل</a></span></div> <span class="footer-2-languages"><a href="/en/search/">English</a> <a href="/fr/search/">Français</a> <a href="/ar/search/">العربية</a> <a href="/es/search/">Español</a></span>
                 </div>
 
 <script>
@@ -205,8 +204,7 @@ function headerMobileMenu() {
     z.style.display = "block"; 
   }
 }
-</script>
-<script>
+
 function headerMobileSearch() {
   var x = document.getElementById("header-search-wrapper");
   if (x.style.display == "block") {
@@ -226,11 +224,13 @@ function headerMobileSearch() {
   }
 }
 
-window.onresize = function (){
-  var x = document.getElementById("header-mobile-search-icon");
-  if (x.style.display == "none") {
-  var y = document.getElementById("header-search-wrapper");
-  y.style.display == "block";
+window.onresize = function displaySearchBar() {
+  var w = document.getElementById("header-mobile-search-icon").getElementsByTagName("svg")[0];
+  var x = document.getElementById("header-search-wrapper");
+  if (window.innerWidth > "767" && x.style.display == "none") {
+    x.style.display = "block";
+  } else if (window.innerWidth <= "767" && w.style.display == "block" && x.style.display == "block") {
+    x.style.display = "none";
   }
 }
 </script>
@@ -345,7 +345,7 @@ window.onresize = function (){
       }
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<p class="results-length">لا توجد نتيجة</p>';
+      searchResults.innerHTML = '<p class="results-length">لم يتم العثور على نتيجة</p>';
     }
   }
 })();

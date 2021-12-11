@@ -5,8 +5,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>Búsqueda - Habilidad Biblioteca</title>
       <link rel="stylesheet" href="/assets/style/latin.css">
-      <link rel="stylesheet" href="/assets/style/main.css">
-      <link rel="stylesheet" href="/assets/style/fonts.css">
+      <link rel="stylesheet" href="/assets/style/skilllibrary.css">
       
     </head>
     <body>
@@ -113,10 +112,10 @@
                       <h6 class="search-filter-heading">Tipo</h6>
                       <div class="search-filter-type">
                         <label class="search-filter-type-directory-label" for="search-filter-type-directory" checked="true">
-                          <input type="radio" name="type" id="search-filter-type-directory" class="search-type" value="directory" checked="true">Directorio
+                          <input type="radio" name="type" id="search-filter-type-directory" class="search-type" value="directory" checked="true">Carpeta
                         </label><br>
                         <label class="search-filter-type-file-label" for="search-filter-type-file">
-                          <input type="radio" name="type" id="search-filter-type-file" class="search-type" value="file">fichero
+                          <input type="radio" name="type" id="search-filter-type-file" class="search-type" value="file">File
                         </label><br>
                         <label class="search-filter-type-both-label" for="search-filter-type-both">
                           <input type="radio" name="type" id="search-filter-type-both" class="search-type" value="both">Ambos
@@ -127,10 +126,10 @@
                       <h6 class="search-filter-heading">Categoría</h6>
                       <div class="search-filter-category">
                         <label class="search-filter-category-all-label" for="search-filter-category-all" checked="true" onchange="disableCategory()">
-                          <input type="radio" name="cg" id="search-filter-category-all" class="search-category-button" value="all" checked="true" onchange="disableCategory()">Todos
+                          <input type="radio" name="cg" id="search-filter-category-all" class="search-category-button" value="all" checked="true" onchange="disableCategory()">Todo
                         </label>
                         <label class="search-filter-category-custom-label" for="search-filter-category-custom" onchange="enableCategory()">
-                          <input type="radio" name="cg" id="search-filter-category-custom" class="search-category-button" value="custom" onchange="enableCategory()">Personalizado
+                          <input type="radio" name="cg" id="search-filter-category-custom" class="search-category-button" value="custom" onchange="enableCategory()">Personalizar
                         </label><br>    
                         <label for="search-filter-category0">
                           <input type="checkbox" name="cg0" id="search-filter-category0" class="search-category" value="Habilidades de atributo" checked="true" disabled>Habilidades de atributo
@@ -172,7 +171,7 @@
           </div>
                         </div>
                 <div id="footer-2">
-                  <div class="footer-2-copyright">© <a href="/es/"> Habilidad Biblioteca</a><span class="footer-2-notice"> | Reservados todos los derechos </span> <span class="footer-2-navigation-link"> |<a href="/es/">Hogar</a>|<a href="/es/about/">Sobre</a>|<a href="/es/contact/">Contacto</a>|</span></div> <span class="footer-2-languages"><a href="/en/search/">English</a> <a href="/fr/search/">Français</a> <a href="/ar/search/">عربي</a> <a href="/es/search/">Español</a></span>
+                  <div class="footer-2-copyright">© <a href="/es/"> Habilidad Biblioteca</a><span class="footer-2-notice"> | Todos los Derechos Reservados </span> <span class="footer-2-navigation-link"> |<a href="/es/">Hogar</a>|<a href="/es/about/">Sobre</a>|<a href="/es/contact/">Contacto</a>|</span></div> <span class="footer-2-languages"><a href="/en/search/">English</a> <a href="/fr/search/">Français</a> <a href="/ar/search/">العربية</a> <a href="/es/search/">Español</a></span>
                 </div>
 
 <script>
@@ -205,8 +204,7 @@ function headerMobileMenu() {
     z.style.display = "block"; 
   }
 }
-</script>
-<script>
+
 function headerMobileSearch() {
   var x = document.getElementById("header-search-wrapper");
   if (x.style.display == "block") {
@@ -226,11 +224,13 @@ function headerMobileSearch() {
   }
 }
 
-window.onresize = function (){
-  var x = document.getElementById("header-mobile-search-icon");
-  if (x.style.display == "none") {
-  var y = document.getElementById("header-search-wrapper");
-  y.style.display == "block";
+window.onresize = function displaySearchBar() {
+  var w = document.getElementById("header-mobile-search-icon").getElementsByTagName("svg")[0];
+  var x = document.getElementById("header-search-wrapper");
+  if (window.innerWidth > "767" && x.style.display == "none") {
+    x.style.display = "block";
+  } else if (window.innerWidth <= "767" && w.style.display == "block" && x.style.display == "block") {
+    x.style.display = "none";
   }
 }
 </script>

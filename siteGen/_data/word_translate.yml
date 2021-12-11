@@ -2,28 +2,28 @@
 
 english: English
 french: Français
-arabic: عربي
+arabic: العربية
 spanish: Español
 
 
 # A
 about:
   en: About
-  fr: Sur
-  ar: عن
+  fr: Propos
+  ar: عن الشركة
   es: Sobre
   
 All:
   en: All
-  fr: Tous les
-  ar: كل شيء
-  es: Todos
+  fr: Tout
+  ar: الكل
+  es: Todo
   
 all_rights_reserved:
   en: All Rights Reserved
-  fr: Tous les droits sont réservés
-  ar: كل الحقوق محفوظة
-  es: Reservados todos los derechos
+  fr: Tous Droits Réservés
+  ar: جميع الحقوق محفوظة
+  es: Todos los Derechos Reservados
   
 attribute_skill:
   en: Attribute Skill
@@ -33,14 +33,14 @@ attribute_skill:
   
 attribute_skills:
   en: Attribute Skills
-  fr: Compétences d'attribut
-  ar: مهارات السمة
-  es: Habilidades de atributo
+  fr: Compétences d'Attribut
+  ar: السمة المهارات
+  es: Habilidades de Atributo
 
 # B
 Both:
   en: Both
-  fr: Les deux
+  fr: Tous deux
   ar: كلاهما
   es: Ambos
 
@@ -65,33 +65,33 @@ CHRIST:
   
 contact:
   en: Contact
-  fr: Contact
+  fr: Contacter
   ar: اتصل
   es: Contacto
 
 Currently_Undergoing_Development:
   en: Currently Undergoing Development
-  fr: Actuellement Subissant Développement
-  ar: ويجري حاليا التقدم المحرز في التنمية
-  es: Actualmente Sometidos A Desarrollo
+  fr: En Cours De Développement
+  ar: قيد التطوير
+  es: En Desarrollo
 
 Custom:
   en: Custom
-  fr: Personnalisé
-  ar: اختر
-  es: Personalizado
+  fr: Personnaliser
+  ar: تخصيص
+  es: Personalizar
 # D
 Directory:
   en: Directory
-  fr: Annuaire
-  ar: المجموعة
-  es: Directorio
+  fr: Dossier
+  ar: مجلد
+  es: Carpeta
 
 # E
 eg:
   en: e.g
-  fr: ex.
-  ar: على سبيل المثال
+  fr: Par ex.
+  ar: مثلا
   es: p.ej
 
 # F
@@ -99,7 +99,7 @@ File:
   en: File
   fr: Fichier
   ar: ملف
-  es: fichero
+  es: File
 
 First_of_its_Kind:
   en: First of its Kind
@@ -109,7 +109,7 @@ First_of_its_Kind:
 
 fish_farming:
   en: Fish Farming
-  fr: Aquaculture
+  fr: pisciculture
   ar: تربية الأسماك
   es: Piscicultura
 
@@ -163,14 +163,14 @@ Kindly_check_back_later:
 No_result_found:
   en: No result found
   fr: Aucun résultat trouvé
-  ar: لا توجد نتيجة
+  ar: لم يتم العثور على نتيجة
   es: Ningún resultado encontrado
   
 Not_Available:
   en: Not Available
   fr: Pas disponible
   ar: غير متوفر
-  es: No disponible
+  es: No están Disponible
 
 # O
 
@@ -187,7 +187,7 @@ page_not_found:
 resources:
   en: Resources
   fr: Ressources
-  ar: موارد
+  ar: الموارد
   es: Recursos
   
 result_found:
@@ -213,19 +213,19 @@ search:
 The_First_of_its_Kind:
   en: The First of its Kind
   fr: Le Premier du Genre
-  ar: أول من نوعه 
+  ar: الأول من نوعه
   es: El Primero de su Tipo
 
 the_requested_page_could_not_be_found:
   en: The requested page could not be found
-  fr: La page demandée n'a pu être trouvée
+  fr: La page demandée n'a pas pu être trouvée
   ar: الصفحة المطلوبة لا يمكن العثور عليه
-  es: "La página solicitada no pudo ser encontrada"
+  es: "La página solicitada no se ha podido encontrar"
   
 Type:
   en: Type
   fr: Type
-  ar: نوع
+  ar: النوع
   es: Tipo
 
 # U

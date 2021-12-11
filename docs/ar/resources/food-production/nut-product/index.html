@@ -5,8 +5,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>إنتاج منتجات الجوز - مكتبة مهارة</title>
       <link rel="stylesheet" href="/assets/style/arabic.css">
-      <link rel="stylesheet" href="/assets/style/main.css">
-      <link rel="stylesheet" href="/assets/style/fonts.css">
+      <link rel="stylesheet" href="/assets/style/skilllibrary.css">
       
     </head>
     <body>
@@ -82,7 +81,7 @@
                 <div class="header-navigation-bar">
                     <div class="header-navigation-link">
                         <li class="header-navigation-link-list"><a href="/ar/">الصفحة الرئيسية</a></li>
-                        <li class="header-navigation-link-list"><a href="/ar/resources/">موارد</a></li>
+                        <li class="header-navigation-link-list"><a href="/ar/resources/">الموارد</a></li>
                         <li class="header-navigation-link-list"><a href="/ar/catalogue/">فهرس</a></li>
                     </div>
                 </div>
@@ -90,7 +89,7 @@
                     <div id="header-mobile-menu" class="header-mobile-navigation-link">
                       <div class="header-mobile-navigation-link-container">
                         <a href="/ar/">الصفحة الرئيسية</a></li>
-                        <a href="/ar/resources/">موارد</a></li>
+                        <a href="/ar/resources/">الموارد</a></li>
                         <a href="/ar/catalogue/">فهرس</a></li>
                       </div>
                     </div>
@@ -100,7 +99,7 @@
           <div id="levels-page-title-container">
         			<h1>إنتاج منتجات الجوز <span class="levels-page-title-sub"></span></h1>
               <div class="levels-page-title-navigation">
-                <span><a href="/ar/"><svg class=" icon icon-home"><use xlink:href="#icon-home"></use></svg></a> | <a href="/ar/resources/">موارد</a> | <a href="/ar/resources/food-production/">إنتاج الغذاء</a> | <a href="/ar/resources/food-production/nut-product/">منتج الجوز</a></span>
+                <span><a href="/ar/"><svg class=" icon icon-home"><use xlink:href="#icon-home"></use></svg></a> | <a href="/ar/resources/">الموارد</a> | <a href="/ar/resources/food-production/">إنتاج الغذاء</a> | <a href="/ar/resources/food-production/nut-product/">منتج الجوز</a></span>
               </div>
         	</div>
         	<div id="levels-page-card-container">
@@ -110,7 +109,7 @@
                 </div>
                         </div>
                 <div id="footer-2">
-                  <div class="footer-2-copyright"><a href="/ar/"> مكتبة مهارة</a><span class="footer-2-notice"> | كل الحقوق محفوظة </span> <span class="footer-2-navigation-link"> |<a href="/ar/">الصفحة الرئيسية</a>|<a href="/ar/about/">عن</a>|<a href="/ar/contact/">اتصل</a></span></div> <span class="footer-2-languages"><a href="/en/resources/food-production/nut-product/">English</a> <a href="/fr/resources/food-production/nut-product/">Français</a> <a href="/ar/resources/food-production/nut-product/">عربي</a> <a href="/es/resources/food-production/nut-product/">Español</a></span>
+                  <div class="footer-2-copyright"><a href="/ar/"> مكتبة مهارة</a><span class="footer-2-notice"> | جميع الحقوق محفوظة </span> <span class="footer-2-navigation-link"> |<a href="/ar/">الصفحة الرئيسية</a>|<a href="/ar/about/">عن الشركة</a>|<a href="/ar/contact/">اتصل</a></span></div> <span class="footer-2-languages"><a href="/en/resources/food-production/nut-product/">English</a> <a href="/fr/resources/food-production/nut-product/">Français</a> <a href="/ar/resources/food-production/nut-product/">العربية</a> <a href="/es/resources/food-production/nut-product/">Español</a></span>
                 </div>
 
 <script>
@@ -143,8 +142,7 @@ function headerMobileMenu() {
     z.style.display = "block"; 
   }
 }
-</script>
-<script>
+
 function headerMobileSearch() {
   var x = document.getElementById("header-search-wrapper");
   if (x.style.display == "block") {
@@ -164,11 +162,13 @@ function headerMobileSearch() {
   }
 }
 
-window.onresize = function (){
-  var x = document.getElementById("header-mobile-search-icon");
-  if (x.style.display == "none") {
-  var y = document.getElementById("header-search-wrapper");
-  y.style.display == "block";
+window.onresize = function displaySearchBar() {
+  var w = document.getElementById("header-mobile-search-icon").getElementsByTagName("svg")[0];
+  var x = document.getElementById("header-search-wrapper");
+  if (window.innerWidth > "767" && x.style.display == "none") {
+    x.style.display = "block";
+  } else if (window.innerWidth <= "767" && w.style.display == "block" && x.style.display == "block") {
+    x.style.display = "none";
   }
 }
 </script>

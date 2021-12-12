@@ -75,15 +75,6 @@ searchRecord_FR: true     #requires datafile_childless.yml
 
 # PRE-TRANSLATE files output control
 build_pretranslate_files: false     #requires datafile_childless.yml
-
-# What files and folders should be processed
-include:
-  # - _headers
-  - .nojekyll
-  - buildfiles/js/searchRecord_AR.js
-  - buildfiles/js/searchRecord_EN.js
-  - buildfiles/js/searchRecord_ES.js
-  - buildfiles/js/searchRecord_FR.js
   
 # What files and folders shouldn't be processed
 exclude:
@@ -93,12 +84,34 @@ exclude:
   #- _es/resources/
   #
   - buildfiles/
+  #
+  - buildfiles/js/
+  #
+  - buildfiles/json/
+  #
+  - buildfiles/pre_translate/
+  #
+  - buildfiles/sh/
+  #
+  - buildfiles/txt/
+  #
+  - buildfiles/yml/
   - assets/buildtranslate/
   - assets/buildtranslate/pre_translate/   # Do not undo exclude
   - assets/plugins/
   - assets/pdfs/
   - assets/txt/
   - assets/fonts/playground/
+  - website_temp/
+
+# What files and folders should be processed
+include:
+  # - _headers
+  - .nojekyll
+  - buildfiles/js/searchRecord_AR
+  - buildfiles/js/searchRecord_EN
+  - buildfiles/js/searchRecord_ES
+  - buildfiles/js/searchRecord_FR
   
 # Configuration settings
 

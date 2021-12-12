@@ -80,6 +80,10 @@ build_pretranslate_files: false     #requires datafile_childless.yml
 include:
   # - _headers
   - .nojekyll
+  - buildfiles/js/searchRecord_AR.js
+  - buildfiles/js/searchRecord_EN.js
+  - buildfiles/js/searchRecord_ES.js
+  - buildfiles/js/searchRecord_FR.js
   
 # What files and folders shouldn't be processed
 exclude:
@@ -88,6 +92,8 @@ exclude:
   #- _ar/resources/
   #- _es/resources/
   #
+  - buildfiles/
+  - assets/buildtranslate/
   - assets/buildtranslate/pre_translate/   # Do not undo exclude
   - assets/plugins/
   - assets/pdfs/

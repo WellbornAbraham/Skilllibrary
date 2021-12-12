@@ -134,6 +134,8 @@ a { text-decoration: none; }
 
 .header-navigation-link-list a:hover { text-decoration: none; border-bottom: 1px solid var(--secondary-color); }
 
+@media only screen and (max-width: 880px) { .header-navigation-link-list { padding: 4px 7px; } }
+
 @media only screen and (max-width: 767px) { .header-navigation-bar { display: none; } .header-title-container { float: none; } .header-search-bar { float: var(--left); width: 100%; margin-top: 8px; } .header-navigation-bar { display: none; } }
 
 /*==== Header Mobile Search and Menu ====*/
@@ -463,6 +465,8 @@ p.footer-1-copyright a:hover { text-decoration: underline; color: #ccc; }
 .footer-2-navigation-link a, .footer-2-navigation-link a:link, .footer-2-navigation-link a:visited { color: #999; text-decoration: none; font-size: var(--size-12px); padding: 4px 4px; }
 
 .footer-2-navigation-link a:hover { text-decoration: underline; color: #fff; }
+
+@media only screen and (min-width: 768px) and (max-width: 880px) { .footer-2-copyright { padding: 22px 0px 18px 10px; } .footer-2-languages { padding: 22px 10px 18px 0px; } .footer-2-languages a, .footer-2-languages a:link, .footer-2-navigation-link a:visited { padding: 4px 2px; } }
 
 @media only screen and (max-width: 767px) { .footer-2-languages, .footer-2-copyright { display: block; float: left; width: 100%; margin: auto; text-align: center; } .footer-2-copyright { padding: 22px 0 0 0; } .footer-2-languages { padding: 18px 0px; } }
 

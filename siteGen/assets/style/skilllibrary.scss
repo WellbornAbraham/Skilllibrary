@@ -420,6 +420,12 @@ a {
 	border-bottom: 1px solid var(--secondary-color);
 }
 
+@media only screen and (max-width: 880px) {
+  .header-navigation-link-list {
+    padding: 4px 7px;
+    }
+}
+
 @media only screen and (max-width: 767px){
   .header-navigation-bar {
     display: none;
@@ -1599,6 +1605,22 @@ p.footer-1-copyright a:hover{
 .footer-2-navigation-link a:hover {
 	text-decoration: underline;
 	color: #fff;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 880px) {
+  .footer-2-copyright {
+    padding: 22px 0px 18px 10px;
+  }
+  
+  .footer-2-languages {
+    padding: 22px 10px 18px 0px;
+  }
+  
+  .footer-2-languages a,
+  .footer-2-languages a:link,
+  .footer-2-navigation-link a:visited {
+    padding: 4px 2px;
+  }
 }
 
 @media only screen and (max-width: 767px) {
